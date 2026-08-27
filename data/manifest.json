@@ -554,6 +554,402 @@
      }
     ]
    },
+   "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "mulher-e-homens-muito-bem-vestido-elegan",
+   "mvd": "MVD#123",
+   "titulo": "Before the Lights Come Up",
+   "quando": "2026-08-27T03:06:02-03:00",
+   "solicitacao": "mulher e homens muito bem vestido elegante , o clipe muito movimento ativo, ela uma mulher corte de cabelo curto moderno , alta linda, sensual. um show de encantar todos ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums` -idioma=en-US",
+   "genero": "soft rock / balada folk-rock orquestral ao vivo",
+   "bpm": 72,
+   "tom": "Si maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "emotivo",
+    "melancólico",
+    "romântico",
+    "intimista que cresce para o salão inteiro"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/capa.png",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/publicacao/capa-yt.jpg",
+     "rotulo": "YouTube 16:9"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "likes": 0,
+     "capa": null,
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/clipe-1.mp4"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/faixa-1.mp3",
+     "aprovada": true
+    }
+   ],
+   "bytes": 222008739,
+   "doc": "# Before the Lights Come Up\n\n**slug:** `mulher-e-homens-muito-bem-vestido-elegan`  ·  **solicitação:** mulher e homens muito bem vestido elegante , o clipe muito movimento ativo, ela uma mulher corte de cabelo curto moderno , alta linda, sensual. um show de encantar todos ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums` -idioma=en-US\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/mulher-e-homens-muito-bem-vestido-elegan`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Before the Lights Come Up\n\n\n\n**slug:** `mulher-e-homens-muito-bem-vestido-elegan`  ·  **criado:** 2026-08-27T03:06:02-03:00\n\n**solicitação:** mulher e homens muito bem vestido elegante , o clipe muito movimento ativo, ela uma mulher corte de cabelo curto moderno , alta linda, sensual. um show de encantar todos ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums` -idioma=en-US\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** soft rock / balada folk-rock orquestral ao vivo  ·  **BPM:** 72  ·  **Tom:** Si maior\n- **Mood:** emotivo, melancólico, romântico, intimista que cresce para o salão inteiro\n- **Instrumentação:** violão dedilhado, piano de cauda, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals\n- **Voz:** \"dueto: voz masculina principal, barítono rouco e quente, fraseado conversado; voz feminina convidada, aérea e límpida, entra no verso 2 e responde no refrão; harmonias em terças no refrão final; sem autotune, sem melisma\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional live soft rock ballad with orchestral folk-rock arrangement, 72 bpm, B major. Raspy warm male baritone lead voice, conversational phrasing, answered by an airy clear female duet partner who enters on the second verse; both voices join in close harmony on the chorus. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft round bass, tender alto saxophone solo before the final chorus. Intimate and heartfelt, building slowly to a soaring final chorus with full orchestra and backing vocals, ending with warm concert-hall applause and cheering. Live recording feel, lead vocals upfront with hall reverb, subtle audience ambience.\n\n**Estrutura:** intro instrumental (8s) · verso 1 (voz masculina) (28s) · verso 2 (voz feminina) (28s) · refrão em dueto (26s) · verso 3 (trocando frases) (22s) · refrão 2 (22s) · solo de sax (12s) · refrão final (26s) · desfecho e aplausos (8s)\n\n**Letra** (origem: `gerada`, en-US):\n\n```\n[Intro - fingerpicked acoustic guitar, soft strings]\n\n[Verse 1 - raspy male voice]\nChampagne going flat on a silver tray\nThe band's playing soft and the room's turning grey\nYou crossed the floor like you already knew\nEvery tired old song was written for you\n\n[Verse 2 - airy female voice]\nI've heard every promise a man can make\nThey shine like the chandelier, then they break\nBut your hand's a little unsteady tonight\nAnd I like a man who's afraid of the light\n\n[Chorus - duet, close harmony]\nSo hold me once before the lights come up\nBefore the last note fades, before the glasses stop\nDon't say forever, say tonight's enough\nJust hold me once before the lights come up\n\n[Verse 3 - trading lines]\n(He) The orchestra's tired, the strings are worn thin\n(She) The doorman is yawning, the taxis pull in\n(He) I'll walk you out slow like the night's still young\n(Both) And pretend that the ending's not already begun\n\n[Chorus - duet, strings swell]\nSo hold me once before the lights come up\nBefore the last note fades, before the glasses stop\nDon't say forever, say tonight's enough\nJust hold me once before the lights come up\n\n[Alto saxophone solo]\n\n[Final Chorus - duet, full orchestra, backing vocals]\nHold me once before the lights come up\nBefore the last note fades, before the glasses stop\nDon't say forever, say tonight's enough\nJust hold me once before the lights come up\nBefore the lights come up\n\n[Outro - strings fade, warm applause and cheering]\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0A0A0A, #1E3FA0, #E8B98A, #FFC46B, #7A4FBF\n- **Params:** `{}`\n\n**Conceito:** Ela de costas no alto da escadaria azul do salão, cabeça virada em perfil olhando para fora do quadro (para o palco que não vemos). Olhar escolhido: FORA DE QUADRO, de costas — a capa promete a entrada dela no show, não o canto. Vestido preto acetinado de costas abertas, luz âmbar na pele, contraluz azul, silhueta desfocada do homem de smoking esperando lá embaixo. Título entra na base, sobre o degradê escuro.\n\n**Prompt (EN):**\n\n> Square cinematic portrait, centered: a tall elegant woman with a sleek short cropped modern haircut, wearing a fitted black satin evening gown with an open back, seen from behind standing at the top of a wide staircase edged with cobalt-blue LED light inside a grand concert hall, her head turned in profile looking off-frame toward an unseen stage, warm amber key light glowing on her shoulder blade and cheekbone, deep blue rim light tracing the short hair and the gown, far below a soft out-of-focus silhouette of a man in a midnight-blue tuxedo waiting beside a vintage microphone stand, gold columns and crystal chandeliers softly blurred, faint violet haze, shallow depth of field, palette of near-black, cobalt blue, amber skin, gold highlights and violet haze, dark empty area at the bottom for a title, photographic, film grain, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, extra limbs, deformed hands, long hair, face turned to camera, cartoon, illustration, oversaturated\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** Faixa pronta com 194 s; seções recalibradas pela onda: intro 0–8, verso 1 8–36, verso 2 36–64, refrão em dueto 64–90, verso 3 90–114, refrão 2 114–138, solo de sax 138–152, refrão final 152–182, desfecho e aplausos 182–194. Ritmo médio-ativo mantido: ~14 cortes/min na média (46 planos em 194 s), ancorado no registro de concerto medido a 72 bpm e empurrado para cima só nos refrões, porque o pedido exige movimento ativo: refrões a ~19–20 cortes/min, versos respirando a ~9/min, intro e desfecho segurando o plano (5 s). O NÚCLEO da faixa (162–174 s, medido na onda) cai no meio do refrão final: é ali que entra o melhor plano do clipe — o abraço dos dois num só microfone (plano 38, 4 s) — seguido do trecho mais picado (arcos, órbita rápida, telão, todos a 3 s); esse bloco 162–174 é o que vira Short. Cortes seguem frases musicais, não beats — exceto nos refrões, onde o corte cai no beat. Transições só as medidas: dissolve/crossfade entre planos de verso, corte seco nos refrões, fade-in do preto na abertura, uma dupla exposição de rostos na entrada do dueto e um slow motion na entrada do solo de sax. O telão do palco espelha os closes. Nenhum speedramp além disso.\n- **Params:** `{}`\n- **Shots:** 46  ·  **Duração total:** 194.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro instrumental | 5s | geral, estático, fade-in do preto | Do preto surge o grande salão: orquestra de smoking sentada, escadaria de LED azul ao fundo, colunas douradas, plateia em silhueta no primeiro plano. Ninguém no microfone ainda. |\n| 2 | intro instrumental | 3s | detalhe, dolly-in lento | Dedos dedilhando as cordas do violão, enquadrado tão fechado que só as pontas dos dedos e as cordas aparecem. |\n| 3 | verso 1 (voz masculina) | 7s | médio, dolly-in lento | Ele no microfone vintage: smoking azul-meia-noite, lapelas de seda, cabeça levemente baixa, olhos no chão, mão apoiada no pé do microfone. Spot âmbar de cima, contraluz azul. |\n| 4 | verso 1 (voz masculina) | 6s | geral, travelling de balcão | Câmera do balcão avança sobre o salão em direção ao palco, colunas douradas emoldurando, plateia elegante iluminada pelo brilho do palco. |\n| 5 | verso 1 (voz masculina) | 8s | plano americano, handheld sutil, tilt de acompanhamento | A ENTRADA DELA: alta, cabelo curto moderno, vestido preto acetinado de costas abertas, surge no alto da escadaria azul e desce devagar, olhando para o palco. É o motivo de continuar assistindo. |\n| 6 | verso 1 (voz masculina) | 7s | close de perfil, estático | Perfil dele contra o contraluz azul, olhos indo até ela, maxilar tenso, pescoço marcado, microfone à frente da boca. |\n| 7 | verso 2 (voz feminina) | 6s | médio, dolly-in lento | Ela no segundo microfone: mão no pé do microfone, outra mão na clavícula, cabeça levemente inclinada para trás, olhos fechados suaves, luz âmbar na pele, azul no vestido. |\n| 8 | verso 2 (voz feminina) | 7s | travelling lateral | Câmera desliza ao longo da seção de cordas: arcos subindo e descendo em uníssono, músicos de smoking, partituras iluminadas. |\n| 9 | verso 2 (voz feminina) | 5s | detalhe, estático baixo | A barra do vestido acetinado e o salto alto no piso do palco, enquadrado tão fechado que só o sapato e a barra aparecem; reflexo azul do LED no piso. |\n| 10 | verso 2 (voz feminina) | 6s | dois planos, geral estático | Os dois em microfones separados, com distância entre eles; ele vira o corpo na direção dela; plateia em silhueta. |\n| 11 | verso 2 (voz feminina) | 4s | close dos olhos para cima, estático | Os olhos dela, enquadrados dos olhos para cima, desviando de lado na direção dele; âmbar na pele, azul no cabelo curto. |\n| 12 | refrão em dueto | 4s | geral, grua descendo | Pico de luz: o palco inteiro, orquestra em crescendo, os dois no centro, feixes âmbar e azul cruzando, plateia iluminada. |\n| 13 | refrão em dueto | 3s | close, dupla exposição por dissolve | Entrada do dueto: rosto dele (dos olhos para cima, perfil contra a luz) se sobrepõe ao dela em dupla exposição, âmbar sobre azul. |\n| 14 | refrão em dueto | 3s | médio, handheld | Os dois num só microfone, testas quase encostadas, a mão dela na lapela dele. |\n| 15 | refrão em dueto | 3.5s | detalhe, estático | Vassouras varrendo a caixa da bateria, enquadrado fechado só nas vassouras e na pele da caixa. |\n| 16 | refrão em dueto | 3s | contra-plongée, estático | O telão atrás do palco espelha o close dos dois no microfone, gigante sobre a orquestra. |\n| 17 | refrão em dueto | 3s | médio, estático | Plateia: casal elegante na primeira fila, ela de vestido esmeralda, ele de smoking, rostos iluminados pelo brilho do palco, mãos dadas. |\n| 18 | refrão em dueto | 3.5s | travelling orbital | Câmera orbita os dois cantores no microfone, feixes de luz cruzando atrás. |\n| 19 | refrão em dueto | 3s | close de costas, estático | As costas abertas do vestido dela, a mão dele apoiada na base das costas; enquadrado fechado nas costas e na mão. |\n| 20 | verso 3 (trocando frases) | 6s | médio, dolly-out lento | Ele se afasta do microfone um passo, mãos nos bolsos, olhando o chão; a luz esquenta e diminui. A orquestra cansa. |\n| 21 | verso 3 (trocando frases) | 5s | geral, estático | Fora do salão: o foyer com portas de latão, silhueta de um porteiro de libré, luzes de táxi borradas na rua molhada. |\n| 22 | verso 3 (trocando frases) | 7s | médio, pan de acompanhamento | Ela atravessa o palco até ele, o vestido pegando a luz a cada passo, câmera panorâmica acompanhando. |\n| 23 | verso 3 (trocando frases) | 6s | detalhe, estático | As mãos se encontram: a mão dele toma a dela, enquadrado fechado só nas mãos e nos punhos, brilho da abotoadura. |\n| 24 | refrão 2 | 4s | geral, pan | Luz sobe de novo: pan pelo palco inteiro, orquestra em pé de arco, os dois no centro, telão aceso. |\n| 25 | refrão 2 | 3s | close, estático | Ela: cabeça inclinada para trás, olhos fechados com força, garganta tensionada, microfone abaixo do quadro, contraluz azul. |\n| 26 | refrão 2 | 3s | close, estático | Ele: maxilar travado, olhos fechados, veia saltada no pescoço, mão fechada no pé do microfone, microfone à frente da boca. |\n| 27 | refrão 2 | 3s | médio, dolly-in | Trio de backing vocals em vestidos pretos, balançando juntas atrás dos microfones, luz violeta. |\n| 28 | refrão 2 | 3s | detalhe, estático | Teclas do piano de cauda e mãos tocando, enquadrado fechado só nas mãos e nas teclas. |\n| 29 | refrão 2 | 4s | steadicam pelo corredor | Steadicam avança pelo corredor da plateia em direção ao palco, cabeças elegantes virando, palco em chamas de luz ao fundo. |\n| 30 | refrão 2 | 4s | dois planos, travelling | Eles esquecem os microfones e dão um giro lento de dança, o spot acompanha. |\n| 31 | solo de sax | 5s | médio, dolly-in, slow motion | O saxofonista de smoking branco entra no spot em câmera lenta, latão do sax alto brilhando âmbar, vapor no feixe de luz. |\n| 32 | solo de sax | 3s | detalhe, estático | A campana e as chaves do sax alto com os dedos nas chaves, enquadrado fechado só nas chaves e nos dedos. |\n| 33 | solo de sax | 3s | geral, estático | O saxofonista sozinho no spot âmbar, corpo curvado sobre o instrumento; os dois cantores em silhueta na borda da luz, de mãos dadas, ouvindo; orquestra parada atrás. |\n| 34 | solo de sax | 3s | close, estático | Ela apoia a cabeça no ombro dele enquanto ouvem o sax, olhos brilhando na direção do saxofonista, luz âmbar no rosto. |\n| 35 | refrão final | 3.5s | geral, grua subindo | O maior plano: grua sobe sobre o salão inteiro, todas as luzes acesas, plateia de pé, orquestra a pleno. |\n| 36 | refrão final | 3s | close de perfil, estático | Perfil dele contra a luz, cabeça jogada para trás, pescoço e garganta tensionados, microfone abaixo do quadro. |\n| 37 | refrão final | 3s | close dos olhos para cima, estático | Ela, dos olhos para cima, olhando para as luzes lá em cima, uma lágrima descendo pela bochecha. |\n| 38 | refrão final | 4s | médio, handheld — NÚCLEO (162–174 s), melhor plano do clipe | Os dois abraçados num só microfone, o braço dela em volta do pescoço dele, queixo dela sobre o ombro dele, microfone entre os rostos. Abre o núcleo da faixa; é a imagem do Short. |\n| 39 | refrão final | 3s | detalhe, estático — núcleo | Arcos das cordas no ápice, enquadrado fechado só nos arcos e nas cordas, movimento amplo. |\n| 40 | refrão final | 3s | travelling orbital rápido — núcleo | Órbita rápida em volta do casal abraçado, luzes riscando o quadro. |\n| 41 | refrão final | 3s | geral, estático — núcleo | O telão mostra o abraço dos dois, gigante; silhuetas da plateia com as mãos erguidas em primeiro plano. |\n| 42 | refrão final | 3.5s | médio, estático | O casal da primeira fila agora de pé, aplaudindo; ela de vestido esmeralda enxuga o canto do olho. |\n| 43 | refrão final | 4s | plano americano, travelling lateral | Último verso do refrão: ele a conduz num giro amplo de dança, o vestido acetinado abrindo na luz âmbar, e os dois terminam de mãos dadas erguidas para a plateia, olhos fechados, cabeças inclinadas para trás. |\n| 44 | desfecho e aplausos | 5s | geral, estático | A luz da casa sobe quente: a orquestra se levanta, os dois de mãos dadas fazem a reverência, a plateia aplaude de pé. |\n| 45 | desfecho e aplausos | 4s | plano americano, estático, de costas | Eco da capa: ela sobe a escadaria azul de costas, vestido de costas abertas, e no alto vira a cabeça em perfil para olhar o palco uma última vez; ele fica embaixo, desfocado, ao lado do microfone. |\n| 46 | desfecho e aplausos | 3s | detalhe, dolly-out, fade-out | O microfone vazio no último spot; a luz apaga devagar até o preto. Eco da abertura. |\n\n**Prompts (EN):**\n\n1. Fade in from black to a wide static shot of a grand art-deco concert hall stage, a seated orchestra in black tuxedos, a wide staircase edged with cobalt-blue LED light at the back, gold columns and crystal chandeliers, two vintage microphone stands empty at center under warm amber spotlights, audience heads in silhouette in the foreground, soft haze, cinematic broadcast look, film grain, 16:9\n2. Extreme close-up of fingertips plucking the nylon strings of an acoustic guitar, framed so tightly that only the fingertips and the strings over the sound hole are visible, warm amber side light, cobalt-blue reflection on the varnish, slow dolly in, shallow depth of field, cinematic, film grain, 16:9\n3. Medium shot, slow dolly in: a handsome man in a midnight-blue tuxedo with silk lapels stands at a vintage chrome microphone on a stand, head slightly bowed, eyes lowered, one hand resting on the microphone stand, the microphone in front of the lower half of his face, a single warm amber spotlight from above, deep cobalt-blue backlight rimming his shoulders, orchestra softly blurred behind, concert broadcast look, film grain, 16:9\n4. Wide shot from the balcony gliding forward over an elegant concert hall audience toward the stage, gold columns framing the view, chandeliers above, the stage glowing amber and cobalt blue in the distance with a small figure in a tuxedo at the microphone, smooth travelling camera, haze, cinematic, film grain, 16:9\n5. Three-quarter shot, subtle handheld: a tall stunning woman with a sleek short cropped modern haircut in a fitted black satin evening gown appears at the top of a staircase edged with cobalt-blue LED light and descends slowly and confidently, one hand trailing the rail, her gaze fixed toward the stage, warm amber light catching her cheekbone and collarbone, blue light tracing the satin, camera tilting to follow her, cinematic, film grain, 16:9\n6. Close-up profile of a man in a midnight-blue tuxedo against a deep cobalt-blue backlight, the vintage microphone in front of the lower half of his face, his eyes turning toward something off-frame, jaw set, neck tendons visible, warm amber light on the bridge of his nose and brow, static camera, shallow depth of field, cinematic, film grain, 16:9\n7. Medium shot, slow dolly in: a tall woman with a sleek short cropped haircut in a fitted black satin gown stands at a second vintage microphone, one hand on the microphone stand, the other resting on her collarbone, head tilted slightly back, eyes softly closed, the microphone in front of the lower half of her face, warm amber spotlight on her skin, cobalt-blue rim light on the satin, orchestra strings blurred behind, cinematic, film grain, 16:9\n8. Lateral tracking shot gliding along an orchestra string section, violinists in black tuxedos drawing their bows in unison, small lamps on the music stands, warm amber and cobalt-blue stage light crossing the polished wood, shallow depth of field, cinematic, film grain, 16:9\n9. Low static extreme close-up of a black satin gown hem pooling over a stiletto heel on a glossy stage floor, framed so tightly that only the shoe and the hem are visible, cobalt-blue LED reflection on the floor, warm amber highlight on the satin, shallow depth of field, cinematic, film grain, 16:9\n10. Static wide two-shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown at two separate vintage microphones with several meters between them, he turns his body toward her, warm amber spotlights on each, cobalt-blue LED staircase glowing behind, audience silhouettes in the foreground, haze, concert broadcast look, film grain, 16:9\n11. Extreme close-up framed from the eyes upward of a woman with a short cropped haircut, her eyes glancing sideways toward something off-frame, warm amber light on the skin, cobalt-blue rim light on the short hair, static camera, shallow depth of field, cinematic, film grain, 16:9\n12. Wide crane shot descending toward the stage as the lights peak: full orchestra in tuxedos, a man in a midnight-blue tuxedo and a woman in a black satin gown at center, crossing amber and cobalt-blue light beams, a large LED screen behind glowing, haze, elegant audience lit by the stage glow, concert broadcast look, film grain, 16:9\n13. Double exposure close-up: the upper face of a man in profile against cobalt-blue backlight, eyes closed, dissolving over the upper face of a woman with a short cropped haircut lit warm amber, both framed from the eyes upward, soft overlay, dreamy, cinematic, film grain, 16:9\n14. Handheld medium shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown share one vintage microphone, foreheads almost touching, her hand on his silk lapel, the microphone between their faces, warm amber spotlight, cobalt-blue rim light, orchestra blurred behind, cinematic, film grain, 16:9\n15. Extreme close-up of drum brushes sweeping across a snare drum head, framed so tightly that only the brushes and the drum head are visible, warm amber light, cobalt-blue reflection on the chrome rim, static camera, shallow depth of field, cinematic, film grain, 16:9\n16. Low-angle static shot of a huge LED screen above a concert stage showing an amber-lit close-up of a man and a woman sharing a vintage microphone, the real orchestra small beneath it, cobalt-blue light beams, haze, concert broadcast look, film grain, 16:9\n17. Medium static shot of an elegant couple in the front row of a concert hall, a woman in an emerald evening gown and a man in a black tuxedo, holding hands, faces lit by the warm amber glow of the stage, cobalt-blue light on the seats behind them, shallow depth of field, cinematic, film grain, 16:9\n18. Orbiting camera circling a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown standing close at one vintage microphone, warm amber and cobalt-blue light beams sweeping behind them, orchestra blurred, haze, cinematic, film grain, 16:9\n19. Close-up of the open back of a black satin gown, a man's hand in a tuxedo cuff resting at the lower back, framed so tightly that only the back, the satin and the hand are visible, warm amber light on the skin, cobalt-blue rim on the satin, static camera, cinematic, film grain, 16:9\n20. Medium shot, slow dolly out: a man in a midnight-blue tuxedo steps back from a vintage microphone, hands in his pockets, eyes on the floor, the warm amber spotlight dimming, cobalt-blue backlight, orchestra players lowering their bows behind him, haze, cinematic, film grain, 16:9\n21. Wide static shot of a grand theatre foyer with polished brass doors, a doorman in a long coat standing in silhouette, blurred yellow taxi lights on a wet street outside, warm interior lamps, cool blue night outside, cinematic, film grain, 16:9\n22. Medium shot panning to follow a tall woman with a short cropped haircut in a black satin gown as she walks slowly across the stage toward a man in a midnight-blue tuxedo, the satin catching warm amber light with each step, cobalt-blue LED staircase behind, orchestra blurred, cinematic, film grain, 16:9\n23. Extreme close-up of a man's hand taking a woman's hand, framed so tightly that only the two hands, a tuxedo cuff with a glinting cufflink and a black satin sleeve edge are visible, warm amber light, cobalt-blue rim, static camera, shallow depth of field, cinematic, film grain, 16:9\n24. Wide panning shot across a concert stage as the lights surge: full orchestra in tuxedos, a man in a midnight-blue tuxedo and a woman in a black satin gown at center holding hands, amber and cobalt-blue beams, a large LED screen glowing behind, haze, concert broadcast look, film grain, 16:9\n25. Close-up of a woman with a short cropped haircut, head tilted back, eyes squeezed shut, throat and neck visibly tensed, framed so the microphone sits just below the frame, warm amber light on the face, cobalt-blue rim on the hair and shoulders, static camera, shallow depth of field, cinematic, film grain, 16:9\n26. Close-up of a man in a midnight-blue tuxedo, jaw clenched, eyes shut, a vein standing out on his neck, fist tight around the microphone stand, the vintage microphone in front of the lower half of his face, warm amber key light, cobalt-blue backlight, static camera, cinematic, film grain, 16:9\n27. Medium shot, dolly in: a trio of backing vocalists in elegant black gowns swaying gently in unison behind three microphones, microphones in front of the lower half of their faces, violet and cobalt-blue stage light, warm amber highlights, cinematic, film grain, 16:9\n28. Extreme close-up of hands playing a grand piano, framed so tightly that only the hands and the keys are visible, warm amber light on the ivory keys, cobalt-blue reflection on the black lacquer, static camera, shallow depth of field, cinematic, film grain, 16:9\n29. Steadicam gliding down the center aisle of a concert hall toward the stage, elegantly dressed audience members turning their heads, the stage ablaze with amber and cobalt-blue light in the distance, two singers small at center, haze, cinematic, film grain, 16:9\n30. Travelling two-shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown turn slowly together in a dance step at center stage, the microphones left behind, a warm amber follow spot on them, cobalt-blue LED staircase glowing behind, cinematic, film grain, 16:9\n31. Medium shot, slow dolly in, slow motion: a saxophonist in a white dinner jacket steps into a warm amber spotlight holding an alto saxophone, brass gleaming, head bowed over the instrument, cobalt-blue backlight, haze drifting through the beam, orchestra blurred behind, cinematic, film grain, 16:9\n32. Extreme close-up of fingers pressing the mother-of-pearl keys of an alto saxophone, framed so tightly that only the fingers and the brass keys are visible, warm amber light, cobalt-blue reflections on the brass, static camera, shallow depth of field, cinematic, film grain, 16:9\n33. Wide static shot of a saxophonist in a white dinner jacket alone in a warm amber spotlight, body curved over an alto saxophone, brass gleaming, at the edge of the light the silhouettes of a man in a tuxedo and a tall woman in a satin gown standing still and holding hands, orchestra motionless in cobalt-blue light behind, haze, concert broadcast look, film grain, 16:9\n34. Close-up of a woman with a short cropped haircut resting her head against the shoulder of a man's midnight-blue tuxedo, her eyes bright and looking off-frame, warm amber light on her cheek, cobalt-blue rim on the hair, static camera, shallow depth of field, cinematic, film grain, 16:9\n35. Wide crane shot rising over a packed concert hall at the peak of the show: every light on, amber and cobalt-blue beams, the audience on its feet, full orchestra playing, two singers at center stage under the big glowing LED screen, chandeliers and gold columns, haze, concert broadcast look, film grain, 16:9\n36. Close-up profile of a man in a midnight-blue tuxedo against a blazing cobalt-blue backlight, head thrown back, neck and throat tensed, the microphone sitting just below the frame, warm amber rim on the brow, static camera, shallow depth of field, cinematic, film grain, 16:9\n37. Extreme close-up framed from the eyes upward of a woman with a short cropped haircut looking up toward the stage lights, a single tear on her cheek catching warm amber light, cobalt-blue rim on the hair, static camera, shallow depth of field, cinematic, film grain, 16:9\n38. Handheld medium shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown embrace at one vintage microphone, her arm around his neck, her chin resting on his shoulder, the microphone between their faces, warm amber spotlight, cobalt-blue rim, confetti-free stage, orchestra blurred, cinematic, film grain, 16:9\n39. Extreme close-up of violin bows sweeping in wide strokes across strings at the peak of a crescendo, framed so tightly that only the bows and the strings are visible, warm amber light, cobalt-blue reflections on the varnish, static camera, shallow depth of field, cinematic, film grain, 16:9\n40. Fast orbiting camera circling a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown holding each other at center stage, amber and cobalt-blue lights streaking across the frame, haze, orchestra blurred, cinematic, film grain, 16:9\n41. Wide static shot: a huge LED screen above the stage showing an amber-lit embrace of a man in a tuxedo and a woman in a satin gown, the real stage glowing beneath it, silhouettes of an elegant audience with raised hands in the foreground, cobalt-blue and violet beams, haze, concert broadcast look, film grain, 16:9\n42. Medium static shot of an elegant couple standing in the front row of a concert hall, a woman in an emerald evening gown wiping the corner of her eye, a man in a black tuxedo applauding, faces lit by the warm amber stage glow, cobalt-blue light behind, shallow depth of field, cinematic, film grain, 16:9\n43. Three-quarter travelling shot: a man in a midnight-blue tuxedo leads a tall woman with a short cropped haircut in a black satin gown through a wide dance turn at center stage, the satin flaring in warm amber light, ending with their joined hands raised toward the audience, both with eyes closed and heads tilted back, cobalt-blue and violet beams sweeping behind, full orchestra blurred, haze, cinematic, film grain, 16:9\n44. Wide static shot as the warm house lights come up in a grand concert hall: the orchestra standing, a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown holding hands and bowing at center stage, the audience on its feet applauding, chandeliers and gold columns glowing, soft haze, concert broadcast look, film grain, 16:9\n45. Static three-quarter shot from behind: a tall woman with a short cropped haircut in a black satin gown with an open back climbs a staircase edged with cobalt-blue LED light, pausing at the top and turning her head in profile to look back toward the stage, warm amber light on her shoulder blade and cheekbone, blue rim on the satin, far below a soft out-of-focus man in a midnight-blue tuxedo standing beside a vintage microphone stand, applauding audience silhouettes, haze, cinematic, film grain, 16:9\n46. Slow dolly out from a vintage chrome microphone on its stand alone in a single warm amber spotlight on an emptied stage, cobalt-blue LED staircase dimming behind, haze settling, the spotlight fading slowly to black, cinematic, film grain, 16:9\n\n## Publicação (YouTube)\n\n- **Título:** Before the Lights Come Up\n- **Tags:** emotivo, melancolico, romantico, violao dedilhado, piano de cauda, cordas (orquestra)\n\n**Descrição:**\n\nUma balada de salão para o fim de uma noite de gala: ele, de smoking, canta o primeiro verso sozinho; ela desce a escadaria e responde no segundo; no refrão as duas vozes se encontram num só pedido — que a música dure só mais um pouco antes de as luzes subirem. É uma canção sobre não prometer para sempre e, ainda assim, não querer que a noite acabe.\n\nO som é soft rock orquestral ao vivo, em andamento lento: violão dedilhado, piano de cauda, cordas, bateria com vassouras, um solo de sax alto antes do último refrão e o calor de uma plateia que aplaude no final. A voz masculina é rouca e conversada; a feminina é aérea e límpida, e as duas fecham o refrão em harmonia.\n\nNo clipe, tudo acontece num grande salão de concertos: colunas douradas, lustres, uma escadaria iluminada em azul e uma orquestra inteira de smoking. A câmera orbita os dois cantores, desliza pelas cordas, entra pela plateia e sobe de grua no clímax, enquanto o telão espelha os closes. Luz âmbar na pele, azul no fundo, e um abraço no último refrão que a plateia assiste de pé.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Emotional live soft rock ballad with orchestral folk-rock arrangement, 72 bpm, B major. Raspy warm male baritone lead voice, conversational phrasing, answered by an airy clear female duet partner who enters on the second verse; both voices join in close harmony on the chorus. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft round bass, tender alto saxophone solo before the final chorus. Intimate and heartfelt, building slowly to a soaring final chorus with full orchestra and backing vocals, ending with warm concert-hall applause and cheering. Live recording feel, lead vocals upfront with hall reverb, subtle audience ambience.",
+    "imagem": "Square cinematic portrait, centered: a tall elegant woman with a sleek short cropped modern haircut, wearing a fitted black satin evening gown with an open back, seen from behind standing at the top of a wide staircase edged with cobalt-blue LED light inside a grand concert hall, her head turned in profile looking off-frame toward an unseen stage, warm amber key light glowing on her shoulder blade and cheekbone, deep blue rim light tracing the short hair and the gown, far below a soft out-of-focus silhouette of a man in a midnight-blue tuxedo waiting beside a vintage microphone stand, gold columns and crystal chandeliers softly blurred, faint violet haze, shallow depth of field, palette of near-black, cobalt blue, amber skin, gold highlights and violet haze, dark empty area at the bottom for a title, photographic, film grain, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, extra limbs, deformed hands, long hair, face turned to camera, cartoon, illustration, oversaturated",
+    "conceito": "Ela de costas no alto da escadaria azul do salão, cabeça virada em perfil olhando para fora do quadro (para o palco que não vemos). Olhar escolhido: FORA DE QUADRO, de costas — a capa promete a entrada dela no show, não o canto. Vestido preto acetinado de costas abertas, luz âmbar na pele, contraluz azul, silhueta desfocada do homem de smoking esperando lá embaixo. Título entra na base, sobre o degradê escuro.",
+    "tagline": "uma dança antes das luzes subirem",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro instrumental",
+      "camera": "geral, estático, fade-in do preto",
+      "prompt": "Fade in from black to a wide static shot of a grand art-deco concert hall stage, a seated orchestra in black tuxedos, a wide staircase edged with cobalt-blue LED light at the back, gold columns and crystal chandeliers, two vintage microphone stands empty at center under warm amber spotlights, audience heads in silhouette in the foreground, soft haze, cinematic broadcast look, film grain, 16:9",
+      "alt": "Fade in from black to a wide static shot of an empty art-deco concert hall stage, rows of empty music stands, a wide staircase edged with cobalt-blue LED light, gold columns and crystal chandeliers, two vintage microphone stands under warm amber spotlights, soft haze drifting through the light beams, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 2,
+      "secao": "intro instrumental",
+      "camera": "detalhe, dolly-in lento",
+      "prompt": "Extreme close-up of fingertips plucking the nylon strings of an acoustic guitar, framed so tightly that only the fingertips and the strings over the sound hole are visible, warm amber side light, cobalt-blue reflection on the varnish, slow dolly in, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of acoustic guitar strings vibrating over the sound hole, no hands visible, warm amber side light and cobalt-blue reflection on the varnish, slow dolly in, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1 (voz masculina)",
+      "camera": "médio, dolly-in lento",
+      "prompt": "Medium shot, slow dolly in: a handsome man in a midnight-blue tuxedo with silk lapels stands at a vintage chrome microphone on a stand, head slightly bowed, eyes lowered, one hand resting on the microphone stand, the microphone in front of the lower half of his face, a single warm amber spotlight from above, deep cobalt-blue backlight rimming his shoulders, orchestra softly blurred behind, concert broadcast look, film grain, 16:9",
+      "alt": "Medium shot, slow dolly in: a vintage chrome microphone on a stand at center stage under a single warm amber spotlight, a midnight-blue tuxedo jacket draped over a chair beside it, deep cobalt-blue backlight, orchestra music stands softly blurred behind, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1 (voz masculina)",
+      "camera": "geral, travelling de balcão",
+      "prompt": "Wide shot from the balcony gliding forward over an elegant concert hall audience toward the stage, gold columns framing the view, chandeliers above, the stage glowing amber and cobalt blue in the distance with a small figure in a tuxedo at the microphone, smooth travelling camera, haze, cinematic, film grain, 16:9",
+      "alt": "Wide shot from the balcony gliding forward over an elegant concert hall toward the stage, gold columns framing the view, chandeliers above, the stage glowing amber and cobalt blue in the distance, rows of seats seen from behind, smooth travelling camera, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1 (voz masculina)",
+      "camera": "plano americano, handheld sutil, tilt de acompanhamento",
+      "prompt": "Three-quarter shot, subtle handheld: a tall stunning woman with a sleek short cropped modern haircut in a fitted black satin evening gown appears at the top of a staircase edged with cobalt-blue LED light and descends slowly and confidently, one hand trailing the rail, her gaze fixed toward the stage, warm amber light catching her cheekbone and collarbone, blue light tracing the satin, camera tilting to follow her, cinematic, film grain, 16:9",
+      "alt": "Three-quarter shot, subtle handheld: a tall silhouette in a long satin gown descends a staircase edged with cobalt-blue LED light, seen from behind against the glowing stage, warm amber light on the satin, blue light on the steps, camera tilting to follow, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1 (voz masculina)",
+      "camera": "close de perfil, estático",
+      "prompt": "Close-up profile of a man in a midnight-blue tuxedo against a deep cobalt-blue backlight, the vintage microphone in front of the lower half of his face, his eyes turning toward something off-frame, jaw set, neck tendons visible, warm amber light on the bridge of his nose and brow, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Close-up of a vintage chrome microphone in profile against a deep cobalt-blue backlight, a warm amber highlight on its grille, silk tuxedo lapel softly blurred at the edge of frame, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 7,
+      "secao": "verso 2 (voz feminina)",
+      "camera": "médio, dolly-in lento",
+      "prompt": "Medium shot, slow dolly in: a tall woman with a sleek short cropped haircut in a fitted black satin gown stands at a second vintage microphone, one hand on the microphone stand, the other resting on her collarbone, head tilted slightly back, eyes softly closed, the microphone in front of the lower half of her face, warm amber spotlight on her skin, cobalt-blue rim light on the satin, orchestra strings blurred behind, cinematic, film grain, 16:9",
+      "alt": "Medium shot, slow dolly in: a vintage chrome microphone on a stand under a warm amber spotlight, a length of black satin fabric catching cobalt-blue rim light at the edge of frame, orchestra music stands softly blurred behind, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 8,
+      "secao": "verso 2 (voz feminina)",
+      "camera": "travelling lateral",
+      "prompt": "Lateral tracking shot gliding along an orchestra string section, violinists in black tuxedos drawing their bows in unison, small lamps on the music stands, warm amber and cobalt-blue stage light crossing the polished wood, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Lateral tracking shot gliding along a row of violins and cellos resting on their stands, small lamps glowing on the music stands, warm amber and cobalt-blue stage light on the polished wood, no people, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 9,
+      "secao": "verso 2 (voz feminina)",
+      "camera": "detalhe, estático baixo",
+      "prompt": "Low static extreme close-up of a black satin gown hem pooling over a stiletto heel on a glossy stage floor, framed so tightly that only the shoe and the hem are visible, cobalt-blue LED reflection on the floor, warm amber highlight on the satin, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Low static extreme close-up of black satin fabric pooling on a glossy stage floor, cobalt-blue LED reflection on the floor, warm amber highlight along the folds, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 10,
+      "secao": "verso 2 (voz feminina)",
+      "camera": "dois planos, geral estático",
+      "prompt": "Static wide two-shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown at two separate vintage microphones with several meters between them, he turns his body toward her, warm amber spotlights on each, cobalt-blue LED staircase glowing behind, audience silhouettes in the foreground, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Static wide shot of two vintage microphone stands several meters apart under two warm amber spotlights, cobalt-blue LED staircase glowing behind, audience silhouettes in the foreground, haze drifting, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 11,
+      "secao": "verso 2 (voz feminina)",
+      "camera": "close dos olhos para cima, estático",
+      "prompt": "Extreme close-up framed from the eyes upward of a woman with a short cropped haircut, her eyes glancing sideways toward something off-frame, warm amber light on the skin, cobalt-blue rim light on the short hair, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of a crystal chandelier pendant catching warm amber and cobalt-blue light, slowly turning, soft bokeh, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 12,
+      "secao": "refrão em dueto",
+      "camera": "geral, grua descendo",
+      "prompt": "Wide crane shot descending toward the stage as the lights peak: full orchestra in tuxedos, a man in a midnight-blue tuxedo and a woman in a black satin gown at center, crossing amber and cobalt-blue light beams, a large LED screen behind glowing, haze, elegant audience lit by the stage glow, concert broadcast look, film grain, 16:9",
+      "alt": "Wide crane shot descending toward a concert hall stage as the lights peak: crossing amber and cobalt-blue light beams, a large LED screen glowing with abstract warm light, orchestra music stands, haze, audience silhouettes, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 13,
+      "secao": "refrão em dueto",
+      "camera": "close, dupla exposição por dissolve",
+      "prompt": "Double exposure close-up: the upper face of a man in profile against cobalt-blue backlight, eyes closed, dissolving over the upper face of a woman with a short cropped haircut lit warm amber, both framed from the eyes upward, soft overlay, dreamy, cinematic, film grain, 16:9",
+      "alt": "Double exposure: a warm amber spotlight beam dissolving over a cobalt-blue LED staircase, haze and soft bokeh overlapping, dreamy, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 14,
+      "secao": "refrão em dueto",
+      "camera": "médio, handheld",
+      "prompt": "Handheld medium shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown share one vintage microphone, foreheads almost touching, her hand on his silk lapel, the microphone between their faces, warm amber spotlight, cobalt-blue rim light, orchestra blurred behind, cinematic, film grain, 16:9",
+      "alt": "Handheld medium shot: a woman's hand resting on the silk lapel of a midnight-blue tuxedo, framed so tightly that only the hand and the lapel are visible, warm amber spotlight, cobalt-blue rim light, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 15,
+      "secao": "refrão em dueto",
+      "camera": "detalhe, estático",
+      "prompt": "Extreme close-up of drum brushes sweeping across a snare drum head, framed so tightly that only the brushes and the drum head are visible, warm amber light, cobalt-blue reflection on the chrome rim, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of a snare drum head and chrome rim under warm amber light with cobalt-blue reflections, brushes resting on the head, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 16,
+      "secao": "refrão em dueto",
+      "camera": "contra-plongée, estático",
+      "prompt": "Low-angle static shot of a huge LED screen above a concert stage showing an amber-lit close-up of a man and a woman sharing a vintage microphone, the real orchestra small beneath it, cobalt-blue light beams, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Low-angle static shot of a huge LED screen above a concert stage glowing with a warm amber abstract gradient, the orchestra music stands small beneath it, cobalt-blue light beams, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 17,
+      "secao": "refrão em dueto",
+      "camera": "médio, estático",
+      "prompt": "Medium static shot of an elegant couple in the front row of a concert hall, a woman in an emerald evening gown and a man in a black tuxedo, holding hands, faces lit by the warm amber glow of the stage, cobalt-blue light on the seats behind them, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Medium static shot of two clasped hands resting on a velvet armrest in a concert hall, an emerald satin sleeve and a black tuxedo cuff, framed so tightly that only the hands and cuffs are visible, warm amber stage glow, cobalt-blue light behind, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 18,
+      "secao": "refrão em dueto",
+      "camera": "travelling orbital",
+      "prompt": "Orbiting camera circling a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown standing close at one vintage microphone, warm amber and cobalt-blue light beams sweeping behind them, orchestra blurred, haze, cinematic, film grain, 16:9",
+      "alt": "Orbiting camera circling a vintage chrome microphone on a stand at center stage, warm amber and cobalt-blue light beams sweeping behind it, haze, orchestra music stands blurred, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 19,
+      "secao": "refrão em dueto",
+      "camera": "close de costas, estático",
+      "prompt": "Close-up of the open back of a black satin gown, a man's hand in a tuxedo cuff resting at the lower back, framed so tightly that only the back, the satin and the hand are visible, warm amber light on the skin, cobalt-blue rim on the satin, static camera, cinematic, film grain, 16:9",
+      "alt": "Close-up of black satin fabric with a tuxedo cuff and cufflink resting against it, framed so tightly that only the satin and the cuff are visible, warm amber light, cobalt-blue rim, static camera, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 20,
+      "secao": "verso 3 (trocando frases)",
+      "camera": "médio, dolly-out lento",
+      "prompt": "Medium shot, slow dolly out: a man in a midnight-blue tuxedo steps back from a vintage microphone, hands in his pockets, eyes on the floor, the warm amber spotlight dimming, cobalt-blue backlight, orchestra players lowering their bows behind him, haze, cinematic, film grain, 16:9",
+      "alt": "Medium shot, slow dolly out: a vintage microphone on a stand as the warm amber spotlight slowly dims, cobalt-blue backlight, orchestra players' bows lowered on music stands blurred behind, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 21,
+      "secao": "verso 3 (trocando frases)",
+      "camera": "geral, estático",
+      "prompt": "Wide static shot of a grand theatre foyer with polished brass doors, a doorman in a long coat standing in silhouette, blurred yellow taxi lights on a wet street outside, warm interior lamps, cool blue night outside, cinematic, film grain, 16:9",
+      "alt": "Wide static shot of polished brass theatre doors seen from inside a warm-lit foyer, blurred yellow taxi lights on a wet street outside, no people, cool blue night beyond the glass, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 22,
+      "secao": "verso 3 (trocando frases)",
+      "camera": "médio, pan de acompanhamento",
+      "prompt": "Medium shot panning to follow a tall woman with a short cropped haircut in a black satin gown as she walks slowly across the stage toward a man in a midnight-blue tuxedo, the satin catching warm amber light with each step, cobalt-blue LED staircase behind, orchestra blurred, cinematic, film grain, 16:9",
+      "alt": "Medium shot panning across an empty stage floor as a warm amber spotlight beam slides slowly toward a vintage microphone stand, cobalt-blue LED staircase behind, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 23,
+      "secao": "verso 3 (trocando frases)",
+      "camera": "detalhe, estático",
+      "prompt": "Extreme close-up of a man's hand taking a woman's hand, framed so tightly that only the two hands, a tuxedo cuff with a glinting cufflink and a black satin sleeve edge are visible, warm amber light, cobalt-blue rim, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of a tuxedo cuff with a glinting cufflink resting beside a fold of black satin on a stage floor, warm amber light, cobalt-blue rim, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 24,
+      "secao": "refrão 2",
+      "camera": "geral, pan",
+      "prompt": "Wide panning shot across a concert stage as the lights surge: full orchestra in tuxedos, a man in a midnight-blue tuxedo and a woman in a black satin gown at center holding hands, amber and cobalt-blue beams, a large LED screen glowing behind, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Wide panning shot across a concert stage as the lights surge: amber and cobalt-blue beams sweeping over orchestra music stands, a large LED screen glowing warm behind, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 25,
+      "secao": "refrão 2",
+      "camera": "close, estático",
+      "prompt": "Close-up of a woman with a short cropped haircut, head tilted back, eyes squeezed shut, throat and neck visibly tensed, framed so the microphone sits just below the frame, warm amber light on the face, cobalt-blue rim on the hair and shoulders, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Close-up of a warm amber spotlight flaring through haze against a cobalt-blue backlit stage, soft lens halation, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 26,
+      "secao": "refrão 2",
+      "camera": "close, estático",
+      "prompt": "Close-up of a man in a midnight-blue tuxedo, jaw clenched, eyes shut, a vein standing out on his neck, fist tight around the microphone stand, the vintage microphone in front of the lower half of his face, warm amber key light, cobalt-blue backlight, static camera, cinematic, film grain, 16:9",
+      "alt": "Close-up of a fist gripping a chrome microphone stand, framed so tightly that only the hand, the tuxedo cuff and the stand are visible, warm amber key light, cobalt-blue backlight, static camera, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 27,
+      "secao": "refrão 2",
+      "camera": "médio, dolly-in",
+      "prompt": "Medium shot, dolly in: a trio of backing vocalists in elegant black gowns swaying gently in unison behind three microphones, microphones in front of the lower half of their faces, violet and cobalt-blue stage light, warm amber highlights, cinematic, film grain, 16:9",
+      "alt": "Medium shot, dolly in: three microphone stands in a row under violet and cobalt-blue stage light, warm amber highlights on the chrome, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 28,
+      "secao": "refrão 2",
+      "camera": "detalhe, estático",
+      "prompt": "Extreme close-up of hands playing a grand piano, framed so tightly that only the hands and the keys are visible, warm amber light on the ivory keys, cobalt-blue reflection on the black lacquer, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of grand piano keys under warm amber light with cobalt-blue reflections on the black lacquer, no hands, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 29,
+      "secao": "refrão 2",
+      "camera": "steadicam pelo corredor",
+      "prompt": "Steadicam gliding down the center aisle of a concert hall toward the stage, elegantly dressed audience members turning their heads, the stage ablaze with amber and cobalt-blue light in the distance, two singers small at center, haze, cinematic, film grain, 16:9",
+      "alt": "Steadicam gliding down the empty center aisle of a concert hall toward a stage ablaze with amber and cobalt-blue light, velvet seats on both sides, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "dois planos, travelling",
+      "prompt": "Travelling two-shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown turn slowly together in a dance step at center stage, the microphones left behind, a warm amber follow spot on them, cobalt-blue LED staircase glowing behind, cinematic, film grain, 16:9",
+      "alt": "Travelling shot: a warm amber follow spot circling slowly over an empty center stage, two vintage microphone stands left at the edge of the light, cobalt-blue LED staircase glowing behind, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 31,
+      "secao": "solo de sax",
+      "camera": "médio, dolly-in, slow motion",
+      "prompt": "Medium shot, slow dolly in, slow motion: a saxophonist in a white dinner jacket steps into a warm amber spotlight holding an alto saxophone, brass gleaming, head bowed over the instrument, cobalt-blue backlight, haze drifting through the beam, orchestra blurred behind, cinematic, film grain, 16:9",
+      "alt": "Medium shot, slow dolly in, slow motion: an alto saxophone resting on its stand inside a warm amber spotlight, brass gleaming, cobalt-blue backlight, haze drifting slowly through the beam, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 32,
+      "secao": "solo de sax",
+      "camera": "detalhe, estático",
+      "prompt": "Extreme close-up of fingers pressing the mother-of-pearl keys of an alto saxophone, framed so tightly that only the fingers and the brass keys are visible, warm amber light, cobalt-blue reflections on the brass, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of the brass bell and mother-of-pearl keys of an alto saxophone catching warm amber light and cobalt-blue reflections, no hands, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 33,
+      "secao": "solo de sax",
+      "camera": "geral, estático",
+      "prompt": "Wide static shot of a saxophonist in a white dinner jacket alone in a warm amber spotlight, body curved over an alto saxophone, brass gleaming, at the edge of the light the silhouettes of a man in a tuxedo and a tall woman in a satin gown standing still and holding hands, orchestra motionless in cobalt-blue light behind, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Wide static shot of a single warm amber spotlight on a concert stage with an alto saxophone gleaming on its stand, two vintage microphone stands in silhouette at the edge of the light, orchestra music stands in cobalt-blue light behind, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 34,
+      "secao": "solo de sax",
+      "camera": "close, estático",
+      "prompt": "Close-up of a woman with a short cropped haircut resting her head against the shoulder of a man's midnight-blue tuxedo, her eyes bright and looking off-frame, warm amber light on her cheek, cobalt-blue rim on the hair, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Close-up of a silk tuxedo lapel and a black satin shoulder strap side by side, framed so tightly that only the fabrics are visible, warm amber light, cobalt-blue rim, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 35,
+      "secao": "refrão final",
+      "camera": "geral, grua subindo",
+      "prompt": "Wide crane shot rising over a packed concert hall at the peak of the show: every light on, amber and cobalt-blue beams, the audience on its feet, full orchestra playing, two singers at center stage under the big glowing LED screen, chandeliers and gold columns, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Wide crane shot rising over a concert hall at the peak of a light show: amber and cobalt-blue beams sweeping, a big LED screen glowing warm above the stage, chandeliers and gold columns, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 36,
+      "secao": "refrão final",
+      "camera": "close de perfil, estático",
+      "prompt": "Close-up profile of a man in a midnight-blue tuxedo against a blazing cobalt-blue backlight, head thrown back, neck and throat tensed, the microphone sitting just below the frame, warm amber rim on the brow, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Close-up of a cobalt-blue stage light flaring through haze, a chrome microphone stand in silhouette at the edge of frame, warm amber halation, static camera, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 37,
+      "secao": "refrão final",
+      "camera": "close dos olhos para cima, estático",
+      "prompt": "Extreme close-up framed from the eyes upward of a woman with a short cropped haircut looking up toward the stage lights, a single tear on her cheek catching warm amber light, cobalt-blue rim on the hair, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of stage lights seen from below through drifting haze, warm amber and cobalt-blue lens flares, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "médio, handheld — NÚCLEO (162–174 s), melhor plano do clipe",
+      "prompt": "Handheld medium shot: a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown embrace at one vintage microphone, her arm around his neck, her chin resting on his shoulder, the microphone between their faces, warm amber spotlight, cobalt-blue rim, confetti-free stage, orchestra blurred, cinematic, film grain, 16:9",
+      "alt": "Handheld medium shot: a woman's arm in black satin resting over the shoulder of a midnight-blue tuxedo, framed so tightly that only the arm, the shoulder and the lapel are visible, warm amber spotlight, cobalt-blue rim, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "detalhe, estático — núcleo",
+      "prompt": "Extreme close-up of violin bows sweeping in wide strokes across strings at the peak of a crescendo, framed so tightly that only the bows and the strings are visible, warm amber light, cobalt-blue reflections on the varnish, static camera, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Extreme close-up of violin strings and a bow resting across them, warm amber light and cobalt-blue reflections on the varnish, rosin dust floating in the light, static camera, shallow depth of field, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "travelling orbital rápido — núcleo",
+      "prompt": "Fast orbiting camera circling a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown holding each other at center stage, amber and cobalt-blue lights streaking across the frame, haze, orchestra blurred, cinematic, film grain, 16:9",
+      "alt": "Fast orbiting camera circling a vintage microphone stand at center stage, amber and cobalt-blue lights streaking across the frame, haze, orchestra music stands blurred, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "geral, estático — núcleo",
+      "prompt": "Wide static shot: a huge LED screen above the stage showing an amber-lit embrace of a man in a tuxedo and a woman in a satin gown, the real stage glowing beneath it, silhouettes of an elegant audience with raised hands in the foreground, cobalt-blue and violet beams, haze, concert broadcast look, film grain, 16:9",
+      "alt": "Wide static shot: a huge LED screen above a stage glowing with a warm amber abstract gradient, silhouettes of raised hands in the foreground, cobalt-blue and violet beams, haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "médio, estático",
+      "prompt": "Medium static shot of an elegant couple standing in the front row of a concert hall, a woman in an emerald evening gown wiping the corner of her eye, a man in a black tuxedo applauding, faces lit by the warm amber stage glow, cobalt-blue light behind, shallow depth of field, cinematic, film grain, 16:9",
+      "alt": "Medium static shot of applauding hands rising above velvet front-row seats, an emerald satin sleeve and a black tuxedo cuff, framed so tightly that only the hands and cuffs are visible, warm amber stage glow, cobalt-blue light behind, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "plano americano, travelling lateral",
+      "prompt": "Three-quarter travelling shot: a man in a midnight-blue tuxedo leads a tall woman with a short cropped haircut in a black satin gown through a wide dance turn at center stage, the satin flaring in warm amber light, ending with their joined hands raised toward the audience, both with eyes closed and heads tilted back, cobalt-blue and violet beams sweeping behind, full orchestra blurred, haze, cinematic, film grain, 16:9",
+      "alt": "Three-quarter travelling shot: black satin fabric flaring in a wide turn under a warm amber follow spot on a concert stage, cobalt-blue and violet beams sweeping behind, orchestra music stands blurred, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 44,
+      "secao": "desfecho e aplausos",
+      "camera": "geral, estático",
+      "prompt": "Wide static shot as the warm house lights come up in a grand concert hall: the orchestra standing, a man in a midnight-blue tuxedo and a tall woman with a short cropped haircut in a black satin gown holding hands and bowing at center stage, the audience on its feet applauding, chandeliers and gold columns glowing, soft haze, concert broadcast look, film grain, 16:9",
+      "alt": "Wide static shot as the warm house lights come up in a grand concert hall: chandeliers and gold columns glowing, the stage bathed in warm amber light with two vintage microphone stands, audience silhouettes standing, soft haze, concert broadcast look, film grain, 16:9"
+     },
+     {
+      "n": 45,
+      "secao": "desfecho e aplausos",
+      "camera": "plano americano, estático, de costas",
+      "prompt": "Static three-quarter shot from behind: a tall woman with a short cropped haircut in a black satin gown with an open back climbs a staircase edged with cobalt-blue LED light, pausing at the top and turning her head in profile to look back toward the stage, warm amber light on her shoulder blade and cheekbone, blue rim on the satin, far below a soft out-of-focus man in a midnight-blue tuxedo standing beside a vintage microphone stand, applauding audience silhouettes, haze, cinematic, film grain, 16:9",
+      "alt": "Static shot from behind of a staircase edged with cobalt-blue LED light rising toward a warm amber glow, a length of black satin fabric trailing on the top step, far below a vintage microphone stand softly out of focus, haze, cinematic, film grain, 16:9"
+     },
+     {
+      "n": 46,
+      "secao": "desfecho e aplausos",
+      "camera": "detalhe, dolly-out, fade-out",
+      "prompt": "Slow dolly out from a vintage chrome microphone on its stand alone in a single warm amber spotlight on an emptied stage, cobalt-blue LED staircase dimming behind, haze settling, the spotlight fading slowly to black, cinematic, film grain, 16:9",
+      "alt": "Slow dolly out from a vintage chrome microphone on its stand alone in a single warm amber spotlight on an emptied stage, cobalt-blue LED staircase dimming behind, haze settling, the spotlight fading slowly to black, cinematic, film grain, 16:9"
+     }
+    ]
+   },
    "nuvem": "subindo",
    "likes": 0,
    "docs": []
