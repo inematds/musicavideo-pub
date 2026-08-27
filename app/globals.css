@@ -158,3 +158,7 @@ header.topo nav a.marca.pro {
   background: #000; border-color: #fff; color: #fff;
 }
 header.topo nav a.marca.pro:hover { background: #111; border-color: #fff; color: #fff; }
+header.topo nav a.marca.yt {
+  background: #ff0033; border-color: #ff0033; color: #fff;
+}
+header.topo nav a.marca.yt:hover { background: #ff2a52; border-color: #ff2a52; color: #fff; }

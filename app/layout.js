@@ -30,6 +30,12 @@ export default function RootLayout({ children }) {
             <a className="marca pro" href="https://inema.pro" target="_blank" rel="noopener">
               INEMA.PRO
             </a>
+            {/* O canal onde os clipes viram vídeo publicado. É o destino final
+                de tudo que está nesta página — sai daqui e vai para lá. */}
+            <a className="marca yt" href="https://www.youtube.com/@amoanimais2k"
+               target="_blank" rel="noopener">
+              @amoanimais2k
+            </a>
           </nav>
         </header>
         {children}
