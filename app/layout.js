@@ -21,6 +21,15 @@ export default function RootLayout({ children }) {
           <nav>
             <a href="/">clipes &amp; músicas</a>
             <a href="/analises">análises de vídeo</a>
+            {/* As duas casas. Cores da marca de cada uma, não da vitrine: o
+                INEMA.CLUB é azul, o PRO é preto com borda branca — é assim que
+                quem já conhece reconhece de longe, sem ler. */}
+            <a className="marca club" href="https://inema.club" target="_blank" rel="noopener">
+              INEMA.CLUB
+            </a>
+            <a className="marca pro" href="https://inema.pro" target="_blank" rel="noopener">
+              INEMA.PRO
+            </a>
           </nav>
         </header>
         {children}
