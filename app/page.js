@@ -24,6 +24,7 @@ function Card({ x }) {
               </span>
               <img loading="lazy" src={f.capa} alt={`capa da versão ${f.n}`} />
               <audio controls preload="none" src={f.url} />
+              <Like mvd={id} versao={f.n} rotulo={`v${f.n}`} />
             </div>
           ))}
         </div>
@@ -47,7 +48,6 @@ function Card({ x }) {
             .filter(Boolean)
             .join(' · ')}
         </div>
-        <Like mvd={x.mvd || x.slug} />
       </div>
     </div>
   );

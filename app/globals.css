@@ -140,3 +140,7 @@ button.like {
 button.like:hover { border-color: var(--amb); color: var(--txt); }
 button.like[aria-pressed="true"] { color: var(--amb); border-color: #5a4626; }
 button.like .n { font-size: 12px; }
+
+button.like .rot { font-size: 11.5px; letter-spacing: .3px; }
+.duas button.like { margin-top: 2px; padding: 3px 9px; font-size: 12px; align-self: stretch;
+  justify-content: center; }

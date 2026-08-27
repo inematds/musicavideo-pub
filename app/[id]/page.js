@@ -38,7 +38,6 @@ export default async function Producao({ params }) {
           .filter(Boolean)
           .join(' · ')}
       </p>
-      <Like mvd={x.mvd || x.slug} />
 
       {versoes.map((f) => (
         <div className="versao" key={f.nome}>
@@ -49,6 +48,7 @@ export default async function Producao({ params }) {
             {f.aprovada ? ' · aprovada ✓' : ''}
           </span>
           <audio controls preload="none" src={f.url} />
+          <Like mvd={slugDoMvd(x)} versao={f.n} rotulo={`curtir a versão ${f.n}`} />
           {f.clipe ? <video controls playsInline preload="none" src={f.clipe} /> : null}
         </div>
       ))}
