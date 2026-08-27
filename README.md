@@ -48,7 +48,14 @@ Guardado num Redis REST (Vercel KV / Upstash), onde `INCR` é atômico. Variáve
 | `HF_REPO` | dataset, se não for o padrão |
 
 **Sem essas variáveis a app continua de pé** — o contador some e o clique não
-persiste. Vitrine sem contador é vitrine; vitrine que não abre não é nada.
+persiste. Vitrine sem contador é vitrine; vitrine que não abre não é nada. É
+assim que ela está hoje: o like ficou para depois, de propósito.
+
+O caminho curto para ligar: no projeto da Vercel, **Storage → Create Database →
+Upstash Redis**, conectar ao projeto e reimplantar. A Vercel injeta as duas
+variáveis sozinha — não se digita nada. Criando direto na Upstash, os valores
+estão na aba **REST API** do banco (o token tem que ser o de escrita; o
+read-only não serve, porque o like escreve).
 
 As contagens voltam para o painel local com `musicavideo likes`
 (`MUSICAVIDEO_PUB_URL` apontando para cá), e viram um ♥ em cada card. Sem esse
