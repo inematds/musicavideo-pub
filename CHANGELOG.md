@@ -2,6 +2,10 @@
 
 ## 2.2.0 — 2026-08-27
 
+- **O nome no topo volta para o acervo.** De dentro da página de uma música,
+  clicar em "INEMA MUSICAVIDEO" leva para casa — é o gesto que todo mundo tenta
+  antes de procurar um link de voltar, e ele não fazia nada.
+
 - **Uma música, um card, uma página.** O Suno entrega duas faixas por pedido e
   cada uma é uma música diferente — mesma letra e mesmo material de vídeo, outra
   interpretação. Elas viviam empilhadas dentro de um card só, o que obrigava a

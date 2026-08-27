@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import './globals.css';
 
 export const metadata = {
@@ -14,8 +15,13 @@ export default function RootLayout({ children }) {
     <html lang="pt-BR">
       <body>
         <header className="topo">
+          {/* O nome é a volta para casa: de dentro da página de uma música,
+              clicar no topo leva ao acervo inteiro — é o gesto que todo mundo
+              já tenta antes de procurar um link de voltar. */}
           <h1>
-            INEMA MUSICAVIDEO <span>V{VERSAO}</span>
+            <Link href="/">
+              INEMA MUSICAVIDEO <span>V{VERSAO}</span>
+            </Link>
           </h1>
           <span className="sub">o acervo</span>
           <nav>

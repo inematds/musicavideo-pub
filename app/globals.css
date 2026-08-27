@@ -88,6 +88,8 @@ header.topo nav a[aria-current="page"] {
   border-radius: 12px; color: var(--dim); font-size: 13px;
 }
 .ficha h2 .v { color: var(--dim); font-weight: 400; font-size: 15px; }
+.topo h1 a { color: inherit; text-decoration: none; }
+.topo h1 a:hover { color: var(--amb); }
 .irmas { margin: 14px 0 4px; }
 
 /* As DUAS capas lado a lado, cada uma com o seu play — igual ao painel local:
