@@ -3,6 +3,10 @@
 A **vitrine** do acervo do [musicavideo](https://github.com/inematds/musicavideo):
 os clipes, as faixas e as capas servidos do Hugging Face, o painel na Vercel.
 
+## 📖 Guia de uso
+
+Guia completo (landing + passo a passo): **https://inematds.github.io/musicavideo-pub/guia/**
+
 Não confundir com **o painel** — esse é o local (`musicavideo painel`,
 `INEMA MUSICAVIDEO V1.x.x`), onde se ouve, se compara, se manda para a lixeira e
 onde se **aprova o que sobe para cá**. Aqui é só leitura, com uma exceção: o
