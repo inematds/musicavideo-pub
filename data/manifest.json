@@ -4,6 +4,562 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "uma-garota-rebelde-provocante-nada-sensu",
+   "mvd": "MVD#124",
+   "titulo": "Wear It Loud",
+   "quando": "2026-08-27T03:11:52-03:00",
+   "solicitacao": "uma garota rebelde provocante, nada sensual, mas muito atraente na sua forma original de se vestir. ## Trilha e som - Musica: True · rock alternativo/folk-rock / americana 90s · ~87 bpm · Lá maior (A major) - Instrumentacao: violão folk em strumming, guitarras elétricas (riff + solo), baixo elétrico, bateria, voz principal rasgada e potente, backing vocals em mmm - Mood/energia: nostálgico, ansiado, catártico e esperançoso · media - SFX: - - Estrutura: intro 00:00-00:14, verso 1 00:14-00:36, verso 2 00:36-00:52, refrão 00:52-01:12, verso 3 01:12-01:34, refrão duplo 01:34-02:14, bridge I try 02:14-02:40, solo de guitarra 02:40-03:10, refrões finais 03:10-04:30, outro 04:30-04:52 - Mixagem: voz à frente e central; guitarras largas em estéreo; bateria e baixo sólidos; sem ambiência ou sfx — é a faixa oficial · sincronia: mudanças de cena ancoradas em frases e downbeats; slow-mo nos hey-ey-ey; dissolves longos nos versos e mais energia de edição nos refrões Prompt de musica (Suno/Udio): Early 90s alternative rock anthem, 87 BPM, A major. Warm strummed acoustic guitars, melodic electric guitar solo, round bass, steady live drums. Raw, powerful female vocals move from intimate verses to a soaring cathartic chorus with soft backing harmonies. Nostalgic, hopeful, anthemic; energy arc builds from quiet intro to explosive final choruses. Wide stereo, radio-ready mix. Negativo: no EDM, no synths, no autotune, no trap beats, no lo-fi hiss",
+   "genero": "early 90s alternative rock / folk-rock americana anthem",
+   "bpm": 87,
+   "tom": "Lá maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "nostálgico",
+    "ansiado",
+    "catártico",
+    "esperançoso",
+    "rebelde"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa.png",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-1.mp4"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-2.mp4"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-1.mp3",
+     "aprovada": true
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-2.mp3",
+     "aprovada": false
+    }
+   ],
+   "bytes": 429263146,
+   "doc": "# Wear It Loud\n\n**slug:** `uma-garota-rebelde-provocante-nada-sensu`  ·  **solicitação:** uma garota rebelde provocante, nada sensual, mas muito atraente na sua forma original de se vestir. ## Trilha e som - Musica: True · rock alternativo/folk-rock / americana 90s · ~87 bpm · Lá maior (A major) - Instrumentacao: violão folk em strumming, guitarras elétricas (riff + solo), baixo elétrico, bateria, voz principal rasgada e potente, backing vocals em mmm - Mood/energia: nostálgico, ansiado, catártico e esperançoso · media - SFX: - - Estrutura: intro 00:00-00:14, verso 1 00:14-00:36, verso 2 00:36-00:52, refrão 00:52-01:12, verso 3 01:12-01:34, refrão duplo 01:34-02:14, bridge I try 02:14-02:40, solo de guitarra 02:40-03:10, refrões finais 03:10-04:30, outro 04:30-04:52 - Mixagem: voz à frente e central; guitarras largas em estéreo; bateria e baixo sólidos; sem ambiência ou sfx — é a faixa oficial · sincronia: mudanças de cena ancoradas em frases e downbeats; slow-mo nos hey-ey-ey; dissolves longos nos versos e mais energia de edição nos refrões Prompt de musica (Suno/Udio): Early 90s alternative rock anthem, 87 BPM, A major. Warm strummed acoustic guitars, melodic electric guitar solo, round bass, steady live drums. Raw, powerful female vocals move from intimate verses to a soaring cathartic chorus with soft backing harmonies. Nostalgic, hopeful, anthemic; energy arc builds from quiet intro to explosive final choruses. Wide stereo, radio-ready mix. Negativo: no EDM, no synths, no autotune, no trap beats, no lo-fi hiss\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/uma-garota-rebelde-provocante-nada-sensu`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Wear It Loud\n\n\n\n**slug:** `uma-garota-rebelde-provocante-nada-sensu`  ·  **criado:** 2026-08-27T03:11:52-03:00\n\n**solicitação:** uma garota rebelde provocante, nada sensual, mas muito atraente na sua forma original de se vestir. ## Trilha e som - Musica: True · rock alternativo/folk-rock / americana 90s · ~87 bpm · Lá maior (A major) - Instrumentacao: violão folk em strumming, guitarras elétricas (riff + solo), baixo elétrico, bateria, voz principal rasgada e potente, backing vocals em mmm - Mood/energia: nostálgico, ansiado, catártico e esperançoso · media - SFX: - - Estrutura: intro 00:00-00:14, verso 1 00:14-00:36, verso 2 00:36-00:52, refrão 00:52-01:12, verso 3 01:12-01:34, refrão duplo 01:34-02:14, bridge I try 02:14-02:40, solo de guitarra 02:40-03:10, refrões finais 03:10-04:30, outro 04:30-04:52 - Mixagem: voz à frente e central; guitarras largas em estéreo; bateria e baixo sólidos; sem ambiência ou sfx — é a faixa oficial · sincronia: mudanças de cena ancoradas em frases e downbeats; slow-mo nos hey-ey-ey; dissolves longos nos versos e mais energia de edição nos refrões Prompt de musica (Suno/Udio): Early 90s alternative rock anthem, 87 BPM, A major. Warm strummed acoustic guitars, melodic electric guitar solo, round bass, steady live drums. Raw, powerful female vocals move from intimate verses to a soaring cathartic chorus with soft backing harmonies. Nostalgic, hopeful, anthemic; energy arc builds from quiet intro to explosive final choruses. Wide stereo, radio-ready mix. Negativo: no EDM, no synths, no autotune, no trap beats, no lo-fi hiss\n\n**estilo de referência:** female-anthem-rock  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** early 90s alternative rock / folk-rock americana anthem  ·  **BPM:** 87  ·  **Tom:** Lá maior\n- **Mood:** nostálgico, ansiado, catártico, esperançoso, rebelde\n- **Instrumentação:** violão folk de aço em strumming, guitarra elétrica com riff e solo melódico, baixo elétrico redondo, bateria acústica ao vivo, voz feminina rasgada e potente, backing vocals em mmm e hey-ey-ey\n- **Voz:** \"feminina, mezzo com peito forte e rasp natural; conversada e íntima nos versos, aberta e rasgada no refrão; hey-ey-ey em chamada com backing em mmm\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Early 90s alternative rock anthem with folk-rock americana roots, 87 BPM, A major. Warm strummed steel-string acoustic guitars driving the verses, a melodic overdriven electric guitar riff and a singing lead guitar solo, round electric bass, steady live acoustic drums with big open snare. Raw, powerful female lead vocal: chest-driven, husky with natural rasp, intimate and conversational in the verses, opening into a soaring cathartic chorus with a repeated hey-ey-ey call answered by soft mmm backing harmonies. Nostalgic, yearning, hopeful and defiant; energy arc builds from a quiet acoustic intro to explosive final choruses and a soft hummed outro. Wide stereo guitars, vocal front and center, radio-ready warm mix, no synths, no autotune. Lyrics in en-US\n\n**Estrutura:** intro (9s) · verso 1 (15s) · verso 2 (12s) · refrão (16s) · verso 3 (16s) · refrão duplo (30s) · bridge (18s) · solo de guitarra (20s) · refrões finais (34s) · outro (10s)\n\n**Letra** (origem: `gerada`, en-US):\n\n```\n[Intro]\n(mmm... mmm...)\n\n[Verse 1]\nMama said cover up the holes in my jeans\nSaid a girl like me should learn what pretty means\nI stole my brother's flannel and a grin from the rain\nTied a red bandana round a head full of flames\n\n[Verse 2]\nThe boys on the corner call me trouble, call me strange\nI take it like a compliment and I keep the change\nEvery mirror in this town wants to tell me who to be\nI just laugh and turn the radio up past three\n\n[Chorus]\nHey-ey-ey, I wear it loud\nHey-ey-ey, I wear it wrong\nFlannel and thunder, boots on the ground\nI've been me all along\nHey-ey-ey, I wear it loud\n\n[Verse 3]\nNineteen, and the sidewalk knows my name\nEvery scuff on these boots is a mile I never tamed\nI don't dress up for the cameras, I don't dress down for the pews\nI'm the girl they warned you about, and I've got nothing to lose\n\n[Chorus]\nHey-ey-ey, I wear it loud\nHey-ey-ey, I wear it wrong\nFlannel and thunder, boots on the ground\nI've been me all along\n\n[Chorus]\nHey-ey-ey, I wear it loud\nHey-ey-ey, I wear it wrong\nCall me a mess, call me a crowd\nI've been me all along\nHey-ey-ey, I wear it loud\n\n[Bridge]\nI tried, Lord knows I tried, to be smaller than this\nI tried on the quiet, but the quiet never fit\nSo I'll be the noise, I'll be the crack in the wall\nI'll wear the whole damn sky before I wear nothing at all\n\n[Guitar Solo]\n\n[Chorus]\nHey-ey-ey, I wear it loud\nHey-ey-ey, I wear it wrong\nFlannel and thunder, boots on the ground\nI've been me all along\n\n[Chorus]\nHey-ey-ey, I wear it loud (wear it loud)\nHey-ey-ey, I wear it wrong (wear it wrong)\nCall me a mess, call me a crowd\nI've been me all along\nHey-ey-ey, I wear it loud\n\n[Outro]\n(mmm... mmm...)\nI've been me all along\n(mmm...)\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #7a1f2b, #c9a06a, #e8dcc8, #3a2418, #5b6f8a, #141414\n- **Params:** `{}`\n\n**Conceito:** Retrato de rua da garota, em pé diante de um muro de tijolo com tinta descascada, luz de fim de tarde. Olhar escolhido: DIRETO NA LENTE, queixo nivelado, braços cruzados por cima do flanela aberta — provocação por atitude, não por pose. Bandana vermelha, camiseta cinza surrada, jeans rasgado, correntes finas, delineador borrado. Filme 16mm sépia quente com grão forte, blacks levantados. Base do quadro é muro escuro liso, reservado para o título.\n\n**Prompt (EN):**\n\n> Square 1:1 warm sepia-toned 16mm film photograph, centered waist-up portrait of a young woman with choppy shoulder-length dark hair under a faded red bandana, oversized open plaid flannel shirt over a worn grey tee, thin layered silver chains, smudged dark eyeliner, arms crossed over her chest, chin level, looking straight into the lens with a defiant half-smile and unimpressed eyes, standing in front of a weathered brick wall with peeling paint, late afternoon sunlight raking from the side, soft warm flare, heavy film grain, lifted blacks, shallow depth of field, lower third of the frame is a plain darkened wall kept empty for a title, no text anywhere\n\n**Negativo:** text, letters, typography, words, watermark, logo, brand marks, extra limbs, extra fingers, deformed hands, glamour makeup, lingerie, revealing clothing, cleavage, duplicate face, blurry face, cartoon, 3d render\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** Faixa medida em 245s. Seções redistribuídas na proporção da decupagem antiga: intro 0–12, verso 1 12–32, verso 2 32–48, refrão 48–70, verso 3 70–92, refrão duplo 92–132, bridge 132–156, solo 156–182, refrões finais 182–232, outro 232–245. Ritmo mantido: 66 shots em 245s (~16 cortes/min na média), planos de 2s a 9s, com a mesma variação obrigatória — refrões a ~22 cortes/min (2–3s, corte seco no downbeat), versos a ~10 cortes/min (4–6s, cross-dissolve como transição padrão), bridge segurando 5–7s, intro em um plano de 9s + um de 3s. NÚCLEO medido na onda em 209–221s (shots 56 a 60): é o trecho mais picado do clipe (quatro planos de 2s cravados no beat) fechando no melhor plano — o slow-mo dela de costas na mureta com a cidade acendendo (shot 60) — e é esse bloco de 12s que vira o Short. Slow-mo cravado nos hey-ey-ey: shots 18, 34 e 60. Dupla exposição nos shots 33 e 61. Fade-in do preto na abertura (shot 1, câmera rente ao chão seguindo as botas) e fade to black no encerramento (shot 66, a mesma câmera). Dois looks alternando: sépia quente 16mm com grão forte e blacks levantados para a garota na rua e no telhado; B&W de alto contraste e luz dura para a banda na garagem. Sem whip pan, sem speed ramp rápido, sem glitch: nada que não esteja medido na referência 4-non-blondes-what-s-up (87 bpm).\n- **Params:** `{}`\n- **Shots:** 66  ·  **Duração total:** 245.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 9s | travelling rente ao chão | Fade-in do preto. Câmera rasteira segue as botas surradas e a barra do jeans desfiado pela calçada de paralelepípedo, folhas secas, sombra longa de fim de tarde, até um portão de garagem enferrujado. |\n| 2 | intro | 3s | estático, close | As botas param diante do portão enferrujado; uma mão com esmalte preto lascado encosta no metal descascado. Só a mão, o metal e as botas no quadro. |\n| 3 | verso 1 | 6s | estático com zoom lento | Quarto bagunçado, luz de janela. A garota sentada no chão de pernas cruzadas amarra a bandana vermelha diante de um espelho rachado; roupas espalhadas, um violão encostado na parede. |\n| 4 | verso 1 | 5s | estático, close | Detalhe: dedos com esmalte preto lascado puxam os fios do rasgo no joelho do jeans, alargando o buraco de propósito. Só as mãos e o jeans no quadro. |\n| 5 | verso 1 | 5s | estático, close | Detalhe das mãos abotoando só um botão do flanela xadrez grande demais, unhas roídas com esmalte preto lascado, correntes finas. Só as mãos e o tecido no quadro. |\n| 6 | verso 1 | 4s | handheld | Ela empurra a porta de tela e sai para a luz de fim de tarde, de costas para a câmera, mangas do flanela dobradas, botas pisando no degrau. |\n| 7 | verso 2 | 5s | travelling lateral | Rua de bairro. Ela passa reta por um grupo de rapazes encostados num muro de esquina, sem olhar, queixo nivelado, mãos nos bolsos, passo firme. |\n| 8 | verso 2 | 4s | handheld | Bloco B&W: dentro da garagem, baterista em silhueta contra uma lâmpada nua, poeira no facho, bumbo e pratos em contraluz. |\n| 9 | verso 2 | 4s | estático, close | Detalhe: a mão dela gira o botão de volume de um rádio-gravador velho em cima de um muro, até o fim. Só a mão e o rádio no quadro. |\n| 10 | verso 2 | 3s | estático | Close de perfil dela na rua, sol batendo de frente com flare, vento no cabelo, um meio-sorriso pra si mesma. |\n| 11 | refrão | 2.5s | dolly-in | Bloco B&W: plano geral da garagem, ela no pé do microfone com a cabeça inclinada para trás, mão fechada no pedestal, banda atrás, contraluz duro. |\n| 12 | refrão | 2s | estático, close | Botas pisando forte no chão de concreto da garagem, poeira subindo no beat; só as botas e o chão no quadro. |\n| 13 | refrão | 2.5s | handheld | Bloco B&W: guitarrista em silhueta contra a lâmpada nua, braço batendo nas cordas, cabo balançando. |\n| 14 | refrão | 2s | estático, close | Close sépia dos olhos para cima: olhos apertados com força, testa suada iluminada, bandana vermelha, cabelo colado. |\n| 15 | refrão | 2.5s | zoom | Bloco B&W: baterista, prato estourando, baquetas em rastro, poeira no facho de luz. |\n| 16 | refrão | 2.5s | handheld, contra-plongée | Bloco B&W: guitarrista de ângulo baixo dando uma palhetada em moinho, braço esticado cortando a lâmpada nua, cabelo voando. |\n| 17 | refrão | 3.5s | handheld | Sépia: ela salta em cima de uma pilha de amplificadores na garagem, botas firmes, braços abertos, queixo erguido, poeira dourada subindo. |\n| 18 | refrão | 4.5s | estático, slow motion | Slow-mo do hey-ey-ey: ela gira no vão do portão da garagem, flanela abrindo em roda, sol de fim de tarde entrando por trás, cabelo solto no ar. |\n| 19 | verso 3 | 6s | handheld, seguindo por trás | Ela sobe uma escada de incêndio de ferro enferrujado pela lateral de um prédio de tijolo, câmera atrás e abaixo, botas nos degraus vazados, céu laranja no topo. |\n| 20 | verso 3 | 6s | travelling lento | Telhado ao entardecer. Ela sentada na mureta, pernas balançando sobre a cidade, olhando o horizonte laranja, não para a câmera. |\n| 21 | verso 3 | 5s | estático, close | Detalhe das botas surradas penduradas por cima da mureta, biqueira gasta, luzes da cidade acendendo embaixo; só as botas no quadro. |\n| 22 | verso 3 | 5s | pan | Ela anda pela beirada do telhado com os braços abertos como equilibrista, silhueta contra o céu laranja, flanela balançando. |\n| 23 | refrão duplo | 3s | estático, plano geral | Bloco B&W: garagem inteira, banda completa, ela no microfone com o punho erguido, luz dura, poeira. |\n| 24 | refrão duplo | 2.5s | dolly-in, close | Close sépia da mão fechada no pedestal do microfone, nós dos dedos brancos, anéis prateados, esmalte preto lascado; só a mão e o pedestal. |\n| 25 | refrão duplo | 3s | handheld | Telhado: ela pula em cima da mureta, mãos para o céu, queixo erguido, cidade em brasa atrás. |\n| 26 | refrão duplo | 2.5s | handheld, contra-plongée | Bloco B&W: baixista em silhueta, ângulo baixo, cabeça balançando, fumaça de cigarro no facho. |\n| 27 | refrão duplo | 3s | travelling para trás | Rua ao anoitecer: ela anda no meio da pista em direção à câmera, faróis atrás, flanela aberta ao vento, passo largo. |\n| 28 | refrão duplo | 3s | estático, close | Bloco B&W: close da caixa da bateria sendo golpeada, pele vibrando, poeira pulando a cada batida, baqueta em rastro. Só a caixa e a baqueta no quadro. |\n| 29 | refrão duplo | 3s | estático, close de perfil | Bloco B&W: close de perfil contra a luz dura, olhos para cima, pescoço tensionado, veia saltada, microfone à frente do rosto. |\n| 30 | refrão duplo | 2.5s | zoom | Sépia: ela arranca a bandana e sacode o cabelo solto, correntes voando, luz quente da garagem. |\n| 31 | refrão duplo | 3s | handheld, ângulo baixo | Telhado: de ângulo baixo, a bota dela chuta o cascalho do telhado na direção da câmera, pedrinhas voando contra o céu laranja, cabelo solto. |\n| 32 | refrão duplo | 4s | dolly-out | Bloco B&W: dolly para trás partindo do pedestal do microfone até revelar a banda inteira tocando na garagem, lâmpada nua no alto, poeira e cabos. |\n| 33 | refrão duplo | 4.5s | estático, dupla exposição | Superimposição: o perfil dela em B&W sobre o baterista tocando, as duas imagens respirando juntas, poeira e luz dura. |\n| 34 | refrão duplo | 6s | travelling, slow motion | Slow-mo do hey-ey-ey: ela corre pelo telhado ao entardecer, braços abertos, flanela batendo, sol rasante atrás, câmera acompanhando ao lado. |\n| 35 | bridge | 7s | dolly-in lento | Silêncio: ela sentada sozinha no chão da garagem encostada num amplificador, joelhos dobrados, luz de uma única janela, poeira parada, bandana nas mãos. |\n| 36 | bridge | 6s | estático, close | Close sépia dos olhos para cima: olhar baixo, uma lágrima descendo pelo delineador borrado, luz de janela lateral. |\n| 37 | bridge | 6s | estático | Ela em pé diante da janela empoeirada da garagem, olhando o próprio reflexo no vidro sujo, a palma da mão encostada no vidro, luz lateral fraca; o reflexo mostra o rosto dela e a rua do lado de fora. |\n| 38 | bridge | 5s | estático, detalhe | A bandana vermelha estendida no chão ao lado das botas, luz de janela; só a bandana e as botas no quadro. |\n| 39 | solo de guitarra | 5s | handheld, close | Bloco B&W: close dos dedos no braço da guitarra durante o solo, bend nas cordas, luz dura; só a mão e o braço da guitarra no quadro. |\n| 40 | solo de guitarra | 4s | estático, contra-plongée | Bloco B&W: guitarrista arqueado para trás em silhueta, ângulo baixo, névoa no facho da lâmpada. |\n| 41 | solo de guitarra | 3s | handheld | Sépia: ela se levanta e amarra a bandana de volta na cabeça, olhando para o chão, queixo baixo, decidida. |\n| 42 | solo de guitarra | 4s | pan | Bloco B&W: pan varrendo a banda inteira, pratos piscando, cabos, poeira. |\n| 43 | solo de guitarra | 3s | dolly-in, close | Bloco B&W: close do cone do alto-falante do amplificador vibrando, poeira pulando da tela, luz dura rasante. Só o alto-falante no quadro. |\n| 44 | solo de guitarra | 4s | estático, plano geral | Sépia: ela chuta o portão da garagem, que abre, e a luz do sol inunda o quadro; silhueta no vão. |\n| 45 | solo de guitarra | 3s | estático, plano médio | Sépia: ela parada no vão do portão contra o sol, de frente para a rua, apertando o nó da bandana com as duas mãos, queixo erguido, olhando para fora. |\n| 46 | refrões finais | 3s | travelling para trás | Rua dourada: ela na frente, um bando de garotos e garotas de flanela e roupa de brechó andando no meio da pista, atrás dela, passo largo. |\n| 47 | refrões finais | 2.5s | dolly-in | Bloco B&W: ela no microfone com a cabeça jogada para trás, punho para cima, ombros subindo, luz dura. |\n| 48 | refrões finais | 3s | estático, close | Botas pulando numa poça da rua, respingo dourado no contraluz; só as botas e a água no quadro. |\n| 49 | refrões finais | 2.5s | zoom | Bloco B&W: baterista, baquetas em rastro, cabelo voando, prato estourando. |\n| 50 | refrões finais | 3s | handheld | Telhado: ela e os amigos pulam juntos com os braços para cima contra o céu laranja, flanelas voando. |\n| 51 | refrões finais | 2.5s | estático, close | Close sépia dos olhos para cima: olhos fechados com força, suor, cabelo grudado na testa, bandana torta, luz quente dura. |\n| 52 | refrões finais | 3s | handheld | Bloco B&W: multidão de amigos no vão do portão da garagem batendo palmas acima da cabeça, silhuetas contra o sol. |\n| 53 | refrões finais | 2.5s | estático | Sépia: ela gira no meio da garagem, flanela abrindo, correntes voando, poeira dourada. |\n| 54 | refrões finais | 3s | estático, contra-plongée do chão | Bloco B&W: plano geral da banda visto do chão, ângulo bem baixo, botas dela em primeiro plano, lâmpada nua no alto. |\n| 55 | refrões finais | 2s | estático, close | Close sépia: o punho fechado dela batendo no próprio peito por cima da camiseta cinza, correntes finas pulando no impacto. Só o punho, as correntes e a camiseta no quadro. |\n| 56 | refrões finais | 2s | estático, plano médio | NÚCLEO (209s). Telhado na última luz: ela vira de repente para a lente, queixo nivelado, meio-sorriso desafiador, olhos sem se impressionar, cabelo no vento — o mesmo olhar da capa. |\n| 57 | refrões finais | 2s | handheld, contra-plongée | NÚCLEO. Bloco B&W: de ângulo baixo, o punho dela sobe e fecha em frente à lâmpada nua, cabeça para trás, garganta tensionada, poeira no facho. |\n| 58 | refrões finais | 2s | estático, close | NÚCLEO. Botas batendo no cascalho do telhado no beat, pedrinhas e poeira pulando contra a última luz; só as botas e o cascalho no quadro. |\n| 59 | refrões finais | 2s | zoom | NÚCLEO. Bloco B&W: baterista estourando o prato, cabelo voando, baquetas em rastro, poeira explodindo na luz de cima. |\n| 60 | refrões finais | 4s | travelling lento em arco, slow motion | NÚCLEO — melhor plano do clipe (217–221s). Slow-mo do último hey-ey-ey: ela em pé na mureta do telhado na última luz, de costas para a câmera, braços abertos, vento, flanela voando, cidade acendendo. |\n| 61 | refrões finais | 4s | estático, dupla exposição | Superimposição sépia: o perfil dela com cabelo ao vento sobre o skyline da cidade ao entardecer, as luzes acendendo através do rosto. |\n| 62 | refrões finais | 3s | estático, plano geral | Telhado no azul do anoitecer: ela e os amigos em fila na beirada, silhuetas com os braços erguidos e entrelaçados contra o céu, luzes da cidade embaixo. |\n| 63 | refrões finais | 4s | handheld | Ela salta da mureta de volta para o telhado, cai de botas firmes no cascalho, e anda direto para a câmera até passar por ela, flanela aberta, sem olhar para trás. |\n| 64 | outro | 4s | dolly-in lento | Garagem vazia, pedestal de microfone sozinho num facho de luz empoeirada, a bandana vermelha amarrada nele. |\n| 65 | outro | 3s | estático | Do lado de fora, no azul do anoitecer: o portão enferrujado da garagem desce e fecha, a última faixa de luz quente sumindo por baixo dele. |\n| 66 | outro | 6s | travelling rente ao chão | Mesma câmera rasteira da abertura: as botas se afastam pela calçada de paralelepípedo ao anoitecer, sombra longa, e o quadro faz fade to black. |\n\n**Prompts (EN):**\n\n1. Fade in from black. Low camera gliding inches above a cobblestone sidewalk at golden hour, following a pair of scuffed black combat boots and frayed ripped denim hems walking forward, framed so tightly that only the boots and ankles are visible, cracked pavement, dry fallen leaves, long warm shadows, a rusted metal garage door approaching at the end, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow steady tracking shot\n2. Close-up at ground level, scuffed black combat boots stopping in front of a rusted corrugated garage door, a hand with chipped black nail polish resting flat on the peeling metal, framed so tightly that only the hand, the boots and the rusted door are visible, warm late afternoon side light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static shot\n3. A cluttered teenage bedroom in warm window light, a young woman with choppy shoulder-length dark hair sits cross-legged on the floor tying a faded red bandana over her hair in front of a cracked leaning mirror, oversized open plaid flannel over a worn grey tee, ripped high-waisted jeans, thin silver chains, smudged dark eyeliner, clothes scattered around, an acoustic guitar leaning on the wall, warm sepia-toned 16mm film look, heavy grain, static frame with a very slow optical push-in\n4. Extreme close-up of fingers with chipped black nail polish pulling at the frayed white threads of a rip in the knee of faded blue jeans, deliberately widening the hole, framed so tightly that only the hands and the denim are visible, soft warm window light, warm sepia-toned 16mm film look, heavy grain, static shot\n5. Extreme close-up of two hands fastening a single button on an oversized plaid flannel shirt, chipped black nail polish, bitten nails, thin layered silver chains resting on a worn grey tee, framed so tightly that only the hands and the fabric are visible, soft window light, warm sepia-toned 16mm film look, heavy grain, static shot\n6. Handheld shot from inside a dim hallway, a young woman in an oversized plaid flannel with rolled sleeves, faded red bandana, ripped jeans and black combat boots pushes open a creaking screen door and steps out into blazing late afternoon light, seen from behind, silhouette flaring against the bright doorway, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n7. Side tracking shot along a neighborhood street at golden hour, a young woman with a faded red bandana, oversized plaid flannel, ripped jeans and combat boots walks with steady confident strides past a group of young men leaning against a corner wall, she does not look at them, chin level, hands in her pockets, the men watch her pass, brick walls and telephone wires, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n8. High-contrast black and white 16mm footage inside a cluttered garage, a drummer in silhouette behind a drum kit lit by a single bare hanging bulb, dust floating in the hard backlight, cymbals flashing, amps and cables in the shadows, handheld camera, heavy film grain, deep blacks\n9. Close-up of a hand with chipped black nail polish and thin silver rings cranking the volume knob of a battered old boombox sitting on a brick wall all the way up, framed so tightly that only the hand and the radio are visible, warm golden hour light, warm sepia-toned 16mm film look, heavy grain, static shot\n10. Close-up profile of a young woman with choppy dark hair under a faded red bandana, smudged dark eyeliner, sunlight hitting her face from the front with a soft warm lens flare, wind moving loose strands of hair, a quiet half-smile to herself, blurred street behind, warm sepia-toned 16mm film look, heavy grain, static shot\n11. High-contrast black and white 16mm, wide shot inside a garage, a young woman in an oversized plaid flannel, bandana and combat boots stands at a microphone stand with her head tilted back, one fist gripping the stand, shoulders rising, a full rock band behind her in silhouette, hard backlight from a single bulb cutting through dust, fast dolly-in, heavy film grain, deep blacks\n12. Close-up of scuffed black combat boots stomping hard on a concrete garage floor, dust bursting up with each stomp, frayed denim hems, framed so tightly that only the boots and the floor are visible, hard side light, warm sepia-toned 16mm film look, heavy grain, static shot\n13. High-contrast black and white 16mm, a guitarist in silhouette against a bare hanging bulb, arm strumming an electric guitar hard, cable swinging, sweat catching the light, handheld camera, heavy film grain, deep blacks\n14. Extreme close-up framed from the eyes upward, eyes squeezed shut with force, sweaty forehead catching warm hard light, faded red bandana, strands of dark hair stuck to the skin, smudged dark eyeliner, warm sepia-toned 16mm film look, heavy grain, static shot\n15. High-contrast black and white 16mm, a drummer hitting a crash cymbal, drumsticks blurred in motion, dust exploding in a hard beam of light from above, fast optical zoom-in, heavy film grain, deep blacks\n16. High-contrast black and white 16mm, low angle handheld shot of a guitarist in silhouette swinging his arm in a full windmill strum, arm stretched across a bare hanging bulb, hair flying, guitar neck tilted up, dust in the hard light, heavy film grain, deep blacks\n17. Handheld medium-wide shot, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots jumps up onto a stack of guitar amplifiers in a garage and lands with her boots planted wide, arms flung open, chin raised, golden dust rising in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain\n18. Slow motion, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots spins in the open doorway of a garage, flannel flaring out like a wheel, dark hair flying, blazing late afternoon sun pouring in behind her, dust glowing in the light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static wide shot\n19. Handheld shot from behind and below, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots climbs a rusted iron fire escape up the side of a brick building, boots on the open metal steps, one hand on the railing, orange dusk sky opening at the top, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n20. Slow tracking shot on a rooftop at dusk, a young woman with a faded red bandana, oversized plaid flannel, ripped jeans and combat boots sits on the ledge with her legs dangling over the city, looking out at an orange skyline of low buildings and water towers, wind in her hair, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n21. Close-up of scuffed black combat boots with worn toes dangling over a rooftop ledge, frayed denim hems, city lights beginning to glow far below in soft blur, framed so tightly that only the boots and the ledge are visible, warm dusk light, warm sepia-toned 16mm film look, heavy grain, static shot\n22. Slow pan following a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots walking along the edge of a rooftop with her arms stretched out like a tightrope walker, silhouette against a burning orange dusk sky, flannel swaying in the wind, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n23. High-contrast black and white 16mm, wide static shot of a full rock band in a garage, a young woman in an oversized plaid flannel and bandana at the microphone stand with one fist raised high, head tilted back, drummer, bassist and guitarist behind her, hard light from a single bulb, dust in the air, heavy film grain, deep blacks\n24. Close-up of a hand gripping a chrome microphone stand, knuckles white, chipped black nail polish, thin silver rings, framed so tightly that only the hand and the stand are visible, hard warm light, fast dolly-in, warm sepia-toned 16mm film look, heavy grain\n25. Handheld shot on a rooftop at dusk, a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots jumps up onto the ledge and throws both hands to the sky, chin raised, chest open, burning orange skyline behind her, wind whipping her flannel, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n26. High-contrast black and white 16mm, low angle handheld shot of a bassist in silhouette, head nodding hard, bass neck cutting across a bare bulb, thin haze in the light beam, heavy film grain, deep blacks\n27. Backward tracking shot, a young woman in an oversized open plaid flannel, faded red bandana, ripped jeans and combat boots strides down the middle of an empty neighborhood street at blue-orange dusk, walking straight toward the camera with long confident steps, distant car headlights glowing behind her, flannel blowing open, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n28. High-contrast black and white 16mm, extreme close-up of a snare drum being struck hard, drumhead vibrating, dust jumping off the skin with every hit, a drumstick blurred in motion, framed so tightly that only the snare and the stick are visible, hard top light, heavy film grain, deep blacks, static shot\n29. High-contrast black and white 16mm, close-up profile of a young woman with a bandana and smudged eyeliner against hard backlight, eyes looking upward, neck tensed with a visible vein, jaw set, a vintage microphone held in front of the lower half of her face, sweat glinting, heavy film grain, deep blacks, static shot\n30. A young woman in an oversized plaid flannel pulls the faded red bandana off her head and shakes her choppy dark hair loose, thin silver chains flying, warm hard garage light, dust in the air, fast optical zoom-in, warm sepia-toned 16mm film look, heavy grain\n31. Low angle handheld shot on a rooftop at dusk, a young woman with loose dark hair, oversized plaid flannel, ripped jeans and combat boots kicks a spray of rooftop gravel straight toward the camera, small stones flying against a burning orange sky, flannel swinging, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n32. High-contrast black and white 16mm, slow dolly-out starting tight on a chrome microphone stand and pulling back to reveal a full rock band playing hard in a garage, drummer, bassist and guitarist in silhouette, a bare bulb overhead, dust and cables, heavy film grain, deep blacks\n33. High-contrast black and white 16mm double exposure, the profile of a young woman with loose dark hair and smudged eyeliner superimposed over a drummer playing hard under a bare bulb, the two images breathing together, dust and hard light bleeding through her silhouette, heavy film grain, deep blacks, static shot\n34. Slow motion side tracking shot, a young woman with loose dark hair, oversized plaid flannel, ripped jeans and combat boots runs across a rooftop at dusk with her arms spread wide, flannel flapping behind her like wings, low sun flaring behind her, gravel kicking up, orange sky and city silhouettes, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n35. Very slow dolly-in inside a quiet garage, a young woman in an oversized plaid flannel, ripped jeans and combat boots sits alone on the concrete floor with her back against a guitar amp, knees pulled up, a faded red bandana held loosely in her hands, head bowed, a single dusty window casting soft warm light, everything still, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n36. Extreme close-up framed from the eyes upward, eyes lowered, a single tear running down through smudged dark eyeliner, loose dark hair falling over the forehead, soft side light from a window, warm sepia-toned 16mm film look, heavy grain, static shot\n37. Static medium shot inside a quiet garage, a young woman with loose dark hair, oversized plaid flannel and ripped jeans stands facing a dusty window, one palm pressed flat against the dirty glass, looking at her own faint reflection, the reflection showing her face and the warm street outside, soft dim side light, dust hanging still, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n38. Close-up of a faded red bandana laid flat on a concrete garage floor next to a pair of scuffed black combat boots, framed so tightly that only the bandana and the boots are visible, soft warm window light, dust drifting, warm sepia-toned 16mm film look, heavy grain, static shot\n39. High-contrast black and white 16mm, extreme close-up of fingers bending strings on an electric guitar fretboard during a solo, framed so tightly that only the hand and the guitar neck are visible, hard light glinting off the frets, handheld camera, heavy film grain, deep blacks\n40. High-contrast black and white 16mm, low angle static shot of a guitarist leaning far back in silhouette during a solo, guitar neck pointing up into a bare bulb, thin haze glowing in the light, heavy film grain, deep blacks\n41. Handheld medium shot, a young woman in an oversized plaid flannel and ripped jeans stands up from the garage floor and ties a faded red bandana back over her choppy dark hair, eyes down, chin lowered, jaw set with determination, warm window light, warm sepia-toned 16mm film look, heavy grain\n42. High-contrast black and white 16mm, fast pan sweeping across a full rock band in a garage, cymbals flashing, guitar necks swinging, cables and amps, dust in hard light from a single bulb, heavy film grain, deep blacks\n43. High-contrast black and white 16mm, extreme close-up of a guitar amplifier speaker cone vibrating hard behind a torn grille cloth, dust jumping off the fabric with every pulse, hard raking side light, slow dolly-in, framed so tightly that only the speaker is visible, heavy film grain, deep blacks\n44. Wide static shot from inside a dim garage, a young woman in an oversized plaid flannel, bandana and combat boots kicks the metal garage door open, blazing low sun floods in, her silhouette standing in the flood of light with dust swirling, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n45. Static medium shot from inside a garage, a young woman in an oversized plaid flannel, ripped jeans and combat boots stands in the open doorway edge-lit by blazing low sun, facing the street, both hands tightening the knot of a faded red bandana at the back of her head, chin raised, looking out, dust glowing around her, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n46. Backward tracking shot down the middle of a neighborhood street at golden hour, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots leads a loose crowd of young people in flannel, thrift jackets and worn denim walking with wide confident strides, long shadows, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n47. High-contrast black and white 16mm, fast dolly-in on a young woman in an oversized plaid flannel and bandana at a microphone stand, head thrown back, one fist punching the air, shoulders rising, hard backlight from a bare bulb, dust, heavy film grain, deep blacks\n48. Close-up of scuffed black combat boots jumping into a street puddle, golden water splashing up in backlight, frayed denim hems, framed so tightly that only the boots and the water are visible, warm sepia-toned 16mm film look, heavy grain, static shot\n49. High-contrast black and white 16mm, a drummer hammering the kit, drumsticks blurred, hair flying, crash cymbal exploding in hard top light, fast optical zoom-in, heavy film grain, deep blacks\n50. Handheld wide shot on a rooftop at dusk, a young woman in an oversized plaid flannel and bandana and a group of friends in flannel and thrift denim jump together with arms raised against a burning orange sky, shirts flying, gravel kicking up, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n51. Extreme close-up framed from the eyes upward, eyes shut tight, sweat on the brow, dark hair stuck to the forehead, faded red bandana pushed askew, hard warm light, warm sepia-toned 16mm film look, heavy grain, static shot\n52. High-contrast black and white 16mm, handheld shot of a crowd of young people packed in a garage doorway clapping with their hands above their heads, silhouettes against blazing backlight, dust and haze, heavy film grain, deep blacks\n53. Static medium shot, a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots spins fast in the middle of a garage, flannel flaring wide, thin silver chains flying, golden dust in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain\n54. High-contrast black and white 16mm, very low angle static wide shot from the garage floor, scuffed combat boots planted in the foreground, a full rock band rising above under a bare bulb, dust, heavy film grain, deep blacks\n55. Extreme close-up of a clenched fist with chipped black nail polish and thin silver rings thumping against the chest of a worn grey tee under an open plaid flannel, thin layered silver chains bouncing on impact, framed so tightly that only the fist, the chains and the shirt are visible, hard warm light, warm sepia-toned 16mm film look, heavy grain, static shot\n56. Static medium shot on a rooftop at the last light of dusk, a young woman with choppy dark hair under a faded red bandana, oversized open plaid flannel over a worn grey tee, thin silver chains, smudged dark eyeliner, whips her head around to look straight into the lens, chin level, a defiant half-smile and unimpressed eyes, wind in her hair, burning orange to blue sky behind her, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n57. High-contrast black and white 16mm, low angle handheld shot, a young woman in an oversized plaid flannel and bandana punches her fist up straight in front of a bare hanging bulb, head thrown back, throat tensed, jaw set, the bulb flaring behind her knuckles, dust in the hard light, heavy film grain, deep blacks\n58. Close-up of scuffed black combat boots stomping hard on rooftop gravel, small stones and dust jumping up with each stomp against the last warm light of dusk, frayed denim hems, framed so tightly that only the boots and the gravel are visible, warm sepia-toned 16mm film look, heavy grain, static shot\n59. High-contrast black and white 16mm, a drummer smashing a crash cymbal, hair flying, drumsticks blurred, dust exploding upward in hard top light, fast optical zoom-in, heavy film grain, deep blacks\n60. Slow motion, slow arcing tracking shot, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots stands on a rooftop ledge at the last light of dusk, seen from behind, arms open wide, wind whipping her flannel and hair, city lights coming on below, deep orange to blue sky, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n61. Warm sepia-toned 16mm double exposure, the profile of a young woman with a faded red bandana and wind-blown dark hair superimposed over a city skyline at dusk, low rooftops and water towers, streetlights beginning to glow through her silhouette, heavy grain, lifted blacks, static shot\n62. Static wide shot on a rooftop at blue dusk, a row of young people in flannel and thrift denim standing along the ledge in silhouette with their arms raised and linked against a deep orange to blue sky, a young woman with a bandana in the middle, city lights glowing below, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n63. Handheld shot on a rooftop at blue dusk, a young woman in an oversized open plaid flannel, faded red bandana, ripped jeans and combat boots hops down from the ledge, lands with her boots planted in the gravel, and walks straight toward the camera until she passes out of frame, flannel swinging, not looking back, city lights glowing behind her, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n64. Very slow dolly-in inside an empty garage, a lone microphone stand standing in a shaft of dusty late light from the open door, a faded red bandana tied around it fluttering slightly, amps and drum kit dark in the background, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n65. Static shot from outside at blue dusk, a rusted corrugated garage door rolling down and closing, the last strip of warm light from inside shrinking and disappearing beneath it, cobblestones and dry leaves in the foreground, a streetlight flickering on, warm sepia-toned 16mm film look, heavy grain, lifted blacks\n66. Low camera inches above a cobblestone sidewalk at blue dusk, a pair of scuffed black combat boots and frayed denim hems walking away from the camera, framed so tightly that only the boots and ankles are visible, long shadow stretching back, streetlight glow on the stones, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow tracking shot, fade to black at the end\n\n## Publicação (YouTube)\n\n- **Título:** Wear It Loud\n- **Tags:** nostalgico, ansiado, catartico, esperancoso, baixo eletrico redondo, female anthem rock\n\n**Descrição:**\n\nUma garota de flanela grande demais, bandana vermelha e bota surrada, que não se veste para agradar ninguém. A música fala disso: da mãe mandando tapar os buracos do jeans, dos rapazes da esquina que a chamam de estranha, dos espelhos da cidade que querem dizer quem ela deve ser — e da resposta dela, que é simplesmente continuar sendo quem sempre foi.\n\nO som é rock alternativo do começo dos anos 90 com raiz folk: violão de aço em strumming puxando os versos, guitarra elétrica com riff e um solo cantado, baixo redondo e bateria ao vivo. A voz feminina é rasgada e potente, íntima nos versos e aberta no refrão, com um hey-ey-ey que chama e um coro em mmm que responde. Começa quieta e termina explodindo em refrões finais e um outro cantarolado.\n\nNo clipe, dois mundos se alternam: em sépia quente de filme 16mm, ela anda pela rua, sobe no telhado ao entardecer e corre com os braços abertos; em preto e branco de alto contraste, a banda toca numa garagem sob uma lâmpada nua. Dissolves longos nos versos, cortes secos nos refrões e câmera lenta nos hey-ey-ey. Abre e fecha com a mesma câmera rente ao chão seguindo as botas.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Early 90s alternative rock anthem with folk-rock americana roots, 87 BPM, A major. Warm strummed steel-string acoustic guitars driving the verses, a melodic overdriven electric guitar riff and a singing lead guitar solo, round electric bass, steady live acoustic drums with big open snare. Raw, powerful female lead vocal: chest-driven, husky with natural rasp, intimate and conversational in the verses, opening into a soaring cathartic chorus with a repeated hey-ey-ey call answered by soft mmm backing harmonies. Nostalgic, yearning, hopeful and defiant; energy arc builds from a quiet acoustic intro to explosive final choruses and a soft hummed outro. Wide stereo guitars, vocal front and center, radio-ready warm mix, no synths, no autotune. Lyrics in en-US",
+    "imagem": "Square 1:1 warm sepia-toned 16mm film photograph, centered waist-up portrait of a young woman with choppy shoulder-length dark hair under a faded red bandana, oversized open plaid flannel shirt over a worn grey tee, thin layered silver chains, smudged dark eyeliner, arms crossed over her chest, chin level, looking straight into the lens with a defiant half-smile and unimpressed eyes, standing in front of a weathered brick wall with peeling paint, late afternoon sunlight raking from the side, soft warm flare, heavy film grain, lifted blacks, shallow depth of field, lower third of the frame is a plain darkened wall kept empty for a title, no text anywhere",
+    "negativo": "text, letters, typography, words, watermark, logo, brand marks, extra limbs, extra fingers, deformed hands, glamour makeup, lingerie, revealing clothing, cleavage, duplicate face, blurry face, cartoon, 3d render",
+    "conceito": "Retrato de rua da garota, em pé diante de um muro de tijolo com tinta descascada, luz de fim de tarde. Olhar escolhido: DIRETO NA LENTE, queixo nivelado, braços cruzados por cima do flanela aberta — provocação por atitude, não por pose. Bandana vermelha, camiseta cinza surrada, jeans rasgado, correntes finas, delineador borrado. Filme 16mm sépia quente com grão forte, blacks levantados. Base do quadro é muro escuro liso, reservado para o título.",
+    "tagline": "vestida errado do jeito certo",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "travelling rente ao chão",
+      "prompt": "Fade in from black. Low camera gliding inches above a cobblestone sidewalk at golden hour, following a pair of scuffed black combat boots and frayed ripped denim hems walking forward, framed so tightly that only the boots and ankles are visible, cracked pavement, dry fallen leaves, long warm shadows, a rusted metal garage door approaching at the end, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow steady tracking shot",
+      "alt": "Fade in from black. Low camera gliding inches above a cobblestone sidewalk at golden hour, dry fallen leaves and cracked pavement passing by, long warm shadows stretching across the stones, a rusted metal garage door approaching at the end, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow steady tracking shot"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "estático, close",
+      "prompt": "Close-up at ground level, scuffed black combat boots stopping in front of a rusted corrugated garage door, a hand with chipped black nail polish resting flat on the peeling metal, framed so tightly that only the hand, the boots and the rusted door are visible, warm late afternoon side light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static shot",
+      "alt": "Close-up at ground level of a rusted corrugated garage door with peeling paint, a pair of scuffed black combat boots standing still in front of it, dry leaves against the sill, warm late afternoon side light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static shot"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "estático com zoom lento",
+      "prompt": "A cluttered teenage bedroom in warm window light, a young woman with choppy shoulder-length dark hair sits cross-legged on the floor tying a faded red bandana over her hair in front of a cracked leaning mirror, oversized open plaid flannel over a worn grey tee, ripped high-waisted jeans, thin silver chains, smudged dark eyeliner, clothes scattered around, an acoustic guitar leaning on the wall, warm sepia-toned 16mm film look, heavy grain, static frame with a very slow optical push-in",
+      "alt": "A cluttered teenage bedroom in warm window light, a faded red bandana and thin silver chains laid on a wooden floor in front of a cracked leaning mirror, clothes scattered around, an acoustic guitar leaning on the wall, dust floating in a sunbeam, warm sepia-toned 16mm film look, heavy grain, static frame with a very slow optical push-in"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up of fingers with chipped black nail polish pulling at the frayed white threads of a rip in the knee of faded blue jeans, deliberately widening the hole, framed so tightly that only the hands and the denim are visible, soft warm window light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of a frayed rip in the knee of faded blue jeans laid across a wooden floor, loose white threads catching soft warm window light, a thin silver chain beside it, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up of two hands fastening a single button on an oversized plaid flannel shirt, chipped black nail polish, bitten nails, thin layered silver chains resting on a worn grey tee, framed so tightly that only the hands and the fabric are visible, soft window light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of an oversized plaid flannel shirt draped over a wooden chair, one button catching the light, thin silver chains hanging from the chair back, soft window light, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Handheld shot from inside a dim hallway, a young woman in an oversized plaid flannel with rolled sleeves, faded red bandana, ripped jeans and black combat boots pushes open a creaking screen door and steps out into blazing late afternoon light, seen from behind, silhouette flaring against the bright doorway, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Handheld shot from inside a dim hallway toward a creaking screen door swinging open by itself into blazing late afternoon light, dust swirling in the doorway, a pair of black combat boots on the doormat, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 7,
+      "secao": "verso 2",
+      "camera": "travelling lateral",
+      "prompt": "Side tracking shot along a neighborhood street at golden hour, a young woman with a faded red bandana, oversized plaid flannel, ripped jeans and combat boots walks with steady confident strides past a group of young men leaning against a corner wall, she does not look at them, chin level, hands in her pockets, the men watch her pass, brick walls and telephone wires, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Side tracking shot along a neighborhood street at golden hour, a lone silhouette in an oversized flannel and combat boots walking with steady strides past a sunlit brick corner wall with peeling paint, long shadows, telephone wires against the warm sky, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 8,
+      "secao": "verso 2",
+      "camera": "handheld",
+      "prompt": "High-contrast black and white 16mm footage inside a cluttered garage, a drummer in silhouette behind a drum kit lit by a single bare hanging bulb, dust floating in the hard backlight, cymbals flashing, amps and cables in the shadows, handheld camera, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm footage inside a cluttered garage, a drum kit lit by a single bare hanging bulb, dust floating in the hard backlight, cymbals flashing, amps and cables in the shadows, handheld camera, heavy film grain, deep blacks"
+     },
+     {
+      "n": 9,
+      "secao": "verso 2",
+      "camera": "estático, close",
+      "prompt": "Close-up of a hand with chipped black nail polish and thin silver rings cranking the volume knob of a battered old boombox sitting on a brick wall all the way up, framed so tightly that only the hand and the radio are visible, warm golden hour light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a battered old boombox sitting on a sunlit brick wall, its volume knob turned all the way up, scratched chrome and a cracked speaker grille catching warm golden hour light, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 10,
+      "secao": "verso 2",
+      "camera": "estático",
+      "prompt": "Close-up profile of a young woman with choppy dark hair under a faded red bandana, smudged dark eyeliner, sunlight hitting her face from the front with a soft warm lens flare, wind moving loose strands of hair, a quiet half-smile to herself, blurred street behind, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a faded red bandana and loose dark strands of hair blowing in the wind against a warm sun flare, face turned fully away from the camera, blurred golden street behind, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 11,
+      "secao": "refrão",
+      "camera": "dolly-in",
+      "prompt": "High-contrast black and white 16mm, wide shot inside a garage, a young woman in an oversized plaid flannel, bandana and combat boots stands at a microphone stand with her head tilted back, one fist gripping the stand, shoulders rising, a full rock band behind her in silhouette, hard backlight from a single bulb cutting through dust, fast dolly-in, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, wide shot inside a garage, a lone microphone stand in the center lit by hard backlight from a single bulb, drum kit and amps in silhouette behind it, dust swirling in the beam, fast dolly-in, heavy film grain, deep blacks"
+     },
+     {
+      "n": 12,
+      "secao": "refrão",
+      "camera": "estático, close",
+      "prompt": "Close-up of scuffed black combat boots stomping hard on a concrete garage floor, dust bursting up with each stomp, frayed denim hems, framed so tightly that only the boots and the floor are visible, hard side light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a concrete garage floor as dust bursts up in rhythmic puffs under hard side light, a coiled guitar cable and a fallen drumstick in frame, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 13,
+      "secao": "refrão",
+      "camera": "handheld",
+      "prompt": "High-contrast black and white 16mm, a guitarist in silhouette against a bare hanging bulb, arm strumming an electric guitar hard, cable swinging, sweat catching the light, handheld camera, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, an electric guitar leaning against a humming amp under a bare hanging bulb, its strings and chrome catching hard light, a cable swinging slightly, handheld camera, heavy film grain, deep blacks"
+     },
+     {
+      "n": 14,
+      "secao": "refrão",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up framed from the eyes upward, eyes squeezed shut with force, sweaty forehead catching warm hard light, faded red bandana, strands of dark hair stuck to the skin, smudged dark eyeliner, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of a faded red bandana knot and damp dark hair catching warm hard light, seen from behind the head, garage bulb flaring in the background, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 15,
+      "secao": "refrão",
+      "camera": "zoom",
+      "prompt": "High-contrast black and white 16mm, a drummer hitting a crash cymbal, drumsticks blurred in motion, dust exploding in a hard beam of light from above, fast optical zoom-in, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, a crash cymbal vibrating in a hard beam of light from above, dust exploding around it, blurred drumstick tips at the edge of frame, fast optical zoom-in, heavy film grain, deep blacks"
+     },
+     {
+      "n": 16,
+      "secao": "refrão",
+      "camera": "handheld, contra-plongée",
+      "prompt": "High-contrast black and white 16mm, low angle handheld shot of a guitarist in silhouette swinging his arm in a full windmill strum, arm stretched across a bare hanging bulb, hair flying, guitar neck tilted up, dust in the hard light, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, low angle handheld shot of an electric guitar neck swinging up across a bare hanging bulb, strings flashing, dust in the hard light, heavy film grain, deep blacks"
+     },
+     {
+      "n": 17,
+      "secao": "refrão",
+      "camera": "handheld",
+      "prompt": "Handheld medium-wide shot, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots jumps up onto a stack of guitar amplifiers in a garage and lands with her boots planted wide, arms flung open, chin raised, golden dust rising in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain",
+      "alt": "Handheld medium-wide shot of a stack of battered guitar amplifiers in a garage, a pair of scuffed combat boots planted on top of them, golden dust rising in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain"
+     },
+     {
+      "n": 18,
+      "secao": "refrão",
+      "camera": "estático, slow motion",
+      "prompt": "Slow motion, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots spins in the open doorway of a garage, flannel flaring out like a wheel, dark hair flying, blazing late afternoon sun pouring in behind her, dust glowing in the light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static wide shot",
+      "alt": "Slow motion, an oversized plaid flannel shirt flaring and spinning on a hanger in the open doorway of a garage, blazing late afternoon sun pouring in behind it, dust glowing in the light, warm sepia-toned 16mm film look, heavy grain, lifted blacks, static wide shot"
+     },
+     {
+      "n": 19,
+      "secao": "verso 3",
+      "camera": "handheld, seguindo por trás",
+      "prompt": "Handheld shot from behind and below, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots climbs a rusted iron fire escape up the side of a brick building, boots on the open metal steps, one hand on the railing, orange dusk sky opening at the top, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Handheld shot from below of a rusted iron fire escape climbing the side of a brick building at dusk, open metal steps and railings in silhouette, orange sky at the top, pigeons on the rail, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 20,
+      "secao": "verso 3",
+      "camera": "travelling lento",
+      "prompt": "Slow tracking shot on a rooftop at dusk, a young woman with a faded red bandana, oversized plaid flannel, ripped jeans and combat boots sits on the ledge with her legs dangling over the city, looking out at an orange skyline of low buildings and water towers, wind in her hair, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Slow tracking shot on a rooftop at dusk, an empty brick ledge with a pair of black combat boots resting on it, an orange skyline of low buildings and water towers beyond, pigeons lifting off, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 21,
+      "secao": "verso 3",
+      "camera": "estático, close",
+      "prompt": "Close-up of scuffed black combat boots with worn toes dangling over a rooftop ledge, frayed denim hems, city lights beginning to glow far below in soft blur, framed so tightly that only the boots and the ledge are visible, warm dusk light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a rooftop brick ledge at dusk, a faded red bandana resting on it fluttering in the wind, city lights beginning to glow far below in soft blur, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 22,
+      "secao": "verso 3",
+      "camera": "pan",
+      "prompt": "Slow pan following a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots walking along the edge of a rooftop with her arms stretched out like a tightrope walker, silhouette against a burning orange dusk sky, flannel swaying in the wind, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Slow pan across a rooftop edge at dusk, a small silhouette far away walking with arms stretched out against a burning orange sky, water towers and antennas in silhouette, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 23,
+      "secao": "refrão duplo",
+      "camera": "estático, plano geral",
+      "prompt": "High-contrast black and white 16mm, wide static shot of a full rock band in a garage, a young woman in an oversized plaid flannel and bandana at the microphone stand with one fist raised high, head tilted back, drummer, bassist and guitarist behind her, hard light from a single bulb, dust in the air, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, wide static shot of a garage rehearsal space, drum kit, bass amp and a microphone stand under hard light from a single bulb, a raised fist in silhouette at the edge of frame, dust in the air, heavy film grain, deep blacks"
+     },
+     {
+      "n": 24,
+      "secao": "refrão duplo",
+      "camera": "dolly-in, close",
+      "prompt": "Close-up of a hand gripping a chrome microphone stand, knuckles white, chipped black nail polish, thin silver rings, framed so tightly that only the hand and the stand are visible, hard warm light, fast dolly-in, warm sepia-toned 16mm film look, heavy grain",
+      "alt": "Close-up of a chrome microphone stand catching hard warm light, a faded red bandana tied around it, dust floating past, fast dolly-in, warm sepia-toned 16mm film look, heavy grain"
+     },
+     {
+      "n": 25,
+      "secao": "refrão duplo",
+      "camera": "handheld",
+      "prompt": "Handheld shot on a rooftop at dusk, a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots jumps up onto the ledge and throws both hands to the sky, chin raised, chest open, burning orange skyline behind her, wind whipping her flannel, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Handheld shot on a rooftop at dusk, a plaid flannel shirt whipping in the wind on a clothesline against a burning orange skyline, antennas and water towers in silhouette, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 26,
+      "secao": "refrão duplo",
+      "camera": "handheld, contra-plongée",
+      "prompt": "High-contrast black and white 16mm, low angle handheld shot of a bassist in silhouette, head nodding hard, bass neck cutting across a bare bulb, thin haze in the light beam, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, low angle handheld shot of a bass guitar neck cutting across a bare hanging bulb, thin haze in the light beam, amp dials glowing, heavy film grain, deep blacks"
+     },
+     {
+      "n": 27,
+      "secao": "refrão duplo",
+      "camera": "travelling para trás",
+      "prompt": "Backward tracking shot, a young woman in an oversized open plaid flannel, faded red bandana, ripped jeans and combat boots strides down the middle of an empty neighborhood street at blue-orange dusk, walking straight toward the camera with long confident steps, distant car headlights glowing behind her, flannel blowing open, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Backward tracking shot down the middle of an empty neighborhood street at blue-orange dusk, distant car headlights glowing, a lone silhouette far behind walking the center line, telephone wires overhead, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 28,
+      "secao": "refrão duplo",
+      "camera": "estático, close",
+      "prompt": "High-contrast black and white 16mm, extreme close-up of a snare drum being struck hard, drumhead vibrating, dust jumping off the skin with every hit, a drumstick blurred in motion, framed so tightly that only the snare and the stick are visible, hard top light, heavy film grain, deep blacks, static shot",
+      "alt": "High-contrast black and white 16mm, extreme close-up of a snare drum head vibrating under hard top light, dust jumping off the skin in rhythmic bursts, chrome rim flashing, heavy film grain, deep blacks, static shot"
+     },
+     {
+      "n": 29,
+      "secao": "refrão duplo",
+      "camera": "estático, close de perfil",
+      "prompt": "High-contrast black and white 16mm, close-up profile of a young woman with a bandana and smudged eyeliner against hard backlight, eyes looking upward, neck tensed with a visible vein, jaw set, a vintage microphone held in front of the lower half of her face, sweat glinting, heavy film grain, deep blacks, static shot",
+      "alt": "High-contrast black and white 16mm, close-up of a vintage microphone on its stand against hard backlight, a silhouette of bandana and hair edge-lit behind it, sweat drops glinting on the mic grille, heavy film grain, deep blacks, static shot"
+     },
+     {
+      "n": 30,
+      "secao": "refrão duplo",
+      "camera": "zoom",
+      "prompt": "A young woman in an oversized plaid flannel pulls the faded red bandana off her head and shakes her choppy dark hair loose, thin silver chains flying, warm hard garage light, dust in the air, fast optical zoom-in, warm sepia-toned 16mm film look, heavy grain",
+      "alt": "A faded red bandana flung into the air and falling in warm hard garage light, dust and thin silver chains glinting around it, fast optical zoom-in, warm sepia-toned 16mm film look, heavy grain"
+     },
+     {
+      "n": 31,
+      "secao": "refrão duplo",
+      "camera": "handheld, ângulo baixo",
+      "prompt": "Low angle handheld shot on a rooftop at dusk, a young woman with loose dark hair, oversized plaid flannel, ripped jeans and combat boots kicks a spray of rooftop gravel straight toward the camera, small stones flying against a burning orange sky, flannel swinging, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Low angle handheld shot on a rooftop at dusk, a spray of gravel kicked toward the camera, small stones flying against a burning orange sky, water towers in silhouette, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 32,
+      "secao": "refrão duplo",
+      "camera": "dolly-out",
+      "prompt": "High-contrast black and white 16mm, slow dolly-out starting tight on a chrome microphone stand and pulling back to reveal a full rock band playing hard in a garage, drummer, bassist and guitarist in silhouette, a bare bulb overhead, dust and cables, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, slow dolly-out starting tight on a chrome microphone stand and pulling back to reveal an empty garage rehearsal space, drum kit and amps under a bare bulb, dust and cables, heavy film grain, deep blacks"
+     },
+     {
+      "n": 33,
+      "secao": "refrão duplo",
+      "camera": "estático, dupla exposição",
+      "prompt": "High-contrast black and white 16mm double exposure, the profile of a young woman with loose dark hair and smudged eyeliner superimposed over a drummer playing hard under a bare bulb, the two images breathing together, dust and hard light bleeding through her silhouette, heavy film grain, deep blacks, static shot",
+      "alt": "High-contrast black and white 16mm double exposure, a drum kit under a bare bulb superimposed over a spinning plaid flannel shirt, the two images breathing together, dust and hard light bleeding through, heavy film grain, deep blacks, static shot"
+     },
+     {
+      "n": 34,
+      "secao": "refrão duplo",
+      "camera": "travelling, slow motion",
+      "prompt": "Slow motion side tracking shot, a young woman with loose dark hair, oversized plaid flannel, ripped jeans and combat boots runs across a rooftop at dusk with her arms spread wide, flannel flapping behind her like wings, low sun flaring behind her, gravel kicking up, orange sky and city silhouettes, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Slow motion side tracking shot across a rooftop at dusk, gravel kicking up, a plaid flannel shirt flapping like wings on a clothesline against a low flaring sun, orange sky and city silhouettes, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 35,
+      "secao": "bridge",
+      "camera": "dolly-in lento",
+      "prompt": "Very slow dolly-in inside a quiet garage, a young woman in an oversized plaid flannel, ripped jeans and combat boots sits alone on the concrete floor with her back against a guitar amp, knees pulled up, a faded red bandana held loosely in her hands, head bowed, a single dusty window casting soft warm light, everything still, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Very slow dolly-in inside a quiet garage, a guitar amp against the wall with a faded red bandana draped over it, a single dusty window casting soft warm light across the concrete floor, dust hanging still in the air, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 36,
+      "secao": "bridge",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up framed from the eyes upward, eyes lowered, a single tear running down through smudged dark eyeliner, loose dark hair falling over the forehead, soft side light from a window, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of a faded red bandana crumpled in soft window light on a concrete floor, a single drop of water darkening the fabric, dust drifting, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 37,
+      "secao": "bridge",
+      "camera": "estático",
+      "prompt": "Static medium shot inside a quiet garage, a young woman with loose dark hair, oversized plaid flannel and ripped jeans stands facing a dusty window, one palm pressed flat against the dirty glass, looking at her own faint reflection, the reflection showing her face and the warm street outside, soft dim side light, dust hanging still, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Static medium shot of a dusty garage window from inside, a handprint smeared on the dirty glass, the warm street outside visible through the grime, dust hanging still in dim side light, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 38,
+      "secao": "bridge",
+      "camera": "estático, detalhe",
+      "prompt": "Close-up of a faded red bandana laid flat on a concrete garage floor next to a pair of scuffed black combat boots, framed so tightly that only the bandana and the boots are visible, soft warm window light, dust drifting, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a faded red bandana laid flat on a concrete garage floor beside a coiled guitar cable, soft warm window light, dust drifting, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 39,
+      "secao": "solo de guitarra",
+      "camera": "handheld, close",
+      "prompt": "High-contrast black and white 16mm, extreme close-up of fingers bending strings on an electric guitar fretboard during a solo, framed so tightly that only the hand and the guitar neck are visible, hard light glinting off the frets, handheld camera, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, extreme close-up of an electric guitar fretboard and vibrating strings, hard light glinting off the frets and tuning pegs, handheld camera, heavy film grain, deep blacks"
+     },
+     {
+      "n": 40,
+      "secao": "solo de guitarra",
+      "camera": "estático, contra-plongée",
+      "prompt": "High-contrast black and white 16mm, low angle static shot of a guitarist leaning far back in silhouette during a solo, guitar neck pointing up into a bare bulb, thin haze glowing in the light, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, low angle static shot of an electric guitar raised toward a bare bulb, thin haze glowing in the light, heavy film grain, deep blacks"
+     },
+     {
+      "n": 41,
+      "secao": "solo de guitarra",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot, a young woman in an oversized plaid flannel and ripped jeans stands up from the garage floor and ties a faded red bandana back over her choppy dark hair, eyes down, chin lowered, jaw set with determination, warm window light, warm sepia-toned 16mm film look, heavy grain",
+      "alt": "Handheld medium shot, hands tying a faded red bandana knot, framed so tightly that only the hands and the bandana are visible, warm window light, warm sepia-toned 16mm film look, heavy grain"
+     },
+     {
+      "n": 42,
+      "secao": "solo de guitarra",
+      "camera": "pan",
+      "prompt": "High-contrast black and white 16mm, fast pan sweeping across a full rock band in a garage, cymbals flashing, guitar necks swinging, cables and amps, dust in hard light from a single bulb, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, fast pan sweeping across a garage rehearsal space, cymbals flashing, guitars leaning on amps, cables on the floor, dust in hard light from a single bulb, heavy film grain, deep blacks"
+     },
+     {
+      "n": 43,
+      "secao": "solo de guitarra",
+      "camera": "dolly-in, close",
+      "prompt": "High-contrast black and white 16mm, extreme close-up of a guitar amplifier speaker cone vibrating hard behind a torn grille cloth, dust jumping off the fabric with every pulse, hard raking side light, slow dolly-in, framed so tightly that only the speaker is visible, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, extreme close-up of a battered guitar amplifier grille cloth under hard raking side light, dust jumping off the fabric in pulses, slow dolly-in, heavy film grain, deep blacks"
+     },
+     {
+      "n": 44,
+      "secao": "solo de guitarra",
+      "camera": "estático, plano geral",
+      "prompt": "Wide static shot from inside a dim garage, a young woman in an oversized plaid flannel, bandana and combat boots kicks the metal garage door open, blazing low sun floods in, her silhouette standing in the flood of light with dust swirling, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Wide static shot from inside a dim garage, a metal garage door rolling open, blazing low sun flooding in across the concrete floor, dust swirling in the light, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 45,
+      "secao": "solo de guitarra",
+      "camera": "estático, plano médio",
+      "prompt": "Static medium shot from inside a garage, a young woman in an oversized plaid flannel, ripped jeans and combat boots stands in the open doorway edge-lit by blazing low sun, facing the street, both hands tightening the knot of a faded red bandana at the back of her head, chin raised, looking out, dust glowing around her, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Static medium shot from inside a garage of the open doorway flooded with blazing low sun, dust glowing in the light, a faded red bandana hanging from a nail by the door frame, the warm street beyond, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 46,
+      "secao": "refrões finais",
+      "camera": "travelling para trás",
+      "prompt": "Backward tracking shot down the middle of a neighborhood street at golden hour, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots leads a loose crowd of young people in flannel, thrift jackets and worn denim walking with wide confident strides, long shadows, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Backward tracking shot down the middle of a neighborhood street at golden hour, a loose crowd of silhouettes walking toward the camera far behind, long shadows on the asphalt, telephone wires and low rooftops, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 47,
+      "secao": "refrões finais",
+      "camera": "dolly-in",
+      "prompt": "High-contrast black and white 16mm, fast dolly-in on a young woman in an oversized plaid flannel and bandana at a microphone stand, head thrown back, one fist punching the air, shoulders rising, hard backlight from a bare bulb, dust, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, fast dolly-in on a microphone stand under hard backlight from a bare bulb, a raised fist in silhouette at the edge of frame, dust swirling, heavy film grain, deep blacks"
+     },
+     {
+      "n": 48,
+      "secao": "refrões finais",
+      "camera": "estático, close",
+      "prompt": "Close-up of scuffed black combat boots jumping into a street puddle, golden water splashing up in backlight, frayed denim hems, framed so tightly that only the boots and the water are visible, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of a street puddle exploding in golden backlit splashes, ripples and droplets frozen in warm light, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 49,
+      "secao": "refrões finais",
+      "camera": "zoom",
+      "prompt": "High-contrast black and white 16mm, a drummer hammering the kit, drumsticks blurred, hair flying, crash cymbal exploding in hard top light, fast optical zoom-in, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, drumsticks blurring across a snare and crash cymbal in hard top light, dust bursting upward, fast optical zoom-in, heavy film grain, deep blacks"
+     },
+     {
+      "n": 50,
+      "secao": "refrões finais",
+      "camera": "handheld",
+      "prompt": "Handheld wide shot on a rooftop at dusk, a young woman in an oversized plaid flannel and bandana and a group of friends in flannel and thrift denim jump together with arms raised against a burning orange sky, shirts flying, gravel kicking up, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Handheld wide shot on a rooftop at dusk, several silhouettes far away leaping with arms raised against a burning orange sky, water towers and antennas, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 51,
+      "secao": "refrões finais",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up framed from the eyes upward, eyes shut tight, sweat on the brow, dark hair stuck to the forehead, faded red bandana pushed askew, hard warm light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of a faded red bandana knot pushed askew over damp dark hair, seen from behind the head under hard warm light, bare bulb flaring beyond, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 52,
+      "secao": "refrões finais",
+      "camera": "handheld",
+      "prompt": "High-contrast black and white 16mm, handheld shot of a crowd of young people packed in a garage doorway clapping with their hands above their heads, silhouettes against blazing backlight, dust and haze, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, handheld shot of many raised hands clapping above heads in silhouette against blazing backlight in a garage doorway, dust and haze, heavy film grain, deep blacks"
+     },
+     {
+      "n": 53,
+      "secao": "refrões finais",
+      "camera": "estático",
+      "prompt": "Static medium shot, a young woman in an oversized plaid flannel, bandana, ripped jeans and combat boots spins fast in the middle of a garage, flannel flaring wide, thin silver chains flying, golden dust in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain",
+      "alt": "Static medium shot, a plaid flannel shirt spinning on a hook in the middle of a garage, thin silver chains swinging, golden dust in hard low sunlight from the open door, warm sepia-toned 16mm film look, heavy grain"
+     },
+     {
+      "n": 54,
+      "secao": "refrões finais",
+      "camera": "estático, contra-plongée do chão",
+      "prompt": "High-contrast black and white 16mm, very low angle static wide shot from the garage floor, scuffed combat boots planted in the foreground, a full rock band rising above under a bare bulb, dust, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, very low angle static wide shot from the garage floor, a guitar cable and a microphone stand base in the foreground, drum kit and amps rising above under a bare bulb, dust, heavy film grain, deep blacks"
+     },
+     {
+      "n": 55,
+      "secao": "refrões finais",
+      "camera": "estático, close",
+      "prompt": "Extreme close-up of a clenched fist with chipped black nail polish and thin silver rings thumping against the chest of a worn grey tee under an open plaid flannel, thin layered silver chains bouncing on impact, framed so tightly that only the fist, the chains and the shirt are visible, hard warm light, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Extreme close-up of thin layered silver chains bouncing against a worn grey tee under an open plaid flannel, catching hard warm light, framed so tightly that only the chains and the fabric are visible, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 56,
+      "secao": "refrões finais",
+      "camera": "estático, plano médio",
+      "prompt": "Static medium shot on a rooftop at the last light of dusk, a young woman with choppy dark hair under a faded red bandana, oversized open plaid flannel over a worn grey tee, thin silver chains, smudged dark eyeliner, whips her head around to look straight into the lens, chin level, a defiant half-smile and unimpressed eyes, wind in her hair, burning orange to blue sky behind her, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Static medium shot on a rooftop at the last light of dusk, a faded red bandana and loose dark hair whipping in the wind seen from behind the head, burning orange to blue sky and water towers beyond, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 57,
+      "secao": "refrões finais",
+      "camera": "handheld, contra-plongée",
+      "prompt": "High-contrast black and white 16mm, low angle handheld shot, a young woman in an oversized plaid flannel and bandana punches her fist up straight in front of a bare hanging bulb, head thrown back, throat tensed, jaw set, the bulb flaring behind her knuckles, dust in the hard light, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, low angle handheld shot of a raised fist in silhouette closing in front of a bare hanging bulb, the bulb flaring behind the knuckles, dust in the hard light, heavy film grain, deep blacks"
+     },
+     {
+      "n": 58,
+      "secao": "refrões finais",
+      "camera": "estático, close",
+      "prompt": "Close-up of scuffed black combat boots stomping hard on rooftop gravel, small stones and dust jumping up with each stomp against the last warm light of dusk, frayed denim hems, framed so tightly that only the boots and the gravel are visible, warm sepia-toned 16mm film look, heavy grain, static shot",
+      "alt": "Close-up of rooftop gravel bursting up in rhythmic puffs against the last warm light of dusk, small stones frozen mid-air, warm sepia-toned 16mm film look, heavy grain, static shot"
+     },
+     {
+      "n": 59,
+      "secao": "refrões finais",
+      "camera": "zoom",
+      "prompt": "High-contrast black and white 16mm, a drummer smashing a crash cymbal, hair flying, drumsticks blurred, dust exploding upward in hard top light, fast optical zoom-in, heavy film grain, deep blacks",
+      "alt": "High-contrast black and white 16mm, a crash cymbal exploding with light and dust in hard top light, blurred drumstick tips at the edge of frame, fast optical zoom-in, heavy film grain, deep blacks"
+     },
+     {
+      "n": 60,
+      "secao": "refrões finais",
+      "camera": "travelling lento em arco, slow motion",
+      "prompt": "Slow motion, slow arcing tracking shot, a young woman in an oversized plaid flannel, faded red bandana, ripped jeans and combat boots stands on a rooftop ledge at the last light of dusk, seen from behind, arms open wide, wind whipping her flannel and hair, city lights coming on below, deep orange to blue sky, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Slow motion, slow arcing tracking shot around a rooftop ledge at the last light of dusk, a plaid flannel shirt and red bandana whipping on a clothesline, city lights coming on below, deep orange to blue sky, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 61,
+      "secao": "refrões finais",
+      "camera": "estático, dupla exposição",
+      "prompt": "Warm sepia-toned 16mm double exposure, the profile of a young woman with a faded red bandana and wind-blown dark hair superimposed over a city skyline at dusk, low rooftops and water towers, streetlights beginning to glow through her silhouette, heavy grain, lifted blacks, static shot",
+      "alt": "Warm sepia-toned 16mm double exposure, a faded red bandana and plaid flannel blowing in the wind superimposed over a city skyline at dusk, streetlights beginning to glow through the fabric, heavy grain, lifted blacks, static shot"
+     },
+     {
+      "n": 62,
+      "secao": "refrões finais",
+      "camera": "estático, plano geral",
+      "prompt": "Static wide shot on a rooftop at blue dusk, a row of young people in flannel and thrift denim standing along the ledge in silhouette with their arms raised and linked against a deep orange to blue sky, a young woman with a bandana in the middle, city lights glowing below, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Static wide shot on a rooftop at blue dusk, several silhouettes far away standing along the ledge with arms raised against a deep orange to blue sky, water towers and antennas, city lights glowing below, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 63,
+      "secao": "refrões finais",
+      "camera": "handheld",
+      "prompt": "Handheld shot on a rooftop at blue dusk, a young woman in an oversized open plaid flannel, faded red bandana, ripped jeans and combat boots hops down from the ledge, lands with her boots planted in the gravel, and walks straight toward the camera until she passes out of frame, flannel swinging, not looking back, city lights glowing behind her, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Handheld shot on a rooftop at blue dusk, gravel scattering as a pair of scuffed combat boots land from the ledge and walk straight past the camera out of frame, city lights glowing beyond the ledge, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 64,
+      "secao": "outro",
+      "camera": "dolly-in lento",
+      "prompt": "Very slow dolly-in inside an empty garage, a lone microphone stand standing in a shaft of dusty late light from the open door, a faded red bandana tied around it fluttering slightly, amps and drum kit dark in the background, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Very slow dolly-in inside an empty garage, a lone microphone stand in a shaft of dusty late light, a faded red bandana tied around it fluttering slightly, dark shapes of amps in the background, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 65,
+      "secao": "outro",
+      "camera": "estático",
+      "prompt": "Static shot from outside at blue dusk, a rusted corrugated garage door rolling down and closing, the last strip of warm light from inside shrinking and disappearing beneath it, cobblestones and dry leaves in the foreground, a streetlight flickering on, warm sepia-toned 16mm film look, heavy grain, lifted blacks",
+      "alt": "Static shot from outside at blue dusk of a closed rusted corrugated garage door with peeling paint, a streetlight flickering on above it, cobblestones and dry leaves in the foreground, warm sepia-toned 16mm film look, heavy grain, lifted blacks"
+     },
+     {
+      "n": 66,
+      "secao": "outro",
+      "camera": "travelling rente ao chão",
+      "prompt": "Low camera inches above a cobblestone sidewalk at blue dusk, a pair of scuffed black combat boots and frayed denim hems walking away from the camera, framed so tightly that only the boots and ankles are visible, long shadow stretching back, streetlight glow on the stones, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow tracking shot, fade to black at the end",
+      "alt": "Low camera inches above a cobblestone sidewalk at blue dusk, dry leaves drifting across the stones, streetlight glow and a long shadow stretching away, warm sepia-toned 16mm film look, heavy grain, lifted blacks, slow tracking shot, fade to black at the end"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "uma-mulher-muito-sensual-dancando-muito",
    "mvd": "MVD#122",
    "titulo": "Lights On Me",
@@ -53,6 +609,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-1.mp4"
     },
@@ -61,6 +618,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-2.mp4"
     }
@@ -557,6 +1115,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-1.mp4"
     },
@@ -565,6 +1124,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-2.mp4"
     }
@@ -991,6 +1551,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-1.mp4"
     },
@@ -999,6 +1560,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-2.mp4"
     }
@@ -1376,6 +1938,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-1.mp4"
     },
@@ -1384,6 +1947,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-2.mp4"
     }
@@ -1803,6 +2367,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-1.mp4"
     },
@@ -1811,6 +2376,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-2.mp4"
     }
@@ -2224,6 +2790,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-1.mp4"
     },
@@ -2232,6 +2799,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-2.mp4"
     }
@@ -2624,6 +3192,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-1.mp4"
     },
@@ -2632,6 +3201,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-2.mp4"
     }
@@ -3076,6 +3646,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4"
     },
@@ -3084,6 +3655,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4"
     }
@@ -3567,6 +4139,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-1.mp4"
     },
@@ -3575,6 +4148,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-2.mp4"
     }
@@ -3959,6 +4533,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-1.mp4"
     },
@@ -3967,6 +4542,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-2.mp4"
     }
@@ -4410,6 +4986,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4"
     },
@@ -4418,6 +4995,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4"
     }
@@ -4848,6 +5426,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-1.mp4"
     },
@@ -4856,6 +5435,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-2.mp4"
     }
@@ -5226,6 +5806,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-1.mp4"
     },
@@ -5234,6 +5815,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-2.mp4"
     }
@@ -5628,6 +6210,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/stay-kling/clipe-1.mp4"
     }
@@ -5842,6 +6425,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-1.mp4"
     },
@@ -5850,6 +6434,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-2.mp4"
     }
@@ -6368,6 +6953,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-1.mp4"
     },
@@ -6376,6 +6962,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-2.mp4"
     }
@@ -6754,6 +7341,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-1.mp4"
     },
@@ -6762,6 +7350,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-2.mp4"
     }
@@ -7133,6 +7722,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-1.mp4"
     },
@@ -7141,6 +7731,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-2.mp4"
     }
@@ -7497,6 +8088,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-1.mp4"
     },
@@ -7505,6 +8097,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-2.mp4"
     }
@@ -7882,6 +8475,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-1.mp4"
     },
@@ -7890,6 +8484,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-2.mp4"
     }
@@ -8334,6 +8929,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4"
     },
@@ -8342,6 +8938,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4"
     }
@@ -8685,6 +9282,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-1.mp4"
     },
@@ -8693,6 +9291,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-2.mp4"
     }
@@ -9037,6 +9636,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-1.mp4"
     },
@@ -9045,6 +9645,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-2.mp4"
     }
@@ -9459,6 +10060,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-1.mp4"
     },
@@ -9467,6 +10069,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-2.mp4"
     }
@@ -9880,6 +10483,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/capa-v1.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-1.mp4"
     },
@@ -9888,6 +10492,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-2.mp4"
     }
@@ -10268,6 +10873,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": false,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4"
     },
@@ -10276,6 +10882,7 @@
      "nome": "faixa-2.mp3",
      "n": "2",
      "aprovada": false,
+     "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4"
     },
@@ -10284,6 +10891,7 @@
      "nome": "faixa.mp3",
      "n": "",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe.mp4"
     }
@@ -10622,6 +11230,7 @@
      "nome": "faixa-1.mp3",
      "n": "1",
      "aprovada": true,
+     "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro-kling/clipe.mp4"
     }
@@ -10903,6 +11512,273 @@
   }
  ],
  "analisevideo": [
+  {
+   "fonte": "analisevideo",
+   "slug": "marilia-mendonca-maiara-e-maraisa-coracao-bandid",
+   "titulo": "Marília Mendonça & Maiara e Maraisa - Coração Bandido (Vídeo Oficial)",
+   "quando": "2026-08-27T10:57:27",
+   "url": "https://www.youtube.com/watch?v=lxcpH6kvnmg&list=RDuEtGTq92Cmk&index=4",
+   "canal": "Marília Mendonça",
+   "duracao_s": 251,
+   "tipo": "clipe musical",
+   "resumo": "Performance musical ao vivo em estúdio temático com cenário industrial/construção civil. Marília Mendonça e a dupla Maiara & Maraisa cantam interagindo entre si sentadas e em pé ao redor de um sofá central. A fotografia aposta em contrastes de luz cênica azul, âmbar e magenta, com enquadramentos de palco e planos médios intimistas.",
+   "look": "teal & orange com realce de neon magenta e azul",
+   "paleta": [
+    "#081B2B",
+    "#D97706",
+    "#9333EA",
+    "#2563EB",
+    "#E11D48",
+    "#1E293B"
+   ],
+   "movimentos": [
+    "estatico",
+    "gimbal",
+    "handheld",
+    "pan",
+    "travelling"
+   ],
+   "ritmo": "lento",
+   "cortes_por_minuto": 8.36,
+   "musica": "sertanejo",
+   "bpm": 128,
+   "mood": "emotivo, melancólico e dramático",
+   "tags": [
+    "sertanejo",
+    "marilia mendonca",
+    "maiara e maraisa",
+    "patroas",
+    "coracao bandido",
+    "clipe ao vivo",
+    "estudio industrial",
+    "iluminacao de palco",
+    "sofrencia",
+    "musica brasileira"
+   ],
+   "referencias": [
+    "Marília Mendonça - Todos Os Cantos",
+    "Maiara & Maraisa - In Concert",
+    "Henrique & Juliano - Manifesto Musical",
+    "Estética MTV Unplugged",
+    "Shows acústicos de estúdio estilo Tiny Desk com iluminação cênica"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Marília Mendonça & Maiara e Maraisa - Coração Bandido (Vídeo Oficial)\nFonte: https://www.youtube.com/watch?v=lxcpH6kvnmg&list=RDuEtGTq92Cmk&index=4\nDuracao: 251s · tipo: clipe musical · confianca: 0.95\n\nPerformance musical ao vivo em estúdio temático com cenário industrial/construção civil. Marília Mendonça e a dupla Maiara & Maraisa cantam interagindo entre si sentadas e em pé ao redor de um sofá central. A fotografia aposta em contrastes de luz cênica azul, âmbar e magenta, com enquadramentos de palco e planos médios intimistas.\n\n## Fotografia\n- Paleta: #081B2B, #D97706, #9333EA, #2563EB, #E11D48, #1E293B\n- Luz: luz de palco teatral com spots direcionais, fitas LED neon nas estruturas e contra-luz com haze/neblina (refletores móveis, tubos LED e ribaltas)\n- Cor: mista · contraste alto · look teal & orange com realce de neon magenta e azul\n- Lente/DOF: 24-70mm e teleobjetiva para closes de palco · media a rasa nos closes\n- Textura: limpo digital\n\n## Camera (bloco a bloco)\n- 00:00–00:27 · geral · gimbal (lenta) · nivel — Apresentação do cenário e interação inicial descontraída entre as cantoras\n- 00:28–01:08 · medio · travelling (media) · nivel — Marília Mendonça assume o vocal principal andando até o sofá; enquadramento através de grades de contenção\n- 01:09–02:12 · geral · estatico (estatico) · contra-plongee — Visão ampla do galpão no refrão alternando com planos fechados no sofá\n- 02:13–03:20 · medio · pan (lenta) · nivel — Interações vocais e conversas informais entre as estrofes com movimentos laterais suaves\n- 03:21–04:11 · close · handheld (lenta) · nivel — Foco na performance emotiva de Maiara e Maraisa finalizando com abertura para a logo de encerramento\n\n## Montagem\n- 35 cortes · 8.36/min · ritmo lento\n- Transicoes: corte seco\n- match cut: False · jump cut: False · corte no beat: True\n- Velocidade: False\n\n## Trilha e som\n- Musica: True · sertanejo/sertanejo romantico / sofrência · ~128 bpm · G maior\n- Instrumentacao: violão acústico, acordeon, baixo elétrico, bateria, teclado/piano\n- Mood/energia: emotivo, melancólico e dramático · media\n- SFX: -\n- Estrutura: intro/papo 00:00-00:20, verso 1 Marília 00:21-00:46, refrão 00:47-01:35, verso 2 01:36-02:30, refrão Maiara & Maraisa 02:31-03:45, finalização/outro 03:46-04:11\n- Mixagem: voz com destaque nítido e compressão encorpada em primeiro plano sobre a base acústica ao vivo · sincronia: perfeita sincronia labial de áudio gravado ao vivo em estúdio\n\n**Prompt de musica (Suno/Udio):**\n```\nBrazilian sertanejo romantic ballad, 128 bpm, acoustic guitar arpeggios, expressive accordion, smooth bass, gentle live drum groove, emotional female vocal harmonies, melancholic and dramatic mood, studio acoustic live show style.\n```\nNegativo: `electronic drop, heavy distortion, synthwave, rap, autotune, noisy metal`\n\n## Texto e grafismo\n- Tipografia: sans-serif bold industrial e minimalista (Bebas Neue / Montserrat)\n- Animacao: fade in estático · legendas: None\n- Motion graphics: Letreiro cenográfico neon 'PATROAS', Card final com logo de Patroas e distribuidora\n\n## Pos\n- Efeitos: lens flare suave de holofotes, haze volumétrico · VFX: None\n- LUT sugerida: Warm Amber & Steel Blue Stage LUT · sound design: ambiência de palco e reverberação de estúdio tratada\n\n## Narrativa\n- Gancho (3s): Plano geral do cenário temático iluminado com apresentação informal do grupo ao microfone.\n- Estrutura: linear com introdução falada, passagem de estrofes entre solistas e ápice harmônico no refrão. · arco: inicia em tom descontraído de conversa, evolui para alta densidade dramática no canto e finaliza em cumplicidade bem-humorada.\n- CTA: card final com créditos das artistas e marcas.\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Brazilian sertanejo romantic ballad, 128 bpm, acoustic guitar arpeggios, expressive accordion, smooth bass, gentle live drum groove, emotional female vocal harmonies, melancholic and dramatic mood, studio acoustic live show style.\n\nNegativo: `electronic drop, heavy distortion, synthwave, rap, autotune, noisy metal`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> Three female Brazilian country singers performing live on an industrial studio stage, medium shot, slow smooth camera pan, 35mm lens with shallow depth of field, vibrant warm amber and deep blue stage lighting with volumetric haze beams, color palette #081B2B and #D97706, clean texture, warehouse set with safety signs and a modern sofa, duration 6 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Brazilian sertanejo romantic ballad, 128 bpm, acoustic guitar arpeggios, expressive accordion, smooth bass, gentle live drum groove, emotional female vocal harmonies, melancholic and dramatic mood, studio acoustic live show style.\n```\n\n## Como refazer (dificuldade: media)\n- Equipamento: Câmera 4K com lente 24-70mm f/2.8, Kit de refletores de palco / spots PAR LED, Tubos LED RGB, Máquina de fumaça / haze, Mesa de áudio com microfones sem fio\n1. Alugar um galpão ou estúdio amplo com teto industrial.\n2. Montar o cenário temático com placas de trânsito, cones, tambores decorativos e um sofá central sobre tapete estampado.\n3. Distribuir tubos de LED e luzes de fundo coloridas com máquina de haze para criar feixes visíveis.\n4. Posicionar as três vocalistas e orientar a movimentação e interação natural entre elas.\n5. Utilizar gimbal e tripé para alternar entre planos gerais amplos e planos médios detalhados das expressões.\n6. Gravar o áudio multipista ao vivo sincronizado com timecode de vídeo.\n7. Editar no beat musical valorizando as trocas de vocalista no refrão.\n\n## Prompts p/ gerador de video (5 cenas)\n\n### Cena 1 · 00:00–00:27 · ~27s — Abertura no Galpão\n> Three female singers standing on an industrial stage holding microphones and joking together, wide establishing shot, slow gimbal push-in, 24mm wide angle lens, dramatic magenta and yellow stage spotlights shining through haze, hex palette #081B2B and #D97706, clean digital look, industrial warehouse set with yellow barrels and safety barriers, duration 6 seconds.\n\nNegativo: `low quality, daylight, outdoor, crowded audience, dark faces`\n\n### Cena 2 · 00:28–01:08 · ~40s — Verso Intimista\n> A blonde female singer wearing glasses and a black dress walking toward a grey sofa while singing passionately, medium shot framed through metal construction fence in the foreground, smooth tracking camera movement, 50mm lens with soft bokeh, warm tungsten key light with blue rim lighting, hex palette #2563EB and #E11D48, rich contrast, duration 6 seconds.\n\nNegativo: `shaky cam, overexposed background, blurry singer, cartoon style`\n\n### Cena 3 · 01:09–02:12 · ~63s — Refrão Coletivo no Sofá\n> Three women sitting together on a modern sofa under bright stage lights singing an emotional chorus, medium full shot at eye level, static camera with subtle drift, 35mm lens, golden amber spotlights from above with subtle lens flare, hex palette #D97706 and #081B2B, concert lighting aesthetic, newspaper-patterned floor, duration 6 seconds.\n\nNegativo: `static expressions, dull lighting, low contrast, grain`\n\n### Cena 4 · 02:13–03:20 · ~67s — Solo de Maiara & Maraisa\n> A brunette singer holding a coffee mug and microphone singing with deep emotion, close-up shot, slow subtle handheld camera motion, 85mm portrait lens with creamy blurred background, neon purple LED light bars and warm key lighting on face, hex palette #9333EA and #D97706, filmic color grade, duration 5 seconds.\n\nNegativo: `blown highlights, harsh shadows, distorted face, wide angle distortion`\n\n### Cena 5 · 03:21–04:11 · ~50s — Clímax Harmônico e Final\n> The three female artists harmonizing together around the sofa smiling and singing with full energy, wide shot showing the glowing neon stage sign in the background, smooth crane pull-back camera motion, 28mm lens, vibrant multi-colored stage beams cutting through dark atmospheric smoke, hex palette #081B2B, #9333EA and #D97706, high production concert grade, duration 6 seconds.\n\nNegativo: `empty dark frame, glitch, artifacts, desaturated colors`\n\nReferencias: Marília Mendonça - Todos Os Cantos, Maiara & Maraisa - In Concert, Henrique & Juliano - Manifesto Musical, Estética MTV Unplugged, Shows acústicos de estúdio estilo Tiny Desk com iluminação cênica\nTags: sertanejo, marilia mendonca, maiara e maraisa, patroas, coracao bandido, clipe ao vivo, estudio industrial, iluminacao de palco, sofrencia, musica brasileira\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "hoje-tem-rodeio-ana-castela-clipe-oficial",
+   "titulo": "Hoje Tem Rodeio - Ana Castela (Clipe Oficial)",
+   "quando": "2026-08-27T10:50:36",
+   "url": "https://www.youtube.com/watch?v=tX7-EVaP_RY&list=RDEMTxXeEic3LNIlXQR26auBOw&index=2",
+   "canal": "Ana Castela",
+   "duracao_s": 114,
+   "tipo": "clipe musical",
+   "resumo": "Videoclipe sertanejo pop/agronejo de alta energia com tema de rodeio. Combina cenas de cortejo de caminhonetes ao entardecer com performances noturnas em arena iluminada por fogo, pirotecnia, montaria em touros e coreografias sincronizadas. Estetica visual moderna com forte contraste entre tons quentes de chamas e luzes de palco azuladas.",
+   "look": "contemporary country teal and orange com pretos densos",
+   "paleta": [
+    "#FF4500",
+    "#FF8C00",
+    "#0B1325",
+    "#1C3144",
+    "#E0A96D",
+    "#101010"
+   ],
+   "movimentos": [
+    "drone",
+    "estatico",
+    "handheld",
+    "orbital",
+    "steadicam",
+    "travelling"
+   ],
+   "ritmo": "acelerado",
+   "cortes_por_minuto": 39.5,
+   "musica": "Sertanejo",
+   "bpm": 130,
+   "mood": "energetico, festivo e triunfante",
+   "tags": [
+    "agronejo",
+    "sertanejo",
+    "ana castela",
+    "rodeio",
+    "clipe musical",
+    "fogo",
+    "danca",
+    "pirotecnia",
+    "caminhonetes",
+    "chapeu de cowboy",
+    "arena",
+    "montaria"
+   ],
+   "referencias": [
+    "Jacques Jr (diretor)",
+    "Estetica Agronejo / Sertanejo Universitario",
+    "Clipe 'Old Town Road' de Lil Nas X",
+    "Comerciais de Caminhonetes Ford/RAM nos EUA",
+    "Visual de show da PBR (Professional Bull Riders)"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Hoje Tem Rodeio - Ana Castela (Clipe Oficial)\nFonte: https://www.youtube.com/watch?v=tX7-EVaP_RY&list=RDEMTxXeEic3LNIlXQR26auBOw&index=2\nDuracao: 114s · tipo: clipe musical · confianca: 0.95\n\nVideoclipe sertanejo pop/agronejo de alta energia com tema de rodeio. Combina cenas de cortejo de caminhonetes ao entardecer com performances noturnas em arena iluminada por fogo, pirotecnia, montaria em touros e coreografias sincronizadas. Estetica visual moderna com forte contraste entre tons quentes de chamas e luzes de palco azuladas.\n\n## Fotografia\n- Paleta: #FF4500, #FF8C00, #0B1325, #1C3144, #E0A96D, #101010\n- Luz: key frontal suave + rim lights potentes de palco + efeitos praticos de fogo e farois de veiculos (canhoes de LED de show, fogo real, sol poente e farois de caminhonetes)\n- Cor: mista (quente dourado/fogo e frio em luzes de palco) · contraste alto · look contemporary country teal and orange com pretos densos\n- Lente/DOF: 24mm a 50mm e lentes anamorficas com flares horizontais · media a rasa em primeiros planos\n- Textura: limpa digital com leve halation nas fontes de luz\n\n## Camera (bloco a bloco)\n- 00:00–00:07 · detalhe · estatico (estatica) · nivel — Chapeu pendurado na parede com feixes de luz solar vazando por ripas\n- 00:08–00:19 · medio · handheld (normal) · nivel — Cantora interagindo e dancando na estrada de terra ao por do sol\n- 00:20–00:23 · geral · drone (constante) · plongee — Comboio de caminhonetes customizadas entrando na fazenda\n- 00:24–00:40 · medio · travelling (dinamica) · contra-plongee — Entrada na arena noturna com carros, chamas e palco iluminado\n- 00:41–00:58 · geral · steadicam (media) · nivel — Coreografia no centro da arena cercada por linha de fogo e faiscas\n- 00:59–01:13 · close · handheld (rapida) · nivel — Cortes rapidos entre preparacao do peao na porteira e performance musical\n- 01:14–01:35 · medio · orbital (rapida) · contra-plongee — Performance de danca intensa com caminhonetes ao fundo e manobras na terra\n- 01:36–01:50 · close · steadicam (media) · nivel — Cantora e plateia comemorando com montaria de touro em acao\n\n## Montagem\n- 75 cortes · 39.5/min · ritmo acelerado\n- Transicoes: corte seco, chicote, flash frame\n- match cut: False · jump cut: False · corte no beat: True\n- Velocidade: speed ramp pontual em montarias e manobras de carros\n\n## Trilha e som\n- Musica: True · Sertanejo/Agronejo / Sertanejo Pop · ~130 bpm · G maior\n- Instrumentacao: bateria eletronico-acustica, baixo, viola caipira / banjo, guitarra eletrica, sintetizadores, vocais femininos\n- Mood/energia: energetico, festivo e triunfante · alta\n- SFX: rugido de motor de caminhonete, mugido de boi, gritos de multidao, estalos de fogo\n- Estrutura: Intro 00:00-00:07, Verso 1 00:08-00:23, Pre-Refrão 00:24-00:30, Refrão 00:31-00:46, Verso 2 00:47-01:05, Pre-Refrão 01:06-01:12, Refrão e Climax 01:13-01:48, Outro 01:49-01:54\n- Mixagem: Voz em primeiro plano super processada e presente, batida grave punchy e ambiencia de plateia lateralizada · sincronia: altissima, dancas e cortes perfeitamente travados no beat\n\n**Prompt de musica (Suno/Udio):**\n```\nUpbeat modern Brazilian country agronejo anthem, 130 BPM, G major. Energetic punchy kick, driving acoustic banjo, heavy electric guitar riffs, modern synth bass, confident celebratory female vocals, stadium rodeo concert festival vibe.\n```\nNegativo: `slow ballad, sad, acoustic solo, low energy, lo-fi, dull, distorted vocals`\n\n## Texto e grafismo\n- Tipografia: futurista e arrojado (Sans-serif bold expandida com cantos angulares)\n- Animacao: fade in com brilho sutil · legendas: sem legendas de letra\n- Motion graphics: logo animada final da gravadora\n\n## Pos\n- Efeitos: lens flares anamorficos, faiscas pirotecnicas aumentadas, motion blur em drift · VFX: letras de fogo e controle de particulas pirotecnicas\n- LUT sugerida: Commercial Teal and Orange Punchy High-Contrast · sound design: impactos nos drops e rugidos sincronizados\n\n## Narrativa\n- Gancho (3s): Chapeu de cowboy pendurado em galpao banhado por luz dourada antes de ser retirado pela protagonista\n- Estrutura: Chegada a fazenda, concentracao, transformacao na grande festa de arena e apogeu do espetaculo · arco: Antecipacao diurna que culmina em uma explosao noturna de musica, danca, fogo e acao\n- CTA: nao possui cta verbal, encerra com vinheta institucional da produtora\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Upbeat modern Brazilian country agronejo anthem, 130 BPM, G major. Energetic punchy kick, driving acoustic banjo, heavy electric guitar riffs, modern synth bass, confident celebratory female vocals, stadium rodeo concert festival vibe.\n\nNegativo: `slow ballad, sad, acoustic solo, low energy, lo-fi, dull, distorted vocals`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A female country singer in cowboy hat and flame leather chaps dancing inside a circle of burning fire at night, rodeo arena stage lights, medium shot, dynamic steadicam push-in, 35mm lens, high contrast, warm orange fire and deep blue background #FF4500 #0B1325, cinematic anamorphic flares, 4s duration.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Upbeat modern Brazilian country agronejo anthem, 130 BPM, G major. Energetic punchy kick, driving acoustic banjo, heavy electric guitar riffs, modern synth bass, confident celebratory female vocals, stadium rodeo concert festival vibe.\n```\n\n## Como refazer (dificuldade: dificil)\n- Equipamento: Camera cinema 4K com lentes 24-70mm f/2.8, Gimbal/Steadicam, Drone, Sistema de iluminacao de palco LED RGB, Efeitos praticos de fogo seguro e pirotecnia, Caminhonetes customizadas e arena de areia\n1. Filmar planos diurnos na golden hour com comboio de caminhonetes e dancarinos na estrada rural.\n2. Montar iluminacao de show noturna com canhoes contraluz e flares direcionais na arena de terra.\n3. Instalar barreiras de fogo cenograficas controladas no chao em frente a linha de danca.\n4. Capturar a coreografia principal da cantora e bailarinas em planos medios e gerais com steadicam.\n5. Filmar takes de acao real de rodeio com peao e touro com velocidade alta de obturador para permitir speed ramp.\n6. Editar cortes sincronizados no bumbo da musica alternando show, plateia e montaria.\n7. Aplicar color grading teal/orange saturado e masterizar trilha sonora com sound design de motores e aplausos.\n\n## Prompts p/ gerador de video (6 cenas)\n\n### Cena 1 · 00:00–00:07 · ~7s — Abertura no Galpao\n> Black cowboy hat hanging on rustic barn wall, female hand grabs hat, detailed close up shot, static camera, 50mm shallow DOF, morning sunbeam slanting through wooden slits, warm earthy brown palette #E0A96D #101010, cinematic dusty haze and subtle grain, rustic ranch barn interior, 7s duration.\n\nNegativo: `bright digital lighting, flat look, modern props, motion blur, low quality`\n\n### Cena 2 · 00:08–00:23 · ~15s — Comboio ao Por do Sol\n> Lifted vintage pickup trucks driving along ranch road lined with palm trees, young people dancing in cowboy hats, wide aerial drone tracking shot moving forward, 24mm lens, golden hour sunset backlight, vibrant sky palette #FF8C00 #1C3144, clean crisp commercial grade, luxury country estate, 15s duration.\n\nNegativo: `night, dark shadows, rainy, low resolution, urban cityscape`\n\n### Cena 3 · 00:24–00:46 · ~22s — Chegada na Arena Noturna\n> Female singer walking into night rodeo stadium arena between giant monster trucks with bright headlights, low angle tracking shot moving backward, 35mm lens, intense amber headlights and arena floodlights #FF4500 #0B1325, high contrast glow, dusty dirt floor arena, 22s duration.\n\nNegativo: `daytime, static tripod, flat lighting, empty arena, noise`\n\n### Cena 4 · 00:47–01:12 · ~25s — Performance com Linha de Fogo\n> Female singer and synchronized cowgirl dancers performing energetic choreography behind a line of roaring ground flames, medium full frontal shot, smooth steadicam, 28mm lens, sharp blue stage backlights and golden fire glow #FF4500 #1C3144, high energy pop concert grade, outdoor concert arena, 25s duration.\n\nNegativo: `dark scene, blurred faces, jittery handheld, plain background`\n\n### Cena 5 · 01:13–01:35 · ~22s — Drift de Caminhonetes e Danca\n> Modified high clearance pickup truck drifting in dirt arena kicking up dust near dancers performing, circular orbital camera movement, 24mm wide angle, red strobe lighting and pyrotechnic sparks #FF8C00 #0B1325, motion blur and anamorphic flares, thrilling night rodeo arena, 22s duration.\n\nNegativo: `slow movement, daytime, studio green screen, poor lighting`\n\n### Cena 6 · 01:36–01:54 · ~18s — Climax de Rodeio e Plateia\n> Cowboy riding a bucking bull inside the arena pen while ecstatic crowd cheers in stands, fast cutting close-up to medium shot, handheld energetic camera, 50mm lens, stadium floodlights and warm glow #FF8C00 #E0A96D, cinematic speed ramp motion, packed rodeo festival night, 18s duration.\n\nNegativo: `empty stands, static shot, dull atmosphere, bad framing`\n\nReferencias: Jacques Jr (diretor), Estetica Agronejo / Sertanejo Universitario, Clipe 'Old Town Road' de Lil Nas X, Comerciais de Caminhonetes Ford/RAM nos EUA, Visual de show da PBR (Professional Bull Riders)\nTags: agronejo, sertanejo, ana castela, rodeio, clipe musical, fogo, danca, pirotecnia, caminhonetes, chapeu de cowboy, arena, montaria\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "gusttavo-lima-desejo-imortal-ao-vivo-no-mineirao",
+   "titulo": "Gusttavo Lima - DESEJO IMORTAL (Ao vivo no Mineirão)",
+   "quando": "2026-08-27T10:49:36",
+   "url": "https://www.youtube.com/watch?v=-UUe7g8-E0k",
+   "canal": "Gusttavo Lima Oficial",
+   "duracao_s": 191,
+   "tipo": "clipe musical",
+   "resumo": "Registro audiovisual ao vivo de megashow sertanejo em estádio lotado à noite. A performance do cantor no palco principal alterna com tomadas aéreas dinâmicas de drone FPV, planos do público emocionado e painéis de LED monumentais.",
+   "look": "stadium concert high-contrast com tons azulados e laranjas",
+   "paleta": [
+    "#0a0f1d",
+    "#d96b27",
+    "#2c6fbb",
+    "#e6b85c",
+    "#ffffff",
+    "#1a1a1a"
+   ],
+   "movimentos": [
+    "dolly-in",
+    "drone",
+    "handheld",
+    "orbital",
+    "steadicam"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 18.2,
+   "musica": "Sertanejo",
+   "bpm": 128,
+   "mood": "emocionante, romântico e apoteótico",
+   "tags": [
+    "sertanejo",
+    "ao vivo",
+    "estádio",
+    "mineirão",
+    "drone fpv",
+    "show de arena",
+    "iluminação de palco",
+    "bachata",
+    "multicâmera",
+    "pirotecnia"
+   ],
+   "referencias": [
+    "Coldplay: Live in São Paulo",
+    "Estética de DVD Sertanejo Moderno",
+    "Produções ao vivo de shows de arena",
+    "Fotografia de turnês internacionais de estádio",
+    "Vídeos com cobertura de drone FPV para festivais"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Gusttavo Lima - DESEJO IMORTAL (Ao vivo no Mineirão)\nFonte: https://www.youtube.com/watch?v=-UUe7g8-E0k\nDuracao: 191s · tipo: clipe musical · confianca: 0.98\n\nRegistro audiovisual ao vivo de megashow sertanejo em estádio lotado à noite. A performance do cantor no palco principal alterna com tomadas aéreas dinâmicas de drone FPV, planos do público emocionado e painéis de LED monumentais.\n\n## Fotografia\n- Paleta: #0a0f1d, #d96b27, #2c6fbb, #e6b85c, #ffffff, #1a1a1a\n- Luz: key light direcional de seguidor, backlight potente e volumetria com moving lights e telões de LED (canhões seguidores, refletores de estádio, painéis LED e pulseiras luminosas da plateia)\n- Cor: mista (fundo frio noturno e key lights quentes de palco) · contraste alto · look stadium concert high-contrast com tons azulados e laranjas\n- Lente/DOF: teleobjetiva 70-200mm para palco e grande-angular/olho de peixe para drone FPV · baixa nos closes do artista e profunda nas tomadas aéreas gerais\n- Textura: limpa e digital com leve difusão nas fontes de luz direta\n\n## Camera (bloco a bloco)\n- 00:00–00:20 · geral · drone (rapida) · birds-eye — Abertura com drone sobrevoando o Mineirão e fogos de artifício, cortando para a banda e o mar de público.\n- 00:21–00:54 · medio · steadicam (moderada) · nivel — Cantor no palco interpretando o primeiro verso, alternando com planos da plateia cantando.\n- 00:55–01:29 · geral · orbital (rapida) · contra-plongee — Drone FPV faz mergulho no estádio durante o refrão com iluminação pulsante e pirotecnia.\n- 01:30–02:09 · close · handheld (suave) · contra-plongee — Segundo verso com foco nas expressões do cantor, microfone e interação direta com a multidão.\n- 02:10–02:50 · medio · dolly-in (moderada) · nivel — Clímax do refrão com energia máxima, planos rápidos de corte entre vocalista, público e visão geral.\n- 02:51–03:11 · geral · drone (rapida) · birds-eye — Finalização épica com drone subindo sobre o estádio iluminado e transição para telas de encerramento.\n\n## Montagem\n- 58 cortes · 18.2/min · ritmo medio\n- Transicoes: corte seco, sobreposicao suave ocasional\n- match cut: False · jump cut: False · corte no beat: True\n- Velocidade: True\n\n## Trilha e som\n- Musica: True · Sertanejo/Bachata / Sertanejo Romântico · ~128 bpm · G major\n- Instrumentacao: violão acústico bachata, bongô, güira, baixo elétrico, teclado/sintetizador, bateria eletrônica, vocal principal\n- Mood/energia: emocionante, romântico e apoteótico · alta\n- SFX: reação da multidão em coro, explosão de pirotecnia\n- Estrutura: intro 00:00-00:20, verso 1 00:21-00:54, refrao 00:55-01:29, verso 2 01:30-02:09, refrao climax 02:10-02:50, final/outro 02:51-03:11\n- Mixagem: vocal principal nítido em primeiro plano, base instrumental percussiva de bachata bem definida e coro de estádio envolvente no background · sincronia: perfeita sincronia labial e cortes nos acentos da percussão\n\n**Prompt de musica (Suno/Udio):**\n```\nA live romantic stadium bachata and modern sertanejo anthem, 128 BPM, G major, acoustic nylon guitar arpeggios, crisp bongo, guira grooves, emotional male vocals, deep bass, massive crowd singalong chorus atmosphere, epic concert mix.\n```\nNegativo: `electronic drop, heavy metal, distorted guitars, lo-fi, studio silence, hip hop beats`\n\n## Texto e grafismo\n- Tipografia: letras 3D volumétricas e tipografia institucional sóbria (Sans-serif bold e serif decorativo nos telões)\n- Animacao: revela sutil e motion graphics em loop nos telões LED · legendas: None\n- Motion graphics: identidade visual 'Buteco' e 'Embaixador' nos telões de LED de alta definição\n\n## Pos\n- Efeitos: speed ramps sutis em tomadas FPV, lens flare anamórfico nas luzes de palco · VFX: efeitos visuais nos telões LED de palco\n- LUT sugerida: Live Concert Teal-Orange & Warm Highlight LUT · sound design: ambiência estéreo de multidão em estádio integrada ao master multipista\n\n## Narrativa\n- Gancho (3s): Tomada aérea espetacular do estádio Mineirão explodindo em fogos de artifício com ritmo envolvente.\n- Estrutura: Apresentação do espetáculo, desenvolvimento intimista da canção, explosão apoteótica de energia e celebração final. · arco: Ascensão contínua de intensidade emocional compartilhada entre o artista e o público.\n- CTA: Vinhetas de encerramento das produtoras e gravadora.\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> A live romantic stadium bachata and modern sertanejo anthem, 128 BPM, G major, acoustic nylon guitar arpeggios, crisp bongo, guira grooves, emotional male vocals, deep bass, massive crowd singalong chorus atmosphere, epic concert mix.\n\nNegativo: `electronic drop, heavy metal, distorted guitars, lo-fi, studio silence, hip hop beats`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A charismatic male singer performing on a massive concert stadium stage at night, medium shot, contra-plongee, smooth slow dolly-in, 50mm lens shallow depth of field, warm stage spotlight with dramatic blue backlight, palette #0a0f1d, #d96b27, #2c6fbb, clean concert grading with light atmospheric haze, packed outdoor football stadium filled with shining phone lights, 4 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: A live romantic stadium bachata and modern sertanejo anthem, 128 BPM, G major, acoustic nylon guitar arpeggios, crisp bongo, guira grooves, emotional male vocals, deep bass, massive crowd singalong chorus atmosphere, epic concert mix.\n```\n\n## Como refazer (dificuldade: dificil)\n- Equipamento: Sistema multicâmera com sensores full-frame e lentes teleobjetivas, Drone FPV de cinema para voos acrobáticos sobre o público, Equipamento de iluminação de grande porte para arenas e telões LED, Mesa de som multipista e microfone dinâmico sem fio profissional\n1. Planejar plano de corte multicâmera cobrindo palco, plateia e ângulos aéreos.\n2. Configurar iluminação de palco com feixes volumétricos e telões sincronizados.\n3. Operar drone FPV com velocidade e controle sobre o teto do estádio.\n4. Capturar áudio multipista da banda e microfones dedicados para som ambiente da plateia.\n5. Realizar a montagem no beat da percussão alternando entre artista e multidão.\n6. Aplicar color grading de alto contraste realçando luzes douradas e sombras azuis da noite.\n\n## Prompts p/ gerador de video (6 cenas)\n\n### Cena 1 · 00:00–00:20 · ~20s — Abertura Aérea e Fogos no Estádio\n> Aerial view of a giant packed football stadium at night illuminated by stage lights and massive fireworks shooting into the dark sky, extreme wide birds-eye shot, fast swooping drone movement, wide 16mm lens deep focus, volumetric stage beams and warm stadium lighting, palette #0a0f1d, #d96b27, #ffffff, sharp contrast and clean atmospheric smoke, modern stadium arena, 5 seconds.\n\nNegativo: `daylight, empty stadium, blurry, flat lighting, low resolution, desaturated`\n\n### Cena 2 · 00:21–00:54 · ~33s — Primeiro Verso no Palco\n> A stylish bearded male singer wearing black jacket holding a microphone and singing with deep emotion, medium close-up, eye-level angle, gentle handheld drift, 85mm portrait lens with soft bokeh, direct warm follow-spot and vivid LED screen background, palette #0a0f1d, #2c6fbb, #e6b85c, cinematic concert look with subtle lens halation, concert stage, 4 seconds.\n\nNegativo: `ugly faces, motion blur, overexposed face, static pose, flat lighting`\n\n### Cena 3 · 00:55–01:29 · ~34s — Primeiro Refrão e Mergulho FPV\n> Dynamic FPV drone diving from the stadium roof towards the illuminated main stage and massive crowd raising glowing wristbands, wide establishing shot, high angle fast descent, ultra-wide 12mm lens deep depth of field, pulsing moving beam lights and stage fireworks, palette #0a0f1d, #d96b27, #2c6fbb, vivid festival color grade with subtle motion blur, giant concert arena, 4 seconds.\n\nNegativo: `shaky footage, dark underexposed, daylight, empty seats, distorted geometry`\n\n### Cena 4 · 01:30–02:09 · ~39s — Interpretação Intensa e Plateia\n> A passionate male latin pop singer performing under dramatic stage lighting with thousands of ecstatic fans singing along in the background, close-up low angle shot, slow steadicam pan, 70mm lens with shallow focus on the singer, bright keylight with warm rim lighting, palette #0a0f1d, #e6b85c, #d96b27, rich contrast and crisp concert texture, stadium stage at night, 4 seconds.\n\nNegativo: `closed eyes, boring performance, plastic skin, bad anatomy, flat stage`\n\n### Cena 5 · 02:10–02:50 · ~40s — Clímax Apoteótico do Refrão\n> High-energy stadium concert climax with the male artist raising his arms on a glowing walkway while golden sparklers and stage lights flash, full shot, contra-plongee, fast crane push-in, 35mm wide lens, intense stage searchlights and warm glow, palette #0a0f1d, #d96b27, #e6b85c, cinematic stadium blockbuster grade with golden halation, mega concert stage, 5 seconds.\n\nNegativo: `dull lighting, no crowd, slow action, grainy noise, washed out colors`\n\n### Cena 6 · 02:51–03:11 · ~20s — Encerramento e Ascensão Aérea\n> The singer waving goodbye and pointing to the audience as camera ascends smoothly above the entire stadium glowing in blue and amber lights, extreme wide shot, birds-eye view, fast ascending drone, 18mm lens deep depth of field, stadium floodlights cutting through night haze, palette #0a0f1d, #2c6fbb, #ffffff, epic concert movie finish grade, full arena night landscape, 4 seconds.\n\nNegativo: `abrupt stop, glitch, empty stadium, daytime, cloudy dark murky frame`\n\nReferencias: Coldplay: Live in São Paulo, Estética de DVD Sertanejo Moderno, Produções ao vivo de shows de arena, Fotografia de turnês internacionais de estádio, Vídeos com cobertura de drone FPV para festivais\nTags: sertanejo, ao vivo, estádio, mineirão, drone fpv, show de arena, iluminação de palco, bachata, multicâmera, pirotecnia\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "gusttavo-lima-bala-alojada",
+   "titulo": "Gusttavo Lima - Bala Alojada",
+   "quando": "2026-08-27T10:48:13",
+   "url": "https://youtu.be/PLq2A_GJbDw",
+   "canal": "Gusttavo Lima Oficial",
+   "duracao_s": 219,
+   "tipo": "clipe musical",
+   "resumo": "Registro ao vivo de superprodução sertaneja em festival de arena (Festa do Peão de Americana). O cantor performa uma bachata/sertanejo romântico cercado por iluminação de palco monumental em tons vermelhos e brancos, alternando planos fechados dramáticos com planos gerais aéreos do estádio lotado. Visual imersivo com fumaça cênica, telões LED gigantes e dupla exposição.",
+   "look": "Concert film de alto orçamento, vermelho e preto dominante, flares anamórficos e névoa difusa",
+   "paleta": [
+    "#000000",
+    "#b80b0b",
+    "#ff2a2a",
+    "#e5e5e5",
+    "#1a1a24",
+    "#f4c430"
+   ],
+   "movimentos": [
+    "dolly-in",
+    "drone",
+    "estatico",
+    "gimbal",
+    "handheld",
+    "steadicam",
+    "travelling"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 23.3,
+   "musica": "Sertanejo",
+   "bpm": 128,
+   "mood": "Apaixonado, dramático, emotivo e envolvente",
+   "tags": [
+    "sertanejo",
+    "bachata",
+    "show ao vivo",
+    "festa do peão americana",
+    "clipe musical",
+    "gusttavo lima",
+    "palco gigante",
+    "arena",
+    "iluminação vermelha",
+    "drone noturno",
+    "bala alojada"
+   ],
+   "referencias": [
+    "DVDs Ao Vivo de Gusttavo Lima (Buteco)",
+    "Direção de vídeo de Anselmo Troncoso / Fernando Trevisan Catatau",
+    "Produções de concertos de grande arena (Latin Grammy Live Series)",
+    "Estética de iluminação de shows de Romeo Santos e Prince Royce"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Gusttavo Lima - Bala Alojada\nFonte: https://youtu.be/PLq2A_GJbDw\nDuracao: 219s · tipo: clipe musical · confianca: 0.95\n\nRegistro ao vivo de superprodução sertaneja em festival de arena (Festa do Peão de Americana). O cantor performa uma bachata/sertanejo romântico cercado por iluminação de palco monumental em tons vermelhos e brancos, alternando planos fechados dramáticos com planos gerais aéreos do estádio lotado. Visual imersivo com fumaça cênica, telões LED gigantes e dupla exposição.\n\n## Fotografia\n- Paleta: #000000, #b80b0b, #ff2a2a, #e5e5e5, #1a1a24, #f4c430\n- Luz: Contraste teatral com canhões de luz de recorte traseiros (rim light potente), spots direcionais zenitais e telões LED como backlight/key (Painéis de LED, moving heads, canhões de luz de festival e fumaça volumétrica)\n- Cor: Mista com forte dominante quente (vermelho vivo e tungstênio) contrastando com sombras frias · contraste Alto · look Concert film de alto orçamento, vermelho e preto dominante, flares anamórficos e névoa difusa\n- Lente/DOF: Teleobjetiva (70-200mm) para closes de palco, grande-angular (24mm) e lente de drone em planos gerais · Rasa em closes e média/profunda em planos abertos e aéreos\n- Textura: Limpo, textura digital cinematográfica nítida\n\n## Camera (bloco a bloco)\n- 00:00–00:11 · geral · dolly-in (lenta) · contra-plongee — Abertura com logo do festival e introdução com o artista de costas e sobreposições dos músicos\n- 00:11–00:43 · close · steadicam (suave) · nivel — Primeiro verso intimista focado no cantor com transições e sobreposições de público\n- 00:43–01:00 · geral · drone (media) · birds-eye — Visão aérea ampla da arena de Americana revelando a escala do palco e plateia\n- 01:00–01:52 · medio · gimbal (media) · contra-plongee — Performance no refrão alternando cantor, público e banda com cortes no ritmo\n- 01:52–02:08 · medio · travelling (dinamica) · nivel — Cantor se aproxima dos violonistas no solo instrumental de bachata\n- 02:08–02:53 · detalhe · handheld (agil) · nivel — Planos rápidos do dedilhado do violão, percussão, expressão do vocalista e reações da plateia\n- 02:53–03:13 · geral · drone (lenta) · birds-eye — Grande plano aéreo noturno no clímax do refrão mostrando a multidão\n- 03:13–03:39 · medio · estatico (lenta) · contra-plongee — Encerramento e agradecimentos do cantor interagindo com os músicos no centro do palco\n\n## Montagem\n- 85 cortes · 23.3/min · ritmo medio\n- Transicoes: corte seco, dissolucao cruzada, dupla exposicao/sobreposicao\n- match cut: False · jump cut: False · corte no beat: True\n- Velocidade: False\n\n## Trilha e som\n- Musica: True · Sertanejo/Bachata Romântica / Sertanejo Universitário · ~128 bpm · Si menor (Bm)\n- Instrumentacao: Voz solo, Violão de nylon/aço com dedilhado de bachata, Bongo e güira (percussão latina), Baixo elétrico, Bateria acústica, Teclado/Sintetizador\n- Mood/energia: Apaixonado, dramático, emotivo e envolvente · alta\n- SFX: Gritos e aplausos da multidão em arena\n- Estrutura: Intro 00:00-00:11, Verso 1 00:11-00:43, Pré-Refrão 00:43-01:00, Refrão 1 01:00-01:52, Solo Violão 01:52-02:07, Verso 2 02:07-02:23, Refrão 2 02:23-03:13, Outro instrumental 03:13-03:39\n- Mixagem: Voz principal destacada e brilhante no centro, violão dedilhado estéreo bem definido, percussão presente e coro da multidão nas laterais · sincronia: Sincronia labial e instrumental precisa de show gravado ao vivo\n\n**Prompt de musica (Suno/Udio):**\n```\nBrazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up.\n```\nNegativo: `electronic drop, techno, autotune heavy, distorted rock, lo-fi, acoustic only, slow funeral tempo`\n\n## Texto e grafismo\n- Tipografia: Serifada clássica elegante com toque moderno e logos de patrocinadores/gravadora (Didot / Bodoni (título principal))\n- Animacao: Fade-in sutil com brilho estático · legendas: None\n- Motion graphics: Logo do evento 'Festa do Peão Americana' e vinheta final de créditos\n\n## Pos\n- Efeitos: Lens flares óticos, Dupla exposição / ghosting suave nas transições, Glow nas altas luzes · VFX: None\n- LUT sugerida: Concert Red & Gold Pop LUT, alto contraste com pretos fechados · sound design: Masterização estéreo/multicanal ao vivo com ambiência balanceada do público\n\n## Narrativa\n- Gancho (3s): Logo imponente no escuro seguido pelo cantor de costas sob iluminação dramática anunciando o espetáculo\n- Estrutura: Show ao vivo estruturado na progressão emocional da canção romântica · arco: Inicia em tom intimista e contido, cresce com a entrada da percussão e atinge o ápice catártico no coro coletivo da arena\n- CTA: Cards de gravadora e produtora ao final\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Brazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up.\n\nNegativo: `electronic drop, techno, autotune heavy, distorted rock, lo-fi, acoustic only, slow funeral tempo`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A charismatic male singer in a dark suit performing passionately on a massive stadium concert stage, holding a golden microphone, dramatic low angle medium shot, smooth gimbal tracking, 50mm lens, shallow depth of field, striking red and white stage spotlights cutting through haze, deep black #000000 background with intense red #ff2a2a glow, cinematic 4k live concert look with subtle halation, crowded night festival arena, 5s duration.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Brazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up.\n```\n\n## Como refazer (dificuldade: dificil)\n- Equipamento: Câmeras de cinema (ex: Sony FX9 / Arri Alexa Mini), Lentes teleobjetiva e grande-angular cinema, Drone para filmagens noturnas, Estrutura de palco completa com moving lights e painéis LED, Sistema de captação multicanal de áudio ao vivo\n1. Montar palco com grande painel de LED traseiro e grid de moving lights vermelhos e brancos.\n2. Posicionar câmeras em ângulos estratégicos: drone no ar, grua/gimbal na frente do palco e câmeras fixas nos instrumentos.\n3. Configurar iluminação para alternar entre clima dramático no verso e explosão luminosa no refrão.\n4. Capturar a performance musical com áudio direto da mesa e microfones de plateia.\n5. Editar alternando planos fechados do cantor, detalhes instrumentais e gerais da plateia nos tempos fortes da música.\n6. Aplicar gradação de cor reforçando vermelhos vivos, pretos profundos e sobreposições suaves nas transições.\n\n## Prompts p/ gerador de video (6 cenas)\n\n### Cena 1 · 00:00–00:11 · ~11s — Abertura e Título\n> Rear view of male singer in dark coat standing before colossal festival stage, wide low angle shot, slow push in, 35mm lens, atmospheric red stage lights and white spotlights piercing volumetric fog, palette of #000000 and #b80b0b, cinematic concert grade with clean texture, massive concert arena at night, 5s duration.\n\nNegativo: `daylight, empty stage, cartoon, blurry, low resolution, flat lighting`\n\n### Cena 2 · 00:11–00:43 · ~32s — Verso Intimista\n> Bearded male vocalist singing emotionally into gold microphone, close-up eye-level shot, slow floating steadicam, 85mm lens with creamy bokeh, warm rim light from LED screen against dark background, palette #000000, #ff2a2a and #f4c430, crisp digital concert look, concert stage at night, 6s duration.\n\nNegativo: `overexposed faces, shaky camera, daytime, noisy footage, distorted features`\n\n### Cena 3 · 00:43–01:00 · ~17s — Plano Aéreo da Arena\n> Huge outdoor stadium arena packed with thousands of glowing people around massive illuminated concert stage, extreme wide bird-eye drone shot, slow sweeping pan, 24mm wide lens, bright stage light show cutting through night sky, palette #000000, #ff2a2a and #e5e5e5, cinematic sharp night grade, night festival stadium, 5s duration.\n\nNegativo: `daytime, empty venue, pixelated, blurry drone motion, oversaturated colors`\n\n### Cena 4 · 01:52–02:08 · ~16s — Interação com Músicos no Solo\n> Male singer smiling and interacting with acoustic guitar player during energetic solo, medium two-shot low angle, dynamic smooth tracking, 50mm lens with shallow depth of field, flashing red moving head lights and haze, palette #000000, #b80b0b and #f4c430, cinematic live music grade, festival concert stage, 5s duration.\n\nNegativo: `static, dull lighting, low contrast, washed out colors, amateur look`\n\n### Cena 5 · 02:23–03:13 · ~50s — Clímax do Refrão e Plateia\n> Singer passionately gesturing to huge cheering crowd while stage lights pulse, medium wide low angle shot, sweeping camera pedestal move, 35mm lens, intense volumetric light beams and white flares across red stage glow, palette #ff2a2a, #000000 and #e5e5e5, vibrant filmic concert look, packed night arena concert, 6s duration.\n\nNegativo: `underexposed, flat, amateur video, washed out reds, empty stands`\n\n### Cena 6 · 03:13–03:39 · ~26s — Encerramento e Celebração\n> Singer waving with arms raised surrounded by his band as music concludes, wide frontal low angle shot, slow tilt up, 28mm lens, warm stage wash lights fading to atmospheric red haze, palette #000000, #b80b0b and #f4c430, elegant concert finish grade, night festival stage, 5s duration.\n\nNegativo: `abrupt cuts, dark muddy footage, distorted anatomy, daylight`\n\nReferencias: DVDs Ao Vivo de Gusttavo Lima (Buteco), Direção de vídeo de Anselmo Troncoso / Fernando Trevisan Catatau, Produções de concertos de grande arena (Latin Grammy Live Series), Estética de iluminação de shows de Romeo Santos e Prince Royce\nTags: sertanejo, bachata, show ao vivo, festa do peão americana, clipe musical, gusttavo lima, palco gigante, arena, iluminação vermelha, drone noturno, bala alojada\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "ana-castela-solteiro-forcado-dvd-boiadeira-inter",
+   "titulo": "Ana Castela - Solteiro Forçado (DVD Boiadeira Internacional)",
+   "quando": "2026-08-27T10:34:33",
+   "url": "https://www.youtube.com/watch?v=f58W_FVXBLg&list=RDEMTxXeEic3LNIlXQR26auBOw&start_radio=1",
+   "canal": "Ana Castela",
+   "duracao_s": 199,
+   "tipo": "clipe musical",
+   "resumo": "Registro audiovisual ao vivo de mega show sertanejo em arena noturna lotada. A cantora performa sobre um piano de cauda posicionado na passarela central, cercada por público massivo, iluminação cênica monumental, telões LED e efeitos pirotécnicos.",
+   "look": "high-end live concert look com contraste elevado e saturação azul/magenta",
+   "paleta": [
+    "#070B19",
+    "#152A65",
+    "#00D2FF",
+    "#FF5500",
+    "#E0E6ED",
+    "#0B0D13"
+   ],
+   "movimentos": [
+    "drone",
+    "steadicam",
+    "travelling"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 23.5,
+   "musica": "sertanejo",
+   "bpm": 128,
+   "mood": "emocional, grandioso e catártico",
+   "tags": [
+    "sertanejo",
+    "show ao vivo",
+    "dvd musical",
+    "ana castela",
+    "arena",
+    "drone fpv",
+    "pirotecnia",
+    "piano na passarela",
+    "luz de palco",
+    "clipe musical"
+   ],
+   "referencias": [
+    "DVDs ao vivo de sertanejo moderno (Unicórnio Filmes / Anselmo Troncoso)",
+    "Turnês de estádio de Taylor Swift e Beyoncé (produção visual e FPV)",
+    "Festivais de música country americana em arenas",
+    "Estética de transmissão multicâmera 4K HDR"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Ana Castela - Solteiro Forçado (DVD Boiadeira Internacional)\nFonte: https://www.youtube.com/watch?v=f58W_FVXBLg&list=RDEMTxXeEic3LNIlXQR26auBOw&start_radio=1\nDuracao: 199s · tipo: clipe musical · confianca: 0.95\n\nRegistro audiovisual ao vivo de mega show sertanejo em arena noturna lotada. A cantora performa sobre um piano de cauda posicionado na passarela central, cercada por público massivo, iluminação cênica monumental, telões LED e efeitos pirotécnicos.\n\n## Fotografia\n- Paleta: #070B19, #152A65, #00D2FF, #FF5500, #E0E6ED, #0B0D13\n- Luz: iluminação de palco de alta potência com moving heads, canhões de luz de recorte, feixes azuis volumétricos e pirotecnia quente (canhões de LED, moving lights, telão de LED e fogo pirotécnico)\n- Cor: fria com realces quentes · contraste alto · look high-end live concert look com contraste elevado e saturação azul/magenta\n- Lente/DOF: zoom teleobjetiva 70-200mm, grande-angular 16-35mm e lente ultra-wide de drone · variável (rasa nos closes com teleobjetiva e infinita nos planos aéreos)\n- Textura: limpo digital com leve bloom/halation nos pontos de luz\n\n## Camera (bloco a bloco)\n- 00:00–00:30 · geral · drone (media) · nivel — Abertura com plano aéreo zenital e geral revelando o palco monumental e a cantora no piano.\n- 00:30–01:05 · medio · steadicam (lenta) · contra-plongee — Planos médios da artista cantando na passarela alternados com reação do público e roda gigante ao fundo.\n- 01:05–01:45 · plano-sequencia · drone (rapida) · birds-eye — Mergulhos dinâmicos de drone FPV sobrevoando a multidão durante o refrão e subindo até o palco.\n- 01:45–02:40 · close · travelling (media) · nivel — Cobertura emocional com closes focados na interpretação vocal, intercalados com fusões e duplas exposições.\n- 02:40–03:19 · geral · drone (rapida) · plongee — Clímax com voo de drone revelando pirotecnia, fogos de artifício e a magnitude da plateia.\n\n## Montagem\n- 78 cortes · 23.5/min · ritmo medio\n- Transicoes: corte seco, dissolve, superimposicao, whip pan digital\n- match cut: False · jump cut: False · corte no beat: True\n- Velocidade: True\n\n## Trilha e som\n- Musica: True · sertanejo/agronejo romantico / sertanejo pop ao vivo · ~128 bpm · E maior\n- Instrumentacao: piano acústico, voz feminina, bateria ao vivo, baixo elétrico, violão de aço, sanfona, sintetizadores\n- Mood/energia: emocional, grandioso e catártico · alta\n- SFX: coro e aplausos de multidão, explosão de chamas pirotécnicas\n- Estrutura: intro piano 00:00-00:06, verso 1 00:07-00:44, refrão 1 00:45-01:26, verso 2 01:27-02:00, refrão 2 02:01-02:41, clímax/solo 02:42-03:08, finalização 03:09-03:19\n- Mixagem: Voz principal destacada e brilhante no centro, piano nítido e coro da plateia integrado ao ambiente espacial. · sincronia: Total sincronia labial e cortes alinhados às quedas e dinâmicas da bateria.\n\n**Prompt de musica (Suno/Udio):**\n```\nEmotional Brazilian sertanejo pop live ballad, 128 BPM, Key of E Major. Grand acoustic piano intro, soaring passionate female lead vocals, energetic stadium drums, acoustic rhythm guitar, subtle accordion fills. Building from intimate ballad into an explosive stadium chorus with loud singing crowd ambience.\n```\nNegativo: `electronic drop, lo-fi, autotune heavy, monotone vocals, distorted bass, dark industrial`\n\n## Texto e grafismo\n- Tipografia: logotipos institucionais vetoriais no encerramento (Sans-serif bold e display)\n- Animacao: fade in e fade out sutil · legendas: None\n- Motion graphics: efeitos de grafismos abstratos e silhuetas projetadas no telão LED de fundo\n\n## Pos\n- Efeitos: dupla exposição, light leaks, glow anamórfico · VFX: projeções em telões LED e composição de superimposições\n- LUT sugerida: Concert Blue and Amber LUT, alta saturação em azuis e realce em tons de pele · sound design: ambiência de estádio, espacialização estéreo do público e pirotecnia\n\n## Narrativa\n- Gancho (3s): Tomada aérea impressionante de arena noturna com passarela iluminada e multidão.\n- Estrutura: Show ao vivo com progressão emotiva da canção, alternando cantora, pianista, multidão e arena. · arco: Inicia íntimo com piano e voz solo, escala para explosão coletiva no refrão e culmina em espetáculo visual pirotécnico.\n- CTA: Exibição dos logotipos das produtoras no final.\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Emotional Brazilian sertanejo pop live ballad, 128 BPM, Key of E Major. Grand acoustic piano intro, soaring passionate female lead vocals, energetic stadium drums, acoustic rhythm guitar, subtle accordion fills. Building from intimate ballad into an explosive stadium chorus with loud singing crowd ambience.\n\nNegativo: `electronic drop, lo-fi, autotune heavy, monotone vocals, distorted bass, dark industrial`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A female country singer in a sparkling white outfit and cowboy hat sings passionately on top of a grand piano on a concert runway. Dynamic sweeping drone shot pulling back into a high wide angle. Fast smooth motion. 24mm wide lens, deep depth of field. Epic night stadium concert lighting with vibrant volumetric blue beams and warm orange flames. Palette #070B19, #152A65, #00D2FF, #FF5500. Polished live DVD concert aesthetic with clean contrast and subtle halation. Huge packed arena background with thousands of phone lights. Approximate duration 6 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Emotional Brazilian sertanejo pop live ballad, 128 BPM, Key of E Major. Grand acoustic piano intro, soaring passionate female lead vocals, energetic stadium drums, acoustic rhythm guitar, subtle accordion fills. Building from intimate ballad into an explosive stadium chorus with loud singing crowd ambience.\n```\n\n## Como refazer (dificuldade: dificil)\n- Equipamento: Drone FPV para filmagem em arena, Câmeras de cinema com lentes teleobjetivas e grande-angulares, Estrutura de palco com iluminação DMX e telão LED, Sistema de som multipista ao vivo e pirotecnia controlada\n1. Montar palco monumental com passarela estendida e piano central.\n2. Configurar iluminação DMX com feixes azuis volumétricos e telões cênicos.\n3. Posicionar câmeras em grua, steadicam e drones FPV sincronizados.\n4. Gravar performance ao vivo com captação multipista de áudio e microfonação de público.\n5. Executar disparos sincronizados de pirotecnia nos refrões.\n6. Montar o vídeo alternando cortes rítmicos, planos aéreos dinâmicos e fusões visuais.\n7. Colorir no look clássico de show (tons azuis intensos com realces quentes).\n\n## Prompts p/ gerador de video (5 cenas)\n\n### Cena 1 · 00:00–00:30 · ~30s — Abertura Monumental e Piano\n> High top-down zenital shot moving down towards a female singer standing on top of a white piano on a long stage catwalk. Smooth crane descent. 28mm lens, deep focus. Night stadium concert lighting with vivid blue beams and backdrop screens. Palette #070B19, #152A65, #00D2FF, #FFFFFF. Clean concert broadcast look with light bloom. Packed stadium with cheering crowd. 5 seconds.\n\nNegativo: `daylight, empty stadium, blurry, shaky, low quality`\n\n### Cena 2 · 00:31–01:05 · ~34s — Performance Intensa na Passarela\n> Medium low angle shot of a cowgirl singer in white sequin outfit holding a microphone and singing emotionally. Slow steadicam circling move. 50mm lens with shallow depth of field. Blue rim lighting and glowing carnival ferris wheel in the distant background. Palette #070B19, #152A65, #00D2FF, #FF5500. Crisp digital film look with subtle lens flare. Open night concert arena. 4 seconds.\n\nNegativo: `bad anatomy, distorted face, daylight, dark underexposed`\n\n### Cena 3 · 01:06–01:45 · ~39s — Refrão com Rasante de Drone\n> Fast FPV drone swooping rapidly low over an immense crowd of thousands of fans with waving hands and rising up to the illuminated runway. High speed motion blur. Ultra-wide 16mm lens, deep depth of field. Massive blue stage spotlights and flashing lights. Palette #070B19, #152A65, #00D2FF. High energy concert atmosphere with vibrant lighting. Stadium festival at night. 4 seconds.\n\nNegativo: `static camera, daylight, small crowd, grainy noise`\n\n### Cena 4 · 01:46–02:40 · ~54s — Close Emocional e Plateia\n> Close-up shot of a female singer with a white cowboy hat singing passionately into a handheld microphone. Subtle handheld tracking motion. 85mm telephoto lens with smooth soft bokeh. Bright key light and cool blue ambient fill. Palette #070B19, #00D2FF, #E0E6ED. Cinematic concert portrait with rich skin tones. Night festival stage backdrop. 5 seconds.\n\nNegativo: `out of focus, flat lighting, oversaturated, deformed hands`\n\n### Cena 5 · 02:41–03:19 · ~38s — Clímax Pirotécnico e Grande Final\n> Wide high angle aerial shot revealing the entire stadium stage erupting with bright orange fireworks and giant flame jets behind the runway. Fast ascending crane move. 24mm wide angle lens. Bright fire bursts contrasting with deep blue concert lighting. Palette #070B19, #FF5500, #00D2FF, #FFFFFF. Grand visual spectacle with sharp pyro details. Massive outdoor stadium arena at night. 6 seconds.\n\nNegativo: `smoke obscuring view, underexposed, daylight, glitch`\n\nReferencias: DVDs ao vivo de sertanejo moderno (Unicórnio Filmes / Anselmo Troncoso), Turnês de estádio de Taylor Swift e Beyoncé (produção visual e FPV), Festivais de música country americana em arenas, Estética de transmissão multicâmera 4K HDR\nTags: sertanejo, show ao vivo, dvd musical, ana castela, arena, drone fpv, pirotecnia, piano na passarela, luz de palco, clipe musical\n"
+  },
   {
    "fonte": "analisevideo",
    "slug": "kimo-sounds-rise-slow-deep-house",
