@@ -1,53 +1,39 @@
 import Link from 'next/link';
-import { carregarAcervo, mb, slugDoMvd } from '@/lib/acervo';
+import { carregarAcervo, mb, musicas, slugDoMvd } from '@/lib/acervo';
 import Like from './Like';
 
 export const revalidate = 3600;
 
-// O card é a PRODUÇÃO, não o vídeo: o Suno entrega duas faixas e cada uma vira
-// um clipe, mas é uma pasta, um plano, uma letra. Dois cards separados
-// duplicariam os números e quebrariam a comparação, que é o que se faz aqui.
-function Card({ x }) {
-  const par = (x.faixas || [])
-    .map((f) => ({ ...f, capa: f.capa || x.capa }))
-    .filter((f) => f.capa);
-  const id = slugDoMvd(x);
+// O card é a MÚSICA, não a produção. O Suno entrega duas faixas por pedido e
+// cada uma é uma música diferente — mesma letra e mesmo material de vídeo,
+// outra interpretação. Empilhar as duas dentro de um card só obrigava a
+// escolher antes de ouvir, e escondia o clipe atrás de um segundo clique.
+function Card({ m }) {
+  const { producao: x, faixa: f } = m;
   return (
     <div className="card">
-      {par.length > 1 ? (
-        <div className="duas">
-          {par.map((f) => (
-            <div key={f.nome}>
-              <span className={`n${f.aprovada ? ' ok' : ''}`}>
-                v{f.n}
-                {f.aprovada ? ' ✓' : ''}
-              </span>
-              <img loading="lazy" src={f.capa} alt={`capa da versão ${f.n}`} />
-              <audio controls preload="none" src={f.url} />
-              <Like mvd={id} versao={f.n} rotulo={`v${f.n}`} />
-            </div>
-          ))}
-        </div>
-      ) : (
-        <div className="duas">
-          <div>
-            {x.capa ? <img loading="lazy" src={x.capa} alt="" /> : null}
-            {(x.faixas || [])[0] ? (
-              <audio controls preload="none" src={x.faixas[0].url} />
-            ) : null}
-          </div>
-        </div>
-      )}
+      <Link className="capa" href={`/${m.id}`}>
+        {f.capa ? <img loading="lazy" src={f.capa} alt={`capa de ${x.titulo} · versão ${f.n}`} /> : null}
+        <span className={`n${f.aprovada ? ' ok' : ''}`}>
+          v{f.n}
+          {f.aprovada ? ' ✓' : ''}
+        </span>
+        {f.clipe ? <span className="temclipe">▶ clipe</span> : null}
+      </Link>
       <div className="b">
         <h3>
-          <Link href={`/${id}`}>{x.titulo}</Link>
+          <Link href={`/${m.id}`}>{x.titulo}</Link>
         </h3>
         {x.mvd ? <span className="pill mvd">{x.mvd}</span> : null}
         <div className="meta">
-          {[x.genero, x.bpm && `${x.bpm} bpm`, x.tom, x.bytes && mb(x.bytes)]
+          {[x.genero, x.bpm && `${x.bpm} bpm`, x.tom, f.bytes && mb(f.bytes)]
             .filter(Boolean)
             .join(' · ')}
         </div>
+        <audio controls preload="none" src={f.url} />
+        {/* A chave do like continua sendo `<mvd>:<versão>` — mudar o formato
+            zeraria as curtidas que o público já deu. */}
+        <Like mvd={slugDoMvd(x)} versao={f.n} rotulo="curtir" />
       </div>
     </div>
   );
@@ -55,7 +41,8 @@ function Card({ x }) {
 
 export default async function Home() {
   const acervo = await carregarAcervo();
-  if (!acervo.musicavideo.length) {
+  const lista = musicas(acervo);
+  if (!lista.length) {
     return (
       <p className="vazio">
         O acervo ainda não chegou aqui. As produções aparecem depois de aprovadas
@@ -66,8 +53,8 @@ export default async function Home() {
   }
   return (
     <div className="grade">
-      {acervo.musicavideo.map((x) => (
-        <Card key={x.slug} x={x} />
+      {lista.map((m) => (
+        <Card key={m.id} m={m} />
       ))}
     </div>
   );
