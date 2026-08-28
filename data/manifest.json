@@ -4,6 +4,358 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "entendi-voce-quer-uma-instrucao-curta-pa",
+   "mvd": "MVD#140",
+   "titulo": "Qian Fan (Mil Velas)",
+   "quando": "2026-08-28T04:25:13-03:00",
+   "solicitacao": "Entendi. Você quer uma instrução curta para gerar a música, não toda a explicação.Crea te an epic modern cinematic song about Zheng He and the great Chinese treasure fleets of the Ming Dynasty.Them e: giant wooden junks leaving China and crossing the Indian Ocean, reaching Southeast Asia, India, Arabia and East Africa.Focu s on exploration, courage, navigation, engineering, trade, cultural exchange and discovering new worlds — not war or conquest.Lang uage: Mandarin Chinese.Soun d: ancient Chinese music fused with powerful 2026 cinematic production.Use guzheng, erhu, pipa, dizi, massive Chinese drums, deep male choir, cinematic strings, powerful bass, ocean ambience, wind, sails, ropes and wooden ship sounds.Begi n immediately with a strong Chinese vocal hook. No long intro.Vers es: mysterious, emotional and adventurous.Chor us: huge, uplifting and memorable, expressing the feeling of hundreds of ships sailing toward the horizon.Incl ude a dramatic storm section followed by silence and then a triumphant arrival in distant lands.Make the music progressively bigger:harb or → ships depart → open ocean → storm → distant civilizations → triumphant return.The first 12 seconds must be powerful enough for TikTok, Reels and Shorts.Mood : majestic, adventurous, historical, hopeful, powerful.Avoi d sounding like a documentary or history lesson.Make the listener feel they are standing on the deck of a giant Chinese junk, watching an enormous fleet disappear beyond the horizon. lingua mandarim ou q tenha a ver com a musica",
+   "genero": "épico chinês cinematográfico (instrumentos Ming + orquestra e produção moderna)",
+   "bpm": 100,
+   "tom": "Ré menor pentatônico, abrindo em Ré maior no refrão final",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "majestoso",
+    "aventureiro",
+    "misterioso nos versos",
+    "esperançoso",
+    "monumental"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/clipe-1.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/entendi-voce-quer-uma-instrucao-curta-pa/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 576620699,
+   "doc": "# Qian Fan (Mil Velas)\n\n**slug:** `entendi-voce-quer-uma-instrucao-curta-pa`  ·  **solicitação:** Entendi. Você quer uma instrução curta para gerar a música, não toda a explicação.Crea te an epic modern cinematic song about Zheng He and the great Chinese treasure fleets of the Ming Dynasty.Them e: giant wooden junks leaving China and crossing the Indian Ocean, reaching Southeast Asia, India, Arabia and East Africa.Focu s on exploration, courage, navigation, engineering, trade, cultural exchange and discovering new worlds — not war or conquest.Lang uage: Mandarin Chinese.Soun d: ancient Chinese music fused with powerful 2026 cinematic production.Use guzheng, erhu, pipa, dizi, massive Chinese drums, deep male choir, cinematic strings, powerful bass, ocean ambience, wind, sails, ropes and wooden ship sounds.Begi n immediately with a strong Chinese vocal hook. No long intro.Vers es: mysterious, emotional and adventurous.Chor us: huge, uplifting and memorable, expressing the feeling of hundreds of ships sailing toward the horizon.Incl ude a dramatic storm section followed by silence and then a triumphant arrival in distant lands.Make the music progressively bigger:harb or → ships depart → open ocean → storm → distant civilizations → triumphant return.The first 12 seconds must be powerful enough for TikTok, Reels and Shorts.Mood : majestic, adventurous, historical, hopeful, powerful.Avoi d sounding like a documentary or history lesson.Make the listener feel they are standing on the deck of a giant Chinese junk, watching an enormous fleet disappear beyond the horizon. lingua mandarim ou q tenha a ver com a musica\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/entendi-voce-quer-uma-instrucao-curta-pa`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Qian Fan (Mil Velas)\n\n\n\n**slug:** `entendi-voce-quer-uma-instrucao-curta-pa`  ·  **criado:** 2026-08-28T04:25:13-03:00\n\n**solicitação:** Entendi. Você quer uma instrução curta para gerar a música, não toda a explicação.Crea te an epic modern cinematic song about Zheng He and the great Chinese treasure fleets of the Ming Dynasty.Them e: giant wooden junks leaving China and crossing the Indian Ocean, reaching Southeast Asia, India, Arabia and East Africa.Focu s on exploration, courage, navigation, engineering, trade, cultural exchange and discovering new worlds — not war or conquest.Lang uage: Mandarin Chinese.Soun d: ancient Chinese music fused with powerful 2026 cinematic production.Use guzheng, erhu, pipa, dizi, massive Chinese drums, deep male choir, cinematic strings, powerful bass, ocean ambience, wind, sails, ropes and wooden ship sounds.Begi n immediately with a strong Chinese vocal hook. No long intro.Vers es: mysterious, emotional and adventurous.Chor us: huge, uplifting and memorable, expressing the feeling of hundreds of ships sailing toward the horizon.Incl ude a dramatic storm section followed by silence and then a triumphant arrival in distant lands.Make the music progressively bigger:harb or → ships depart → open ocean → storm → distant civilizations → triumphant return.The first 12 seconds must be powerful enough for TikTok, Reels and Shorts.Mood : majestic, adventurous, historical, hopeful, powerful.Avoi d sounding like a documentary or history lesson.Make the listener feel they are standing on the deck of a giant Chinese junk, watching an enormous fleet disappear beyond the horizon. lingua mandarim ou q tenha a ver com a musica\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** épico chinês cinematográfico (instrumentos Ming + orquestra e produção moderna)  ·  **BPM:** 100  ·  **Tom:** Ré menor pentatônico, abrindo em Ré maior no refrão final\n- **Mood:** majestoso, aventureiro, misterioso nos versos, esperançoso, monumental\n- **Instrumentação:** guzheng em arpejos, erhu melódico, pipa em tremolo, dizi, tambores chineses massivos, coro masculino grave, cordas cinematográficas, sub-bass potente, ambiência de oceano, vento, cordas e madeira de navio\n- **Voz:** {\"presenca\": \"lead\", \"tipos\": [{\"genero\": \"masculina\", \"registro\": \"barítono quente subindo a tenor no refrão\", \"entrega\": \"gancho imediato em mandarim, versos íntimos e misteriosos, refrão aberto e hínico\"}, {\"genero\": \"masculina\", \"registro\": \"coro grave em uníssono e oitavas\", \"entrega\": \"resposta coral nos refrões e na chegada, vogais longas sustentadas\"}]}\n- **Params:** `{}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Epic modern cinematic Chinese orchestral anthem, 100 BPM, D minor pentatonic opening into D major for the triumphant final chorus. Ancient Chinese instruments fused with massive 2026 film-score production: cascading guzheng arpeggios, soaring erhu melodies, pipa tremolo, dizi flute, thunderous massive ceremonial Chinese drums, deep male choir, cinematic strings, powerful clean sub bass. Ocean ambience woven into the mix: wind, creaking ship timber, ropes and snapping sails. Opens immediately with a commanding warm baritone Mandarin vocal hook over drums, no long intro. Mysterious emotional adventurous verses; huge uplifting memorable sing-along chorus evoking hundreds of ships sailing toward the horizon. Dramatic storm section with pounding percussion and choir, then near-silence with only wind and breathing sea, then a triumphant arrival finale with full choir, drums and orchestra. Majestic, hopeful, monumental, Mandarin lyrics.\n\n**Estrutura:** gancho (14s) · verso 1 — porto (24s) · pré-refrão (10s) · refrão — partida (22s) · verso 2 — oceano (22s) · tempestade (22s) · silêncio (8s) · ponte — chegada (18s) · refrão final — retorno (32s) · outro (8s)\n\n**Letra** (origem: `gerada`, zh-CN):\n\n```\n[Gancho]\n启航——！\n千帆列阵 风满帆\n海在召唤 我们出发！\n\n[Verso 1]\n龙江船坞 灯火未眠\n巨木成梁 铁锚入水\n罗盘的针 指着未知的蓝\n一炷香火 送我们离岸\n\n[Pré-refrão]\n听 鼓声敲开了海的门\n看 宝船遮住了半个黄昏\n\n[Refrão]\n千帆入海 向天涯\n星辰为图 浪为家\n风带我们去看 没见过的天下\n桥连四海 不带刀 只带茶与花\n\n[Verso 2]\n赤道的星空 换了模样\n牵星板上 量出方向\n锡兰的雨 古里的香\n我们用丝绸 换朋友的目光\n\n[Tempestade]\n天黑了 浪立起来像山\n桅杆在喊 绳索在断\n握紧舵 别放\n穿过去 就是岸\n\n[Silêncio]\n（风停了…… 海在呼吸……）\n\n[Ponte — Chegada]\n长颈鹿走下船板 像神话上岸\n陌生的语言 说着同样的惊叹\n原来世界这么大\n原来我们从不孤单\n\n[Refrão final]\n千帆入海 向天涯\n星辰为图 浪为家\n风带我们去看 没见过的天下\n桥连四海 不带刀 只带茶与花\n千帆归来 满帆霞\n带回的故事 比黄金无价\n\n[Outro]\n启航——\n下一片海 还在等我们的帆\n```\n\n**Diff do seu rascunho:**\n\n```diff\n--- letra enviada\n+++ letra do plano\n@@ -1,53 +1,53 @@\n [Gancho]\n-Zarpar——!\n-Mil velas em formação, vento enchendo o pano\n-O mar está chamando — nós partimos!\n+启航——！\n+千帆列阵 风满帆\n+海在召唤 我们出发！\n \n [Verso 1]\n-No estaleiro de Longjiang as lanternas não dormem\n-Madeira gigante vira viga, a âncora de ferro entra na água\n-A agulha da bússola aponta para um azul desconhecido\n-Uma vara de incenso nos despede da margem\n+龙江船坞 灯火未眠\n+巨木成梁 铁锚入水\n+罗盘的针 指着未知的蓝\n+一炷香火 送我们离岸\n \n [Pré-refrão]\n-Ouça: os tambores batem abrindo a porta do mar\n-Veja: os navios do tesouro cobrem metade do poente\n+听 鼓声敲开了海的门\n+看 宝船遮住了半个黄昏\n \n [Refrão]\n-Mil velas ao mar, rumo ao fim do mundo\n-As estrelas por mapa, as ondas por casa\n-O vento nos leva a ver um mundo nunca visto\n-Ponte entre os quatro mares — sem espada, só chá e flores\n+千帆入海 向天涯\n+星辰为图 浪为家\n+风带我们去看 没见过的天下\n+桥连四海 不带刀 只带茶与花\n \n [Verso 2]\n-O céu do equador trocou de rosto\n-Na prancheta das estrelas medimos a direção\n-A chuva do Ceilão, o perfume de Calicute\n-Trocamos seda pelo olhar de novos amigos\n+赤道的星空 换了模样\n+牵星板上 量出方向\n+锡兰的雨 古里的香\n+我们用丝绸 换朋友的目光\n \n [Tempestade]\n-Escureceu — as ondas se erguem como montanhas\n-O mastro grita, as cordas se rompem\n-Segure o leme, não solte\n-Atravessar é chegar\n+天黑了 浪立起来像山\n+桅杆在喊 绳索在断\n+握紧舵 别放\n+穿过去 就是岸\n \n [Silêncio]\n-(O vento parou… o mar respira…)\n+（风停了…… 海在呼吸……）\n \n [Ponte — Chegada]\n-Uma girafa desce a prancha como um mito pisando em terra\n-Línguas estranhas dizendo o mesmo espanto\n-Então o mundo era assim tão grande\n-Então nunca estivemos sozinhos\n+长颈鹿走下船板 像神话上岸\n+陌生的语言 说着同样的惊叹\n+原来世界这么大\n+原来我们从不孤单\n \n [Refrão final]\n-Mil velas ao mar, rumo ao fim do mundo\n-As estrelas por mapa, as ondas por casa\n-O vento nos leva a ver um mundo nunca visto\n-Ponte entre os quatro mares — sem espada, só chá e flores\n-Mil velas voltando, o poente nas velas\n-As histórias que trazemos valem mais que ouro\n+千帆入海 向天涯\n+星辰为图 浪为家\n+风带我们去看 没见过的天下\n+桥连四海 不带刀 只带茶与花\n+千帆归来 满帆霞\n+带回的故事 比黄金无价\n \n [Outro]\n-Zarpar——\n-O próximo mar ainda espera nossas velas\n+启航——\n+下一片海 还在等我们的帆\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #0B1E33, #1C6E8C, #D4AF37, #C1121F, #F2E8D5\n- **Params:** `{}`\n\n**Conceito:** Capa sem pessoa nenhuma — o olhar escolhido é o de quem fica no porto: a frota inteira partindo na primeira luz, velas vermelhas de talas erguidas como montanhas sobre água dourada, névoa fina, montanhas ao fundo. Horizonte na regra dos terços, céu com espaço negativo para a tagline e o título. Dourado imperial sobre azul-tinta profundo com acentos vermelhão Ming.\n\n**Prompt (EN):**\n\n> album cover, wide symbolic landscape of a colossal 15th century Chinese treasure fleet leaving a misty harbor at golden dawn, giant wooden junks with towering battened crimson sails, calm gilded water with long amber reflections, thin sea mist, distant indigo mountains, deep indigo blue and imperial gold palette with vermillion accents, cinematic lighting, monumental epic scale, horizon on lower third, large negative space in the sky for a title, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, people in foreground, faces, modern ships, engines, metal hulls\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** ≈13 cortes/min de média (39 planos em 180s), ancorado na referência medida ravenstrikex mummy-wake (22,3 cortes/min a 128 bpm, clipe musical que funcionou): nosso épico narrativo a 100 bpm pede cerca de metade dessa densidade, não o triplo. A duração NÃO é parelha: versos respiram a ~10–11 cortes/min (planos de 4,5–7s), refrões sobem a ~16/min (3–4s), a tempestade pica a ~19/min (2,5–4s) e o silêncio segura um único plano de 8s — mesmo contraste verso/refrão presente nas três referências. Ligação entre planos: corte seco no beat (medido nos três refs), slowmo no golpe do tambor do pré-refrão e speedramp na onda da tempestade (corte no beat + slowmo/speedramp aparecem na montagem medida de todos os refs); flash frame branco só no relâmpago, como o whiteout flash medido em olympus. Sem transições que não estão na medição.\n- **Params:** `{}`\n- **Shots:** 39  ·  **Duração total:** 180.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | gancho | 4s | drone | Revelação aérea da frota no porto ao amanhecer |\n| 2 | gancho | 3s | dolly-in | Vela gigante abrindo no mastro |\n| 3 | gancho | 4s | travelling | Convés: fileiras de marinheiros içando cordas em uníssono |\n| 4 | gancho | 3s | estatico | Proa cortando a primeira onda, contraluz dourada |\n| 5 | verso 1 — porto | 7s | gimbal | Estaleiro imperial à noite, casco colossal em andaimes |\n| 6 | verso 1 — porto | 6s | pan | Close da bússola de bronze sobre a carta náutica |\n| 7 | verso 1 — porto | 6s | dolly-in | Altar no cais, incenso subindo entre lanternas |\n| 8 | verso 1 — porto | 5s | steadicam | Figura de túnica Ming sobe a prancha, vista de costas |\n| 9 | pré-refrão | 5s | estatico | Tambor cerimonial golpeado em slow motion |\n| 10 | pré-refrão | 5s | drone | Âncoras subindo, a frota começa a girar |\n| 11 | refrão — partida | 4s | drone | Frota em formação vasta na baía aberta |\n| 12 | refrão — partida | 3.5s | travelling | Rasante colado ao casco, água voando |\n| 13 | refrão — partida | 3s | estatico | Contra-plongée dos mastros contra nuvens rápidas |\n| 14 | refrão — partida | 4s | gimbal | Silhuetas de marinheiros no cordame, braço erguido ao horizonte |\n| 15 | refrão — partida | 3.5s | dolly-in | Carranca de dragão na proa cortando spray |\n| 16 | refrão — partida | 4s | orbital | Órbita da nau capitânia a todo pano |\n| 17 | verso 2 — oceano | 6s | estatico | Mãos medindo estrelas com a prancheta qianxingban |\n| 18 | verso 2 — oceano | 5.5s | pan | Esteira bioluminescente sob as estrelas |\n| 19 | verso 2 — oceano | 6s | travelling | Mercado de porto tropical, seda e especiarias trocando de mãos |\n| 20 | verso 2 — oceano | 4.5s | dolly-in | Macro do tapete de trocas: porcelana, canela, pérolas |\n| 21 | tempestade | 3.5s | drone | Muralha negra de tempestade engole o horizonte |\n| 22 | tempestade | 3s | handheld | Convés inclinando, água verde varrendo a amurada |\n| 23 | tempestade | 2.5s | estatico | Relâmpago congela a frota em silhueta — flash frame |\n| 24 | tempestade | 3s | dolly-in | Corda de cânhamo desfiando fibra a fibra |\n| 25 | tempestade | 2.5s | handheld | Marinheiros encharcados puxando a mesma corda, corpos em esforço |\n| 26 | tempestade | 3.5s | gimbal | Mãos brancas de força no leme |\n| 27 | tempestade | 4s | drone | Speedramp: a nau escala a face de uma onda-montanha |\n| 28 | silêncio | 8s | estatico | Mar de vidro ao alvorecer, navio à deriva, uma lanterna acesa |\n| 29 | ponte — chegada | 6s | travelling | Aproximação da costa africana, dhows vindo receber |\n| 30 | ponte — chegada | 6s | gimbal | Girafa conduzida pela prancha do navio, multidão maravilhada |\n| 31 | ponte — chegada | 6s | orbital | Órbita sobre a troca na praia, tecidos e povos diversos |\n| 32 | refrão final — retorno | 5s | drone | Frota voltando dentro do pôr do sol |\n| 33 | refrão final — retorno | 4s | travelling | Cais acendendo milhares de lanternas em sequência |\n| 34 | refrão final — retorno | 4.5s | gimbal | Crianças correndo no cais acompanhando o navio |\n| 35 | refrão final — retorno | 4s | estatico | Velas imensas passando sobre a câmera como nuvens |\n| 36 | refrão final — retorno | 4.5s | dolly-in | Silhueta do almirante na proa diante da cidade natal |\n| 37 | refrão final — retorno | 5s | orbital | Órbita da capitânia entrando no porto sob fogos |\n| 38 | refrão final — retorno | 5s | drone | Pull-back final: porto cheio, cidade acesa, montanhas ao fundo |\n| 39 | outro | 8s | estatico | A carta náutica na mesa; o vento levanta a ponta rumo ao mar |\n\n**Prompts (EN):**\n\n1. Aerial drone shot descending through golden dawn mist over a Ming dynasty harbor: hundreds of colossal wooden treasure junks with towering battened crimson sails packed across the bay, lanterns still glowing, calm water reflecting amber sky, epic cinematic scale, deep indigo and gold palette.\n2. Dolly-in on a gigantic crimson battened sail unfurling down a towering wooden mast, ropes snapping taut, morning sun flaring through the woven fabric, rope fibers drifting in the air, low angle, epic cinematic lighting.\n3. Travelling shot along the main deck of a giant wooden junk: rows of sailors leaning back in unison hauling thick ropes, shoulders straining, loose garments whipping in wind, backlit by low golden sun, sea spray drifting, heroic epic tone.\n4. Static low-angle shot at the waterline: the massive carved wooden bow of a treasure ship cuts through the first wave, golden light flaring across wet timber, spray bursting in crisp backlit droplets.\n5. Gimbal shot gliding through a lantern-lit imperial shipyard at night: a colossal wooden hull rises inside bamboo scaffolding, carpenter silhouettes tiny against giant timber ribs, sawdust floating in warm lantern beams, deep blue night with amber glow.\n6. Slow pan across a navigator's table to a bronze compass bowl, the magnetic needle trembling then settling, candlelight glowing on inked nautical charts, framed so tightly that only the compass and the chart edge are visible.\n7. Dolly-in on a small dockside shrine: incense smoke curling in slow ribbons past red lanterns and offerings of fruit, harbor lights soft in the background bokeh, blue hour, serene and mysterious mood.\n8. Steadicam following a tall figure in flowing Ming silk robes from behind, walking up a long gangplank toward a towering wooden ship, robe and banner rippling in dawn wind, face never visible, epic scale, golden light.\n9. Static slow-motion shot: a huge Chinese ceremonial drum struck hard, a ring of dust leaping off the drumhead, red tassels flying, dramatic side light, framed so tightly that only the drumhead and the mallets are visible.\n10. Aerial drone pulling back: iron anchors rise streaming water as the great fleet begins to turn, dozens of white wakes curving into formation across the harbor, morning gold on deep blue sea.\n11. High aerial shot: the fleet spreads across the open bay in vast formation, white wakes like brush strokes on jade water, crimson sails full of wind, triumphant monumental scale, golden light.\n12. Fast travelling shot skimming the waterline alongside a giant wooden hull, planks and iron fittings rushing past, spray whipping across the lens, sunlight strobing between waves, exhilarating speed.\n13. Static low angle straight up the masts: pennants and battened crimson sails against fast-moving clouds, rigging lines converging overhead, sun flare, dynamic sky, heroic energy.\n14. Gimbal shot of sailors high in the rigging as backlit silhouettes, one arm raised toward the horizon, amber sails glowing behind them, wind-torn clouds, heroic and uplifting.\n15. Dolly-in on the carved and painted dragon figurehead at the prow slicing through spray, gold leaf and red lacquer gleaming, water exploding in crisp slow droplets, epic detail.\n16. Orbital shot circling the flagship at full sail, nine masts of crimson battened sails, crew tiny on the vast deck, endless ocean to the horizon, golden hour, monumental scale.\n17. Static night shot: weathered hands hold a small wooden star-measuring board with a knotted cord up against a dense field of stars, framed so tightly that only the hands and the instrument are visible, deep blue night, silver starlight.\n18. Slow pan along the ship's wake at night glowing with blue bioluminescence, stars mirrored on black glassy water, mast lanterns swaying softly above, mysterious and vast mood.\n19. Travelling shot through a bustling tropical port market: bolts of silk, pyramids of spices and blue-and-white porcelain changing hands between traders of many lands, warm dusty light through colorful awnings, joyful cultural exchange.\n20. Dolly-in on a trader's carpet: a blue-and-white porcelain bowl beside cinnamon bark, peppercorns and pearls, a warm sunbeam through canvas above, tactile macro detail, still-life beauty.\n21. Aerial drone shot: a black wall of storm cloud swallows the horizon, lightning pulsing deep inside the cloud, the fleet tiny and scattered on darkening teal sea, ominous monumental scale.\n22. Handheld shot on deck in the storm: the horizon tilts violently, green water bursts over the wooden rail, ropes whipping, rain hammering the planks, chaotic energy, dark teal palette.\n23. Static wide shot: a single lightning flash freezes the entire fleet in stark white silhouette against black sea and sky, one-frame impact, then darkness returns, sublime and terrifying.\n24. Macro dolly-in: a thick hemp rope strains and frays, fibers snapping one by one in wind-driven spray, framed so tightly that only the rope and its wooden cleat are visible, tense detail.\n25. Handheld shot: a line of drenched sailors leans back into a rope together, boots sliding on wet planks, bodies straining as one, faces turned away from the driving rain, desperate teamwork.\n26. Gimbal close on the tiller: weathered hands gripping the dark wet wood, knuckles white, water streaming off, lightning flicker across the grain, framed so tightly that only the hands and the tiller are visible.\n27. Drone shot with a speed ramp: a mountainous wave crests as the flagship climbs its towering face with sails reefed, foam whiting out the frame at the peak, apocalyptic scale, dark teal and white.\n28. Long static wide shot: dead-calm sea at first light under thin mist, the great ship drifting slowly with a torn but holding sail, a single lantern still burning, water like glass, profound silence and relief.\n29. Travelling shot from the sea toward a sunlit African coast: white sand, baobab trees, small dhows sailing out to greet the great ships, turquoise shallows, warm welcoming light, wonder and relief.\n30. Gimbal wide shot from behind the crowd: a giraffe is gently led up the wide gangplank of a giant wooden ship, sailors and traders watching in quiet awe, banners and crimson sails towering above, golden afternoon light.\n31. Orbital shot over a beach gathering: woven mats spread with silk, printed cloth in reds and golds, spices and porcelain, people of many lands trading and laughing together, great ships anchored beyond, celebratory warmth.\n32. High drone shot: the fleet sails home into a blazing sunset, sails glowing amber, dozens of white wakes converging toward a distant harbor city, triumphant monumental scale.\n33. Travelling shot along the harbor front as thousands of red lanterns light up one after another, reflections rippling across the dark water toward the arriving ships, dusk blue and lantern gold.\n34. Gimbal tracking shot: children run along the wooden pier keeping pace with the huge incoming ship, hair and sleeves flying, joyful energy, warm lantern backlight, spray of golden dust.\n35. Static low angle from the dock: enormous crimson battened sails pass overhead one after another like slow clouds, rigging silhouettes crossing the amber sky, overwhelming and serene.\n36. Dolly-in toward a lone robed figure standing at the bow in full silhouette against the glowing lantern-lit home city, banner snapping in the wind, face never visible, monumental homecoming emotion.\n37. Orbital shot circling the flagship as it enters the inner harbor while fireworks bloom gold and red above the city, sparks reflected in black water, jubilant epic scale.\n38. Drone pulling up and back: the whole harbor filled with great ships, the city glowing with thousands of lanterns, violet mountains behind, last fireworks fading, epic final tableau.\n39. Long static shot: an ink-brushed nautical chart on a wooden table, bronze compass and brush resting on it, candle flame guttering, a breeze lifting the chart's corner toward an open window where the moonlit sea waits, quiet promise of the next voyage.\n\n## Publicação (YouTube)\n\n- **Título:** Qian Fan (Mil Velas)\n- **Tags:** majestoso, aventureiro, misterioso nos versos, esperancoso, guzheng em arpejos, erhu melodico, pipa em tremolo\n\n**Descrição:**\n\nUma epopeia cantada em mandarim sobre as grandes frotas do tesouro que partiram da China no século XV: juncos de madeira do tamanho de palácios cruzando o oceano Índico até o Sudeste Asiático, a Índia, a Arábia e a costa da África — movidos por exploração, engenharia, comércio e encontro entre povos, não por conquista.\n\nO som funde instrumentos milenares — guzheng, erhu, pipa, dizi e tambores gigantes — com produção cinematográfica moderna: coro masculino grave, cordas de filme e graves profundos, com o próprio oceano tecido na mixagem em forma de vento, cordas rangendo e velas estalando. A faixa abre direto no gancho vocal e cresce sem parar: porto, partida, mar aberto, tempestade, silêncio e chegada triunfal.\n\nNo vídeo, a jornada inteira acompanha a música: o estaleiro à luz de lanternas, mil velas vermelhas abrindo na baía, a navegação pelas estrelas, mercados de seda e porcelana em portos distantes, a tempestade que quase engole a frota, a calmaria que vem depois — e o regresso sob milhares de lanternas e fogos, trazendo histórias que valem mais que ouro.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Epic modern cinematic Chinese orchestral anthem, 100 BPM, D minor pentatonic opening into D major for the triumphant final chorus. Ancient Chinese instruments fused with massive 2026 film-score production: cascading guzheng arpeggios, soaring erhu melodies, pipa tremolo, dizi flute, thunderous massive ceremonial Chinese drums, deep male choir, cinematic strings, powerful clean sub bass. Ocean ambience woven into the mix: wind, creaking ship timber, ropes and snapping sails. Opens immediately with a commanding warm baritone Mandarin vocal hook over drums, no long intro. Mysterious emotional adventurous verses; huge uplifting memorable sing-along chorus evoking hundreds of ships sailing toward the horizon. Dramatic storm section with pounding percussion and choir, then near-silence with only wind and breathing sea, then a triumphant arrival finale with full choir, drums and orchestra. Majestic, hopeful, monumental, Mandarin lyrics.",
+    "imagem": "album cover, wide symbolic landscape of a colossal 15th century Chinese treasure fleet leaving a misty harbor at golden dawn, giant wooden junks with towering battened crimson sails, calm gilded water with long amber reflections, thin sea mist, distant indigo mountains, deep indigo blue and imperial gold palette with vermillion accents, cinematic lighting, monumental epic scale, horizon on lower third, large negative space in the sky for a title, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, people in foreground, faces, modern ships, engines, metal hulls",
+    "conceito": "Capa sem pessoa nenhuma — o olhar escolhido é o de quem fica no porto: a frota inteira partindo na primeira luz, velas vermelhas de talas erguidas como montanhas sobre água dourada, névoa fina, montanhas ao fundo. Horizonte na regra dos terços, céu com espaço negativo para a tagline e o título. Dourado imperial sobre azul-tinta profundo com acentos vermelhão Ming.",
+    "tagline": "o mundo era imenso · eles atravessaram",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "gancho",
+      "camera": "drone",
+      "prompt": "Aerial drone shot descending through golden dawn mist over a Ming dynasty harbor: hundreds of colossal wooden treasure junks with towering battened crimson sails packed across the bay, lanterns still glowing, calm water reflecting amber sky, epic cinematic scale, deep indigo and gold palette.",
+      "alt": "Aerial view of a vast historical harbor at golden dawn, many large wooden sailing ships with red battened sails resting in thin mist, calm reflective water, no people visible, epic cinematic scale, indigo and gold palette."
+     },
+     {
+      "n": 2,
+      "secao": "gancho",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a gigantic crimson battened sail unfurling down a towering wooden mast, ropes snapping taut, morning sun flaring through the woven fabric, rope fibers drifting in the air, low angle, epic cinematic lighting.",
+      "alt": "Slow dolly toward a huge red canvas sail glowing with golden morning backlight, rigging in silhouette, fabric texture luminous, wind rippling the cloth, no people in frame."
+     },
+     {
+      "n": 3,
+      "secao": "gancho",
+      "camera": "travelling",
+      "prompt": "Travelling shot along the main deck of a giant wooden junk: rows of sailors leaning back in unison hauling thick ropes, shoulders straining, loose garments whipping in wind, backlit by low golden sun, sea spray drifting, heroic epic tone.",
+      "alt": "Travelling along a wooden ship deck, thick hemp ropes pulled taut toward tall masts, coils and wooden pulleys in motion, low sun backlight, sea spray drifting, no people in frame."
+     },
+     {
+      "n": 4,
+      "secao": "gancho",
+      "camera": "estatico",
+      "prompt": "Static low-angle shot at the waterline: the massive carved wooden bow of a treasure ship cuts through the first wave, golden light flaring across wet timber, spray bursting in crisp backlit droplets.",
+      "alt": "Low angle of a large wooden ship bow parting calm golden water, gentle spray catching sunrise light, wet timber texture gleaming, no figures visible."
+     },
+     {
+      "n": 5,
+      "secao": "verso 1 — porto",
+      "camera": "gimbal",
+      "prompt": "Gimbal shot gliding through a lantern-lit imperial shipyard at night: a colossal wooden hull rises inside bamboo scaffolding, carpenter silhouettes tiny against giant timber ribs, sawdust floating in warm lantern beams, deep blue night with amber glow.",
+      "alt": "Gimbal glide through a night shipyard: an enormous wooden hull in bamboo scaffolding, sawdust drifting through warm lantern light beams, deep blue shadows, no people, monumental scale."
+     },
+     {
+      "n": 6,
+      "secao": "verso 1 — porto",
+      "camera": "pan",
+      "prompt": "Slow pan across a navigator's table to a bronze compass bowl, the magnetic needle trembling then settling, candlelight glowing on inked nautical charts, framed so tightly that only the compass and the chart edge are visible.",
+      "alt": "Slow pan across a wooden table in candlelight: a bronze bowl, rolled parchment charts and an ink brush, warm flame flicker, tight framing on objects only."
+     },
+     {
+      "n": 7,
+      "secao": "verso 1 — porto",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a small dockside shrine: incense smoke curling in slow ribbons past red lanterns and offerings of fruit, harbor lights soft in the background bokeh, blue hour, serene and mysterious mood.",
+      "alt": "Dolly-in on curling incense smoke rising past glowing red paper lanterns at blue hour, soft harbor bokeh behind, tranquil and mysterious atmosphere, objects only."
+     },
+     {
+      "n": 8,
+      "secao": "verso 1 — porto",
+      "camera": "steadicam",
+      "prompt": "Steadicam following a tall figure in flowing Ming silk robes from behind, walking up a long gangplank toward a towering wooden ship, robe and banner rippling in dawn wind, face never visible, epic scale, golden light.",
+      "alt": "Steadicam moving up an empty wooden gangplank toward a towering ship, silk banners rippling in golden dawn wind, dramatic low-angle scale, no people."
+     },
+     {
+      "n": 9,
+      "secao": "pré-refrão",
+      "camera": "estatico",
+      "prompt": "Static slow-motion shot: a huge Chinese ceremonial drum struck hard, a ring of dust leaping off the drumhead, red tassels flying, dramatic side light, framed so tightly that only the drumhead and the mallets are visible.",
+      "alt": "Slow-motion dust ring leaping off a large red ceremonial drumhead under dramatic side light, tassels swinging, tight framing on the drum only, dark background."
+     },
+     {
+      "n": 10,
+      "secao": "pré-refrão",
+      "camera": "drone",
+      "prompt": "Aerial drone pulling back: iron anchors rise streaming water as the great fleet begins to turn, dozens of white wakes curving into formation across the harbor, morning gold on deep blue sea.",
+      "alt": "Aerial pull-back over a harbor as many wooden ships slowly turn in formation, curved white wakes on deep blue water, golden morning light, no people discernible."
+     },
+     {
+      "n": 11,
+      "secao": "refrão — partida",
+      "camera": "drone",
+      "prompt": "High aerial shot: the fleet spreads across the open bay in vast formation, white wakes like brush strokes on jade water, crimson sails full of wind, triumphant monumental scale, golden light.",
+      "alt": "High aerial of dozens of red-sailed wooden ships in wide formation on jade-green sea, white wakes like brush strokes, golden light, no people discernible."
+     },
+     {
+      "n": 12,
+      "secao": "refrão — partida",
+      "camera": "travelling",
+      "prompt": "Fast travelling shot skimming the waterline alongside a giant wooden hull, planks and iron fittings rushing past, spray whipping across the lens, sunlight strobing between waves, exhilarating speed.",
+      "alt": "Fast travelling shot low over open water beside a large wooden hull, spray flying, sunlight strobing on the waves, sense of speed, no people."
+     },
+     {
+      "n": 13,
+      "secao": "refrão — partida",
+      "camera": "estatico",
+      "prompt": "Static low angle straight up the masts: pennants and battened crimson sails against fast-moving clouds, rigging lines converging overhead, sun flare, dynamic sky, heroic energy.",
+      "alt": "Low angle straight up tall wooden masts with red sails and streaming pennants against fast time-lapse clouds, sun flare, no people."
+     },
+     {
+      "n": 14,
+      "secao": "refrão — partida",
+      "camera": "gimbal",
+      "prompt": "Gimbal shot of sailors high in the rigging as backlit silhouettes, one arm raised toward the horizon, amber sails glowing behind them, wind-torn clouds, heroic and uplifting.",
+      "alt": "Rigging and rope ladders in backlit silhouette against a glowing amber sail, pennants streaming toward the horizon, uplifting golden light, no people."
+     },
+     {
+      "n": 15,
+      "secao": "refrão — partida",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on the carved and painted dragon figurehead at the prow slicing through spray, gold leaf and red lacquer gleaming, water exploding in crisp slow droplets, epic detail.",
+      "alt": "Dolly-in on a carved gilded wooden dragon figurehead over rushing water, red lacquer gleaming in sunlight, spray droplets suspended, ornate craft detail only."
+     },
+     {
+      "n": 16,
+      "secao": "refrão — partida",
+      "camera": "orbital",
+      "prompt": "Orbital shot circling the flagship at full sail, nine masts of crimson battened sails, crew tiny on the vast deck, endless ocean to the horizon, golden hour, monumental scale.",
+      "alt": "Orbital shot circling a huge nine-masted wooden ship at full sail on endless golden ocean, no people discernible at this distance, monumental scale, warm light."
+     },
+     {
+      "n": 17,
+      "secao": "verso 2 — oceano",
+      "camera": "estatico",
+      "prompt": "Static night shot: weathered hands hold a small wooden star-measuring board with a knotted cord up against a dense field of stars, framed so tightly that only the hands and the instrument are visible, deep blue night, silver starlight.",
+      "alt": "A small wooden navigation board with a knotted cord resting on a ship rail under a dense field of stars, deep blue night, silver light, objects only, quiet wonder."
+     },
+     {
+      "n": 18,
+      "secao": "verso 2 — oceano",
+      "camera": "pan",
+      "prompt": "Slow pan along the ship's wake at night glowing with blue bioluminescence, stars mirrored on black glassy water, mast lanterns swaying softly above, mysterious and vast mood.",
+      "alt": "Slow pan over glowing blue bioluminescent water trailing behind a dark wooden hull at night, mirrored stars, soft lantern glow, vast and mysterious, no people."
+     },
+     {
+      "n": 19,
+      "secao": "verso 2 — oceano",
+      "camera": "travelling",
+      "prompt": "Travelling shot through a bustling tropical port market: bolts of silk, pyramids of spices and blue-and-white porcelain changing hands between traders of many lands, warm dusty light through colorful awnings, joyful cultural exchange.",
+      "alt": "Travelling past tropical market stalls piled with silk bolts, spice pyramids and blue-and-white porcelain, warm dusty sunbeams through swaying awnings, no people in frame."
+     },
+     {
+      "n": 20,
+      "secao": "verso 2 — oceano",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a trader's carpet: a blue-and-white porcelain bowl beside cinnamon bark, peppercorns and pearls, a warm sunbeam through canvas above, tactile macro detail, still-life beauty.",
+      "alt": "Macro dolly over a woven carpet holding a porcelain bowl, cinnamon bark, peppercorns and pearls in a warm sunbeam, tactile still-life detail, objects only."
+     },
+     {
+      "n": 21,
+      "secao": "tempestade",
+      "camera": "drone",
+      "prompt": "Aerial drone shot: a black wall of storm cloud swallows the horizon, lightning pulsing deep inside the cloud, the fleet tiny and scattered on darkening teal sea, ominous monumental scale.",
+      "alt": "Aerial of an immense dark storm front over open teal sea, light pulsing inside the clouds, small wooden ships far below as specks, ominous scale, no people."
+     },
+     {
+      "n": 22,
+      "secao": "tempestade",
+      "camera": "handheld",
+      "prompt": "Handheld shot on deck in the storm: the horizon tilts violently, green water bursts over the wooden rail, ropes whipping, rain hammering the planks, chaotic energy, dark teal palette.",
+      "alt": "Handheld view of rain hammering an empty tilting wooden deck, seawater surging past coiled ropes and a swinging lantern, dark teal palette, no people."
+     },
+     {
+      "n": 23,
+      "secao": "tempestade",
+      "camera": "estatico",
+      "prompt": "Static wide shot: a single lightning flash freezes the entire fleet in stark white silhouette against black sea and sky, one-frame impact, then darkness returns, sublime and terrifying.",
+      "alt": "Wide shot of distant sailing ship silhouettes revealed for an instant by lightning against a black sea and sky, high contrast, then darkness, no detail visible."
+     },
+     {
+      "n": 24,
+      "secao": "tempestade",
+      "camera": "dolly-in",
+      "prompt": "Macro dolly-in: a thick hemp rope strains and frays, fibers snapping one by one in wind-driven spray, framed so tightly that only the rope and its wooden cleat are visible, tense detail.",
+      "alt": "Macro of a thick wet hemp rope stretched taut over a wooden cleat, water spraying off the fibers in wind, dark stormy light, objects only, tense mood."
+     },
+     {
+      "n": 25,
+      "secao": "tempestade",
+      "camera": "handheld",
+      "prompt": "Handheld shot: a line of drenched sailors leans back into a rope together, boots sliding on wet planks, bodies straining as one, faces turned away from the driving rain, desperate teamwork.",
+      "alt": "A taut rope line stretched across a rain-lashed empty deck, water streaming off it, lanterns swinging wildly on hooks, handheld urgency, no people."
+     },
+     {
+      "n": 26,
+      "secao": "tempestade",
+      "camera": "gimbal",
+      "prompt": "Gimbal close on the tiller: weathered hands gripping the dark wet wood, knuckles white, water streaming off, lightning flicker across the grain, framed so tightly that only the hands and the tiller are visible.",
+      "alt": "Close on a dark wooden tiller lashed with rope, water streaming off it, lightning flicker across the wet grain, tight framing on the object only, tense mood."
+     },
+     {
+      "n": 27,
+      "secao": "tempestade",
+      "camera": "drone",
+      "prompt": "Drone shot with a speed ramp: a mountainous wave crests as the flagship climbs its towering face with sails reefed, foam whiting out the frame at the peak, apocalyptic scale, dark teal and white.",
+      "alt": "Drone speed-ramp on a mountainous cresting wave in open storm sea, foam whiting out the frame at the peak, a small dark wooden hull far below, no people visible."
+     },
+     {
+      "n": 28,
+      "secao": "silêncio",
+      "camera": "estatico",
+      "prompt": "Long static wide shot: dead-calm sea at first light under thin mist, the great ship drifting slowly with a torn but holding sail, a single lantern still burning, water like glass, profound silence and relief.",
+      "alt": "Long static wide of a glass-calm sea at misty first light, a large wooden ship drifting with a torn sail, one small lantern glowing, muted pastel palette, no people."
+     },
+     {
+      "n": 29,
+      "secao": "ponte — chegada",
+      "camera": "travelling",
+      "prompt": "Travelling shot from the sea toward a sunlit African coast: white sand, baobab trees, small dhows sailing out to greet the great ships, turquoise shallows, warm welcoming light, wonder and relief.",
+      "alt": "Travelling over turquoise shallows toward a sunlit coast with white sand and baobab trees, small triangular-sailed boats on the water, warm welcoming light, no people discernible."
+     },
+     {
+      "n": 30,
+      "secao": "ponte — chegada",
+      "camera": "gimbal",
+      "prompt": "Gimbal wide shot from behind the crowd: a giraffe is gently led up the wide gangplank of a giant wooden ship, sailors and traders watching in quiet awe, banners and crimson sails towering above, golden afternoon light.",
+      "alt": "A giraffe silhouette walking along a wooden pier toward a large sailing ship at golden hour, tall banners rippling, wide shot, warm backlight, no faces visible."
+     },
+     {
+      "n": 31,
+      "secao": "ponte — chegada",
+      "camera": "orbital",
+      "prompt": "Orbital shot over a beach gathering: woven mats spread with silk, printed cloth in reds and golds, spices and porcelain, people of many lands trading and laughing together, great ships anchored beyond, celebratory warmth.",
+      "alt": "Orbital over woven mats spread with colorful cloth, spices and porcelain arranged on a beach, wooden ships anchored in turquoise water beyond, warm celebratory light, no people."
+     },
+     {
+      "n": 32,
+      "secao": "refrão final — retorno",
+      "camera": "drone",
+      "prompt": "High drone shot: the fleet sails home into a blazing sunset, sails glowing amber, dozens of white wakes converging toward a distant harbor city, triumphant monumental scale.",
+      "alt": "High aerial of many red-sailed wooden ships converging toward a distant harbor inside a blazing amber sunset, glowing wakes on dark gold water, no people discernible."
+     },
+     {
+      "n": 33,
+      "secao": "refrão final — retorno",
+      "camera": "travelling",
+      "prompt": "Travelling shot along the harbor front as thousands of red lanterns light up one after another, reflections rippling across the dark water toward the arriving ships, dusk blue and lantern gold.",
+      "alt": "Travelling along a dusk waterfront as strings of red lanterns ignite in sequence, gold reflections rippling across dark water toward distant sails, no people in frame."
+     },
+     {
+      "n": 34,
+      "secao": "refrão final — retorno",
+      "camera": "gimbal",
+      "prompt": "Gimbal tracking shot: children run along the wooden pier keeping pace with the huge incoming ship, hair and sleeves flying, joyful energy, warm lantern backlight, spray of golden dust.",
+      "alt": "Tracking along a wooden pier at dusk, lantern light streaking past, the huge dark hull gliding alongside as mooring ropes arc toward bollards, joyful pace, no people."
+     },
+     {
+      "n": 35,
+      "secao": "refrão final — retorno",
+      "camera": "estatico",
+      "prompt": "Static low angle from the dock: enormous crimson battened sails pass overhead one after another like slow clouds, rigging silhouettes crossing the amber sky, overwhelming and serene.",
+      "alt": "Low angle of enormous glowing red sails drifting overhead against an amber sky like slow clouds, rigging lines in silhouette, serene monumental mood, no people."
+     },
+     {
+      "n": 36,
+      "secao": "refrão final — retorno",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in toward a lone robed figure standing at the bow in full silhouette against the glowing lantern-lit home city, banner snapping in the wind, face never visible, monumental homecoming emotion.",
+      "alt": "Dolly-in toward the empty carved bow of a great wooden ship facing a glowing lantern-lit harbor city at dusk, a long banner snapping in the wind, homecoming mood, no people."
+     },
+     {
+      "n": 37,
+      "secao": "refrão final — retorno",
+      "camera": "orbital",
+      "prompt": "Orbital shot circling the flagship as it enters the inner harbor while fireworks bloom gold and red above the city, sparks reflected in black water, jubilant epic scale.",
+      "alt": "Orbital around a huge wooden sailing ship entering a night harbor as gold and red fireworks bloom above a lantern-lit skyline, reflections on black water, no people discernible."
+     },
+     {
+      "n": 38,
+      "secao": "refrão final — retorno",
+      "camera": "drone",
+      "prompt": "Drone pulling up and back: the whole harbor filled with great ships, the city glowing with thousands of lanterns, violet mountains behind, last fireworks fading, epic final tableau.",
+      "alt": "Slow aerial pull-back over a harbor full of anchored wooden ships and a city glowing with lanterns beneath violet mountains, fading firework smoke, epic wide tableau, no people."
+     },
+     {
+      "n": 39,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Long static shot: an ink-brushed nautical chart on a wooden table, bronze compass and brush resting on it, candle flame guttering, a breeze lifting the chart's corner toward an open window where the moonlit sea waits, quiet promise of the next voyage.",
+      "alt": "Long static shot of an ink-brushed map, bronze bowl and brush on a candlelit wooden table, a breeze lifting the paper's corner toward an open window and moonlit water beyond, objects only."
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "eu-faria-a-musica-nao-como-uma-aula-de-h",
    "mvd": "MVD#138",
    "titulo": "Além do Horizonte",
