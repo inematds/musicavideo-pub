@@ -13,7 +13,7 @@ function Card({ m }) {
   return (
     <div className="card">
       <Link className="capa" href={`/${m.id}`}>
-        {f.capa ? <img loading="lazy" src={f.capa} alt={`capa de ${x.titulo} · versão ${f.n}`} /> : null}
+        {f.thumb ? <img loading="lazy" src={f.thumb} alt={`capa de ${x.titulo} · versão ${f.n}`} /> : null}
         <span className={`n${f.aprovada ? ' ok' : ''}`}>
           v{f.n}
           {f.aprovada ? ' ✓' : ''}
