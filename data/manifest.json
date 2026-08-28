@@ -4,6 +4,493 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "cantor-sertanejo-moderno-prompt-baseca-n",
+   "mvd": "",
+   "titulo": "Visualizou",
+   "quando": "2026-08-27T19:37:50-03:00",
+   "solicitacao": "CANTOR SERTANEJO MODERNO — PROMPT BASECa ntor sertanejo brasileiro de 27–30 anos, masculino, moderno, carismático, confiante e popular. Visual urbano-rural contemporâneo, sem exagero cowboy.Id entidade musical: sertanejo moderno híbrido 2026, com cerca de 60% sertanejo, 20% pop brasileiro, 15% groove/funk leve e 5% eletrônico. Som jovem, comercial e atual, mas ainda claramente sertanejo.BPM e ener gia: 126–132 BPM, energia média-alta/alta, clima confiante, envolvente, sensual, divertido e emocional.Instrumentação e batida: violão acústico rítmico, guitarra limpa com riffs curtos, acordeon usado pontualmente como assinatura, baixo elétrico combinado com subgrave moderno, bateria acústica punchy, kick eletrônico discreto, percussão brasileira leve, synths muito sutis, palmas e backing vocals no refrão. Groove brasileiro moderno com swing, sem virar funk puro ou EDM.Voz: masculina bra sileira, quente, jovem, marcante e levemente rouca. Versos naturais e quase conversados, pré-refrão crescente e refrão aberto, forte, simples e coletivo. Pronúncia natural em português brasileiro e pouco autotune perceptível.Letra: linguagem simpl es, atual e cotidiana. Temas como atração, relacionamento, recaída, saudade, mensagem de madrugada, ciúme leve, festa, desejo, romance moderno e encontros/desencontros. Evitar machismo, vulgaridade, agressividade, texto depressivo ou romantização excessiva.Hook e viralidade: a músic a deve começar com a voz ou frase forte nos primeiros segundos. Criar uma frase central de 5–8 palavras, simples e fácil de repetir. Os primeiros 10–12 segundos precisam funcionar sozinhos em TikTok, Reels e Shorts.Estrutura: duração entre 2:20 e 2:50. Hook imediato, verso curto, pré-refrão, refrão rápido, segundo verso, refrão, ponte/quebra e refrão final maior. Sem introdução longa e sem solos extensos.Produção: moderna e polida, graves fortes e li mpos, voz bem à frente, violão aberto e rítmico, bateria com impacto, subgrave controlado, refrão maior que os versos e sensação de música feita tanto para streaming quanto para show e conteúdo curto.Prompt musical:Modern Brazilian male sertanejo hyb rid, 126–132 BPM, r hythmic acoustic guitar, clean electric guitar riffs, occasional expressive accordion, melodic electric bass with controlled modern sub-bass, punchy organic live drums, subtle electronic kick reinforcement, light Brazilian percussion, subtle modern synth textures, claps and energetic backing vocals. Warm charismatic slightly raspy Brazilian male vocalist, conversational verses, rising pre-chorus and explosive catchy sing-along chorus. 60% contemporary sertanejo, 20% Brazilian pop, 15% Brazilian funk-inspired groove, 5% subtle electronic production. Immediate vocal hook within the first seconds, with an extremely catchy 5–8 word central phrase. First 10–12 seconds must work independently as a viral TikTok, Reels or Shorts clip. Modern relationship lyrics in natural Brazilian Portuguese, covering attraction, desire, nightlife, saudade, messages, romantic tension and playful emotional conflict. Commercial polished 2026 production with strong clean low end, vocal-forward mix and organic instruments combined with modern rhythm production.Negative: pure funk carioca, EDM drop, techno, synthwa ve, trap dominant, rap, reggaeton dominant, heavy autotune, vulgar lyrics, aggressive macho attitude, excessive synths, metal guitars, long intro, long instrumental solo, slow depressive ballad, old-fashioned sertanejo production.Essência: sertanejo com alma brasileira, linguagem atual, groove moderno e forte potencial de viralização.",
+   "genero": "sertanejo moderno híbrido (sertanejo / pop brasileiro / groove leve)",
+   "bpm": 128,
+   "tom": "Mi maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "planejado"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "confiante",
+    "sensual",
+    "divertido",
+    "emocional",
+    "de madrugada"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa.png",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v1.png",
+     "clipe": null
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v2.png",
+     "clipe": null
+    }
+   ],
+   "versoes": [],
+   "bytes": 17754615,
+   "doc": "# Visualizou\n\n\n\n**slug:** `cantor-sertanejo-moderno-prompt-baseca-n`  ·  **criado:** 2026-08-27T19:37:50-03:00\n\n**solicitação:** CANTOR SERTANEJO MODERNO — PROMPT BASECa ntor sertanejo brasileiro de 27–30 anos, masculino, moderno, carismático, confiante e popular. Visual urbano-rural contemporâneo, sem exagero cowboy.Id entidade musical: sertanejo moderno híbrido 2026, com cerca de 60% sertanejo, 20% pop brasileiro, 15% groove/funk leve e 5% eletrônico. Som jovem, comercial e atual, mas ainda claramente sertanejo.BPM e ener gia: 126–132 BPM, energia média-alta/alta, clima confiante, envolvente, sensual, divertido e emocional.Instrumentação e batida: violão acústico rítmico, guitarra limpa com riffs curtos, acordeon usado pontualmente como assinatura, baixo elétrico combinado com subgrave moderno, bateria acústica punchy, kick eletrônico discreto, percussão brasileira leve, synths muito sutis, palmas e backing vocals no refrão. Groove brasileiro moderno com swing, sem virar funk puro ou EDM.Voz: masculina bra sileira, quente, jovem, marcante e levemente rouca. Versos naturais e quase conversados, pré-refrão crescente e refrão aberto, forte, simples e coletivo. Pronúncia natural em português brasileiro e pouco autotune perceptível.Letra: linguagem simpl es, atual e cotidiana. Temas como atração, relacionamento, recaída, saudade, mensagem de madrugada, ciúme leve, festa, desejo, romance moderno e encontros/desencontros. Evitar machismo, vulgaridade, agressividade, texto depressivo ou romantização excessiva.Hook e viralidade: a músic a deve começar com a voz ou frase forte nos primeiros segundos. Criar uma frase central de 5–8 palavras, simples e fácil de repetir. Os primeiros 10–12 segundos precisam funcionar sozinhos em TikTok, Reels e Shorts.Estrutura: duração entre 2:20 e 2:50. Hook imediato, verso curto, pré-refrão, refrão rápido, segundo verso, refrão, ponte/quebra e refrão final maior. Sem introdução longa e sem solos extensos.Produção: moderna e polida, graves fortes e li mpos, voz bem à frente, violão aberto e rítmico, bateria com impacto, subgrave controlado, refrão maior que os versos e sensação de música feita tanto para streaming quanto para show e conteúdo curto.Prompt musical:Modern Brazilian male sertanejo hyb rid, 126–132 BPM, r hythmic acoustic guitar, clean electric guitar riffs, occasional expressive accordion, melodic electric bass with controlled modern sub-bass, punchy organic live drums, subtle electronic kick reinforcement, light Brazilian percussion, subtle modern synth textures, claps and energetic backing vocals. Warm charismatic slightly raspy Brazilian male vocalist, conversational verses, rising pre-chorus and explosive catchy sing-along chorus. 60% contemporary sertanejo, 20% Brazilian pop, 15% Brazilian funk-inspired groove, 5% subtle electronic production. Immediate vocal hook within the first seconds, with an extremely catchy 5–8 word central phrase. First 10–12 seconds must work independently as a viral TikTok, Reels or Shorts clip. Modern relationship lyrics in natural Brazilian Portuguese, covering attraction, desire, nightlife, saudade, messages, romantic tension and playful emotional conflict. Commercial polished 2026 production with strong clean low end, vocal-forward mix and organic instruments combined with modern rhythm production.Negative: pure funk carioca, EDM drop, techno, synthwa ve, trap dominant, rap, reggaeton dominant, heavy autotune, vulgar lyrics, aggressive macho attitude, excessive synths, metal guitars, long intro, long instrumental solo, slow depressive ballad, old-fashioned sertanejo production.Essência: sertanejo com alma brasileira, linguagem atual, groove moderno e forte potencial de viralização.\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo moderno híbrido (sertanejo / pop brasileiro / groove leve)  ·  **BPM:** 128  ·  **Tom:** Mi maior\n- **Mood:** confiante, sensual, divertido, emocional, de madrugada\n- **Instrumentação:** violão acústico rítmico aberto, guitarra limpa com riffs curtos, acordeon pontual como assinatura, baixo elétrico com subgrave controlado, bateria acústica punchy com kick eletrônico discreto, percussão brasileira leve, synths muito sutis, palmas e backing vocals no refrão\n- **Voz:** \"masculina brasileira, quente, jovem, levemente rouca; versos quase conversados, pré-refrão crescente, refrão aberto e coletivo com coro\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Modern Brazilian male sertanejo hybrid, 128 BPM, E major: 60% contemporary sertanejo, 20% Brazilian pop, 15% light Brazilian groove, 5% subtle electronic production. Rhythmic open acoustic guitar, clean electric guitar with short riffs, occasional expressive accordion as a signature, melodic electric bass with controlled modern sub-bass, punchy live drums with subtle electronic kick reinforcement, light Brazilian percussion, very subtle synth textures, claps and energetic group backing vocals on the chorus. Warm charismatic slightly raspy young Brazilian male vocalist, natural Portuguese pronunciation, minimal autotune; conversational verses, rising pre-chorus, big simple sing-along chorus repeating one central phrase. The song opens on the vocal hook in the first second, no long intro, no long instrumental solos. Polished 2026 commercial mix, strong clean low end, vocal-forward, chorus bigger than the verses, final chorus the biggest with claps and crowd vocals. Confident, sensual, playful and emotional. Lyrics in pt-BR\n\n**Estrutura:** hook (10s) · verso1 (20s) · pre1 (12s) · refrao1 (20s) · verso2 (20s) · pre2 (10s) · refrao2 (20s) · ponte (18s) · refrao_final (35s) · outro (15s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Hook]\nDiz que me esqueceu, mas visualizou\nTrês da manhã, meu story quem olhou?\n(Foi tu, foi tu)\n\n[Verse]\nPostou foto na festa, sorrindo pra ninguém\nLegenda de quem tá livre, de quem tá muito bem\nPassou por mim no bar fingindo que nem viu\nMas o teu olhar me achou e nunca mais saiu\n\n[Pre-Chorus]\nAí o teu celular vibrou às três da manhã\nNão precisa nem dizer que foi sem querer\nEu sei que tu não dorme, e eu também não\nEntão para de fingir e vem\n\n[Chorus]\nDiz que me esqueceu, mas visualizou\nTodo story meu, tu que visualizou\nDigita, apaga, digita, apaga e manda um \"oi\"\nDiz que me esqueceu, mas visualizou\n(Visualizou, visualizou)\n\n[Verse]\nTeu \"oi\" chegou sem emoji, cheio de moral\nDois minutos depois: \"me diz, cê tá em qual?\"\nRespondi: no de sempre, a mesa lá do fundo\nCê chegou dizendo que ia embora em um segundo\n\n[Pre-Chorus]\nTeu celular vibrou, mas dessa vez foi o meu\nNão precisa nem falar, teu olho já respondeu\nNinguém aqui esqueceu, nem eu, nem tu\nEntão para de fingir e vem\n\n[Chorus]\nDiz que me esqueceu, mas visualizou\nTodo story meu, tu que visualizou\nDigita, apaga, digita, apaga e manda um \"oi\"\nDiz que me esqueceu, mas visualizou\n(Visualizou, visualizou)\n\n[Bridge]\nBloqueia, desbloqueia\nSome e aparece de novo\nSe esse teu \"esqueci\" é assim\nEntão me esquece de novo\n(Me esquece de novo, me esquece de novo)\n\n[Final Chorus]\nDiz que me esqueceu, mas visualizou\nTodo story meu, tu que visualizou\nDigita, apaga, digita, apaga e manda um \"oi\"\nDiz que me esqueceu, mas visualizou\n(Visualizou, visualizou)\nDiz que me esqueceu, mas visualizou\nTodo story meu, tu que visualizou\nDigita, apaga, digita, apaga e manda um \"oi\"\nDiz que me esqueceu, mas visualizou\n\n[Outro]\nVisualizou (visualizou)\nEu sei que foi tu\nVisualizou\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0b0b0f, #b80b0b, #ff2a2a, #f4c430, #ffe9c4\n- **Params:** `{}`\n\n**Conceito:** Ele sozinho no balcão do bar, no fim da noite, olhando pra baixo pro celular — a luz da tela no rosto é a única prova de que alguém visualizou. Olhar escolhido: OLHOS BAIXOS, no aparelho, sem olhar pra lente (a última capa do acervo, Perdoar Não É Esquecer, é retrato frontal). Neon vermelho e luzinhas âmbar desfocadas atrás, paleta preto/vermelho/dourado do concert film. Sem boca cantando, sem microfone: é um retrato de madrugada, não um plano de show.\n\n**Prompt (EN):**\n\n> Album cover, 1:1, centered cinematic portrait of a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up, thin silver chain, sitting alone at a wooden bar counter at closing time, eyes lowered to the smartphone in his hand, the phone screen casting a cool glow on his face with a faint knowing smile, warm amber string lights and a red neon sign heavily out of focus behind him, backlit bottles, light haze, shallow depth of field, 50mm, concert-film color grade with deep blacks, saturated red and warm gold highlights, subtle anamorphic flare, empty dark space at the bottom third for a title, photorealistic\n\n**Negativo:** text, letters, typography, words, watermark, logo, cowboy hat, microphone, extra limbs, deformed hands, second person, blurry face, cartoon, oversaturated skin\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa medida em 195s (a decupagem anterior cobria 180s). Mapa de tempo usado nesta decupagem: hook 0-10, verso1 10-30, pre1 30-42, refrão1 42-62, verso2 62-82, pre2 82-92, refrão2 92-112, ponte 112-128, refrão final 128-172, outro 172-195 — os 15s extras foram para o refrão final (que dobra na letra) e para a cauda do outro; o plano fixo de 9s no fim absorve qualquer deriva. Ritmo: 58 shots em 195s = ~18 cortes/min na média, conservando a variação de 2s a 9s (refrão picado, verso respirando). O NÚCLEO medido na onda, 128-140s, é exatamente a entrada do refrão final: 6 planos de 2,0s (30 cortes/min, o ritmo mais picado do clipe), abrindo com todas as luzes do bar estourando e fechando com os dois no mesmo quadro rindo um pro outro — esse trecho de 12s é o que vira Short. O resto do refrão final (140-172) fica a ~21/min, os refrões 1 e 2 a 24/min (8 planos em 20s), os versos a ~12/min, e a ponte segura um plano de 7s antes de cair pra contagem das baquetas que bate em 128,0. A âncora segue a referência medida gusttavo-lima-bala-alojada (sertanejo, 128 bpm — o mesmo BPM desta faixa — 23,3 cortes/min, corte seco no beat, dissolve e dupla exposição): os refrões copiam esse ritmo, o núcleo passa um pouco dele de propósito, os versos respiram abaixo. Não fui até os 35,5 cortes/min do ravenstrikex porque aquilo é rave EDM; o facebook-8 (16/min) serviu só pra confirmar o piso dos versos. Transições: corte seco no beat (kick a 128 bpm = corte a cada 2 ou 4 tempos no refrão; no núcleo, a cada 4 tempos cravados), dissolve curto entre planos de verso, dupla exposição na ponte e no refrão final. Sem slowmo. Narrativa: hook = ele no balcão com a tela acesa; verso 1 = ela na festa fingindo que tá bem e passando por ele no bar; refrão 1 = show no bar, ele apontando pra ela no fundo; verso 2 = estacionamento, o 'oi' e a caçamba da picape; refrão 2 = ela já na frente do palco; ponte = luz baixa, bloqueia/desbloqueia, ela atravessando a plateia; refrão final = o bar inteiro, as mãos se tocando, ela filmando ele do meio da festa; outro = os dois no balcão, o celular dela mostrando o story dele visto (fecha o plano 2), a saída pela porta e a picape indo embora ao amanhecer.\n- **Params:** `{}`\n- **Shots:** 58  ·  **Duração total:** 195.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | hook | 4.5s | dolly-in | Abertura fria: ele sozinho no balcão do bar às 3 da manhã, tela do celular acesa no rosto, levanta o olhar direto pra lente com meio sorriso. A voz entra junto com a imagem. |\n| 2 | hook | 3.0s | handheld | Por cima do ombro dele: a tela do celular mostra o indicador de story visto, foto de perfil dela desfocada. Nada legível. |\n| 3 | hook | 2.5s | gimbal | Corte seco no kick: pequeno palco do bar, luzes vermelhas e douradas acendem de uma vez, baterista bate o bumbo, sanfoneiro e guitarrista prontos. |\n| 4 | verso1 | 6.0s | steadicam | Ela numa festa do outro lado da cidade, posando pra foto com amigas, flash de celular, rindo — mas o olhar escapa pro lado. |\n| 5 | verso1 | 5.0s | estatico | Celular dela sobre a mesa: a foto da festa sendo postada, barra de legenda desfocada. Insert do 'legenda de quem tá livre'. |\n| 6 | verso1 | 4.5s | travelling | No bar: ela passa por ele no balcão fingindo que não viu; travelling lateral acompanha a passagem, ele vira a cabeça e a acompanha com o olhar. |\n| 7 | verso1 | 4.5s | dolly-in | O espelho atrás do balcão: reflexo dela, já do outro lado do bar, olhando de volta pra ele. 'Nunca mais saiu.' |\n| 8 | pre1 | 5.0s | handheld | Ele já no palco do bar, violão a tiracolo, cabeça inclinada pra trás, olhos fechados com força, contraluz âmbar por trás. A tensão do pré-refrão no corpo. |\n| 9 | pre1 | 4.0s | estatico | Celular dela na mesa acende sozinho: três da manhã. Dedos dela pairam sobre a tela, hesitam. |\n| 10 | pre1 | 3.0s | gimbal | A plateia começa a bater palma no tempo, mãos sobem, energia subindo pro refrão. |\n| 11 | refrao1 | 2.5s | drone | Refrão estoura: subida vertical sobre a plateia lotada do bar, luzes vermelhas em cheio. |\n| 12 | refrao1 | 2.5s | gimbal | Órbita rápida nele no centro do palco, mão fechada no pé do microfone, queixo erguido, plateia com as mãos pra cima. |\n| 13 | refrao1 | 3.0s | handheld | Amigos na plateia com celulares erguidos, telas acesas, pulando no tempo. |\n| 14 | refrao1 | 2.0s | estatico | Ela no fundo do bar, sem conseguir segurar o sorriso, olhando pra ele. |\n| 15 | refrao1 | 2.5s | travelling | Contra-plongê passando pelo guitarrista e pelo fole da sanfona abrindo. |\n| 16 | refrao1 | 2.5s | dolly-in | Ele aponta do palco pro fundo do bar, na direção dela, brincalhão. |\n| 17 | refrao1 | 2.5s | handheld | As amigas cutucam ela; ela revira os olhos e ri. |\n| 18 | refrao1 | 2.5s | steadicam | Plano geral do palco com a plateia batendo palma, explosão de luz vermelha no fim do refrão. |\n| 19 | verso2 | 6.0s | estatico | Estacionamento de cascalho: ele encostado na picape, celular na mão, chega o 'oi' sem emoji — balão curto, borrado. Ele sorri de canto. |\n| 20 | verso2 | 5.0s | travelling | Ela sai pela porta do bar e atravessa o estacionamento, chave do carro na mão, fingindo casual. |\n| 21 | verso2 | 5.0s | dolly-in | Os dois na caçamba da picape; ela diz algo curto, ele ri; ela 'ia embora em um segundo' mas senta na caçamba. |\n| 22 | verso2 | 4.0s | estatico | Close: a mão dela larga a chave do carro na caçamba. Ela vai ficar. |\n| 23 | pre2 | 4.0s | handheld | Dois celulares lado a lado na caçamba, as duas telas acendem ao mesmo tempo. 'Dessa vez foi o meu.' |\n| 24 | pre2 | 3.5s | dolly-in | Olhos dela, iluminados pela tela do celular, olhando pra ele. 'Teu olho já respondeu.' |\n| 25 | pre2 | 2.5s | gimbal | Corte de volta pro bar: as luzes do palco batem no kick, a banda entra no segundo refrão. |\n| 26 | refrao2 | 2.5s | drone | Descida vertical do teto do bar até a plateia, o inverso do refrão 1. |\n| 27 | refrao2 | 2.5s | gimbal | Ele pulando no tempo com o violão, ombros subindo, suor, luz vermelha. |\n| 28 | refrao2 | 2.5s | handheld | Ela agora na primeira fila, braços pra cima, cabelo voando. |\n| 29 | refrao2 | 2.5s | estatico | Close do fole da sanfona abrindo e fechando no tempo, luz dourada. |\n| 30 | refrao2 | 3.0s | steadicam | Ele se inclina pra fora do palco na direção dela, mão estendida, plateia em volta. |\n| 31 | refrao2 | 2.0s | estatico | Mãos da plateia batendo palma em uníssono, luz vermelha. |\n| 32 | refrao2 | 2.5s | estatico | Dupla exposição: o rosto dela sobreposto ao brilho da tela do celular e ao letreiro neon. |\n| 33 | refrao2 | 2.5s | drone | Plano aberto da plateia inteira pulando junto no último tempo do refrão 2. |\n| 34 | ponte | 7.0s | dolly-in | Ponte: as luzes caem, ele sozinho num banquinho com o violão, um único spot âmbar, névoa. Olhos fechados, cabeça inclinada — o plano segura. |\n| 35 | ponte | 3.5s | estatico | Celular dela: o dedo vai e volta num botão de bloquear/desbloquear, interface abstrata sem texto. 'Bloqueia, desbloqueia.' |\n| 36 | ponte | 3.0s | handheld | Ela abre caminho pela plateia em direção ao palco, decidida. |\n| 37 | ponte | 2.5s | estatico | Baquetas erguidas pra contagem, luz prestes a estourar. Termina cravado em 128,0s. |\n| 38 | refrao_final | 2.0s | drone | NÚCLEO (128-140s, o Short) começa aqui: todas as luzes ligam de uma vez, o bar inteiro pula. |\n| 39 | refrao_final | 2.0s | gimbal | Órbita nele, mão no pé do microfone, veia saltada no pescoço, queixo erguido. |\n| 40 | refrao_final | 2.0s | handheld | Ela de braços pra cima, cabelo voando, luz vermelha, pura festa. |\n| 41 | refrao_final | 2.0s | handheld | Chicote de câmera do palco pro fole da sanfona abrindo no máximo, luz dourada explodindo por trás. |\n| 42 | refrao_final | 2.0s | steadicam | O MELHOR PLANO DO CLIPE: ela na primeira fila e ele no palco no mesmo quadro, os dois rindo um pro outro. |\n| 43 | refrao_final | 2.0s | drone | Fecha o núcleo em 140,0s: topo, a plateia inteira batendo palma no tempo, vista de cima. |\n| 44 | refrao_final | 2.5s | handheld | Lanternas de celular balançando na plateia. |\n| 45 | refrao_final | 3.0s | travelling | Travelling ao longo da banda: baixo, guitarra, sanfona, todos no tempo. |\n| 46 | refrao_final | 3.0s | dolly-in | Ele com a mão no peito, olhos fechados, cabeça pra trás, suor brilhando no contraluz. |\n| 47 | refrao_final | 2.5s | handheld | As amigas erguem ela nos ombros na primeira fila, ela ri de braços abertos, cabelo no ar. |\n| 48 | refrao_final | 3.0s | handheld | Contra-plongê do guitarrista pulando no tempo, luz dourada. |\n| 49 | refrao_final | 2.5s | estatico | Dupla exposição: o perfil dele de cabeça pra trás sobreposto ao letreiro neon e às luzinhas âmbar. |\n| 50 | refrao_final | 3.0s | steadicam | Ele agacha na beira do palco, as mãos dos dois se tocam por um instante. |\n| 51 | refrao_final | 3.0s | estatico | Dupla exposição: o letreiro neon vermelho sobre a plateia com as mãos pra cima. |\n| 52 | refrao_final | 2.5s | handheld | Ela do meio da plateia filma ele com o celular erguido: a tela mostra ele no palco de cabeça pra trás, em miniatura, sem texto. Quem visualizava agora grava. |\n| 53 | refrao_final | 3.0s | handheld | Atrás do balcão, o barman larga o pano e bate palma no tempo junto com a plateia, garrafas iluminadas atrás. |\n| 54 | refrao_final | 4.0s | steadicam | Plano geral do último acorde: luzes estouram e caem pro vermelho, banda e plateia em silhueta. Fecha em 172,0s. |\n| 55 | outro | 6.0s | dolly-in | Bar esvaziando, luzinhas âmbar; os dois no balcão dividindo um celular, testas quase encostadas, rindo. Dolly lento saindo. |\n| 56 | outro | 4.0s | handheld | Fecha o plano 2: por cima do ombro DELA, a tela do celular dela mostra o story dele com o indicador de visto e a foto de perfil dele desfocada; o dedo dele entra no quadro e toca a tela por cima da mão dela. Nada legível. |\n| 57 | outro | 4.0s | travelling | Os dois saem pela porta do bar de costas pra câmera, ela com a chave do carro girando no dedo, o letreiro neon ainda aceso em cima da porta. |\n| 58 | outro | 9.0s | estatico | Exterior ao amanhecer: a picape sai do estacionamento de cascalho, o letreiro neon apaga, o céu clareia. Plano fixo que segura até o fim (195,0s). |\n\n**Prompts (EN):**\n\n1. Cinematic slow dolly-in on a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up and a thin silver chain, sitting at a wooden bar counter at closing time, smartphone screen glowing on his face, he lifts his eyes straight into the lens with a knowing half smile, warm amber string lights and a red neon sign out of focus behind him, backlit bottles, light haze, 35mm, shallow depth of field, concert-film color grade with deep blacks, saturated red and warm gold highlights, subtle anamorphic flare\n2. Handheld over-the-shoulder close-up of a smartphone screen in a dim bar, an abstract social app interface with a small glowing eye icon and a blurred circular profile photo of a woman with long dark hair, no readable text, thumb hovering over the screen, bar lights reflecting on the glass, amber and red bokeh, shallow depth of field\n3. Fast gimbal push toward a small bar stage as red and gold stage lights snap on all at once, a drummer strikes the kick drum, an accordion player and a guitarist with a clean electric guitar stand ready, light haze cut by the beams, wide shot, energetic, concert-film grade with deep blacks and saturated red\n4. Steadicam glide through a lively rooftop party at night, a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket and gold hoop earrings poses for a photo with two friends, a phone flash pops, she laughs but her eyes drift away from the group, string lights and city lights bokeh, warm skin tones, red and gold palette, shallow depth of field\n5. Static close-up of a smartphone lying on a party table among glasses, the screen shows a photo of a woman with long dark hair being posted in an abstract social app, the caption strip is blurred with no readable text, a finger taps the screen, string lights bokeh, warm amber and red tones\n6. Lateral travelling shot inside a modern small-town Brazilian bar at night, a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket walks past the wooden counter pretending not to notice a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt sitting there, he turns his head and follows her with his eyes, warm amber string lights, red neon sign, backlit bottles, light haze, concert-film grade\n7. Slow dolly-in on the mirror behind a bar counter, framed between backlit bottles, the reflection shows a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket standing across the bar, glancing back over her shoulder, warm amber and red neon reflections, light haze, shallow depth of field, cinematic\n8. Handheld medium shot of a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up, an acoustic guitar strapped on, standing on a small bar stage with his head tilted back and eyes shut tight, neck tensed, warm amber backlight and a red spotlight from behind, band silhouettes around him, haze, concert-film grade with deep blacks\n9. Static close-up of a smartphone on a dark bar table lighting up by itself with a soft clock glow, a woman's fingers with short nude nails hover over the screen and hesitate, framed so tightly that only the hand and the phone are visible, red neon and amber bokeh, shallow depth of field\n10. Gimbal shot sweeping across a bar crowd as they start clapping in rhythm, dozens of hands rising, red and gold stage light washing over them, haze, energetic, concert-film grade\n11. Rising aerial shot climbing over a packed small-town bar crowd as the chorus hits, red and gold beams sweeping, hands in the air, small stage at the far end with a band, haze, high energy, concert-film grade with deep blacks\n12. Fast gimbal orbit around a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt at center stage, fist gripping the microphone stand, chin raised, eyes closed, crowd hands raised in the foreground, red and gold stage lights, haze, concert-film grade\n13. Handheld shot among a bar crowd, young people jumping on the beat with phones raised and screens glowing, red and gold light, sweat and haze, energetic, shallow depth of field\n14. Static close-up of a Brazilian woman in her late twenties with long wavy dark hair and gold hoop earrings at the back of a bar, unable to hold back a smile as she watches the stage, red neon behind her, warm amber light on her face, shallow depth of field\n15. Low-angle travelling shot along a small bar stage, passing an electric guitarist strumming and an accordion with its bellows opening wide, red and gold backlight, haze, energetic, concert-film grade\n16. Dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on a bar stage, pointing playfully toward the back of the room with a grin, acoustic guitar strapped on, red and gold stage lights, crowd silhouettes in the foreground, haze\n17. Handheld medium shot of a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket being nudged by two laughing friends at the back of a bar, she rolls her eyes and laughs, red neon and amber string lights, energetic, shallow depth of field\n18. Steadicam wide shot of a small bar stage with a full band and a packed crowd clapping in unison, a burst of red light on the final beat, haze, high energy, concert-film grade with deep blacks and saturated red\n19. Static medium shot at night in a gravel parking lot outside a bar, a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt leans against a dark pickup truck, a short blurred message bubble appears on his phone screen with no readable text, he smirks, red neon sign glow from the bar and a single amber lamp, cool night air haze, cinematic\n20. Travelling shot following a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket walking out of a bar door and across a gravel parking lot at night, car keys in hand, pretending to be casual, red neon sign behind her, amber lamp light, pickup truck ahead, cinematic\n21. Slow dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt and a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket by the open tailgate of a dark pickup truck at night, she says something brief with a raised eyebrow, he laughs, she sits on the tailgate, amber lamp light and red neon glow, gravel lot, shallow depth of field, cinematic\n22. Static close-up of a woman's hand setting a car key down on the metal bed of a pickup truck at night, framed so tightly that only the hand, the key and the truck bed are visible, amber lamp light and red neon reflection on the metal, shallow depth of field\n23. Handheld close-up of two smartphones lying side by side on a pickup truck bed at night, both screens lighting up at the same moment with soft abstract notification glows and no readable text, amber lamp light, red neon reflection on the metal, shallow depth of field\n24. Slow dolly-in on the eyes of a Brazilian woman in her late twenties with long wavy dark hair, framed from the eyes up, lit from below by a phone screen glow, looking sideways toward someone off frame with a soft playful expression, night, red neon bokeh behind, shallow depth of field\n25. Fast gimbal push toward a small bar stage as red and gold lights hit on the beat, a full band launching into the chorus, drummer raising the sticks, accordion and electric guitar, haze, high energy, concert-film grade\n26. Descending aerial shot from the ceiling of a packed small-town bar toward the crowd, red and gold beams sweeping through haze, hands in the air, band on the small stage, high energy, concert-film grade\n27. Gimbal medium shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt jumping on the beat on a bar stage with an acoustic guitar strapped on, shoulders rising, sweat catching the red and gold light, haze, high energy, concert-film grade\n28. Handheld shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket now in the front row of a bar crowd, arms up, hair flying, red and gold stage light on her face, energetic, shallow depth of field\n29. Static close-up of an accordion bellows opening and closing on the beat, fingers on the buttons, framed so tightly that only the accordion and hands are visible, gold stage light and red backlight, haze\n30. Steadicam shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt leaning off the edge of a bar stage toward a woman with long wavy dark hair in the front row, his hand extended, crowd hands around them, red and gold light, haze, energetic, concert-film grade\n31. Static close-up of many hands clapping in unison above a crowd, red stage light and gold rim light, haze, energetic\n32. Double exposure composite, the face of a Brazilian woman in her late twenties with long wavy dark hair overlaid with the glow of a smartphone screen and a red neon sign, abstract app interface with no readable text, red and gold tones, dreamy, cinematic\n33. Wide elevated shot of an entire bar crowd bouncing together on the last beat of the chorus, red and gold beams, band on the small stage, haze, high energy, concert-film grade\n34. Very slow dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt sitting alone on a stool on a dim bar stage with an acoustic guitar, a single warm amber spotlight from above, thick haze, eyes closed and head tilted down toward the guitar, the rest of the stage in darkness, deep blacks, cinematic\n35. Static close-up of a smartphone screen in a dim bar, a thumb tapping a toggle back and forth on an abstract app interface, a small icon switching between red and gray, no readable text, framed so tightly that only the thumb and the phone are visible, amber bokeh behind\n36. Handheld shot following a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket pushing gently through a dim bar crowd toward the stage, determined, a single amber spotlight ahead of her, haze, shallow depth of field, cinematic\n37. Static close-up of drumsticks raised for a count-in above a drum kit on a dim stage, framed so tightly that only the sticks and the cymbal edge are visible, a red light beginning to rise, haze, tension\n38. Wide elevated shot as every light in a packed small-town bar bursts on at once, the whole crowd jumping, full band on the small stage, red and gold beams through haze, maximum energy, concert-film grade\n39. Fast gimbal orbit around a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt at center stage, fist tight on the microphone stand, chin raised, neck tensed with a visible vein, eyes shut, red and gold stage lights, crowd hands in the foreground, haze\n40. Handheld medium shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket in the front row with both arms up, hair flying, laughing with her eyes closed, red and gold light, haze, energetic\n41. Fast whip-pan handheld shot landing on an accordion bellows snapping fully open on the beat on a small bar stage, gold backlight flaring through the bellows, red beams sweeping, haze, high energy, concert-film grade\n42. Steadicam shot framing a Brazilian woman in her late twenties with long wavy dark hair in the front row and a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on the stage above her, both laughing toward each other, red and gold light, crowd hands, haze, energetic\n43. Top-down aerial shot of an entire bar crowd clapping in unison, red and gold beams crossing through haze, small stage at the top of frame, high energy\n44. Handheld shot of a bar crowd waving phone flashlights in rhythm, white lights swaying over a sea of raised hands, red and gold stage beams, haze, energetic\n45. Travelling shot along a full band on a small bar stage, an electric bassist, a guitarist with a clean electric guitar and an accordion player all moving on the beat, red and gold backlight, haze, energetic, concert-film grade\n46. Dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on a bar stage with one hand pressed to his chest, head tilted back, eyes shut, sweat glistening in a gold backlight, red spotlight behind, haze, profile view, concert-film grade\n47. Handheld low-angle shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket being lifted onto a friend's shoulders in the front row of a bar crowd, arms spread wide, laughing, hair in the air, red and gold stage light, haze, energetic, concert-film grade\n48. Low-angle handheld shot of an electric guitarist jumping on the beat on a small bar stage, gold backlight and red beams, haze, energetic, concert-film grade\n49. Double exposure composite, the profile of a Brazilian man in his late twenties with a short dark fade haircut and trimmed beard, head tilted back and eyes shut, overlaid with a red neon sign glow and out-of-focus amber string lights, red and gold tones, dreamy, cinematic\n50. Steadicam shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt crouching at the edge of a bar stage, his hand briefly touching the hand of a woman with long wavy dark hair in the front row, crowd around them, red and gold light, haze, cinematic\n51. Double exposure composite of a red neon sign glow overlaid on a crowd with hands in the air, gold beams and haze, red and gold tones, dreamy, cinematic\n52. Handheld over-the-shoulder shot of a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket holding her phone up high in a bar crowd, the phone screen shows a tiny bright figure of a man on a stage with his head tilted back under red and gold lights, no readable text or interface, crowd hands around her, haze, energetic, shallow depth of field\n53. Handheld medium shot of a bartender behind a wooden bar counter dropping a towel and clapping in rhythm with the crowd, backlit bottles glowing amber and red behind him, red stage beams sweeping across the bar, haze, energetic, concert-film grade\n54. Steadicam wide shot of a small bar stage on the final chord, all lights flash white then fall to deep red leaving the band and the crowd as silhouettes with hands raised, haze, concert-film grade with deep blacks and saturated red\n55. Slow dolly-out from a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt and a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket sitting close at a wooden bar counter in an emptying bar, sharing one phone screen, foreheads almost touching, laughing, warm amber string lights, red neon sign, backlit bottles, light haze, shallow depth of field, cinematic\n56. Handheld over-the-shoulder close-up of a smartphone screen held by a woman's hand with short nude nails in a dim emptying bar, an abstract social app interface with a small glowing eye icon and a blurred circular profile photo of a man with a short dark fade haircut, no readable text, a man's finger enters the frame and taps the screen over her hand, warm amber string lights and red neon bokeh, shallow depth of field\n57. Travelling shot from inside a dim emptying bar following a Brazilian man in a fitted black shirt and a Brazilian woman with long wavy dark hair and a denim jacket walking out through the front door seen from behind, she twirls a car key on her finger, a red neon sign glowing above the doorway, pale pre-dawn light outside, warm amber string lights inside, light haze, cinematic\n58. Static wide shot at dawn of a dark pickup truck pulling out of a gravel parking lot in front of a small-town bar, the red neon sign switching off, pale blue and warm gold sky, cool morning haze, taillights fading down the road, cinematic, deep blacks\n\n## Publicação (YouTube)\n\n- **Título:** Visualizou\n- **Tags:** confiante, sensual, divertido, emocional, violao acustico ritmico aberto\n\n**Descrição:**\n\nUma música sobre aquela pessoa que jura que esqueceu, mas olha todo story às três da manhã. Ela posta foto na festa dizendo que tá bem, passa por ele no bar fingindo que não viu, digita, apaga, digita de novo — e no fim manda o \"oi\". É a recaída contada com humor, sem drama e sem ninguém sair humilhado: os dois sabem que não esqueceram, só falta parar de fingir.\n\nO som é sertanejo moderno com pé no pop: violão aberto e rítmico, guitarra limpa, sanfona entrando nos momentos certos, baixo com subgrave e bateria com impacto. A voz vem quente e um pouco rouca, conversada nos versos e escancarada no refrão, com palmas e coro pra cantar junto. Tudo em 128 batidas por minuto, feito pra tocar em show e em vídeo curto.\n\nNo clipe, a história acontece num bar de cidade pequena numa madrugada de show: ele no balcão com a tela do celular acesa no rosto, ela no fundo tentando segurar o sorriso, o estacionamento de cascalho onde a chave do carro fica na caçamba da picape, e o refrão final com o bar inteiro pulando em vermelho e dourado. Termina ao amanhecer, com o neon apagando e a picape saindo.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Modern Brazilian male sertanejo hybrid, 128 BPM, E major: 60% contemporary sertanejo, 20% Brazilian pop, 15% light Brazilian groove, 5% subtle electronic production. Rhythmic open acoustic guitar, clean electric guitar with short riffs, occasional expressive accordion as a signature, melodic electric bass with controlled modern sub-bass, punchy live drums with subtle electronic kick reinforcement, light Brazilian percussion, very subtle synth textures, claps and energetic group backing vocals on the chorus. Warm charismatic slightly raspy young Brazilian male vocalist, natural Portuguese pronunciation, minimal autotune; conversational verses, rising pre-chorus, big simple sing-along chorus repeating one central phrase. The song opens on the vocal hook in the first second, no long intro, no long instrumental solos. Polished 2026 commercial mix, strong clean low end, vocal-forward, chorus bigger than the verses, final chorus the biggest with claps and crowd vocals. Confident, sensual, playful and emotional. Lyrics in pt-BR",
+    "imagem": "Album cover, 1:1, centered cinematic portrait of a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up, thin silver chain, sitting alone at a wooden bar counter at closing time, eyes lowered to the smartphone in his hand, the phone screen casting a cool glow on his face with a faint knowing smile, warm amber string lights and a red neon sign heavily out of focus behind him, backlit bottles, light haze, shallow depth of field, 50mm, concert-film color grade with deep blacks, saturated red and warm gold highlights, subtle anamorphic flare, empty dark space at the bottom third for a title, photorealistic",
+    "negativo": "text, letters, typography, words, watermark, logo, cowboy hat, microphone, extra limbs, deformed hands, second person, blurry face, cartoon, oversaturated skin",
+    "conceito": "Ele sozinho no balcão do bar, no fim da noite, olhando pra baixo pro celular — a luz da tela no rosto é a única prova de que alguém visualizou. Olhar escolhido: OLHOS BAIXOS, no aparelho, sem olhar pra lente (a última capa do acervo, Perdoar Não É Esquecer, é retrato frontal). Neon vermelho e luzinhas âmbar desfocadas atrás, paleta preto/vermelho/dourado do concert film. Sem boca cantando, sem microfone: é um retrato de madrugada, não um plano de show.",
+    "tagline": "quem esquece não olha o story",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "hook",
+      "camera": "dolly-in",
+      "prompt": "Cinematic slow dolly-in on a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up and a thin silver chain, sitting at a wooden bar counter at closing time, smartphone screen glowing on his face, he lifts his eyes straight into the lens with a knowing half smile, warm amber string lights and a red neon sign out of focus behind him, backlit bottles, light haze, 35mm, shallow depth of field, concert-film color grade with deep blacks, saturated red and warm gold highlights, subtle anamorphic flare",
+      "alt": "Cinematic slow dolly-in across a wooden bar counter at closing time, a smartphone lying face up lights up and casts a cool glow on the polished wood and a half-empty glass, a hand enters the frame and picks it up, warm amber string lights and a red neon sign heavily out of focus behind, light haze, shallow depth of field, deep blacks with red and gold highlights"
+     },
+     {
+      "n": 2,
+      "secao": "hook",
+      "camera": "handheld",
+      "prompt": "Handheld over-the-shoulder close-up of a smartphone screen in a dim bar, an abstract social app interface with a small glowing eye icon and a blurred circular profile photo of a woman with long dark hair, no readable text, thumb hovering over the screen, bar lights reflecting on the glass, amber and red bokeh, shallow depth of field",
+      "alt": "Handheld close-up of a smartphone screen resting on a wooden bar counter, an abstract app interface with soft glowing circles and a small eye icon, no readable text, bar lights reflecting on the glass, amber and red bokeh, shallow depth of field"
+     },
+     {
+      "n": 3,
+      "secao": "hook",
+      "camera": "gimbal",
+      "prompt": "Fast gimbal push toward a small bar stage as red and gold stage lights snap on all at once, a drummer strikes the kick drum, an accordion player and a guitarist with a clean electric guitar stand ready, light haze cut by the beams, wide shot, energetic, concert-film grade with deep blacks and saturated red",
+      "alt": "Fast gimbal push toward a small empty bar stage as red and gold stage lights snap on all at once, a drum kit, an accordion on a stand and an electric guitar on a stand, light haze cut by the beams, wide shot, energetic, deep blacks and saturated red"
+     },
+     {
+      "n": 4,
+      "secao": "verso1",
+      "camera": "steadicam",
+      "prompt": "Steadicam glide through a lively rooftop party at night, a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket and gold hoop earrings poses for a photo with two friends, a phone flash pops, she laughs but her eyes drift away from the group, string lights and city lights bokeh, warm skin tones, red and gold palette, shallow depth of field",
+      "alt": "Steadicam glide through a lively rooftop party at night, several hands raise glasses toward the camera as a phone flash pops, string lights and city lights bokeh, silhouettes of people dancing, no faces visible, warm red and gold palette, shallow depth of field"
+     },
+     {
+      "n": 5,
+      "secao": "verso1",
+      "camera": "estatico",
+      "prompt": "Static close-up of a smartphone lying on a party table among glasses, the screen shows a photo of a woman with long dark hair being posted in an abstract social app, the caption strip is blurred with no readable text, a finger taps the screen, string lights bokeh, warm amber and red tones",
+      "alt": "Static close-up of a smartphone lying on a party table among glasses and a lit candle, the screen shows a blurred colorful photo being uploaded with a progress ring, no readable text, string lights bokeh, warm amber and red tones"
+     },
+     {
+      "n": 6,
+      "secao": "verso1",
+      "camera": "travelling",
+      "prompt": "Lateral travelling shot inside a modern small-town Brazilian bar at night, a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket walks past the wooden counter pretending not to notice a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt sitting there, he turns his head and follows her with his eyes, warm amber string lights, red neon sign, backlit bottles, light haze, concert-film grade",
+      "alt": "Lateral travelling shot inside a modern small-town bar at night, the silhouette of a woman in a denim jacket walks past a wooden counter in front of a red neon sign and amber string lights, a man's silhouette seated at the counter turns slightly as she passes, faces in shadow, backlit bottles, light haze, deep blacks with red and gold highlights"
+     },
+     {
+      "n": 7,
+      "secao": "verso1",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on the mirror behind a bar counter, framed between backlit bottles, the reflection shows a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket standing across the bar, glancing back over her shoulder, warm amber and red neon reflections, light haze, shallow depth of field, cinematic",
+      "alt": "Slow dolly-in on the mirror behind a bar counter, framed between backlit bottles, the reflection shows blurred silhouettes across the bar and a red neon sign glowing, warm amber reflections, light haze, shallow depth of field, cinematic"
+     },
+     {
+      "n": 8,
+      "secao": "pre1",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot of a Brazilian man in his late twenties with light brown skin, short dark fade haircut, trimmed beard, fitted black shirt with sleeves rolled up, an acoustic guitar strapped on, standing on a small bar stage with his head tilted back and eyes shut tight, neck tensed, warm amber backlight and a red spotlight from behind, band silhouettes around him, haze, concert-film grade with deep blacks",
+      "alt": "Handheld medium shot of an acoustic guitar strapped on a torso in a fitted black shirt, framed from the shoulders down so no face is visible, fingers pressing the strings, warm amber backlight and a red spotlight from behind on a small bar stage, haze, deep blacks and saturated red"
+     },
+     {
+      "n": 9,
+      "secao": "pre1",
+      "camera": "estatico",
+      "prompt": "Static close-up of a smartphone on a dark bar table lighting up by itself with a soft clock glow, a woman's fingers with short nude nails hover over the screen and hesitate, framed so tightly that only the hand and the phone are visible, red neon and amber bokeh, shallow depth of field",
+      "alt": "Static close-up of a smartphone on a dark bar table lighting up by itself with a soft glow, a half-full glass beside it catching red neon and amber bokeh, no hands, shallow depth of field"
+     },
+     {
+      "n": 10,
+      "secao": "pre1",
+      "camera": "gimbal",
+      "prompt": "Gimbal shot sweeping across a bar crowd as they start clapping in rhythm, dozens of hands rising, red and gold stage light washing over them, haze, energetic, concert-film grade",
+      "alt": "Gimbal shot sweeping across dozens of raised hands clapping in rhythm, lit by red and gold stage light, faces out of frame, haze, energetic, deep blacks"
+     },
+     {
+      "n": 11,
+      "secao": "refrao1",
+      "camera": "drone",
+      "prompt": "Rising aerial shot climbing over a packed small-town bar crowd as the chorus hits, red and gold beams sweeping, hands in the air, small stage at the far end with a band, haze, high energy, concert-film grade with deep blacks",
+      "alt": "Rising aerial shot climbing over a packed dance floor of silhouettes with hands in the air, red and gold beams sweeping through haze, a small lit stage at the far end, no faces legible, high energy"
+     },
+     {
+      "n": 12,
+      "secao": "refrao1",
+      "camera": "gimbal",
+      "prompt": "Fast gimbal orbit around a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt at center stage, fist gripping the microphone stand, chin raised, eyes closed, crowd hands raised in the foreground, red and gold stage lights, haze, concert-film grade",
+      "alt": "Fast gimbal orbit around a microphone stand at center stage gripped by a hand, framed so tightly that only the hand, the stand and the mic are visible, red and gold stage lights, crowd hands raised in the foreground, haze"
+     },
+     {
+      "n": 13,
+      "secao": "refrao1",
+      "camera": "handheld",
+      "prompt": "Handheld shot among a bar crowd, young people jumping on the beat with phones raised and screens glowing, red and gold light, sweat and haze, energetic, shallow depth of field",
+      "alt": "Handheld shot of dozens of phones raised above a crowd, screens glowing, red and gold light, haze, no faces visible, energetic"
+     },
+     {
+      "n": 14,
+      "secao": "refrao1",
+      "camera": "estatico",
+      "prompt": "Static close-up of a Brazilian woman in her late twenties with long wavy dark hair and gold hoop earrings at the back of a bar, unable to hold back a smile as she watches the stage, red neon behind her, warm amber light on her face, shallow depth of field",
+      "alt": "Static close-up of gold hoop earrings and long wavy dark hair lit by red neon from behind, framed from the jaw down so no face is visible, warm amber light, shallow depth of field"
+     },
+     {
+      "n": 15,
+      "secao": "refrao1",
+      "camera": "travelling",
+      "prompt": "Low-angle travelling shot along a small bar stage, passing an electric guitarist strumming and an accordion with its bellows opening wide, red and gold backlight, haze, energetic, concert-film grade",
+      "alt": "Low-angle travelling shot along a small bar stage, an accordion bellows opening wide and an electric guitar neck, hands only, red and gold backlight, haze, energetic"
+     },
+     {
+      "n": 16,
+      "secao": "refrao1",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on a bar stage, pointing playfully toward the back of the room with a grin, acoustic guitar strapped on, red and gold stage lights, crowd silhouettes in the foreground, haze",
+      "alt": "Dolly-in on an arm in a black shirt with rolled sleeve pointing from a bar stage toward the back of the room, framed so tightly that only the arm and hand are visible, red and gold stage lights, crowd silhouettes in the foreground, haze"
+     },
+     {
+      "n": 17,
+      "secao": "refrao1",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot of a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket being nudged by two laughing friends at the back of a bar, she rolls her eyes and laughs, red neon and amber string lights, energetic, shallow depth of field",
+      "alt": "Handheld medium shot of three friends seen from behind at the back of a bar, one in a denim jacket, shoulders bumping playfully, red neon and amber string lights ahead of them, no faces visible, energetic"
+     },
+     {
+      "n": 18,
+      "secao": "refrao1",
+      "camera": "steadicam",
+      "prompt": "Steadicam wide shot of a small bar stage with a full band and a packed crowd clapping in unison, a burst of red light on the final beat, haze, high energy, concert-film grade with deep blacks and saturated red",
+      "alt": "Steadicam wide shot of a small bar stage silhouetted against a burst of red light, a crowd of silhouettes clapping in unison, haze, high energy, deep blacks and saturated red"
+     },
+     {
+      "n": 19,
+      "secao": "verso2",
+      "camera": "estatico",
+      "prompt": "Static medium shot at night in a gravel parking lot outside a bar, a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt leans against a dark pickup truck, a short blurred message bubble appears on his phone screen with no readable text, he smirks, red neon sign glow from the bar and a single amber lamp, cool night air haze, cinematic",
+      "alt": "Static medium shot at night in a gravel parking lot outside a bar, a dark pickup truck under a single amber lamp, a phone screen glowing on the hood with a short blurred message bubble and no readable text, red neon glow from the bar in the background, cool night haze, cinematic"
+     },
+     {
+      "n": 20,
+      "secao": "verso2",
+      "camera": "travelling",
+      "prompt": "Travelling shot following a Brazilian woman in her late twenties with long wavy dark hair, red satin top under a denim jacket walking out of a bar door and across a gravel parking lot at night, car keys in hand, pretending to be casual, red neon sign behind her, amber lamp light, pickup truck ahead, cinematic",
+      "alt": "Travelling shot following a pair of ankle boots walking across a gravel parking lot at night, framed so tightly that only the boots and the gravel are visible, red neon glow and amber lamp light on the stones, a pickup truck tire ahead, cinematic"
+     },
+     {
+      "n": 21,
+      "secao": "verso2",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt and a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket by the open tailgate of a dark pickup truck at night, she says something brief with a raised eyebrow, he laughs, she sits on the tailgate, amber lamp light and red neon glow, gravel lot, shallow depth of field, cinematic",
+      "alt": "Slow dolly-in on the open tailgate of a dark pickup truck at night in a gravel lot, two pairs of legs side by side, one in dark jeans and one in ankle boots, framed so that only the tailgate and legs are visible, amber lamp light and red neon glow, cinematic"
+     },
+     {
+      "n": 22,
+      "secao": "verso2",
+      "camera": "estatico",
+      "prompt": "Static close-up of a woman's hand setting a car key down on the metal bed of a pickup truck at night, framed so tightly that only the hand, the key and the truck bed are visible, amber lamp light and red neon reflection on the metal, shallow depth of field",
+      "alt": "Static close-up of a car key lying on the metal bed of a pickup truck at night, amber lamp light and red neon reflection on the metal, no hands, shallow depth of field"
+     },
+     {
+      "n": 23,
+      "secao": "pre2",
+      "camera": "handheld",
+      "prompt": "Handheld close-up of two smartphones lying side by side on a pickup truck bed at night, both screens lighting up at the same moment with soft abstract notification glows and no readable text, amber lamp light, red neon reflection on the metal, shallow depth of field",
+      "alt": "Handheld close-up of two smartphones lying side by side on a pickup truck bed at night, both screens lighting up at the same moment with soft glows and no readable text, amber lamp light, red neon reflection, shallow depth of field"
+     },
+     {
+      "n": 24,
+      "secao": "pre2",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on the eyes of a Brazilian woman in her late twenties with long wavy dark hair, framed from the eyes up, lit from below by a phone screen glow, looking sideways toward someone off frame with a soft playful expression, night, red neon bokeh behind, shallow depth of field",
+      "alt": "Slow dolly-in on long wavy dark hair and a gold hoop earring lit from below by a phone screen glow, framed so that no face is visible, night, red neon bokeh behind, shallow depth of field"
+     },
+     {
+      "n": 25,
+      "secao": "pre2",
+      "camera": "gimbal",
+      "prompt": "Fast gimbal push toward a small bar stage as red and gold lights hit on the beat, a full band launching into the chorus, drummer raising the sticks, accordion and electric guitar, haze, high energy, concert-film grade",
+      "alt": "Fast gimbal push toward a small bar stage as red and gold lights hit on the beat, drumsticks and an accordion bellows in motion, hands only, haze, high energy, deep blacks and saturated red"
+     },
+     {
+      "n": 26,
+      "secao": "refrao2",
+      "camera": "drone",
+      "prompt": "Descending aerial shot from the ceiling of a packed small-town bar toward the crowd, red and gold beams sweeping through haze, hands in the air, band on the small stage, high energy, concert-film grade",
+      "alt": "Descending aerial shot from a ceiling toward a crowd of silhouettes with hands in the air, red and gold beams sweeping through haze, a small lit stage at the edge of frame, no faces legible"
+     },
+     {
+      "n": 27,
+      "secao": "refrao2",
+      "camera": "gimbal",
+      "prompt": "Gimbal medium shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt jumping on the beat on a bar stage with an acoustic guitar strapped on, shoulders rising, sweat catching the red and gold light, haze, high energy, concert-film grade",
+      "alt": "Gimbal medium shot of an acoustic guitar strapped on a torso in a black shirt bouncing on the beat, framed from the shoulders down so no face is visible, sweat on the wood catching red and gold light, haze, high energy"
+     },
+     {
+      "n": 28,
+      "secao": "refrao2",
+      "camera": "handheld",
+      "prompt": "Handheld shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket now in the front row of a bar crowd, arms up, hair flying, red and gold stage light on her face, energetic, shallow depth of field",
+      "alt": "Handheld shot of long wavy dark hair flying and arms raised in the front row of a crowd, seen from behind so no face is visible, red and gold stage light, energetic"
+     },
+     {
+      "n": 29,
+      "secao": "refrao2",
+      "camera": "estatico",
+      "prompt": "Static close-up of an accordion bellows opening and closing on the beat, fingers on the buttons, framed so tightly that only the accordion and hands are visible, gold stage light and red backlight, haze",
+      "alt": "Static close-up of an accordion bellows opening and closing on the beat, framed so tightly that only the accordion is visible, gold stage light and red backlight, haze"
+     },
+     {
+      "n": 30,
+      "secao": "refrao2",
+      "camera": "steadicam",
+      "prompt": "Steadicam shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt leaning off the edge of a bar stage toward a woman with long wavy dark hair in the front row, his hand extended, crowd hands around them, red and gold light, haze, energetic, concert-film grade",
+      "alt": "Steadicam shot of a hand in a rolled black sleeve extended from a stage edge toward raised hands in the crowd, framed so that only arms and hands are visible, red and gold light, haze, energetic"
+     },
+     {
+      "n": 31,
+      "secao": "refrao2",
+      "camera": "estatico",
+      "prompt": "Static close-up of many hands clapping in unison above a crowd, red stage light and gold rim light, haze, energetic",
+      "alt": "Static close-up of many hands clapping in unison above a crowd, red stage light and gold rim light, haze, energetic"
+     },
+     {
+      "n": 32,
+      "secao": "refrao2",
+      "camera": "estatico",
+      "prompt": "Double exposure composite, the face of a Brazilian woman in her late twenties with long wavy dark hair overlaid with the glow of a smartphone screen and a red neon sign, abstract app interface with no readable text, red and gold tones, dreamy, cinematic",
+      "alt": "Double exposure composite, a red neon sign overlaid with the glow of a smartphone screen and out-of-focus string lights, abstract app interface with no readable text, red and gold tones, dreamy, cinematic"
+     },
+     {
+      "n": 33,
+      "secao": "refrao2",
+      "camera": "drone",
+      "prompt": "Wide elevated shot of an entire bar crowd bouncing together on the last beat of the chorus, red and gold beams, band on the small stage, haze, high energy, concert-film grade",
+      "alt": "Wide elevated shot of a crowd of silhouettes bouncing together, red and gold beams through haze, a small lit stage, no faces legible, high energy"
+     },
+     {
+      "n": 34,
+      "secao": "ponte",
+      "camera": "dolly-in",
+      "prompt": "Very slow dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt sitting alone on a stool on a dim bar stage with an acoustic guitar, a single warm amber spotlight from above, thick haze, eyes closed and head tilted down toward the guitar, the rest of the stage in darkness, deep blacks, cinematic",
+      "alt": "Very slow dolly-in on an empty wooden stool and an acoustic guitar leaning against it on a dim bar stage under a single warm amber spotlight, thick haze, the rest of the stage in darkness, deep blacks, cinematic"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Static close-up of a smartphone screen in a dim bar, a thumb tapping a toggle back and forth on an abstract app interface, a small icon switching between red and gray, no readable text, framed so tightly that only the thumb and the phone are visible, amber bokeh behind",
+      "alt": "Static close-up of a smartphone screen in a dim bar with an abstract toggle switching between red and gray by itself, no readable text, no hands, amber bokeh behind"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "handheld",
+      "prompt": "Handheld shot following a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket pushing gently through a dim bar crowd toward the stage, determined, a single amber spotlight ahead of her, haze, shallow depth of field, cinematic",
+      "alt": "Handheld shot following the back of a denim jacket moving through a dim crowd of silhouettes toward a single amber spotlight on a stage, haze, no faces visible, cinematic"
+     },
+     {
+      "n": 37,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Static close-up of drumsticks raised for a count-in above a drum kit on a dim stage, framed so tightly that only the sticks and the cymbal edge are visible, a red light beginning to rise, haze, tension",
+      "alt": "Static close-up of drumsticks raised for a count-in above a drum kit on a dim stage, only the sticks and the cymbal edge visible, a red light beginning to rise, haze, tension"
+     },
+     {
+      "n": 38,
+      "secao": "refrao_final",
+      "camera": "drone",
+      "prompt": "Wide elevated shot as every light in a packed small-town bar bursts on at once, the whole crowd jumping, full band on the small stage, red and gold beams through haze, maximum energy, concert-film grade",
+      "alt": "Wide elevated shot as red and gold lights burst on over a crowd of silhouettes jumping, a small lit stage, haze, maximum energy, no faces legible"
+     },
+     {
+      "n": 39,
+      "secao": "refrao_final",
+      "camera": "gimbal",
+      "prompt": "Fast gimbal orbit around a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt at center stage, fist tight on the microphone stand, chin raised, neck tensed with a visible vein, eyes shut, red and gold stage lights, crowd hands in the foreground, haze",
+      "alt": "Fast gimbal orbit around a microphone stand at center stage gripped by a tense hand, framed so that only the hand, the stand and the mic are visible, red and gold stage lights, crowd hands in the foreground, haze"
+     },
+     {
+      "n": 40,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket in the front row with both arms up, hair flying, laughing with her eyes closed, red and gold light, haze, energetic",
+      "alt": "Handheld medium shot of long wavy dark hair flying and two arms raised in the front row seen from behind, red and gold light, haze, no face visible, energetic"
+     },
+     {
+      "n": 41,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Fast whip-pan handheld shot landing on an accordion bellows snapping fully open on the beat on a small bar stage, gold backlight flaring through the bellows, red beams sweeping, haze, high energy, concert-film grade",
+      "alt": "Fast whip-pan handheld shot landing on an accordion bellows snapping fully open, framed so tightly that only the accordion and the player's hands are visible, gold backlight flaring, red beams, haze, high energy"
+     },
+     {
+      "n": 42,
+      "secao": "refrao_final",
+      "camera": "steadicam",
+      "prompt": "Steadicam shot framing a Brazilian woman in her late twenties with long wavy dark hair in the front row and a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on the stage above her, both laughing toward each other, red and gold light, crowd hands, haze, energetic",
+      "alt": "Steadicam shot framing a stage edge and the front row, one hand reaching up from the crowd and one hand reaching down from the stage almost touching, red and gold light, haze, only arms and hands visible, energetic"
+     },
+     {
+      "n": 43,
+      "secao": "refrao_final",
+      "camera": "drone",
+      "prompt": "Top-down aerial shot of an entire bar crowd clapping in unison, red and gold beams crossing through haze, small stage at the top of frame, high energy",
+      "alt": "Top-down aerial shot of a crowd of silhouettes clapping in unison, red and gold beams crossing through haze, no faces legible, high energy"
+     },
+     {
+      "n": 44,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Handheld shot of a bar crowd waving phone flashlights in rhythm, white lights swaying over a sea of raised hands, red and gold stage beams, haze, energetic",
+      "alt": "Handheld shot of phone flashlights swaying in rhythm above a crowd of silhouettes, red and gold beams, haze, no faces visible, energetic"
+     },
+     {
+      "n": 45,
+      "secao": "refrao_final",
+      "camera": "travelling",
+      "prompt": "Travelling shot along a full band on a small bar stage, an electric bassist, a guitarist with a clean electric guitar and an accordion player all moving on the beat, red and gold backlight, haze, energetic, concert-film grade",
+      "alt": "Travelling shot along a small bar stage, an electric bass, an electric guitar and an accordion in motion, hands only, red and gold backlight, haze, energetic"
+     },
+     {
+      "n": 46,
+      "secao": "refrao_final",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt on a bar stage with one hand pressed to his chest, head tilted back, eyes shut, sweat glistening in a gold backlight, red spotlight behind, haze, profile view, concert-film grade",
+      "alt": "Dolly-in on a hand in a rolled black sleeve pressed against a black shirt chest, framed so tightly that only the hand and chest are visible, sweat glistening in a gold backlight, red spotlight behind, haze"
+     },
+     {
+      "n": 47,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Handheld low-angle shot of a Brazilian woman in her late twenties with long wavy dark hair, red satin top and denim jacket being lifted onto a friend's shoulders in the front row of a bar crowd, arms spread wide, laughing, hair in the air, red and gold stage light, haze, energetic, concert-film grade",
+      "alt": "Handheld low-angle shot of a denim jacket and long wavy dark hair rising above a crowd of silhouettes on someone's shoulders, arms spread wide, seen from behind so no face is visible, red and gold stage light, haze, energetic"
+     },
+     {
+      "n": 48,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Low-angle handheld shot of an electric guitarist jumping on the beat on a small bar stage, gold backlight and red beams, haze, energetic, concert-film grade",
+      "alt": "Low-angle handheld shot of an electric guitar neck and a pair of boots leaving the stage floor mid-jump, framed so that only the guitar and legs are visible, gold backlight and red beams, haze, energetic"
+     },
+     {
+      "n": 49,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "Double exposure composite, the profile of a Brazilian man in his late twenties with a short dark fade haircut and trimmed beard, head tilted back and eyes shut, overlaid with a red neon sign glow and out-of-focus amber string lights, red and gold tones, dreamy, cinematic",
+      "alt": "Double exposure composite of a red neon sign glow overlaid with out-of-focus amber string lights and the silhouette of a microphone stand, red and gold tones, dreamy, cinematic"
+     },
+     {
+      "n": 50,
+      "secao": "refrao_final",
+      "camera": "steadicam",
+      "prompt": "Steadicam shot of a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt crouching at the edge of a bar stage, his hand briefly touching the hand of a woman with long wavy dark hair in the front row, crowd around them, red and gold light, haze, cinematic",
+      "alt": "Steadicam close shot of two hands briefly touching at the edge of a stage, one reaching down and one reaching up, framed so that only the hands and forearms are visible, red and gold light, haze, cinematic"
+     },
+     {
+      "n": 51,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "Double exposure composite of a red neon sign glow overlaid on a crowd with hands in the air, gold beams and haze, red and gold tones, dreamy, cinematic",
+      "alt": "Double exposure composite of a red neon sign glow overlaid on raised hands and string lights, red and gold tones, dreamy, cinematic"
+     },
+     {
+      "n": 52,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Handheld over-the-shoulder shot of a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket holding her phone up high in a bar crowd, the phone screen shows a tiny bright figure of a man on a stage with his head tilted back under red and gold lights, no readable text or interface, crowd hands around her, haze, energetic, shallow depth of field",
+      "alt": "Handheld close-up of a phone raised above a crowd, the screen showing a small blurred bright stage under red and gold lights, no readable text, framed so tightly that only the hand and the phone are visible, haze, energetic"
+     },
+     {
+      "n": 53,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot of a bartender behind a wooden bar counter dropping a towel and clapping in rhythm with the crowd, backlit bottles glowing amber and red behind him, red stage beams sweeping across the bar, haze, energetic, concert-film grade",
+      "alt": "Handheld medium shot of a pair of hands clapping in rhythm above a wooden bar counter, backlit bottles glowing amber and red behind, framed so that no face is visible, red beams sweeping, haze, energetic"
+     },
+     {
+      "n": 54,
+      "secao": "refrao_final",
+      "camera": "steadicam",
+      "prompt": "Steadicam wide shot of a small bar stage on the final chord, all lights flash white then fall to deep red leaving the band and the crowd as silhouettes with hands raised, haze, concert-film grade with deep blacks and saturated red",
+      "alt": "Steadicam wide shot of a small stage on the final chord, all lights flash white then fall to deep red leaving silhouettes with hands raised, haze, deep blacks and saturated red"
+     },
+     {
+      "n": 55,
+      "secao": "outro",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-out from a Brazilian man in his late twenties with a short dark fade haircut, trimmed beard and fitted black shirt and a Brazilian woman in her late twenties with long wavy dark hair and a denim jacket sitting close at a wooden bar counter in an emptying bar, sharing one phone screen, foreheads almost touching, laughing, warm amber string lights, red neon sign, backlit bottles, light haze, shallow depth of field, cinematic",
+      "alt": "Slow dolly-out from a wooden bar counter in an emptying bar, two glasses side by side and one smartphone lying between them with a soft glow, warm amber string lights, red neon sign, backlit bottles, light haze, shallow depth of field, cinematic"
+     },
+     {
+      "n": 56,
+      "secao": "outro",
+      "camera": "handheld",
+      "prompt": "Handheld over-the-shoulder close-up of a smartphone screen held by a woman's hand with short nude nails in a dim emptying bar, an abstract social app interface with a small glowing eye icon and a blurred circular profile photo of a man with a short dark fade haircut, no readable text, a man's finger enters the frame and taps the screen over her hand, warm amber string lights and red neon bokeh, shallow depth of field",
+      "alt": "Handheld close-up of a smartphone lying on a wooden bar counter in a dim emptying bar, an abstract app interface with soft glowing circles and a small eye icon, no readable text, two glasses beside it, warm amber string lights and red neon bokeh, shallow depth of field"
+     },
+     {
+      "n": 57,
+      "secao": "outro",
+      "camera": "travelling",
+      "prompt": "Travelling shot from inside a dim emptying bar following a Brazilian man in a fitted black shirt and a Brazilian woman with long wavy dark hair and a denim jacket walking out through the front door seen from behind, she twirls a car key on her finger, a red neon sign glowing above the doorway, pale pre-dawn light outside, warm amber string lights inside, light haze, cinematic",
+      "alt": "Travelling shot from inside a dim emptying bar toward the open front door, two silhouettes walking out seen from behind, a red neon sign glowing above the doorway, pale pre-dawn light outside, warm amber string lights inside, no faces visible, cinematic"
+     },
+     {
+      "n": 58,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Static wide shot at dawn of a dark pickup truck pulling out of a gravel parking lot in front of a small-town bar, the red neon sign switching off, pale blue and warm gold sky, cool morning haze, taillights fading down the road, cinematic, deep blacks",
+      "alt": "Static wide shot at dawn of an empty gravel parking lot in front of a small-town bar, the red neon sign switching off, pale blue and warm gold sky, cool morning haze, tire tracks on the gravel, cinematic, deep blacks"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "uma-cantora-de-deep-house-sofisticada-de",
    "mvd": "MVD#131",
    "titulo": "Undertow",
@@ -434,7 +921,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -12344,6 +12831,54 @@
   }
  ],
  "analisevideo": [
+  {
+   "fonte": "analisevideo",
+   "slug": "facebook-11",
+   "titulo": "Facebook",
+   "quando": "2026-08-27T20:21:51",
+   "url": "https://www.facebook.com/share/r/19LwD3QkLz/",
+   "canal": "Borix M",
+   "duracao_s": 47,
+   "tipo": "reel de marca",
+   "resumo": "Mulher jovem e estilosa dança animada em uma festa noturna à beira da piscina em frente a uma vila moderna de luxo. A atmosfera é de celebração sofisticada com iluminação cênica, reflexos na água e público dançando ao fundo.",
+   "look": "Teal & Orange noturno com realces limpos",
+   "paleta": [
+    "#080c14",
+    "#1a3b5c",
+    "#d9823b",
+    "#f4e2c8",
+    "#4a90e2",
+    "#111111"
+   ],
+   "movimentos": [
+    "handheld"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 7.6,
+   "musica": "Electronic",
+   "bpm": 126,
+   "mood": "Enérgico, sofisticado, noturno",
+   "tags": [
+    "festa na piscina",
+    "tech house",
+    "lifestyle luxo",
+    "vila moderna",
+    "vida noturna",
+    "dança",
+    "iluminação cênica",
+    "reel vertical",
+    "estética teal orange",
+    "balada vip"
+   ],
+   "referencias": [
+    "Cercle Festival Visuals",
+    "Ushuaïa Ibiza Official Aftermovies",
+    "Sam Kolder Night Lifestyle Edits",
+    "Boiler Room Villa Editions"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Facebook\nFonte: https://www.facebook.com/share/r/19LwD3QkLz/\nDuracao: 47s · tipo: reel de marca · confianca: 0.95\n\nMulher jovem e estilosa dança animada em uma festa noturna à beira da piscina em frente a uma vila moderna de luxo. A atmosfera é de celebração sofisticada com iluminação cênica, reflexos na água e público dançando ao fundo.\n\n## Fotografia\n- Paleta: #080c14, #1a3b5c, #d9823b, #f4e2c8, #4a90e2, #111111\n- Luz: Key suave frontal-lateral quente + rim light azul da piscina + feixes de moving heads ao fundo (Painel de LED portátil / ring light externo suave + iluminação arquitetural e da piscina)\n- Cor: Mista (skin tones quentes contrastando com fundo azul frio) · contraste Alto · look Teal & Orange noturno com realces limpos\n- Lente/DOF: 28mm a 35mm equivalente · Média-baixa (f/2.0 - f/2.8)\n- Textura: Limpo, granulado digital sutil de baixa luz\n\n## Camera (bloco a bloco)\n- 00:00–00:15 · medio · handheld (lenta) · nivel — Acompanha o ritmo suave da protagonista sorrindo e dançando\n- 00:15–00:29 · medio · handheld (media) · nivel — Aumento sutil de balanço e enquadramentos mais fechados com flashes de edição\n- 00:30–00:47 · medio · handheld (dinamica) · contra-plongee — Leve inclinação de baixo para cima destacando os braços erguidos e a iluminação no céu\n\n## Montagem\n- 6 cortes · 7.6/min · ritmo medio\n- Transicoes: corte seco, flash frame P&B, strobe visual no drop\n- match cut: False · jump cut: True · corte no beat: True\n- Velocidade: Sutil speed ramp em transições rápidas\n\n## Trilha e som\n- Musica: True · Electronic/Tech House / Deep House · ~126 bpm · A minor\n- Instrumentacao: Sub bass, Four-on-the-floor kick, Hi-hats, Vocal feminino processado, Synth plucks\n- Mood/energia: Enérgico, sofisticado, noturno · alta\n- SFX: Riser synth, Downshifter\n- Estrutura: Intro vocal/groove 00:00-00:15, build-up 00:16-00:29, drop e clímax 00:30-00:47\n- Mixagem: Música masterizada e vocal em primeiro plano; ambiência fundida · sincronia: Alta sintonia de movimento corporal e iluminação com a bateria e drop\n\n**Prompt de musica (Suno/Udio):**\n```\nUpbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere.\n```\nNegativo: `Acoustic instruments, slow tempo, lo-fi, distorted rock, chaotic noise, cheesy EDM brass`\n\n## Texto e grafismo\n- Tipografia: Minimalista, centralizado, itálico (Sans-serif geométrica)\n- Animacao: Fade in / Fade out sutil · legendas: None\n- Motion graphics: -\n\n## Pos\n- Efeitos: Flashes de contraste, Inversão momentânea P&B, Lens flare anamórfico sutil · VFX: Nenhum visual pesado, realces de luz cênica\n- LUT sugerida: Modern Teal & Orange Lifestyle / Kodak Vision3 500T push · sound design: Impactos nos cortes do drop\n\n## Narrativa\n- Gancho (3s): Visual atraente de mulher estilosa sorrindo à beira da piscina em festa exclusiva.\n- Estrutura: Apresentação da atmosfera -> Construção da empolgação -> Pico de energia coletiva no drop. · arco: Crescente de euforia contínua.\n- CTA: Track ID no texto para engajamento musical.\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Upbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere.\n\nNegativo: `Acoustic instruments, slow tempo, lo-fi, distorted rock, chaotic noise, cheesy EDM brass`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> Glamorous woman with sunglasses dancing by a luxury pool at night, medium shot, handheld energetic motion, 35mm lens shallow depth of field, warm key light on skin with cool blue architectural background, rich contrast (#080c14, #d9823b, #4a90e2), sharp textures and glowing lights, modern luxury villa party, 10 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Upbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere.\n```\n\n## Como refazer (dificuldade: media)\n- Equipamento: Smartphone com modo noturno avançado ou câmera mirrorless, Lente 24mm-35mm f/1.8, Painel LED bi-color portátil com difusor, Gimbal ou suporte handheld leve\n1. Escolha uma locação noturna com piscina e arquitetura moderna iluminada.\n2. Posicione a protagonista no primeiro terço da piscina com o fundo aberto.\n3. Use um LED portátil frontal-lateral quente difuso para valorizar os tons de pele.\n4. Instale refletores ou moving heads azuis/brancos apontando para cima no fundo.\n5. Instrua a protagonista e figurantes a dançarem de acordo com as seções da música.\n6. Grave em 4K 60fps/30fps com movimentos verticais suaves e acompanhamento rítmico.\n7. Na edição, alinhe a queda de energia e os flashes ao drop musical exato.\n\n## Prompts p/ gerador de video (6 cenas)\n\n### Cena 1 · 00:00–00:08 · ~8s — Introdução no groove\n> Glamorous young woman wearing sunglasses and sleek black dress smiling and dancing, medium close-up eye level, gentle handheld sway, 35mm f/2.0 lens, soft warm golden key light on tanned skin, dark blue ambient night (#080c14, #d9823b, #1a3b5c), subtle film grain, luxury pool terrace background, 8 seconds.\n\nNegativo: `Blurry face, distorted hands, day time, cheap indoor lighting, bad anatomy`\n\n### Cena 2 · 00:08–00:16 · ~8s — Sway e sorriso\n> Stylish woman smiling playfully while dancing with crowd in background, medium shot eye level, slow handheld camera track, 28mm lens with shallow DOF, warm frontal portrait light mixed with neon blue water reflections (#f4e2c8, #1a3b5c, #080c14), clean cinematic grade, upscale villa poolside night, 8 seconds.\n\nNegativo: `Low quality, overexposed face, artifacts, flat lighting`\n\n### Cena 3 · 00:16–00:24 · ~8s — Build-up com mão para cima\n> Elegant woman raising her arm dancing to building beat, medium shot low angle, dynamic handheld tracking, 35mm lens, warm rim lighting and dramatic blue ambient backlights (#d9823b, #4a90e2, #111111), high contrast cinematic glow, outdoor luxury night club setting, 8 seconds.\n\nNegativo: `Deformed arms, flickering, daytime, bad composition`\n\n### Cena 4 · 00:24–00:32 · ~8s — Transição pré-drop\n> Woman raising hands happily in anticipation of drop, medium close-up, quick handheld pulse, 35mm lens shallow depth of field, intense warm skin tone against cool architectural light (#f4e2c8, #080c14, #4a90e2), subtle lens flaring, energetic poolside party at midnight, 8 seconds.\n\nNegativo: `Motion blur mess, cartoon, extra limbs, dull colors`\n\n### Cena 5 · 00:32–00:40 · ~8s — Clímax e feixes de luz\n> Excited woman jumping with arms up during music drop, medium low angle shot, energetic handheld camera, 28mm wide lens, powerful white and blue moving spotlights cutting night sky with warm key light (#4a90e2, #d9823b, #f4e2c8), crisp vivid lighting, luxury mansion pool party, 8 seconds.\n\nNegativo: `Dark muddy frame, missing lights, poor quality, static crowd`\n\n### Cena 6 · 00:40–00:47 · ~7s — Celebração e final\n> Euphoric woman laughing with head tilted up surrounded by dancing friends, medium shot low angle, fluid handheld tilt, 35mm lens, dramatic blue light beams and soft warm beauty lighting (#f4e2c8, #4a90e2, #080c14), cinematic color grade, modern villa pool night celebration, 7 seconds.\n\nNegativo: `Overexposed highlights, bad hands, low resolution, flat look`\n\nReferencias: Cercle Festival Visuals, Ushuaïa Ibiza Official Aftermovies, Sam Kolder Night Lifestyle Edits, Boiler Room Villa Editions\nTags: festa na piscina, tech house, lifestyle luxo, vila moderna, vida noturna, dança, iluminação cênica, reel vertical, estética teal orange, balada vip\n"
+  },
   {
    "fonte": "analisevideo",
    "slug": "marilia-mendonca-maiara-e-maraisa-coracao-bandid",
