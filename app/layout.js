@@ -8,7 +8,7 @@ export const metadata = {
 
 // A versão fica visível no topo de propósito: são dois painéis vivendo lado a
 // lado (o local é o V1), e captura de tela sem versão vira adivinhação.
-export const VERSAO = '2.2.0';
+export const VERSAO = '2.3.1';
 
 export default function RootLayout({ children }) {
   return (
