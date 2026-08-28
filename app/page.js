@@ -25,12 +25,17 @@ function Card({ m }) {
           <Link href={`/${m.id}`}>{x.titulo}</Link>
         </h3>
         {x.mvd ? <span className="pill mvd">{x.mvd}</span> : null}
+        {/* O PLAYER VEM ANTES DA DESCRIÇÃO. A linha de gênero/bpm/tom muda de
+            tamanho de card para card (e quebra em duas linhas em alguns), então
+            com o player embaixo ele aparecia numa altura diferente em cada
+            card. Ancorado logo abaixo do MVD, fica na mesma altura em todos —
+            e é o botão que a pessoa procura primeiro. */}
+        <audio controls preload="none" src={f.url} />
         <div className="meta">
           {[x.genero, x.bpm && `${x.bpm} bpm`, x.tom, f.bytes && mb(f.bytes)]
             .filter(Boolean)
             .join(' · ')}
         </div>
-        <audio controls preload="none" src={f.url} />
         {/* A chave do like continua sendo `<mvd>:<versão>` — mudar o formato
             zeraria as curtidas que o público já deu. */}
         <Like mvd={slugDoMvd(x)} versao={f.n} rotulo="curtir" />
