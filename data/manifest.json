@@ -11915,7 +11915,7 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-2.mp3",
@@ -11926,7 +11926,7 @@
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -11935,14 +11935,14 @@
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-1.mp3",
      "aprovada": true,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-2.mp3",
      "aprovada": false,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "bytes": 197317805,
@@ -12215,7 +12215,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -13894,7 +13894,7 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
@@ -13905,7 +13905,7 @@
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     }
    ],
    "versoes": [
@@ -13914,14 +13914,14 @@
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-1.mp3",
      "aprovada": false,
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
      "aprovada": false,
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     }
    ],
    "bytes": 381549738,
@@ -14194,7 +14194,7 @@
      }
     ]
    },
-   "nuvem": "publicado",
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   },
