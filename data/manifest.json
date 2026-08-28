@@ -13405,7 +13405,7 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
@@ -13415,7 +13415,7 @@
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -13424,14 +13424,14 @@
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-1.mp3",
      "aprovada": false,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
      "aprovada": false,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "bytes": 381481146,
@@ -13704,7 +13704,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -13757,11 +13757,11 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro-kling/clipe.mp4",
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     }
    ],
    "versoes": [],
-   "bytes": 982897914,
+   "bytes": 982898114,
    "doc": "# Construí em Silêncio (Kling)\n\n**slug:** `agora-eu-cobro-kling`  ·  **solicitação:** música de virada, rock feminino, sobre quem constrói em silêncio e agora cobra\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0000 |\n| Capa | pronto | capa.png | inemaimg:flux2-klein | 0.0000 |\n| Clipe | pronto | clipe.mp4 | kling:kling-v2_5 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0000\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/agora-eu-cobro-kling`\n\n✅ Pacote completo.",
    "prompts": {
     "estilo": "Female anthem rock, 120 BPM, E minor. Powerful female lead vocal, low and restrained almost spoken in the verses, exploding into belting with grit on the choruses. Quiet palm-muted guitar and sparse drums in verse one, driving distorted guitars and punchy live drums from the first chorus on, anthemic gang-vocal final chorus, triumphant build from whisper to roar.",
@@ -14031,7 +14031,7 @@
      }
     ]
    },
-   "nuvem": "publicado",
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   }
