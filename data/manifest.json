@@ -6566,7 +6566,7 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-2.mp3",
@@ -6577,7 +6577,7 @@
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4",
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -6586,14 +6586,14 @@
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-1.mp3",
      "aprovada": true,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-2.mp3",
      "aprovada": false,
-     "nuvem": "subindo"
+     "nuvem": "publicado"
     }
    ],
    "bytes": 332731748,
@@ -7006,7 +7006,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -7927,7 +7927,7 @@
      "likes": 0,
      "capa": null,
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4",
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-2.mp3",
@@ -7938,7 +7938,7 @@
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/capa-v2.png",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4",
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     }
    ],
    "versoes": [
@@ -7947,14 +7947,14 @@
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-1.mp3",
      "aprovada": true,
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-2.mp3",
      "aprovada": false,
-     "nuvem": "publicado"
+     "nuvem": "subindo"
     }
    ],
    "bytes": 705489457,
@@ -8318,7 +8318,7 @@
      }
     ]
    },
-   "nuvem": "publicado",
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   },
