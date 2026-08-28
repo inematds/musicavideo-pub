@@ -54,7 +54,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/faixa-2.mp3",
@@ -63,7 +64,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -71,13 +73,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musica-africana-tradicional-uma-mulher-j/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 441957432,
@@ -392,7 +396,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -449,7 +453,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-2.mp3",
@@ -458,7 +463,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -466,13 +472,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/cantor-sertanejo-moderno-prompt-baseca-n/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 400786063,
@@ -950,7 +958,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/faixa-2.mp3",
@@ -959,7 +968,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -967,13 +977,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagemcan-tora-sertaneja-brasileira/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 256595030,
@@ -1296,7 +1308,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/faixa-2.mp3",
@@ -1305,7 +1318,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -1313,13 +1327,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crie-uma-cantora-sertaneja-brasileira-de/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 263166469,
@@ -1627,7 +1643,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/faixa-2.mp3",
@@ -1636,7 +1653,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -1644,13 +1662,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-cantora-de-deep-house-sofisticada-de/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 344491225,
@@ -2064,7 +2084,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-2.mp3",
@@ -2073,7 +2094,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -2081,13 +2103,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-garota-rebelde-provocante-nada-sensu/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 429263146,
@@ -2615,7 +2639,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/clipe-1.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -2623,7 +2648,8 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-e-homens-muito-bem-vestido-elegan/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 222008739,
@@ -3016,7 +3042,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/faixa-2.mp3",
@@ -3025,7 +3052,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -3033,13 +3061,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mulher-muito-sensual-dancando-muito/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 593189047,
@@ -3522,7 +3552,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/faixa-2.mp3",
@@ -3531,7 +3562,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -3539,13 +3571,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/open-cold-with-the-main-chorus-hook-in-t/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 386696290,
@@ -3958,7 +3992,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/faixa-2.mp3",
@@ -3967,7 +4002,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -3975,13 +4011,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-blond-tall-boropasnista-corp/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 310869435,
@@ -4345,7 +4383,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/faixa-2.mp3",
@@ -4354,7 +4393,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -4362,13 +4402,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-criar-uma-personagem-propria-inspir/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 380627023,
@@ -4774,7 +4816,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/faixa-2.mp3",
@@ -4783,7 +4826,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -4791,13 +4835,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-athetic-toned-wild-haired-gl/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 724594818,
@@ -5197,7 +5243,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/faixa-2.mp3",
@@ -5206,7 +5253,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -5214,13 +5262,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-young-tall-black-slender-elegant-s/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 656390655,
@@ -5599,7 +5649,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/faixa-2.mp3",
@@ -5608,7 +5659,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -5616,13 +5668,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/woman-yung-tall-black-slender-elegant-st/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 398894807,
@@ -6053,7 +6107,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-2.mp3",
@@ -6062,7 +6117,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -6070,13 +6126,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sim-da-para-incorporar-a-energia-que-voc/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 332672436,
@@ -6546,7 +6604,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/faixa-2.mp3",
@@ -6555,7 +6614,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -6563,13 +6623,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/jovem-morena-latina-espanhola-cabelos-on/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 451060812,
@@ -6940,7 +7002,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/faixa-2.mp3",
@@ -6949,7 +7012,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -6957,13 +7021,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-young-female-singer-with-silver-braids/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 534010901,
@@ -7393,7 +7459,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-2.mp3",
@@ -7402,7 +7469,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -7410,13 +7478,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/young-nordic-woman-braided-hair-sings-em/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 705408857,
@@ -7833,7 +7903,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/faixa-2.mp3",
@@ -7842,7 +7913,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -7850,13 +7922,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/prompt-simples-para-musica-e-clipecr-ie/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 643784447,
@@ -8213,7 +8287,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/faixa-2.mp3",
@@ -8222,7 +8297,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -8230,13 +8306,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/nao-quero-sobre-futebol-mas-as-dancas-e/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 508116580,
@@ -8617,7 +8695,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/stay-kling/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/stay-kling/clipe-1.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -8625,7 +8704,8 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/stay-kling/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/stay-kling/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 636426588,
@@ -8832,7 +8912,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/faixa-2.mp3",
@@ -8841,7 +8922,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -8849,13 +8931,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/high-energy-edm-festival-anthem-126-bpm/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 783320893,
@@ -9360,7 +9444,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/faixa-2.mp3",
@@ -9369,7 +9454,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -9377,13 +9463,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/upbeat-festival-edm-track-126-bpm-f-mino/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 807384153,
@@ -9748,7 +9836,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/faixa-2.mp3",
@@ -9757,7 +9846,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -9765,13 +9855,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sensual-neo-soul-ballad-75-bpm-in-g-majo/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 295651271,
@@ -10129,7 +10221,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/faixa-2.mp3",
@@ -10138,7 +10231,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -10146,13 +10240,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/rock-misturado-com-estilo-noruega/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 378062278,
@@ -10495,7 +10591,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/faixa-2.mp3",
@@ -10504,7 +10601,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -10512,13 +10610,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-woman-young-beautiful-africa-accendent/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 301983763,
@@ -10882,7 +10982,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/faixa-2.mp3",
@@ -10891,7 +10992,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -10899,13 +11001,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/us-a-beautiful-woman-emotional-cinematic/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 285892683,
@@ -11336,7 +11440,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4",
+     "nuvem": "subindo"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-2.mp3",
@@ -11345,7 +11450,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4",
+     "nuvem": "subindo"
     }
    ],
    "versoes": [
@@ -11353,16 +11459,18 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "subindo"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-realistic-high-quality-cinematic-portr/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "subindo"
     }
    ],
-   "bytes": 197262010,
+   "bytes": 197262388,
    "doc": "# Midnight\n\n**slug:** `a-realistic-high-quality-cinematic-portr`  ·  **solicitação:** :A realistic, high-quality cinematic portrait of a 24-year-old Asian man with a clean urban style. Completely clear, clean, and blank skin. Strictly no tattoos, no body art, no ink, no piercings, no face jewelry, and no earrings anywhere. He has a modern curtain haircut with textured black strands messy over his eyes. Sharp jawline, clean-shaven face, intense and confident gaze. He is wearing a basic premium white t-shirt with a rugged dark denim jacket casually draped over one shoulder. High-contrast black and white studio photography, dramatic lighting, highly detailed skin texture, 8k resolution, photorealistic.Se a plataforma tiver o campo Negative Prompt, adicione: tattoo, ink, piercing, earring, jewelry, ear piercing, lip piercing, nose ring, body modification.🎵 2. Instruções para a Música (Para geradores de áudio)Ao usar uma IA musical (como Suno AI o u Udio), ative o modo customizado e use as configurações abaixo para obter o estilo de sucesso ideal para ele:Estilo Musical / Tags (Style of Music) :K-Pop, Dark R&B, Synth-pop, Male vocals, 118 BPM, Catchy commercial hook, Smooth vocals, Heavy bassline, Crisp trap drums, Cinematic atmosphereInstruções de Estrutura (Prompt de Comand o):Create a global hit song with a modern, noct urnal, and mysterious vibe. The track must feature a smooth and confident male vocal performance. Start with a slow synth intro that builds tension, transitioning into an addictive and danceable 118 BPM rhythm during the chorus. The melody should be highly commercial and radio-ready, blending sleek contemporary R&B production with the powerful energy of a K-Pop title track.\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | inemaimg:flux2-klein | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/a-realistic-high-quality-cinematic-portr`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Midnight\n\n\n\n**slug:** `a-realistic-high-quality-cinematic-portr`  ·  **criado:** 2026-08-23T04:28:38-03:00\n\n**solicitação:** :A realistic, high-quality cinematic portrait of a 24-year-old Asian man with a clean urban style. Completely clear, clean, and blank skin. Strictly no tattoos, no body art, no ink, no piercings, no face jewelry, and no earrings anywhere. He has a modern curtain haircut with textured black strands messy over his eyes. Sharp jawline, clean-shaven face, intense and confident gaze. He is wearing a basic premium white t-shirt with a rugged dark denim jacket casually draped over one shoulder. High-contrast black and white studio photography, dramatic lighting, highly detailed skin texture, 8k resolution, photorealistic.Se a plataforma tiver o campo Negative Prompt, adicione: tattoo, ink, piercing, earring, jewelry, ear piercing, lip piercing, nose ring, body modification.🎵 2. Instruções para a Música (Para geradores de áudio)Ao usar uma IA musical (como Suno AI o u Udio), ative o modo customizado e use as configurações abaixo para obter o estilo de sucesso ideal para ele:Estilo Musical / Tags (Style of Music) :K-Pop, Dark R&B, Synth-pop, Male vocals, 118 BPM, Catchy commercial hook, Smooth vocals, Heavy bassline, Crisp trap drums, Cinematic atmosphereInstruções de Estrutura (Prompt de Comand o):Create a global hit song with a modern, noct urnal, and mysterious vibe. The track must feature a smooth and confident male vocal performance. Start with a slow synth intro that builds tension, transitioning into an addictive and danceable 118 BPM rhythm during the chorus. The melody should be highly commercial and radio-ready, blending sleek contemporary R&B production with the powerful energy of a K-Pop title track.\n\n**estilo de referência:** corporate-tech-electro-pop  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** K-Pop dark R&B synth-pop  ·  **BPM:** 118  ·  **Tom:** Fá# menor\n- **Mood:** noturno, misterioso, confiante, sensual, cinematográfico\n- **Instrumentação:** slow atmospheric synth pads, heavy sub bassline, crisp trap drums with tight hi-hat rolls, plucked synth hook, reverbed finger snaps, cinematic risers\n- **Voz:** \"masculina, tenor leve, smooth e confiante, falsete curto nos ganchos, harmonias empilhadas no refrão\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> K-Pop dark R&B synth-pop, 118 BPM, F# minor, male vocals. Smooth confident male tenor with airy falsetto flips, stacked vocal harmonies on the chorus. Slow atmospheric synth pad intro that builds tension for a few bars, then drops into an addictive danceable groove: heavy sub bassline, crisp trap drums with tight hi-hat rolls, reverbed finger snaps, plucked synth hook. Nocturnal, mysterious, cinematic, radio-ready commercial mix with a huge catchy chorus. Lyrics in en-US\n\n**Estrutura:** intro (12s) · verso 1 (24s) · pré-refrão (12s) · refrão (24s) · verso 2 (24s) · pré-refrão (12s) · refrão (24s) · ponte (16s) · refrão final (24s) · outro (8s)\n\n**Letra** (origem: `gerada`, en-US):\n\n```\n[Intro]\n(Midnight... midnight...)\n\n[Verse 1]\nCity's asleep but I'm wide awake\nBlack and white, no color to fake\nStreetlight cuts across my face\nI don't chase, I just take my place\nYou keep asking where I go\nWhen the sun is gone and the windows glow\n\n[Pre-Chorus]\nDon't call me in the daylight\nI'm not the same in the daylight\nWait for the dark, then hold on tight\n\n[Chorus]\nI only come alive at midnight\nMidnight, midnight\nEvery shadow knows my name tonight\nMidnight, midnight\nIf you want me, meet me in the dark\nWhere the night begins is where I start\nI only come alive at midnight\nMidnight, midnight\n\n[Verse 2]\nJacket on my shoulder, I don't rush\nSilence on my lips, it says enough\nYou can read my eyes, they never lie\nCold outside, but the pulse is high\nEvery step I take, the bass replies\nYou felt it too, don't act surprised\n\n[Pre-Chorus]\nDon't call me in the daylight\nI'm not the same in the daylight\nWait for the dark, then hold on tight\n\n[Chorus]\nI only come alive at midnight\nMidnight, midnight\nEvery shadow knows my name tonight\nMidnight, midnight\nIf you want me, meet me in the dark\nWhere the night begins is where I start\nI only come alive at midnight\nMidnight, midnight\n\n[Bridge]\nTick, tick, the clock is slowing down\nTick, tick, no one else around\nWhen the lights go low, you'll know\nI'm the one the dark has shown\n\n[Final Chorus]\nI only come alive at midnight\nMidnight, midnight\nEvery shadow knows my name tonight\nMidnight, midnight\nIf you want me, meet me in the dark\nWhere the night begins is where I start\nI only come alive at midnight\nMidnight, midnight\n\n[Outro]\n(Midnight... midnight...)\nI only come alive\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #000000, #FFFFFF, #1A1A1A, #2B7FFF\n- **Params:** `{}`\n\n**Conceito:** Retrato frontal em preto e branco de alto contraste do jovem de jaqueta jeans no ombro, olhar intenso sob a franja cortina, luz dura de um lado e sombra profunda do outro. Fundo de estúdio preto liso; o título entra na base. A única cor é um fio azul-elétrico discreto na borda de luz.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of a 24-year-old East Asian man, clean urban style, completely clear clean blank skin, modern curtain haircut with textured black strands messy over the eyes, sharp jawline, clean-shaven, intense confident gaze into the lens, basic premium white t-shirt, rugged dark denim jacket casually draped over one shoulder, hard single-source side light with deep shadows, high-contrast black and white studio photography, subtle electric blue rim light on the edge, shallow depth of field, plain black studio background, empty space at the bottom for a bold title, highly detailed skin texture, photorealistic, 8k, cinematic, 1:1\n\n**Negativo:** text, watermark, logo, extra limbs, tattoo, ink, body art, piercing, earring, jewelry, ear piercing, lip piercing, nose ring, body modification, necklace, color cast, smile, blurry, deformed hands\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** Ritmo escolhido: ~12 cortes/min na média (37 shots em 180s), chegando a ~20 cortes/min nos refrões e caindo a ~6 nos versos. As referências medidas (ravenstrikex, 128-130 BPM) rodam entre 22.3 e 35.5 cortes/min, mas são rave festival com multidão; aqui a música é 118 BPM dark R&B com um só intérprete em estúdio, então ancorei o refrão na faixa baixa das referências (~20/min, planos de 2-3s) e deixei verso e intro respirarem (6-10s). Recursos herdados da medição: corte seco no beat, slowmo/speedramp nos refrões, whip pan e flash frame branco na entrada dos refrões. Nada de fade longo ou crossfade, que não aparecem nas referências. Mantém 1.5s ≤ shot ≤ 18s.\n- **Params:** `{}`\n- **Shots:** 37  ·  **Duração total:** 180.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 8.0s | dolly-in lento | Estúdio preto, um facho de luz dura atravessa o quadro vazio; poeira flutua. |\n| 2 | intro | 4.0s | estático, close | Silhueta do homem entra no facho de luz, só o contorno da jaqueta no ombro. |\n| 3 | verso 1 | 7.0s | orbital lento | Médio: ele de pé no estúdio, cabeça baixa, a franja cobre os olhos, canta baixo. |\n| 4 | verso 1 | 6.0s | steadicam, travelling lateral | Uma luz de rua estilizada desliza pelo rosto dele enquanto a câmera passa. |\n| 5 | verso 1 | 5.0s | close, estático | Detalhe: mão ajeita a jaqueta no ombro; tecido jeans em textura. |\n| 6 | verso 1 | 6.0s | dolly-in | Ele levanta a cabeça devagar e encara a lente. |\n| 7 | pré-refrão | 4.0s | handheld, close | Close nos lábios cantando 'don't call me in the daylight', leve tremor de câmera. |\n| 8 | pré-refrão | 4.0s | pan rápido | Pan pela parede preta até encontrar os olhos dele sob a franja; tensão sobe. |\n| 9 | pré-refrão | 4.0s | dolly-in acelerado | Speed ramp: câmera acelera no rosto dele, luz estoura em branco no último frame. |\n| 10 | refrão | 3.0s | gimbal, orbital rápido | Refrão explode: ele de pé, luz azul-elétrica de recorte aparece pela primeira vez, canta o hook. |\n| 11 | refrão | 2.5s | close, whip pan in | Whip pan chega no rosto dele em slow motion por um instante. |\n| 12 | refrão | 3.0s | travelling frontal | Ele caminha em direção à câmera, jaqueta balança no ombro, batida forte. |\n| 13 | refrão | 2.5s | estático, contra-plongée | Plongée baixa: ele joga a cabeça pra trás no 'midnight, midnight'. |\n| 14 | refrão | 3.0s | orbital | Orbital de corpo inteiro; sombra dele projetada gigante na parede. |\n| 15 | refrão | 2.5s | close, handheld | Close olhos sob a franja, dedo estalando no beat. |\n| 16 | refrão | 3.0s | dolly-out | Dolly-out: ele fica pequeno no estúdio preto enquanto a luz azul apaga. |\n| 17 | refrão | 4.5s | estático | Flash frame branco e corte para ele parado, olhando de lado, respiração. |\n| 18 | verso 2 | 7.0s | travelling lateral lento | Verso 2: ele sentado num banco, jaqueta no ombro, canta sem pressa. |\n| 19 | verso 2 | 5.0s | close, estático | Detalhe: os lábios fechados, 'silence on my lips'. |\n| 20 | verso 2 | 6.0s | dolly-in | Os olhos: dolly-in lento até o olhar dele, franja mexe com o ar. |\n| 21 | verso 2 | 6.0s | pan baixo | Pan rente ao chão: passos dele no piso preto, o baixo responde. |\n| 22 | pré-refrão | 4.0s | handheld, close | Close na boca cantando o pré-refrão, câmera viva. |\n| 23 | pré-refrão | 4.0s | orbital acelerando | Orbital ganha velocidade ao redor dele, tensão. |\n| 24 | pré-refrão | 4.0s | dolly-in acelerado | Speed ramp no rosto, luz estoura em branco. |\n| 25 | refrão | 3.0s | gimbal, orbital rápido | Segundo refrão: luz azul volta, ele canta de frente, mais solto. |\n| 26 | refrão | 2.5s | close, slow motion | Slow motion: ele vira a cabeça, a franja voa. |\n| 27 | refrão | 3.0s | travelling traseiro | Câmera recua na frente dele enquanto ele avança cantando. |\n| 28 | refrão | 2.5s | estático, plongée | Plongée alta: ele no centro do facho de luz, braços abertos. |\n| 29 | refrão | 3.0s | orbital | Orbital com a sombra dupla na parede, luz azul nas bordas. |\n| 30 | refrão | 2.5s | close, handheld | Close no sorriso de canto e no olhar confiante, 'meet me in the dark'. |\n| 31 | refrão | 7.5s | dolly-out | Dolly-out longo até ele virar um ponto de luz; azul some. |\n| 32 | ponte | 8.0s | estático, close | Ponte: quase escuro, só o rosto dele meio iluminado, um relógio de parede fora de foco ao fundo. |\n| 33 | ponte | 8.0s | dolly-in muito lento | Dolly-in lento: luz cresce no rosto dele até o último 'shown'. |\n| 34 | refrão final | 2.5s | whip pan, gimbal | Flash branco, whip pan: refrão final com azul mais forte, ele canta com tudo. |\n| 35 | refrão final | 10.5s | orbital contínuo com speed ramps | Orbital longo alternando slow motion e tempo real ao redor dele; sombras e luz azul pulsam no beat. |\n| 36 | refrão final | 11.0s | dolly-in lento até close | Dolly-in final: ele para, olha a lente e diz o último 'midnight'; luz azul fica só na borda. |\n| 37 | outro | 8.0s | estático | Outro: ele sai do facho de luz, fica só a luz e a poeira, igual ao começo. |\n\n**Prompts (EN):**\n\n1. black and white high-contrast studio, pitch black background, a single hard beam of light cuts diagonally across an empty frame, dust particles drifting slowly, slow dolly-in, cinematic, photorealistic, 8k\n2. black and white studio, silhouette of a young East Asian man stepping into a hard beam of light, denim jacket draped over one shoulder, only the outline visible, static close shot, deep shadows, photorealistic\n3. black and white high-contrast studio, medium shot of a 24-year-old East Asian man with a curtain haircut, messy black strands over his eyes, white t-shirt, dark denim jacket draped over one shoulder, clean blank skin, singing softly with head slightly down, slow orbital camera, hard side light, photorealistic, 8k\n4. black and white studio, a strip of streetlight-like light sliding across the face of a young East Asian man with a curtain haircut, intense gaze, clean-shaven, clean skin, lateral steadicam travelling, high contrast, photorealistic\n5. black and white macro close-up, a hand adjusting a rugged dark denim jacket draped over a shoulder, denim texture, white t-shirt fabric, hard light, static shot, photorealistic\n6. black and white high-contrast studio, slow dolly-in on a 24-year-old East Asian man with messy curtain haircut lifting his head to stare into the lens, sharp jawline, clean-shaven, clean blank skin, white t-shirt, denim jacket over one shoulder, hard side light, photorealistic, 8k\n7. black and white close-up of a young East Asian man's mouth and jawline singing, clean-shaven, clean skin, slight handheld shake, hard light from one side, high contrast, photorealistic\n8. black and white studio, fast pan across a black wall ending on the eyes of a young East Asian man under messy black hair strands, intense confident gaze, high contrast, photorealistic\n9. black and white studio, accelerating dolly-in toward the face of a young East Asian man with a curtain haircut, clean-shaven, clean skin, light flaring to a white flash at the end, speed ramp, high contrast, photorealistic\n10. high-contrast black and white studio with a single electric blue rim light, fast gimbal orbit around a 24-year-old East Asian man singing confidently, messy curtain haircut, white t-shirt, denim jacket over one shoulder, clean blank skin, photorealistic, 8k\n11. black and white studio, whip pan landing on a slow-motion close-up of a young East Asian man's face, sharp jawline, clean-shaven, clean skin, intense gaze, electric blue rim light edge, photorealistic\n12. black and white high-contrast studio, young East Asian man walking confidently toward camera, denim jacket swinging over one shoulder, white t-shirt, messy black hair, clean skin, frontal travelling, electric blue rim light, photorealistic\n13. black and white studio, low-angle static shot of a young East Asian man throwing his head back while singing, curtain haircut, clean-shaven, clean skin, white t-shirt, hard top light, high contrast, photorealistic\n14. black and white high-contrast studio, orbital full-body shot of a young East Asian man in a white t-shirt with a denim jacket over one shoulder, his shadow cast huge on the black wall, clean skin, photorealistic\n15. black and white close-up of a young East Asian man's eyes under messy black hair strands and a hand snapping fingers, handheld, hard side light, clean skin, photorealistic\n16. black and white studio, dolly-out from a young East Asian man standing alone in a vast black studio, denim jacket over one shoulder, electric blue rim light fading to black, high contrast, photorealistic\n17. black and white high-contrast studio, static medium shot of a young East Asian man standing still looking off-frame, curtain haircut, clean-shaven, clean skin, white t-shirt, hard side light, breathing calmly, photorealistic\n18. black and white studio, slow lateral travelling of a 24-year-old East Asian man sitting on a stool singing unhurried, denim jacket draped over one shoulder, white t-shirt, messy curtain haircut, clean blank skin, hard side light, photorealistic, 8k\n19. black and white close-up of a young East Asian man's closed lips and clean-shaven jaw, clean skin, hard light, static, high contrast, photorealistic\n20. black and white studio, slow dolly-in on the eyes of a young East Asian man, textured black hair strands moving slightly, intense confident gaze, clean skin, hard side light, photorealistic\n21. black and white studio, low pan following sneakers stepping slowly across a glossy black floor, reflection of a white t-shirt and denim jacket, hard light, photorealistic\n22. black and white handheld close-up of a young East Asian man singing, mouth and sharp jawline, clean-shaven, clean skin, hard light from one side, high contrast, photorealistic\n23. black and white studio, orbital camera accelerating around a young East Asian man standing with a denim jacket over one shoulder, messy curtain haircut, clean skin, hard light, high contrast, photorealistic\n24. black and white studio, accelerating dolly-in toward the face of a young East Asian man, clean-shaven, clean skin, intense gaze, light flaring to a white flash at the end, speed ramp, photorealistic\n25. high-contrast black and white studio with electric blue rim light, fast gimbal orbit around a young East Asian man singing freely, curtain haircut, white t-shirt, denim jacket over one shoulder, clean blank skin, photorealistic, 8k\n26. black and white slow-motion close-up of a young East Asian man turning his head, textured black hair strands flying, sharp jawline, clean skin, electric blue rim light edge, photorealistic\n27. black and white high-contrast studio, camera moving backward as a young East Asian man advances singing confidently, white t-shirt, denim jacket over one shoulder, clean skin, electric blue rim light, photorealistic\n28. black and white studio, high-angle static shot of a young East Asian man standing in the center of a hard beam of light, arms slightly open, denim jacket on one shoulder, clean skin, photorealistic\n29. black and white high-contrast studio, orbital shot of a young East Asian man with two hard shadows cast on the black wall, white t-shirt, denim jacket, clean skin, electric blue rim light, photorealistic\n30. black and white handheld close-up of a young East Asian man with a confident half-smile and intense gaze under messy hair, clean-shaven, clean skin, hard side light, photorealistic\n31. black and white studio, long dolly-out from a young East Asian man standing alone until he becomes a small figure in a vast black studio, denim jacket over one shoulder, electric blue rim light fading, photorealistic\n32. black and white near-dark studio, static close-up of half of a young East Asian man's face lit by a thin sliver of light, clean-shaven, clean skin, an out-of-focus wall clock in the background, high contrast, photorealistic\n33. black and white studio, very slow dolly-in as light gradually grows on the face of a young East Asian man with a curtain haircut, intense gaze, clean skin, white t-shirt, high contrast, photorealistic, 8k\n34. high-contrast black and white studio with strong electric blue rim light, whip pan landing on a young East Asian man singing with full energy, messy curtain haircut, white t-shirt, denim jacket over one shoulder, clean skin, gimbal, photorealistic\n35. black and white high-contrast studio, continuous orbital around a young East Asian man performing, alternating slow motion and real time, denim jacket over one shoulder, white t-shirt, clean blank skin, shadows and electric blue rim light pulsing, photorealistic, 8k\n36. black and white studio, slow dolly-in ending on a close-up of a young East Asian man staring into the lens, sharp jawline, clean-shaven, clean skin, messy black strands over the eyes, electric blue rim light only on the edge, photorealistic, 8k\n37. black and white high-contrast studio, static shot, a young man with a denim jacket over one shoulder steps out of the hard beam of light leaving only the beam and drifting dust, deep black background, photorealistic\n\n## Publicação (YouTube)\n\n- **Título:** Midnight\n- **Tags:** k-pop dark r&b synth-pop, noturno, misterioso, confiante, sensual, slow atmospheric synth pads, heavy sub bassline, corporate tech electro pop\n\n**Descrição:**\n\nUma música sobre alguém que só existe de verdade quando a cidade apaga. De dia ele é silêncio; à meia-noite, cada sombra sabe o nome dele. O refrão é um convite direto: se você quer encontrá-lo, é no escuro que ele começa.\n\nO som é R&B escuro com energia de faixa-título de K-Pop: uma introdução lenta de sintetizadores que cresce em tensão e cai num groove dançante de 118 BPM, com sub-grave pesado, bateria trap seca e uma voz masculina suave e confiante, empilhada em harmonias no refrão. A palavra que fica é uma só: midnight.\n\nNo clipe, um estúdio preto e um único facho de luz. Um jovem de camiseta branca e jaqueta jeans no ombro canta em preto e branco de alto contraste; a única cor é um fio azul-elétrico que só aparece quando o refrão explode. A câmera orbita, acelera e desacelera no ritmo da batida, e no fim ele sai do facho de luz, deixando só a poeira no ar.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
    "prompts": {
     "estilo": "K-Pop dark R&B synth-pop, 118 BPM, F# minor, male vocals. Smooth confident male tenor with airy falsetto flips, stacked vocal harmonies on the chorus. Slow atmospheric synth pad intro that builds tension for a few bars, then drops into an addictive danceable groove: heavy sub bassline, crisp trap drums with tight hi-hat rolls, reverbed finger snaps, plucked synth hook. Nocturnal, mysterious, cinematic, radio-ready commercial mix with a huge catchy chorus. Lyrics in en-US",
@@ -11632,7 +11740,7 @@
      }
     ]
    },
-   "nuvem": "publicado",
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   },
@@ -11689,7 +11797,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/faixa-2.mp3",
@@ -11698,7 +11807,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -11706,13 +11816,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/traditional-southern-brazilian-gaucho-fo/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 416047249,
@@ -12043,7 +12155,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/faixa-2.mp3",
@@ -12052,7 +12165,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -12060,13 +12174,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/musicavideo-para-a-musica-eu-acho-que-ex/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 1034755285,
@@ -12467,7 +12583,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/faixa-2.mp3",
@@ -12476,7 +12593,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -12484,13 +12602,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-3/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 523731984,
@@ -12890,7 +13010,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/capa-v1.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/faixa-2.mp3",
@@ -12899,7 +13020,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-2.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -12907,13 +13029,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/faixa-1.mp3",
-     "aprovada": true
+     "aprovada": true,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/para-a-musica-eu-acho-que-existe-uma-nar-2/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 2330940730,
@@ -13280,7 +13404,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
+     "nuvem": "publicado"
     },
     {
      "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
@@ -13289,16 +13414,8 @@
      "aprovada": false,
      "likes": 0,
      "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/capa-v2.png",
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4"
-    },
-    {
-     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa.mp3",
-     "nome": "faixa.mp3",
-     "n": "",
-     "aprovada": true,
-     "likes": 0,
-     "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [
@@ -13306,13 +13423,15 @@
      "n": "1",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-1.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-1.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     },
     {
      "n": "2",
      "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/clipe-2.mp4",
      "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro/faixa-2.mp3",
-     "aprovada": false
+     "aprovada": false,
+     "nuvem": "publicado"
     }
    ],
    "bytes": 381480768,
@@ -13637,7 +13756,8 @@
      "aprovada": true,
      "likes": 0,
      "capa": null,
-     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro-kling/clipe.mp4"
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/agora-eu-cobro-kling/clipe.mp4",
+     "nuvem": "publicado"
     }
    ],
    "versoes": [],
