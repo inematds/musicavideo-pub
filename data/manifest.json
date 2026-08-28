@@ -365,6 +365,470 @@
      }
     ]
    },
+   "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "quero-contar-a-historia-da-africa-por-ou-2",
+   "mvd": "MVD#149",
+   "titulo": "Fika Kesho",
+   "quando": "2026-08-28T03:52:06-03:00",
+   "solicitacao": "Quero contar a história da África por outro ângulo. Não através de reis, guerras ou datas. Através de uma mãe. Uma mulher simbólica atravessando gerações. Mudam as épocas. Mudam os perigos. Fome. Seca. Animais. Conflitos. Invasões. Escravidão. Colonização. Mas uma coisa permanece: ela tenta proteger seus filhos. A frase que resume toda a música seria: “Desde o começo do mundo, ela só queria que o filho chegasse vivo ao amanhã.” musica deve ser em lingua nativa africana",
+   "genero": "afro-folk cinematic (canto materno em suaíli com coro responsorial e tambores)",
+   "bpm": 98,
+   "tom": "Ré menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "solene",
+    "protetor",
+    "resiliente",
+    "cresce da vigília para o amanhecer"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-contar-a-historia-da-africa-por-ou-2/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 466565455,
+   "doc": "# Fika Kesho\n\n**slug:** `quero-contar-a-historia-da-africa-por-ou-2`  ·  **solicitação:** Quero contar a história da África por outro ângulo. Não através de reis, guerras ou datas. Através de uma mãe. Uma mulher simbólica atravessando gerações. Mudam as épocas. Mudam os perigos. Fome. Seca. Animais. Conflitos. Invasões. Escravidão. Colonização. Mas uma coisa permanece: ela tenta proteger seus filhos. A frase que resume toda a música seria: “Desde o começo do mundo, ela só queria que o filho chegasse vivo ao amanhã.” musica deve ser em lingua nativa africana\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/quero-contar-a-historia-da-africa-por-ou-2`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Fika Kesho\n\n\n\n**slug:** `quero-contar-a-historia-da-africa-por-ou-2`  ·  **criado:** 2026-08-28T03:52:06-03:00\n\n**solicitação:** Quero contar a história da África por outro ângulo. Não através de reis, guerras ou datas. Através de uma mãe. Uma mulher simbólica atravessando gerações. Mudam as épocas. Mudam os perigos. Fome. Seca. Animais. Conflitos. Invasões. Escravidão. Colonização. Mas uma coisa permanece: ela tenta proteger seus filhos. A frase que resume toda a música seria: “Desde o começo do mundo, ela só queria que o filho chegasse vivo ao amanhã.” musica deve ser em lingua nativa africana\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** afro-folk cinematic (canto materno em suaíli com coro responsorial e tambores)  ·  **BPM:** 98  ·  **Tom:** Ré menor\n- **Mood:** solene, protetor, resiliente, cresce da vigília para o amanhecer\n- **Instrumentação:** tambores graves ngoma e djembe, kalimba, harpa de cordas dedilhadas, rabeca de uma corda em bordão, cordas cinematográficas discretas, coro responsorial de vozes femininas e graves masculinos\n- **Voz:** \"lead feminina alto, madura e aquecida, contida nos versos e potente controlada nos refrões; coro de aldeia responde as frases dela em call-and-response; vozes graves masculinas entram como chão no refrão final\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> African cinematic folk anthem sung entirely in Swahili, 98 BPM, D minor. Lead vocal: mature female alto, warm, weathered, deeply maternal — restrained and intimate in the verses, rising to controlled full-chest power in the choruses, never shouty. A village choir answers her lines in call-and-response, with low male voices grounding the final chorus. Instrumentation: deep low ngoma drums and djembe entering at the first chorus, soft kalimba pattern, plucked African harp arpeggios, a one-string fiddle drone, sparse cinematic strings and sub drum hits growing across the song. Structure: near-a-cappella humming intro, drums arrive on chorus one, full choir and layered drums on the final chorus, gentle resolved outro. Solemn, protective, resilient, ending in dawn-like hope. Organic acoustic production, wide natural reverb, vocal-forward mix.\n\n**Estrutura:** intro (12s) · verso 1 (28s) · refrão 1 (22s) · verso 2 (28s) · refrão 2 (22s) · ponte (22s) · refrão final (30s) · outro (16s)\n\n**Letra** (origem: `gerada`, sw):\n\n```\n[Intro]\n(mmh... mmh...)\nMwanangu... mwanangu...\n\n[Verse 1]\nJua kali, ardhi imekauka\nMtungi wangu hauna maji\nNakubeba mgongoni mwangu\nNjaa inauma, lakini twende\n\n[Chorus]\nTangu mwanzo wa dunia\nNimeomba jambo moja tu\nMwanangu, fika kesho\nUkiwa hai, ukiwa hai\n(Fika kesho! Fika kesho!)\n\n[Verse 2]\nUsiku simba analia karibu\nNakufunika kwa shuka yangu\nMeli kubwa zimefika pwani\nNakuficha ndani ya msitu\n\n[Chorus]\nTangu mwanzo wa dunia\nNimeomba jambo moja tu\nMwanangu, fika kesho\nUkiwa hai, ukiwa hai\n(Fika kesho! Fika kesho!)\n\n[Bridge]\nNyakati zinabadilika\nHatari zinabadilika\nLakini mimi sibadiliki\nMimi ni mama, mimi ni mama\n\n[Final Chorus]\nTangu mwanzo wa dunia\nNimeomba jambo moja tu\nMwanangu, fika kesho\nUkiwa hai, ukiwa hai\n(Mama yupo! Fika kesho!)\n(Mama yupo! Fika kesho!)\n\n[Outro]\nUmefika, mwanangu\nUmefika kesho\n(mmh... mmh...)\n```\n\n**Diff do seu rascunho:**\n\n```diff\n--- letra enviada\n+++ letra do plano\n@@ -1,48 +1,48 @@\n [Intro]\n (mmh... mmh...)\n-Meu filho... meu filho...\n+Mwanangu... mwanangu...\n \n-[Verso 1]\n-O sol é duro, a terra secou\n-Meu pote não tem água\n-Eu te carrego nas minhas costas\n-A fome dói, mas vamos\n+[Verse 1]\n+Jua kali, ardhi imekauka\n+Mtungi wangu hauna maji\n+Nakubeba mgongoni mwangu\n+Njaa inauma, lakini twende\n \n-[Refrão]\n-Desde o começo do mundo\n-Eu só pedi uma coisa\n-Meu filho, chegue ao amanhã\n-Estando vivo, estando vivo\n-(Chegue ao amanhã! Chegue ao amanhã!)\n+[Chorus]\n+Tangu mwanzo wa dunia\n+Nimeomba jambo moja tu\n+Mwanangu, fika kesho\n+Ukiwa hai, ukiwa hai\n+(Fika kesho! Fika kesho!)\n \n-[Verso 2]\n-De noite o leão ruge perto\n-Eu te cubro com meu pano\n-Navios grandes chegaram à costa\n-Eu te escondo dentro da mata\n+[Verse 2]\n+Usiku simba analia karibu\n+Nakufunika kwa shuka yangu\n+Meli kubwa zimefika pwani\n+Nakuficha ndani ya msitu\n \n-[Refrão]\n-Desde o começo do mundo\n-Eu só pedi uma coisa\n-Meu filho, chegue ao amanhã\n-Estando vivo, estando vivo\n-(Chegue ao amanhã! Chegue ao amanhã!)\n+[Chorus]\n+Tangu mwanzo wa dunia\n+Nimeomba jambo moja tu\n+Mwanangu, fika kesho\n+Ukiwa hai, ukiwa hai\n+(Fika kesho! Fika kesho!)\n \n-[Ponte]\n-Os tempos mudam\n-Os perigos mudam\n-Mas eu não mudo\n-Eu sou mãe, eu sou mãe\n+[Bridge]\n+Nyakati zinabadilika\n+Hatari zinabadilika\n+Lakini mimi sibadiliki\n+Mimi ni mama, mimi ni mama\n \n-[Refrão final]\n-Desde o começo do mundo\n-Eu só pedi uma coisa\n-Meu filho, chegue ao amanhã\n-Estando vivo, estando vivo\n-(A mãe está aqui! Chegue ao amanhã!)\n-(A mãe está aqui! Chegue ao amanhã!)\n+[Final Chorus]\n+Tangu mwanzo wa dunia\n+Nimeomba jambo moja tu\n+Mwanangu, fika kesho\n+Ukiwa hai, ukiwa hai\n+(Mama yupo! Fika kesho!)\n+(Mama yupo! Fika kesho!)\n \n [Outro]\n-Você chegou, meu filho\n-Você chegou ao amanhã\n+Umefika, mwanangu\n+Umefika kesho\n (mmh... mmh...)\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #E5A13A, #1B2440, #A5442A, #EDE3D0, #3B2A20\n- **Params:** `{}`\n\n**Conceito:** A mãe simbólica no primeiro amanhecer: retrato centralizado com o olhar BAIXO, pousado no filho adormecido nos braços — não olha a lente, não olha o horizonte; o mundo dela cabe no embrulho de pano índigo. O sol nasce atrás, recortando-a em âmbar contra a noite que termina. O pano índigo é o objeto-fio que atravessa o clipe inteiro. Escolha de olhar: olhos baixos para o filho (nenhuma capa do acervo usa essa pose).\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of an African mother wrapped in deep indigo cloth holding a sleeping child in her arms, her eyes lowered toward the child, first light of dawn rising behind her, warm amber rim light against a fading night-blue sky, fine dust glowing in the air, weathered hands cradling the bundle, shallow depth of field, palette of amber #E5A13A, deep indigo #1B2440, clay red #A5442A, bone white #EDE3D0, clean space at the bottom for a bold title, cinematic photorealism, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, extra limbs, deformed hands, modern clothing, plastic look, oversaturated skin\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** ≈12,9 cortes/min na média (52 shots em 241s), ancorado entre os 8,36 cortes/min medidos em marilia-mendonca-coracao-bandido (balada narrativa lenta, planos que respiram — o parente mais próximo desta peça solene a 98bpm) e os 23,5 de ana-castela (usados só como teto dos picos). Duração NÃO parelha: intro e outro seguram o plano (5–9s), versos respiram (5–8s), refrões picam (3.5–4s). O NÚCLEO medido na onda (198–210s) leva o ritmo mais picado do clipe — quatro cortes de 3s cravados no beat — e o melhor plano (a mãe ergue o filho dentro do sol): é esse trecho que vira Short. Dissolve/superimposição SÓ na ponte de eras (recursos medidos em ana-castela); slowmo nos momentos de celebração, no núcleo e no refrão final (slowmo/speedramp medido em ana-castela). Nada de whip pan fora do medido.\n- **Params:** `{}`\n- **Shots:** 52  ·  **Duração total:** 241.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | drone | Savana primordial ao primeiro raio de luz |\n| 2 | intro | 5s | dolly-in | Primeira aparição da mãe, de costas, com o embrulho |\n| 3 | intro | 5s | estatico | As mãos ajeitam o pano em volta do filho — o fio do clipe nasce aqui |\n| 4 | verso 1 | 8s | travelling | Era da seca: travessia da terra rachada |\n| 5 | verso 1 | 6s | handheld | Close nos pés sobre a terra rachada |\n| 6 | verso 1 | 5s | estatico | O pote sem água — a fome tem imagem |\n| 7 | verso 1 | 6s | handheld | Tempestade de poeira: o pano vira escudo |\n| 8 | verso 1 | 6s | pan | Promessa distante: uma coluna de chuva no horizonte |\n| 9 | verso 1 | 7s | handheld | A última água é do filho |\n| 10 | refrão 1 | 4s | dolly-in | Noite: fogueira pequena na escuridão imensa |\n| 11 | refrão 1 | 3.5s | estatico | O perigo: brilho de olhos no capim escuro |\n| 12 | refrão 1 | 3.5s | handheld | Ela se põe entre o escuro e o filho |\n| 13 | refrão 1 | 3.5s | handheld | Close na mão que segura o fogo |\n| 14 | refrão 1 | 3.5s | handheld | O canto lido no corpo: cabeça para trás junto ao fogo |\n| 15 | refrão 1 | 3.5s | geral | O círculo protege: tochas e tambores na noite |\n| 16 | refrão 1 | 3.5s | estatico | O rosto do filho dormindo, guardado pela mão dela |\n| 17 | refrão 1 | 4s | estatico | Amanheceu: ela venceu mais uma noite |\n| 18 | verso 2 | 7s | drone | Nova era, novo perigo: velas escuras na costa |\n| 19 | verso 2 | 6s | travelling | Fuga pela mata com o filho no peito |\n| 20 | verso 2 | 5s | estatico | O que os navios deixaram: ferro na areia |\n| 21 | verso 2 | 6s | handheld | Escondidos nas raízes, respiração presa |\n| 22 | verso 2 | 6s | travelling | A travessia do rio: o filho acima da água |\n| 23 | verso 2 | 8s | dolly-out | A aldeia vazia ao amanhecer |\n| 24 | refrão 2 | 4s | travelling | Era colonial: ela de pé na lavoura sem fim |\n| 25 | refrão 2 | 3.5s | handheld | Close nas mãos gastas no trabalho |\n| 26 | refrão 2 | 3.5s | estatico | O nó do pano: gesto que atravessa séculos |\n| 27 | refrão 2 | 3.5s | travelling | O coro na lavoura: corpos que respondem em um só ritmo |\n| 28 | refrão 2 | 3.5s | estatico | Ela imóvel na chuva diante da pedra colonial |\n| 29 | refrão 2 | 3.5s | estatico | O rosto na chuva: mandíbula firme, olhos que não piscam |\n| 30 | refrão 2 | 3.5s | steadicam | Contra a corrente: o índigo na multidão cinza |\n| 31 | refrão 2 | 4s | estatico | O motivo de tudo: a mão pequena segura o dedo dela |\n| 32 | ponte | 6s | dolly-in | Os tempos mudam atrás do pano que não muda |\n| 33 | ponte | 6s | estatico | Gerações passam o pano de mão em mão |\n| 34 | ponte | 5s | estatico | Perfil contra a lua: todas as mães em uma |\n| 35 | ponte | 5s | handheld | O coração da música: pele do tambor em slow motion |\n| 36 | ponte | 4s | estatico | Sibadiliki: ela imóvel enquanto as sombras das eras correm |\n| 37 | ponte | 4s | estatico | A respiração antes do golpe: palmas suspensas sobre os tambores |\n| 38 | refrão final | 4s | geral | Era moderna: cidade africana ao amanhecer |\n| 39 | refrão final | 3.5s | estatico | Vida nova: pés de recém-nascido no pano |\n| 40 | refrão final | 3.5s | geral | Todas as eras lado a lado na crista do morro |\n| 41 | refrão final | 3.5s | travelling | A criança corre livre no capim dourado |\n| 42 | refrão final | 3.5s | handheld | Celebração: tambores e dança na hora dourada |\n| 43 | refrão final | 3s | handheld | NÚCLEO (198s): os tambores golpeiam em uníssono |\n| 44 | refrão final | 3s | geral | NÚCLEO — o melhor plano do clipe: ela ergue o filho dentro do sol |\n| 45 | refrão final | 3s | geral | NÚCLEO: o coro no corpo — cabeças para trás, punhos no peito |\n| 46 | refrão final | 3s | drone | NÚCLEO fecha (210s): drone sobe delas para o sol |\n| 47 | refrão final | 3.5s | estatico | Os olhos dela, firmes no futuro |\n| 48 | refrão final | 3.5s | geral | Panos índigo erguidos como bandeiras na dança |\n| 49 | refrão final | 3s | estatico | O pano lançado ao alto, aberto contra o sol |\n| 50 | outro | 5s | estatico | A herança: ela dobra o pano e entrega ao filho crescido |\n| 51 | outro | 7s | dolly-out | O filho crescido parte; ela fica no portão |\n| 52 | outro | 9s | estatico | Plano final: o pano respira no amanhecer eterno |\n\n**Prompts (EN):**\n\n1. Slow aerial drone glide over a vast primordial African savanna at dawn, low golden sun cutting through ground mist, a single acacia tree on the horizon, distant herds as tiny silhouettes, deep indigo sky fading into amber, cinematic photorealism, epic scale\n2. Slow dolly-in toward a woman's silhouette standing on a low hill at dawn, seen fully from behind, deep indigo cloth wrapped over her shoulders holding a small bundled child, wind moving the fabric, amber sunrise rim light, glowing dust particles, cinematic\n3. Macro shot of weathered hands gently tucking a deep indigo cloth around a sleeping infant at dawn, framed so tightly that only the hands and fabric are visible, first amber light grazing the fabric weave, dust motes in the air, tender stillness\n4. Slow lateral travelling shot of an African mother walking across cracked drought earth, child wrapped on her back in indigo cloth, heat haze rising, bleached white sky, her long shadow stretching over the fissures, wide shot, cinematic realism\n5. Extreme close-up of bare dusty feet stepping over cracked dry earth, framed so tightly that only the feet and ankles are visible, cut off by the frame edges, small puffs of dust with each step, harsh sunlight, subtle slow motion\n6. Static macro shot of a tipped clay water gourd lying on cracked earth, one last drop of water falling and vanishing into the dust, harsh midday light, shallow depth of field, heavy stillness\n7. Handheld medium shot of a mother crouched in a rising dust storm, pulling her indigo cloth over the small child pressed against her chest, ochre dust swirling around them, her back turned to the wind, faces hidden in the fabric, dramatic amber-brown light\n8. Slow pan across a drought horizon at dusk where a single distant column of rain falls from one dark cloud, golden last light on dry grass, a woman's small silhouette far away facing the rain, cinematic scale\n9. Handheld medium shot at dusk of a mother kneeling to hold a clay gourd to her child's lips, giving the last of the water, her own lips dry and cracked, long golden shadows over cracked earth, tender and exhausted, cinematic realism\n10. Slow dolly toward a small campfire in the vast night savanna, sparks rising, a mother seated with a child asleep in her lap wrapped in indigo cloth, firelight on her arms, immense darkness all around, wide shot\n11. Static night shot of tall dark grass where two amber points of animal eyeshine glint and vanish, moonlit grass tips swaying, deep blue-black palette, tense stillness, cinematic\n12. Handheld low-angle shot of a mother standing firm between the darkness and her sleeping child, holding a burning branch raised high, embers streaming in the wind, her stance planted, face in half shadow, firelight against indigo night\n13. Extreme close-up of a hand gripping a burning wooden branch, framed so tightly that only the hand and wrist are visible, cut by the frame edge, knuckles tense, firelight flickering on the skin, sparks drifting\n14. Medium close shot of a mother seated by the fire at night, head tilted back, eyes closed, throat taut, one hand pressed flat over her chest, firelight and sparks rising around her, deep emotion held in the body, cinematic\n15. Wide shot of a small night encampment ringed by torch flames, drummer silhouettes around a central fire, shadows dancing across clay huts, a mother and child safe at the center, warm amber against blue night, slight slow motion\n16. Extreme close-up of a sleeping child's face wrapped in indigo cloth, a mother's hand gently shielding the small head, warm flickering firelight, framed so tightly that only the face and hand are visible, peaceful against the dark\n17. Static wide shot of the savanna at first light after the long night, the extinguished fire smoking gently, a mother asleep sitting upright with the child still held tight in the indigo cloth, soft pink-amber sky, dew on the grass\n18. Slow aerial drone along a wild African coastline at dusk, three tall distant sailing ships anchored offshore as dark silhouettes, long waves rolling in, heavy storm light, desaturated teal and iron-grey palette with one amber seam on the horizon\n19. Travelling shot moving with a mother hurrying through dense green forest, child clutched to her chest under the indigo cloth, shafts of light breaking through the canopy, leaves whipping past the lens, urgent but graceful motion, green-gold palette\n20. Static shot of an old rusted iron chain half-buried in wet beach sand, a wave washing over it and retreating, grey dusk light, no people, heavy silence, shallow depth of field\n21. Handheld close shot inside the giant roots of a fig tree where a mother presses the child against her body, her hand gently covering the child's ear, both wrapped in shadow, thin blades of light cutting through the roots, breath-held stillness, green-black palette\n22. Travelling shot of a mother wading waist-deep across a dark river at dusk, holding the bundled child high above the water, indigo cloth knotted tight around them, ripples catching the last silver light, tense and determined, cinematic\n23. Slow dolly-out from a single overturned clay pot in an empty village at dawn, thin smoke drifting from a cold cooking fire, doors left open, grey-blue morning light, desolate silence, cinematic\n24. Wide travelling shot over endless plantation rows at harsh noon, distant anonymous figures working, one woman standing upright among them with a child bound on her back in indigo cloth, dust and heat haze, muted sepia-green palette\n25. Extreme close-up of weathered hands working through dry crop leaves, framed so tightly that only the hands and wrists are visible, cut by the frame edges, dust on the skin, harsh sunlight, shallow focus\n26. Macro shot of hands tying a strong knot in indigo cloth across a chest, securing a child on the back, framed so tightly that only the hands and fabric are visible, the knot pulled firm, warm side light, fabric fibers detailed\n27. Medium travelling shot along a line of women standing among the crop rows, heads lifted to the sky, eyes closed, hands open at their sides, bodies swaying together in one slow shared rhythm, dust and golden light around them, muted sepia-green palette\n28. Low-angle medium shot of a mother standing motionless in the rain before a tall stone colonial facade, child sheltered dry under her indigo cloth, rain streaming off the fabric, cold grey-blue palette with one warm lantern glow, cinematic\n29. Close-up of a mother's rain-soaked face in cold grey light, jaw set, eyes steady and unblinking, water streaming from her headwrap, one warm lantern glow reflected in her eyes, quiet defiance, cinematic\n30. Steadicam shot moving through a grey blurred crowd walking one direction while a single mother carrying a child walks against the flow, her indigo cloth the only saturated color in the frame, shallow focus, overcast light\n31. Macro shot of a small child's hand wrapping around a mother's finger, framed so tightly that only the two hands are visible, cut by the frame edges, warm window light, soft focus background, tender stillness\n32. Slow dolly-in on an indigo cloth hanging on a line while the background cross-dissolves through eras behind it — savanna, forest, plantation rows, modern city skyline — the cloth constant and unmoving, golden hour light, seamless morphing backdrop\n33. Overhead static shot of a long worn wooden table where pairs of women's hands pass a folded indigo cloth from one pair to the next down the line, each pair of hands visibly older or younger, framed on the hands and cloth only, warm lamplight\n34. Profile silhouette of a mother against a huge amber moon, head bowed toward the bundled child in her arms, the silhouette layered with soft double exposures as if generations overlapping in one figure, deep indigo sky, still camera\n35. Extreme close-up of a drum skin struck by an open palm, framed so tightly that only the palm and the vibrating skin are visible, cut by the frame edge, dust grains jumping off the surface in slow motion with each hit, warm firelight\n36. Static shot of a mother's standing silhouette holding a child, completely motionless, while time-lapse shadows of clouds and passing eras race across the ground and walls behind her, her figure the only still point, light shifting from gold to blue\n37. Close shot of several drummers' open palms raised and held frozen above taut drum skins, dust motionless in the air, dawn light on tense forearms, the held breath before the strike, cinematic anticipation\n38. Wide shot of a modern African city avenue at dawn, a mother in contemporary dress with an indigo cloth over her shoulder holding a child's hand at a crossing, first sun flaring between the buildings, warm amber and steel blue palette\n39. Extreme close-up of a newborn's tiny feet resting at the edge of an indigo cloth, framed so tightly that only the feet are visible, cut off by the frame edge, soft morning window light, gentle stillness, shallow focus\n40. Wide slow-motion shot of women from different eras standing side by side on a ridge at sunrise, each holding or shielding a child, all sharing the same indigo cloth, warm backlight, glowing dust, epic scale, cinematic\n41. Slow-motion travelling shot of a child running through tall golden grass at sunrise, arms open, an indigo cloth trailing from one hand like a banner, backlit dust and seeds floating in the light\n42. Wide handheld shot of a village celebration at golden hour, drummers and dancing women in bright cloth kicking up dust, children weaving between them, warm amber light, joyful collective energy, slight slow motion\n43. Low-angle slow-motion burst of drummers striking their drums in unison at sunrise, dust exploding off the skins with the hit, backlit golden light, arms and beads flying, framed tight on the drums and arms, raw percussive energy\n44. Wide silhouette shot of a mother lifting a small child high against the full rising sun, both silhouetted inside the sun disc, indigo cloth falling from her raised arms, natural lens flare, epic and tender, slow motion\n45. Slow-motion medium shot of a row of women at sunrise, heads thrown back, eyes closed, fists pressed to their chests, indigo cloths lifting in the backlit wind, glowing dust around them, collective power held entirely in the body\n46. Drone shot rising from behind the row of mothers on the ridge, lifting toward the rising sun until they become silhouettes against gold, natural lens flare, endless savanna stretching below, epic and warm\n47. Close-up of a mother's face framed from the eyes up, morning sun catching her brow, one thin tear line lit gold at the lower frame edge, eyes steady on something far ahead, wind moving her headwrap, cinematic warmth\n48. Wide slow-motion shot of dancers at golden hour raising indigo cloths overhead like banners, dust kicked into the backlight, children spinning between them, warm amber palette, joyful and epic\n49. Slow-motion low-angle shot of an indigo cloth tossed high into the golden morning sky, unfurling open against the sun, glowing dust and seeds in the backlight, falling gently like a blessing\n50. Close shot of a mother's weathered hands folding the indigo cloth and pressing it into the hands of her grown son, morning light on both pairs of hands, framed tightly on the hands and fabric, quiet passing of an inheritance\n51. Slow dolly-out from a grown young man walking away down a sunlit morning road, an indigo cloth folded over his shoulder, his mother's figure small and still behind him at the gate, long warm shadows, quiet resolution, cinematic\n52. Static wide final shot of the indigo cloth spread over dry golden grass at full sunrise, wind breathing through the fabric, the savanna horizon gold and endless, image slowly dissolving into white sunlight\n\n## Publicação (YouTube)\n\n- **Título:** Fika Kesho\n- **Tags:** solene, protetor, resiliente, tambores graves ngoma e djembe, kalimba, harpa de cordas dedilhadas\n\n**Descrição:**\n\nUma mulher atravessa o tempo. Da savana primordial à cidade moderna, mudam as épocas e mudam os perigos — a seca, a noite e seus predadores, os navios que chegam à costa, a lavoura e a pedra colonial — mas ela permanece a mesma: uma mãe tentando levar o filho vivo até o amanhã.\n\nA música é cantada em suaíli, com uma voz feminina madura respondida por um coro de aldeia, sobre tambores graves, kalimba e cordas que crescem do quase silêncio até um refrão coletivo. 'Mwanangu, fika kesho' — meu filho, chegue ao amanhã — é o pedido que se repete, geração após geração.\n\nNo clipe, um pano índigo costura os séculos: é o escudo contra a tempestade de poeira, o esconderijo na mata, o nó que prende o filho às costas, a bandeira ao sol nascente. Os versos respiram em planos longos; os refrões aceleram com os tambores, até o amanhecer em que todas as mães de todas as eras se encontram na mesma crista de morro.\n\nAo final, o filho crescido parte pela estrada com o pano no ombro — e ela fica no portão, porque ele chegou. Chegou ao amanhã.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "African cinematic folk anthem sung entirely in Swahili, 98 BPM, D minor. Lead vocal: mature female alto, warm, weathered, deeply maternal — restrained and intimate in the verses, rising to controlled full-chest power in the choruses, never shouty. A village choir answers her lines in call-and-response, with low male voices grounding the final chorus. Instrumentation: deep low ngoma drums and djembe entering at the first chorus, soft kalimba pattern, plucked African harp arpeggios, a one-string fiddle drone, sparse cinematic strings and sub drum hits growing across the song. Structure: near-a-cappella humming intro, drums arrive on chorus one, full choir and layered drums on the final chorus, gentle resolved outro. Solemn, protective, resilient, ending in dawn-like hope. Organic acoustic production, wide natural reverb, vocal-forward mix.",
+    "imagem": "album cover, centered dramatic portrait of an African mother wrapped in deep indigo cloth holding a sleeping child in her arms, her eyes lowered toward the child, first light of dawn rising behind her, warm amber rim light against a fading night-blue sky, fine dust glowing in the air, weathered hands cradling the bundle, shallow depth of field, palette of amber #E5A13A, deep indigo #1B2440, clay red #A5442A, bone white #EDE3D0, clean space at the bottom for a bold title, cinematic photorealism, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, extra limbs, deformed hands, modern clothing, plastic look, oversaturated skin",
+    "conceito": "A mãe simbólica no primeiro amanhecer: retrato centralizado com o olhar BAIXO, pousado no filho adormecido nos braços — não olha a lente, não olha o horizonte; o mundo dela cabe no embrulho de pano índigo. O sol nasce atrás, recortando-a em âmbar contra a noite que termina. O pano índigo é o objeto-fio que atravessa o clipe inteiro. Escolha de olhar: olhos baixos para o filho (nenhuma capa do acervo usa essa pose).",
+    "tagline": "mudam os perigos · ela permanece",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone",
+      "prompt": "Slow aerial drone glide over a vast primordial African savanna at dawn, low golden sun cutting through ground mist, a single acacia tree on the horizon, distant herds as tiny silhouettes, deep indigo sky fading into amber, cinematic photorealism, epic scale",
+      "alt": "Slow aerial drift over misty savanna grassland at dawn, golden light rays through haze, lone acacia silhouette on the horizon, warm amber and indigo palette, no people, cinematic"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in toward a woman's silhouette standing on a low hill at dawn, seen fully from behind, deep indigo cloth wrapped over her shoulders holding a small bundled child, wind moving the fabric, amber sunrise rim light, glowing dust particles, cinematic",
+      "alt": "Slow dolly-in on a deep indigo cloth draped over a weathered wooden stake on a hilltop at dawn, fabric rippling in the wind, amber rim light, glowing dust in the air, cinematic silhouette composition"
+     },
+     {
+      "n": 3,
+      "secao": "intro",
+      "camera": "estatico",
+      "prompt": "Macro shot of weathered hands gently tucking a deep indigo cloth around a sleeping infant at dawn, framed so tightly that only the hands and fabric are visible, first amber light grazing the fabric weave, dust motes in the air, tender stillness",
+      "alt": "Macro shot of deep indigo cloth folds in first dawn light, fabric weave detailed, a warm amber edge of sunlight crossing the frame, dust motes drifting, quiet stillness"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "travelling",
+      "prompt": "Slow lateral travelling shot of an African mother walking across cracked drought earth, child wrapped on her back in indigo cloth, heat haze rising, bleached white sky, her long shadow stretching over the fissures, wide shot, cinematic realism",
+      "alt": "Slow lateral travelling over endless cracked drought earth, heat haze shimmering, one long human shadow stretched across the fissures, bleached white sky, cinematic, no people in frame"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Extreme close-up of bare dusty feet stepping over cracked dry earth, framed so tightly that only the feet and ankles are visible, cut off by the frame edges, small puffs of dust with each step, harsh sunlight, subtle slow motion",
+      "alt": "Extreme close-up of cracked dry earth, wind pushing thin veils of dust across deep fissures, harsh sunlight, slow drifting camera, shallow focus"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "Static macro shot of a tipped clay water gourd lying on cracked earth, one last drop of water falling and vanishing into the dust, harsh midday light, shallow depth of field, heavy stillness",
+      "alt": "Static macro shot of a dry clay vessel lying on cracked ground, fine sand spilling slowly from its mouth in the wind, harsh light, shallow depth of field"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot of a mother crouched in a rising dust storm, pulling her indigo cloth over the small child pressed against her chest, ochre dust swirling around them, her back turned to the wind, faces hidden in the fabric, dramatic amber-brown light",
+      "alt": "Handheld shot of an indigo cloth stretched taut against a wall of ochre dust storm, fabric snapping in the wind, warm brown light, vague soft shapes suggested behind the weave"
+     },
+     {
+      "n": 8,
+      "secao": "verso 1",
+      "camera": "pan",
+      "prompt": "Slow pan across a drought horizon at dusk where a single distant column of rain falls from one dark cloud, golden last light on dry grass, a woman's small silhouette far away facing the rain, cinematic scale",
+      "alt": "Slow pan across a dusk horizon, one dark cloud dropping a distant veil of rain over dry golden grassland, last golden light, no people, cinematic"
+     },
+     {
+      "n": 9,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Handheld medium shot at dusk of a mother kneeling to hold a clay gourd to her child's lips, giving the last of the water, her own lips dry and cracked, long golden shadows over cracked earth, tender and exhausted, cinematic realism",
+      "alt": "Handheld shot of a clay gourd tilted against the dusk light, one last thread of water pouring and catching the golden sun, cracked earth below, long warm shadows"
+     },
+     {
+      "n": 10,
+      "secao": "refrão 1",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly toward a small campfire in the vast night savanna, sparks rising, a mother seated with a child asleep in her lap wrapped in indigo cloth, firelight on her arms, immense darkness all around, wide shot",
+      "alt": "Slow dolly toward a lone campfire in vast darkness, sparks spiraling upward, a bundled indigo cloth resting beside the flames, warm firelight against deep night"
+     },
+     {
+      "n": 11,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static night shot of tall dark grass where two amber points of animal eyeshine glint and vanish, moonlit grass tips swaying, deep blue-black palette, tense stillness, cinematic",
+      "alt": "Static night shot of moonlit tall grass swaying slowly, scattered fireflies drifting, deep blue-black palette, tense quiet, cinematic"
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "Handheld low-angle shot of a mother standing firm between the darkness and her sleeping child, holding a burning branch raised high, embers streaming in the wind, her stance planted, face in half shadow, firelight against indigo night",
+      "alt": "Low-angle shot of a burning branch held up against the night sky, embers streaming sideways in the wind, warm flame against deep indigo darkness"
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "Extreme close-up of a hand gripping a burning wooden branch, framed so tightly that only the hand and wrist are visible, cut by the frame edge, knuckles tense, firelight flickering on the skin, sparks drifting",
+      "alt": "Extreme close-up of the glowing tip of a burning branch, embers pulsing with the wind, sparks lifting into darkness, warm light"
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "Medium close shot of a mother seated by the fire at night, head tilted back, eyes closed, throat taut, one hand pressed flat over her chest, firelight and sparks rising around her, deep emotion held in the body, cinematic",
+      "alt": "Medium shot of sparks rising past a woman's firelit silhouette, her head tilted back against the night sky, embers drifting upward, warm flame against indigo darkness"
+     },
+     {
+      "n": 15,
+      "secao": "refrão 1",
+      "camera": "geral",
+      "prompt": "Wide shot of a small night encampment ringed by torch flames, drummer silhouettes around a central fire, shadows dancing across clay huts, a mother and child safe at the center, warm amber against blue night, slight slow motion",
+      "alt": "Wide shot of a ring of torches around a central fire at night, long shadows moving across clay walls, sparks in slow motion, amber against deep blue"
+     },
+     {
+      "n": 16,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Extreme close-up of a sleeping child's face wrapped in indigo cloth, a mother's hand gently shielding the small head, warm flickering firelight, framed so tightly that only the face and hand are visible, peaceful against the dark",
+      "alt": "Extreme close-up of indigo cloth folds rising and falling gently in warm firelight, as if breathing, dark night behind, soft focus"
+     },
+     {
+      "n": 17,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static wide shot of the savanna at first light after the long night, the extinguished fire smoking gently, a mother asleep sitting upright with the child still held tight in the indigo cloth, soft pink-amber sky, dew on the grass",
+      "alt": "Static wide shot of thin smoke rising from an extinguished campfire at dawn, dew glittering on the grass, soft pink-amber sky, quiet stillness"
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "drone",
+      "prompt": "Slow aerial drone along a wild African coastline at dusk, three tall distant sailing ships anchored offshore as dark silhouettes, long waves rolling in, heavy storm light, desaturated teal and iron-grey palette with one amber seam on the horizon",
+      "alt": "Slow aerial along a wild empty coastline at dusk, dark storm light over long rolling waves, iron-grey sea and one amber seam of light on the horizon, no vessels, cinematic"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "travelling",
+      "prompt": "Travelling shot moving with a mother hurrying through dense green forest, child clutched to her chest under the indigo cloth, shafts of light breaking through the canopy, leaves whipping past the lens, urgent but graceful motion, green-gold palette",
+      "alt": "Fast travelling shot through dense green forest, shafts of light strobing through the canopy, leaves brushing past the lens, urgent forward motion, no people, green-gold palette"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "estatico",
+      "prompt": "Static shot of an old rusted iron chain half-buried in wet beach sand, a wave washing over it and retreating, grey dusk light, no people, heavy silence, shallow depth of field",
+      "alt": "Static shot of wet ribbed sand at dusk, a retreating wave leaving slow lines of foam, grey fading light, empty beach, shallow depth of field"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "handheld",
+      "prompt": "Handheld close shot inside the giant roots of a fig tree where a mother presses the child against her body, her hand gently covering the child's ear, both wrapped in shadow, thin blades of light cutting through the roots, breath-held stillness, green-black palette",
+      "alt": "Close shot inside the giant roots of a fig tree, thin blades of light cutting the green-black shadow, dust motes drifting slowly, breath-held stillness"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "travelling",
+      "prompt": "Travelling shot of a mother wading waist-deep across a dark river at dusk, holding the bundled child high above the water, indigo cloth knotted tight around them, ripples catching the last silver light, tense and determined, cinematic",
+      "alt": "Travelling shot across a dark river at dusk, silver light rippling on the slow current, reeds bending in the wind, no people, tense quiet, cinematic"
+     },
+     {
+      "n": 23,
+      "secao": "verso 2",
+      "camera": "dolly-out",
+      "prompt": "Slow dolly-out from a single overturned clay pot in an empty village at dawn, thin smoke drifting from a cold cooking fire, doors left open, grey-blue morning light, desolate silence, cinematic",
+      "alt": "Slow dolly-out from an overturned clay pot on packed earth at dawn, thin smoke drifting sideways, grey-blue light, empty courtyard, stillness"
+     },
+     {
+      "n": 24,
+      "secao": "refrão 2",
+      "camera": "travelling",
+      "prompt": "Wide travelling shot over endless plantation rows at harsh noon, distant anonymous figures working, one woman standing upright among them with a child bound on her back in indigo cloth, dust and heat haze, muted sepia-green palette",
+      "alt": "Wide travelling shot over endless crop rows in harsh noon light, heat haze rising off the leaves, muted sepia-green palette, no people, cinematic"
+     },
+     {
+      "n": 25,
+      "secao": "refrão 2",
+      "camera": "handheld",
+      "prompt": "Extreme close-up of weathered hands working through dry crop leaves, framed so tightly that only the hands and wrists are visible, cut by the frame edges, dust on the skin, harsh sunlight, shallow focus",
+      "alt": "Extreme close-up of dry crop leaves trembling in the wind, dust drifting through harsh sunlight, shallow focus, sepia-green palette"
+     },
+     {
+      "n": 26,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Macro shot of hands tying a strong knot in indigo cloth across a chest, securing a child on the back, framed so tightly that only the hands and fabric are visible, the knot pulled firm, warm side light, fabric fibers detailed",
+      "alt": "Macro shot of indigo cloth being pulled into a firm knot around a weathered wooden post, fabric fibers straining, warm side light, detailed texture"
+     },
+     {
+      "n": 27,
+      "secao": "refrão 2",
+      "camera": "travelling",
+      "prompt": "Medium travelling shot along a line of women standing among the crop rows, heads lifted to the sky, eyes closed, hands open at their sides, bodies swaying together in one slow shared rhythm, dust and golden light around them, muted sepia-green palette",
+      "alt": "Travelling shot along crop rows where hanging cloths sway together in one slow rhythm, dust drifting through golden light, sepia-green palette, no faces visible"
+     },
+     {
+      "n": 28,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Low-angle medium shot of a mother standing motionless in the rain before a tall stone colonial facade, child sheltered dry under her indigo cloth, rain streaming off the fabric, cold grey-blue palette with one warm lantern glow, cinematic",
+      "alt": "Low-angle shot of rain streaming down a tall stone facade at dusk, one warm lantern glow in a cold grey-blue palette, water bouncing off the stone steps"
+     },
+     {
+      "n": 29,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Close-up of a mother's rain-soaked face in cold grey light, jaw set, eyes steady and unblinking, water streaming from her headwrap, one warm lantern glow reflected in her eyes, quiet defiance, cinematic",
+      "alt": "Close-up of rain streaming down weathered dark wood in cold grey light, one warm lantern glow blurred through the droplets, shallow focus"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "steadicam",
+      "prompt": "Steadicam shot moving through a grey blurred crowd walking one direction while a single mother carrying a child walks against the flow, her indigo cloth the only saturated color in the frame, shallow focus, overcast light",
+      "alt": "Steadicam moving through a grey blurred crowd, one strip of saturated indigo fabric drifting against the flow, shallow focus, overcast light, faces indistinct"
+     },
+     {
+      "n": 31,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Macro shot of a small child's hand wrapping around a mother's finger, framed so tightly that only the two hands are visible, cut by the frame edges, warm window light, soft focus background, tender stillness",
+      "alt": "Macro shot of a fold of indigo cloth cradling a small smooth river stone, warm window light, soft focus, gentle stillness"
+     },
+     {
+      "n": 32,
+      "secao": "ponte",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on an indigo cloth hanging on a line while the background cross-dissolves through eras behind it — savanna, forest, plantation rows, modern city skyline — the cloth constant and unmoving, golden hour light, seamless morphing backdrop",
+      "alt": "Slow dolly-in on an indigo cloth hanging on a line, backgrounds softly cross-dissolving from grassland to forest to a distant city skyline, the cloth unchanged, golden light"
+     },
+     {
+      "n": 33,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Overhead static shot of a long worn wooden table where pairs of women's hands pass a folded indigo cloth from one pair to the next down the line, each pair of hands visibly older or younger, framed on the hands and cloth only, warm lamplight",
+      "alt": "Overhead static shot of a folded indigo cloth sliding slowly along a worn wooden table in warm lamplight, wood grain detailed, quiet ritual pacing"
+     },
+     {
+      "n": 34,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Profile silhouette of a mother against a huge amber moon, head bowed toward the bundled child in her arms, the silhouette layered with soft double exposures as if generations overlapping in one figure, deep indigo sky, still camera",
+      "alt": "Silhouette of a bowed acacia tree against a huge amber moon, its shape layered with soft double exposures, deep indigo sky, still camera"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "handheld",
+      "prompt": "Extreme close-up of a drum skin struck by an open palm, framed so tightly that only the palm and the vibrating skin are visible, cut by the frame edge, dust grains jumping off the surface in slow motion with each hit, warm firelight",
+      "alt": "Extreme close-up of a taut drum skin vibrating, dust grains jumping in slow motion with rhythmic pulses, warm firelight, detailed leather texture"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Static shot of a mother's standing silhouette holding a child, completely motionless, while time-lapse shadows of clouds and passing eras race across the ground and walls behind her, her figure the only still point, light shifting from gold to blue",
+      "alt": "Static shot of a lone acacia silhouette while time-lapse cloud shadows race across the savanna behind it, light shifting from gold to blue, the tree the only still point"
+     },
+     {
+      "n": 37,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Close shot of several drummers' open palms raised and held frozen above taut drum skins, dust motionless in the air, dawn light on tense forearms, the held breath before the strike, cinematic anticipation",
+      "alt": "Close shot of taut drum skins in dawn light, dust resting motionless on the leather, warm rim light on the wooden rims, absolute stillness before impact"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "geral",
+      "prompt": "Wide shot of a modern African city avenue at dawn, a mother in contemporary dress with an indigo cloth over her shoulder holding a child's hand at a crossing, first sun flaring between the buildings, warm amber and steel blue palette",
+      "alt": "Wide shot of a modern city avenue at dawn, first sun flaring between buildings, empty crossing, a long indigo banner of fabric catching the wind, amber and steel blue palette"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Extreme close-up of a newborn's tiny feet resting at the edge of an indigo cloth, framed so tightly that only the feet are visible, cut off by the frame edge, soft morning window light, gentle stillness, shallow focus",
+      "alt": "Extreme close-up of soft indigo fabric folds catching morning window light, rising and falling gently as if breathing, shallow focus"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "geral",
+      "prompt": "Wide slow-motion shot of women from different eras standing side by side on a ridge at sunrise, each holding or shielding a child, all sharing the same indigo cloth, warm backlight, glowing dust, epic scale, cinematic",
+      "alt": "Wide slow-motion shot of a sunrise ridge line with a row of indigo cloths planted like banners, fabric streaming in backlit wind, glowing dust, epic scale"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "travelling",
+      "prompt": "Slow-motion travelling shot of a child running through tall golden grass at sunrise, arms open, an indigo cloth trailing from one hand like a banner, backlit dust and seeds floating in the light",
+      "alt": "Slow-motion travelling shot through tall golden backlit grass at sunrise, an indigo cloth streaming in the wind just above the grass line, seeds floating in the light"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Wide handheld shot of a village celebration at golden hour, drummers and dancing women in bright cloth kicking up dust, children weaving between them, warm amber light, joyful collective energy, slight slow motion",
+      "alt": "Wide shot of golden-hour dust swirling over dancing feet and bright swinging hems of cloth, framed below the knees, dust jumping with drum rhythm, warm amber light"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Low-angle slow-motion burst of drummers striking their drums in unison at sunrise, dust exploding off the skins with the hit, backlit golden light, arms and beads flying, framed tight on the drums and arms, raw percussive energy",
+      "alt": "Slow-motion burst of dust exploding off a struck drum skin, backlit golden sunrise light, particles flying toward the lens, warm and percussive"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "geral",
+      "prompt": "Wide silhouette shot of a mother lifting a small child high against the full rising sun, both silhouetted inside the sun disc, indigo cloth falling from her raised arms, natural lens flare, epic and tender, slow motion",
+      "alt": "Wide silhouette of a baobab branch holding a tied indigo cloth up against the full rising sun disc, fabric lifting in the wind, natural lens flare, slow motion"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "geral",
+      "prompt": "Slow-motion medium shot of a row of women at sunrise, heads thrown back, eyes closed, fists pressed to their chests, indigo cloths lifting in the backlit wind, glowing dust around them, collective power held entirely in the body",
+      "alt": "Slow-motion shot of indigo cloths lifting together in backlit sunrise wind, glowing dust swirling upward, warm golden light, collective motion"
+     },
+     {
+      "n": 46,
+      "secao": "refrão final",
+      "camera": "drone",
+      "prompt": "Drone shot rising from behind the row of mothers on the ridge, lifting toward the rising sun until they become silhouettes against gold, natural lens flare, endless savanna stretching below, epic and warm",
+      "alt": "Drone rising over a ridge of streaming indigo banners toward the rising sun, fabric silhouettes against gold, natural lens flare, endless savanna below"
+     },
+     {
+      "n": 47,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Close-up of a mother's face framed from the eyes up, morning sun catching her brow, one thin tear line lit gold at the lower frame edge, eyes steady on something far ahead, wind moving her headwrap, cinematic warmth",
+      "alt": "Close-up of the edge of an indigo headwrap fluttering against golden morning light, soft lens flare, blurred warm horizon behind, gentle wind"
+     },
+     {
+      "n": 48,
+      "secao": "refrão final",
+      "camera": "geral",
+      "prompt": "Wide slow-motion shot of dancers at golden hour raising indigo cloths overhead like banners, dust kicked into the backlight, children spinning between them, warm amber palette, joyful and epic",
+      "alt": "Wide slow-motion shot of indigo cloths raised and rippling over golden-hour dust, swinging hems and bare feet below, warm amber backlight, rhythmic motion"
+     },
+     {
+      "n": 49,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Slow-motion low-angle shot of an indigo cloth tossed high into the golden morning sky, unfurling open against the sun, glowing dust and seeds in the backlight, falling gently like a blessing",
+      "alt": "Slow-motion low-angle shot of an indigo cloth unfurling against the bright morning sky, sunlight flaring through the weave, drifting down gently"
+     },
+     {
+      "n": 50,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Close shot of a mother's weathered hands folding the indigo cloth and pressing it into the hands of her grown son, morning light on both pairs of hands, framed tightly on the hands and fabric, quiet passing of an inheritance",
+      "alt": "Close shot of a folded indigo cloth resting between two pairs of open hands in warm morning light, framed on hands and fabric only, stillness"
+     },
+     {
+      "n": 51,
+      "secao": "outro",
+      "camera": "dolly-out",
+      "prompt": "Slow dolly-out from a grown young man walking away down a sunlit morning road, an indigo cloth folded over his shoulder, his mother's figure small and still behind him at the gate, long warm shadows, quiet resolution, cinematic",
+      "alt": "Slow dolly-out along an empty sunlit morning road, long warm shadows across the dirt, an indigo cloth resting folded on a wooden gatepost, quiet stillness"
+     },
+     {
+      "n": 52,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Static wide final shot of the indigo cloth spread over dry golden grass at full sunrise, wind breathing through the fabric, the savanna horizon gold and endless, image slowly dissolving into white sunlight",
+      "alt": "Static wide shot of an indigo cloth over golden grass at sunrise, wind rippling the fabric gently, endless horizon, slow natural dissolve into sunlight"
+     }
+    ]
+   },
    "nuvem": "subindo",
    "likes": 0,
    "docs": []
