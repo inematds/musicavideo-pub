@@ -498,6 +498,442 @@
      }
     ]
    },
+   "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "mulher-jovem-e-estilosa-danca-animada-em",
+   "mvd": "MVD#147",
+   "titulo": "Gold on the Water",
+   "quando": "2026-08-28T12:01:55-03:00",
+   "solicitacao": "Mulher jovem e estilosa dança animada em uma festa noturna à beira da piscina em frente a uma vila moderna de luxo. A atmosfera é de celebração sofisticada com iluminação cênica, reflexos na água e público dançando ao fundo. ## Trilha e som - Musica: True · Electronic/Tech House / Deep House · ~126 bpm · A minor - Instrumentacao: Sub bass, Four-on-the-floor kick, Hi-hats, Vocal feminino processado, Synth plucks - Mood/energia: Enérgico, sofisticado, noturno · alta - SFX: Riser synth, Downshifter - Estrutura: Intro vocal/groove 00:00-00:15, build-up 00:16-00:29, drop e clímax 00:30-00:47 - Mixagem: Música masterizada e vocal em primeiro plano; ambiência fundida · sincronia: Alta sintonia de movimento corporal e iluminação com a bateria e drop **Prompt de musica (Suno/Udio):** ``` Upbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere. ``` Negativo: `Acoustic instruments, slow tempo, lo-fi, distorted rock, chaotic noise, cheesy EDM brass`",
+   "genero": "tech house / deep house vocal",
+   "bpm": 126,
+   "tom": "Lá menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "enérgico",
+    "sofisticado",
+    "noturno",
+    "hipnótico"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/mulher-jovem-e-estilosa-danca-animada-em/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 506873841,
+   "doc": "# Gold on the Water\n\n**slug:** `mulher-jovem-e-estilosa-danca-animada-em`  ·  **solicitação:** Mulher jovem e estilosa dança animada em uma festa noturna à beira da piscina em frente a uma vila moderna de luxo. A atmosfera é de celebração sofisticada com iluminação cênica, reflexos na água e público dançando ao fundo. ## Trilha e som - Musica: True · Electronic/Tech House / Deep House · ~126 bpm · A minor - Instrumentacao: Sub bass, Four-on-the-floor kick, Hi-hats, Vocal feminino processado, Synth plucks - Mood/energia: Enérgico, sofisticado, noturno · alta - SFX: Riser synth, Downshifter - Estrutura: Intro vocal/groove 00:00-00:15, build-up 00:16-00:29, drop e clímax 00:30-00:47 - Mixagem: Música masterizada e vocal em primeiro plano; ambiência fundida · sincronia: Alta sintonia de movimento corporal e iluminação com a bateria e drop **Prompt de musica (Suno/Udio):** ``` Upbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere. ``` Negativo: `Acoustic instruments, slow tempo, lo-fi, distorted rock, chaotic noise, cheesy EDM brass`\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/mulher-jovem-e-estilosa-danca-animada-em`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Gold on the Water\n\n\n\n**slug:** `mulher-jovem-e-estilosa-danca-animada-em`  ·  **criado:** 2026-08-28T12:01:55-03:00\n\n**solicitação:** Mulher jovem e estilosa dança animada em uma festa noturna à beira da piscina em frente a uma vila moderna de luxo. A atmosfera é de celebração sofisticada com iluminação cênica, reflexos na água e público dançando ao fundo. ## Trilha e som - Musica: True · Electronic/Tech House / Deep House · ~126 bpm · A minor - Instrumentacao: Sub bass, Four-on-the-floor kick, Hi-hats, Vocal feminino processado, Synth plucks - Mood/energia: Enérgico, sofisticado, noturno · alta - SFX: Riser synth, Downshifter - Estrutura: Intro vocal/groove 00:00-00:15, build-up 00:16-00:29, drop e clímax 00:30-00:47 - Mixagem: Música masterizada e vocal em primeiro plano; ambiência fundida · sincronia: Alta sintonia de movimento corporal e iluminação com a bateria e drop **Prompt de musica (Suno/Udio):** ``` Upbeat modern tech house track, 126 BPM, deep rolling bassline, punchy 4-on-the-floor drums, crisp hi-hats, hypnotic female vocal hook, energetic build-up into an explosive club drop, vibrant VIP party atmosphere. ``` Negativo: `Acoustic instruments, slow tempo, lo-fi, distorted rock, chaotic noise, cheesy EDM brass`\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** tech house / deep house vocal  ·  **BPM:** 126  ·  **Tom:** Lá menor\n- **Mood:** enérgico, sofisticado, noturno, hipnótico\n- **Instrumentação:** sub bass, four-on-the-floor kick, hi-hats, vocal feminino processado, synth plucks, riser synth, downshifter\n- **Voz:** \"feminina processada, hook hipnótico em primeiro plano, frases curtas quase faladas nos versos e melodia aberta no drop\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Upbeat modern tech house, 126 BPM, A minor. Deep rolling sub bassline, punchy four-on-the-floor kick, crisp shuffling hi-hats, hypnotic processed female vocal hook up front, bright synth plucks, tension riser building into an explosive clean club drop with a downshifter release. Sophisticated night pool party energy, vibrant VIP atmosphere, mastered loud and clean with the vocal in the foreground. No acoustic instruments, no slow tempo, no lo-fi, no distorted rock, no chaotic noise, no cheesy brass.\n\n**Estrutura:** intro (15s) · build-up 1 (15s) · drop 1 (18s) · verso 2 (27s) · build-up 2 (15s) · drop 2 (30s) · ponte (20s) · build final (8s) · drop final (24s) · outro (8s)\n\n**Letra** (origem: `gerada`, en):\n\n```\n[Intro]\nGold on the water, gold on my skin\nNight's wide open — dive in, dive in\n\n[Build-up 1]\nFeel the bass under the tide\nEvery heartbeat amplified\nHold it, hold it, don't let go\nLet the deep end steal the show\n\n[Drop 1 — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Verso 2]\nVelvet air and diamond spray\nWatch the city melt away\nBarefoot queen on marble shore\nEvery wave keeps asking more\n\n[Build-up 2]\nHold your breath — the floor's about to break\nOne more drop is all it takes\n\n[Drop 2 — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Ponte]\nFloating slow, the world goes quiet\nJust the glow... just the light...\n\n[Build final]\nDive in, dive in, dive in\n\n[Drop final — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Outro]\nGold on the water... gold on my skin\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #080c14, #1a3b5c, #d9823b, #f4e2c8, #4a90e2\n- **Params:** `{}`\n\n**Conceito:** Retrato com olhar DIRETO na lente — a anfitriã da festa encara quem chegou, confiante, com a piscina iluminada desfocada atrás. Escolha deliberada: a música é de presença e comando de pista, então a capa sustenta o olhar em vez de desviar. Luz de recorte âmbar vinda das luzes cênicas da vila, sombras azul-petróleo, reflexos de água tremulando na pele. Paleta Teal & Orange medida no facebook-11.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of a stylish young woman at a luxury night pool party, direct confident gaze straight into the lens, wet hair slicked back, elegant modern outfit, warm amber rim light from scenic party lights, rippling water reflections dancing on her skin, blurred glowing pool and modern villa behind her, shallow depth of field, palette deep navy #080c14, steel blue #1a3b5c, warm amber #d9823b, soft cream #f4e2c8, clean cinematic color grade, space for bold title at the bottom, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, extra limbs, deformed hands, closed eyes, oversaturated skin, daylight\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** 198s cobertos por 48 planos (média ~4.1s, variação 2.0–8.0s), ancorados no facebook-11 (126 bpm, 7.6 cortes/min medidos na média do reel): intro, versos e ponte seguram planos de 6 a 8 s exatamente na faixa medida, e os drops picam para ~20 cortes/min com corte cravado no four-on-the-floor. As seções antes do drop final somam 148s — o downshifter cai exatamente no corte para o plano 35 (148s) e o NÚCLEO MEDIDO da faixa (150–162s) recebe o ritmo mais picado do clipe: planos 36–40, cortes de 2.0–2.5s no beat, com o melhor plano (parede d'água dourada em slowmo, n36) abrindo o trecho — é esse bloco 150–162 que vira o Short. Depois do núcleo o drop final desacelera gradualmente (3.5–4s) até o outro de 14s. Recursos de montagem SÓ os medidos: corte seco, flash frame P&B, jump cut, slowmo/speedramp, câmera handheld dominante e o tilt de baixo para cima com braços erguidos. Riser da música casa com o build (shots 33-34) e o downshifter cai no corte para o plano 35.\n- **Params:** `{}`\n- **Shots:** 48  ·  **Duração total:** 198.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 8.0s | drone lento aproximando | Vila de luxo à noite, piscina brilhando como joia âmbar-azul, festa ao longe |\n| 2 | intro | 7.0s | close estático com drift sutil | Superfície da água em close, reflexos das luzes cênicas ondulando no groove |\n| 3 | build-up 1 | 6.0s | handheld médio, por trás | Ela de costas na borda da piscina, começa a se mover no beat, cidade escura ao fundo |\n| 4 | build-up 1 | 5.0s | close baixo, nível do chão | Só os pés no deck molhado, marcando o passo, luz tremulando na água do piso |\n| 5 | build-up 1 | 4.0s | tilt de baixo para cima | Multidão atrás dela erguendo os braços, feixes de luz no haze — plano medido do facebook-11 |\n| 6 | drop 1 | 3.0s | handheld largo, corte no beat | O drop estoura: ela dança no centro, luzes pulsando âmbar e azul |\n| 7 | drop 1 | 2.5s | slowmo lateral | Alguém salta na piscina, cortina de gotas contraluz dourada — slowmo medido |\n| 8 | drop 1 | 2.5s | médio handheld | Ela gira, cabelo voando, luz de recorte desenhando o movimento |\n| 9 | drop 1 | 3.0s | contra-plongée larga | Público pulando em sincronia com feixes varrendo o haze |\n| 10 | drop 1 | 2.5s | close em silhueta | Mãos erguidas em silhueta contra um feixe de luz |\n| 11 | drop 1 | 2.0s | jump cut, tripé fixo | Jump cut medido: mesmo movimento dela em dois pontos da borda da piscina |\n| 12 | drop 1 | 2.5s | larga do outro lado da piscina | Do lado oposto: os dançarinos duplicados no espelho d'água |\n| 13 | verso 2 | 7.0s | órbita lenta média | Verso respira: órbita ao redor dela caminhando pela borda, dedos roçando o ar |\n| 14 | verso 2 | 7.0s | médio com foco raso | A cabine do DJ em silhueta, bokeh de luzes, groove contido |\n| 15 | verso 2 | 6.5s | close rasante na água | Só uma mão deslizando na superfície da água, rastro de luz |\n| 16 | verso 2 | 6.5s | handheld suave, dois planos | Convidados rindo num daybed à beira da piscina, festa sofisticada respirando |\n| 17 | build-up 2 | 6.0s | tilt acompanhando subida | Ela sobe os degraus para o deck elevado, câmera sobe junto, haze adensando |\n| 18 | build-up 2 | 5.0s | push-in nas costas, ela vira de perfil | Push-in nas costas dela; ela vira o rosto de perfil quando as luzes intensificam |\n| 19 | build-up 2 | 4.0s | macro detalhe | Detalhe: brinco pegando a luz no ritmo dos hi-hats |\n| 20 | drop 2 | 3.0s | grua descendo frontal | Master frontal em grua descendo sobre a festa inteira no segundo drop |\n| 21 | drop 2 | 3.0s | slowmo médio | Ela joga o cabelo molhado para trás, arco de gotas douradas |\n| 22 | drop 2 | 3.0s | subaquática | Debaixo d'água: pernas dançando, bolhas, luz cênica atravessando a água |\n| 23 | drop 2 | 3.0s | close baixo rápido | Só os pés de novo, agora rápidos, chutando água rasa no deck |\n| 24 | drop 2 | 3.0s | larga baixa | Multidão quicando em sincronia, feixes inclinando sobre eles |\n| 25 | drop 2 | 3.0s | perfil com speedramp | Speedramp medido: o salto dela desacelera no ápice e acelera na queda |\n| 26 | drop 2 | 3.0s | flash frame P&B | Flash frame preto e branco da multidão no pico — recurso medido do facebook-11 |\n| 27 | drop 2 | 3.0s | reflexo invertido | Os dançarinos de cabeça para baixo no reflexo da piscina, uma ondulação quebra a imagem |\n| 28 | drop 2 | 3.0s | handheld médio, trio | Ela e dois dançarinos cravando uma sequência sincronizada |\n| 29 | drop 2 | 3.0s | macro na água pulsando | O sub-bass visível: superfície da piscina pulsando em anéis concêntricos |\n| 30 | ponte | 8.0s | top-down subindo devagar | A ponte esvazia: ela flutua de costas na piscina, braços abertos, luzes suaves |\n| 31 | ponte | 6.0s | close estático | Gotas na pele: só o ombro e a linha da clavícula, respiração calma |\n| 32 | ponte | 6.0s | larga parada | A festa em suspensão: vapor sobre a água quieta, silhuetas imóveis, um único feixe |\n| 33 | build final | 4.5s | médio frontal, subindo com ela | O riser: ela emerge da água pelos degraus, contraluz, água escorrendo |\n| 34 | build final | 3.5s | tilt de baixo para cima | Tilt medido de novo: braços da multidão subindo juntos com o riser |\n| 35 | drop final | 2.0s | grua master larga | O downshifter solta em 148s: a festa inteira explode no plano master |\n| 36 | drop final | 2.5s | slowmo frontal baixa | NÚCLEO 150-162 abre com o melhor plano do clipe: parede de água dourada chutada em direção à câmera |\n| 37 | drop final | 2.5s | handheld com whip pans | Núcleo: a sequência de dança mais dura dela, câmera chicoteando junto |\n| 38 | drop final | 2.0s | flash frame P&B | Núcleo: flash frame P&B do pico absoluto da festa congelado |\n| 39 | drop final | 2.5s | close fechado | Núcleo: só as mãos batendo palma acima das cabeças, cravadas no beat |\n| 40 | drop final | 2.5s | jump cut triplo | Núcleo fecha em 162s: jump cuts dela em três pontos ao redor da piscina, mesma pose de vitória |\n| 41 | drop final | 4.0s | subaquática com mergulho | Saída do núcleo: um mergulho atravessa o quadro subaquático, bolhas âmbar |\n| 42 | drop final | 3.5s | handheld médio frontal | Ela lidera a pista de cabeça jogada para trás e olhos fechados, o público espelhando os movimentos dela |\n| 43 | drop final | 3.5s | speedramp em giro | Speedramp medido: o giro final dela congela no ápice, saia e água aberta em leque, e chicoteia na retomada |\n| 44 | drop final | 4.0s | médio próximo, cabeça virada | Ela ri de cabeça virada, spray de água brilhando ao redor, pura celebração |\n| 45 | drop final | 3.5s | tilt de baixo para cima | Tilt medido pela última vez: braços erguidos contra os feixes no último refrão, gotas caindo pela luz |\n| 46 | drop final | 3.5s | handheld larga recuando | O último hit coletivo: câmera recua entre os corpos dançando e revela a festa inteira com a vila em chamas de luz |\n| 47 | outro | 6.0s | médio parado, de costas | O outro assenta: ela parada de costas na borda, respirando, olhando a água se aquietar e as luzes baixarem |\n| 48 | outro | 8.0s | drone afastando e subindo | Drone sobe e se afasta: a piscina vira uma joia âmbar-azul na noite, ondulações assentando |\n\n**Prompts (EN):**\n\n1. Slow aerial drone push-in at night toward a modern luxury villa with a large glowing swimming pool, scenic amber and teal party lights, small crowd silhouettes around the water, light haze, reflections shimmering, palette deep navy #080c14, steel blue #1a3b5c, warm amber #d9823b, cinematic clean grade, smooth slow camera movement\n2. Extreme close-up of a swimming pool water surface at night, amber and teal scenic lights reflecting and rippling gently, slow subtle camera drift, bokeh party lights in the background blur, palette #080c14 #d9823b #4a90e2, cinematic texture, calm hypnotic mood\n3. Medium handheld shot from behind of a stylish young woman standing at the edge of a glowing pool at night, elegant modern party outfit, she starts swaying to the beat, amber rim light outlining her silhouette, teal pool glow below, dark villa and haze beyond, palette #080c14 #1a3b5c #d9823b, cinematic energy building\n4. Low close-up framed so tightly that only bare feet and ankles are visible stepping rhythmically on a wet pool deck at night, amber and teal light reflections trembling in the thin water layer on the stone floor, droplets splashing softly, shallow depth of field, cinematic texture\n5. Low angle tilting up over a crowd of elegant partygoers raising their arms at a night pool party, powerful scenic light beams cutting through atmospheric haze above them, amber and steel blue palette #d9823b #1a3b5c, energy rising, handheld texture, cinematic\n6. Wide handheld shot of a stylish young woman dancing energetically at the center of a night pool party, scenic lights pulsing amber and teal, crowd dancing around her, water reflections flashing, modern luxury villa behind, palette #080c14 #d9823b #4a90e2, high energy club atmosphere, cinematic\n7. Slow motion side shot of a dancer leaping into a glowing pool at night, explosion of backlit golden water droplets frozen in the air, amber rim light, teal water glow, dark background, palette #d9823b #1a3b5c #080c14, cinematic high speed capture\n8. Medium handheld shot of a stylish young woman spinning while dancing at a night pool party, hair flying in an arc catching amber rim light, motion blur on the edges, teal pool glow behind, confident joyful energy, palette #d9823b #1a3b5c, cinematic\n9. Low wide angle of an elegant crowd jumping in sync at a night pool party, scenic light beams sweeping through haze overhead, water reflections strobing amber and blue on their clothes, modern villa terrace behind, palette #080c14 #d9823b #4a90e2, euphoric energy, cinematic\n10. Close-up framed so tightly that only raised hands and forearms are visible in silhouette against a powerful amber light beam cutting through haze at a night party, fingers spread, light flaring between them, palette #d9823b #080c14, cinematic contrast\n11. Fixed frame at a night pool party, a stylish young woman dancing the same sharp move at the pool edge, jump cut repositioning her along the glowing pool border, amber and teal lights, crowd blurred behind, playful editing energy, palette #d9823b #1a3b5c, cinematic\n12. Wide shot from across the pool at night, dancers and scenic amber lights perfectly mirrored on the water surface, symmetry between party and reflection, modern villa glowing warm behind, haze, palette #080c14 #1a3b5c #d9823b #f4e2c8, cinematic composition\n13. Slow orbiting medium shot around a stylish young woman walking gracefully along a glowing pool edge at night, relaxed confident stride, amber scenic lights and teal water glow sliding across the frame, blurred elegant guests behind, palette #d9823b #1a3b5c #080c14, smooth cinematic movement\n14. Medium shot of a DJ booth silhouette at a night pool party, hands moving over glowing equipment, heavy bokeh of amber and blue party lights behind, atmospheric haze, shallow depth of field, palette #080c14 #d9823b #4a90e2, sophisticated nightclub mood, cinematic\n15. Close-up framed so tightly that only a hand and wrist are visible skimming the glowing water surface of a pool at night, fingertips drawing a trail of rippling amber light, teal depths below, slow graceful motion, shallow depth of field, cinematic\n16. Gentle handheld medium shot of elegant young guests laughing and toasting on a poolside daybed at night, warm amber string lights, teal pool glow reflecting on their faces from below, relaxed sophisticated celebration, palette #d9823b #f4e2c8 #1a3b5c, cinematic warmth\n17. Camera tilting up following a stylish young woman climbing wide illuminated steps to an elevated pool deck at night, amber uplights on each step, haze thickening, teal glow of the pool falling behind her, anticipation building, palette #d9823b #1a3b5c #080c14, cinematic\n18. Slow push-in on the back of a stylish young woman standing on an elevated deck above a night pool party, she turns her head to a sharp profile as scenic lights intensify around her, amber rim light on her profile, crowd and teal pool below, rising tension, palette #d9823b #080c14, cinematic\n19. Macro close-up framed so tightly that only an earring and the jawline are visible, the metal catching flashes of amber and blue party light in rhythm, dark background with bokeh, shallow depth of field, luxurious detail, cinematic\n20. Wide symmetrical frontal master shot descending smoothly on a crane over a night pool party in full eruption, stylish woman dancing at center of the deck, crowd around the glowing pool, powerful floodlights creating rim light and haze beams, palette #080c14 #1a3b5c #d9823b #f4e2c8, bold commercial grade, cinematic\n21. Slow motion medium shot of a stylish young woman whipping her wet hair back at a night pool party, arc of golden backlit water droplets flying through the air, amber rim light, teal glow behind, palette #d9823b #1a3b5c, cinematic high speed\n22. Underwater shot in a glowing pool at night, legs kicking and dancing framed from the waist down, streams of bubbles, amber and teal scenic light rays refracting through the water surface above, dreamlike energetic motion, cinematic\n23. Fast low close-up framed so tightly that only feet and ankles are visible dancing quick steps through shallow water on a pool deck at night, splashes catching amber and blue strobing light, energetic rhythm, cinematic texture\n24. Low wide shot of an elegant crowd bouncing in perfect sync at a night pool party, scenic light beams tilting across them through haze, water reflections strobing on the deck, villa glowing behind, palette #080c14 #d9823b #4a90e2, euphoric collective energy, cinematic\n25. Profile medium shot of a stylish young woman jumping at the peak of a dance move at a night pool party, speed ramp slowing at the apex then accelerating on the landing, amber rim light freezing her silhouette against teal haze, dynamic cinematic energy\n26. High contrast black and white flash frame of an ecstatic crowd dancing at a night pool party, arms up, harsh direct flash aesthetic, grain, frozen mid-movement, raw documentary energy, monochrome\n27. Shot of the pool water surface at night showing dancers upside down in the amber-lit reflection, a ripple crossing and distorting the mirrored image, teal depths beneath, abstract and hypnotic, palette #1a3b5c #d9823b #080c14, cinematic\n28. Handheld medium shot of a stylish young woman flanked by two dancers hitting a synchronized routine on a pool deck at night, sharp coordinated moves, amber and teal scenic lights pulsing, haze, crowd cheering blurred behind, palette #d9823b #1a3b5c, commercial grade energy, cinematic\n29. Macro shot of a pool water surface at night pulsing with concentric rings driven by deep bass vibrations, amber and teal light bending across each wave, mesmerizing physical rhythm, shallow depth of field, cinematic detail\n30. Overhead top-down shot rising slowly above a stylish young woman floating on her back in a glowing pool at night, arms spread wide, dress fanning in the water, soft amber and teal light, gentle ripples radiating from her body, serene suspended moment, palette #1a3b5c #d9823b #f4e2c8, cinematic\n31. Still close-up framed so tightly that only a shoulder and collarbone are visible with water droplets catching amber light, skin rising and falling with calm breath, teal shadows, soft focus background of distant party lights, intimate quiet moment, cinematic\n32. Wide still shot of a night pool party in suspension, thin steam drifting over the calm glowing water, motionless elegant silhouettes around the edge, a single amber light beam cutting the haze, deep navy darkness beyond, palette #080c14 #d9823b, held breath before the storm, cinematic\n33. Medium frontal shot of a stylish young woman rising out of the glowing pool up the steps at night, water streaming off her, powerful amber backlight flaring behind her head, teal glow below, slow determined ascent as tension builds, palette #d9823b #1a3b5c #080c14, cinematic\n34. Low angle tilting up as an entire crowd raises their arms together at a night pool party, scenic light beams surging brighter through the haze above them, amber and blue palette intensifying, collective anticipation at maximum, cinematic\n35. Wide crane master shot of a night pool party exploding into its biggest moment, everyone jumping and dancing around the glowing pool, floodlights strobing amber and teal through haze, water splashing at the edges, luxury villa blazing with light behind, palette #080c14 #1a3b5c #d9823b #f4e2c8, euphoric climax, cinematic\n36. Low frontal slow motion shot of dancers kicking a wall of pool water toward the camera at night, thousands of golden backlit droplets filling the frame, silhouettes laughing behind the spray, amber flare, palette #d9823b #080c14, cinematic high speed\n37. Aggressive handheld medium shot with quick whip pans following a stylish young woman executing her sharpest dance combination on the pool deck, hair and fabric flying, amber and teal lights streaking across the frame, raw kinetic energy, palette #d9823b #1a3b5c, cinematic\n38. High contrast black and white flash frame freezing the absolute peak of a night pool party, crowd mid-air, water spray suspended, harsh flash aesthetic with heavy grain, raw celebratory chaos, monochrome\n39. Tight close-up framed so that only hands are visible clapping overhead against strobing amber and blue party lights, droplets flying off the palms on each clap, rhythmic energy, dark haze background, cinematic\n40. Fixed wide frame at a night pool party with jump cuts placing a stylish young woman in a triumphant dance pose at three different spots around the glowing pool, lights strobing amber and teal, crowd frozen mid-jump around her, playful editing rhythm, cinematic\n41. Underwater shot at night as a diver crosses the frame in a streak of bubbles, amber scenic light exploding through the surface above, teal depths, elegant chaos of legs and light rays at the edges, energetic dreamlike moment, cinematic\n42. Handheld medium frontal shot of a stylish young woman leading the dance floor at a night pool party, head thrown back with eyes closed in ecstatic release, one arm cutting the air on the beat while the crowd behind mirrors her moves, amber rim light on her throat and jaw, teal glow and haze around, palette #d9823b #1a3b5c #080c14, commanding cinematic energy\n43. Medium shot with a speed ramp of a stylish young woman in a final spin on the pool deck at night, motion freezing at the apex with her dress and a fan of water droplets suspended mid-air, then whipping back to full speed, amber rim light carving the frozen silhouette against teal haze, palette #d9823b #1a3b5c, dynamic cinematic energy\n44. Medium close shot of a stylish young woman laughing with her head turned away from camera in three-quarter back view, glittering water spray drifting around her like golden dust, amber rim light on her cheek and hair, teal party glow behind, joyful release, palette #d9823b #f4e2c8 #1a3b5c, cinematic\n45. Low angle tilting up over raised arms of an elegant crowd in the final chorus of a night pool party, water droplets falling through powerful amber and blue light beams in thick haze, hands opening and closing on the beat, palette #d9823b #1a3b5c #080c14, triumphant collective energy, cinematic\n46. Wide handheld shot pulling back through dancing bodies at a night pool party on the last collective hit, the frame opening to reveal the full glowing pool and the luxury villa blazing with amber light behind, floodlights strobing through haze, water splashing at the edges, palette #080c14 #1a3b5c #d9823b #f4e2c8, grand euphoric finale, cinematic\n47. Still medium shot from behind of a stylish young woman standing at the pool edge as the party winds down at night, shoulders rising and falling with calm breath, wet hair glinting amber, scenic lights dimming softly, ripples settling on the teal water, thinning haze, palette #080c14 #1a3b5c #d9823b, serene afterglow, cinematic\n48. Aerial drone shot pulling back and rising away from a night pool party winding down, the glowing pool shrinking into an amber and teal jewel set in the dark villa grounds, last ripples settling, haze thinning, city lights faint on the horizon, palette #080c14 #1a3b5c #d9823b, serene cinematic closing\n\n## Publicação (YouTube)\n\n- **Título:** Gold on the Water\n- **Tags:** tech house / deep house vocal, energico, sofisticado, noturno, hipnotico, sub bass, four-on-the-floor kick, hi-hats\n\n**Descrição:**\n\nUma noite inteira cabe em três minutos: festa à beira da piscina de uma vila moderna, luzes cênicas cortando o haze, reflexos dourados tremendo na água e uma mulher que comanda a pista sem pedir licença.\n\nO som é tech house de 126 bpm — sub grave rolando, bumbo em quatro, hi-hats cortantes e um vocal feminino processado que repete a promessa da noite: derramar ouro sobre a água e não deixar a luz apagar. A energia sobe em ondas: groove, tensão, drop, respiro, e um clímax final em que a festa inteira explode junto.\n\nNo clipe, a câmera vive dentro da celebração: planos na mão acompanhando a dança, mergulhos subaquáticos, água em câmera lenta virando poeira dourada no contraluz e a piscina espelhando tudo de cabeça para baixo. Entre um drop e outro, a ponte suspende o tempo — ela flutua de braços abertos na água quieta — antes da última explosão coletiva e do drone que se despede da piscina brilhando como uma joia na noite.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Upbeat modern tech house, 126 BPM, A minor. Deep rolling sub bassline, punchy four-on-the-floor kick, crisp shuffling hi-hats, hypnotic processed female vocal hook up front, bright synth plucks, tension riser building into an explosive clean club drop with a downshifter release. Sophisticated night pool party energy, vibrant VIP atmosphere, mastered loud and clean with the vocal in the foreground. No acoustic instruments, no slow tempo, no lo-fi, no distorted rock, no chaotic noise, no cheesy brass.",
+    "imagem": "album cover, centered dramatic portrait of a stylish young woman at a luxury night pool party, direct confident gaze straight into the lens, wet hair slicked back, elegant modern outfit, warm amber rim light from scenic party lights, rippling water reflections dancing on her skin, blurred glowing pool and modern villa behind her, shallow depth of field, palette deep navy #080c14, steel blue #1a3b5c, warm amber #d9823b, soft cream #f4e2c8, clean cinematic color grade, space for bold title at the bottom, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, extra limbs, deformed hands, closed eyes, oversaturated skin, daylight",
+    "conceito": "Retrato com olhar DIRETO na lente — a anfitriã da festa encara quem chegou, confiante, com a piscina iluminada desfocada atrás. Escolha deliberada: a música é de presença e comando de pista, então a capa sustenta o olhar em vez de desviar. Luz de recorte âmbar vinda das luzes cênicas da vila, sombras azul-petróleo, reflexos de água tremulando na pele. Paleta Teal & Orange medida no facebook-11.",
+    "tagline": "quando a piscina vira pista",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone lento aproximando",
+      "prompt": "Slow aerial drone push-in at night toward a modern luxury villa with a large glowing swimming pool, scenic amber and teal party lights, small crowd silhouettes around the water, light haze, reflections shimmering, palette deep navy #080c14, steel blue #1a3b5c, warm amber #d9823b, cinematic clean grade, smooth slow camera movement",
+      "alt": "Slow aerial drone push-in at night toward a modern luxury villa with a glowing swimming pool, warm amber and teal scenic lights reflecting on rippling water, empty deck chairs and palm shadows, light haze, deep navy and amber palette, cinematic clean grade"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "close estático com drift sutil",
+      "prompt": "Extreme close-up of a swimming pool water surface at night, amber and teal scenic lights reflecting and rippling gently, slow subtle camera drift, bokeh party lights in the background blur, palette #080c14 #d9823b #4a90e2, cinematic texture, calm hypnotic mood",
+      "alt": "Extreme close-up of dark rippling water at night reflecting warm amber and cool blue lights, gentle slow drift, soft bokeh in background, hypnotic calm cinematic mood"
+     },
+     {
+      "n": 3,
+      "secao": "build-up 1",
+      "camera": "handheld médio, por trás",
+      "prompt": "Medium handheld shot from behind of a stylish young woman standing at the edge of a glowing pool at night, elegant modern party outfit, she starts swaying to the beat, amber rim light outlining her silhouette, teal pool glow below, dark villa and haze beyond, palette #080c14 #1a3b5c #d9823b, cinematic energy building",
+      "alt": "Medium handheld shot from behind of a slender silhouette standing at the edge of a glowing pool at night, amber rim light tracing the outline, teal water glow, dark modern villa and haze beyond, gentle swaying motion, cinematic building energy"
+     },
+     {
+      "n": 4,
+      "secao": "build-up 1",
+      "camera": "close baixo, nível do chão",
+      "prompt": "Low close-up framed so tightly that only bare feet and ankles are visible stepping rhythmically on a wet pool deck at night, amber and teal light reflections trembling in the thin water layer on the stone floor, droplets splashing softly, shallow depth of field, cinematic texture",
+      "alt": "Low close-up of a wet stone pool deck at night, thin water layer trembling with amber and teal light reflections, small ripples spreading rhythmically, shallow depth of field, cinematic texture"
+     },
+     {
+      "n": 5,
+      "secao": "build-up 1",
+      "camera": "tilt de baixo para cima",
+      "prompt": "Low angle tilting up over a crowd of elegant partygoers raising their arms at a night pool party, powerful scenic light beams cutting through atmospheric haze above them, amber and steel blue palette #d9823b #1a3b5c, energy rising, handheld texture, cinematic",
+      "alt": "Low angle tilting up toward powerful amber and blue light beams cutting through atmospheric haze over a night pool party, raised arm silhouettes at the bottom edge of frame, energy rising, cinematic"
+     },
+     {
+      "n": 6,
+      "secao": "drop 1",
+      "camera": "handheld largo, corte no beat",
+      "prompt": "Wide handheld shot of a stylish young woman dancing energetically at the center of a night pool party, scenic lights pulsing amber and teal, crowd dancing around her, water reflections flashing, modern luxury villa behind, palette #080c14 #d9823b #4a90e2, high energy club atmosphere, cinematic",
+      "alt": "Wide handheld shot of dancing silhouettes at a night pool party, scenic lights pulsing amber and teal across rippling water, modern villa glowing behind, high energy atmosphere, cinematic"
+     },
+     {
+      "n": 7,
+      "secao": "drop 1",
+      "camera": "slowmo lateral",
+      "prompt": "Slow motion side shot of a dancer leaping into a glowing pool at night, explosion of backlit golden water droplets frozen in the air, amber rim light, teal water glow, dark background, palette #d9823b #1a3b5c #080c14, cinematic high speed capture",
+      "alt": "Slow motion side shot of a large splash erupting from a glowing pool at night, backlit golden water droplets suspended in the air against a dark background, amber and teal glow, cinematic high speed capture"
+     },
+     {
+      "n": 8,
+      "secao": "drop 1",
+      "camera": "médio handheld",
+      "prompt": "Medium handheld shot of a stylish young woman spinning while dancing at a night pool party, hair flying in an arc catching amber rim light, motion blur on the edges, teal pool glow behind, confident joyful energy, palette #d9823b #1a3b5c, cinematic",
+      "alt": "Medium handheld shot of a spinning dancer silhouette at a night pool party, hair arc catching amber rim light against teal glow, motion blur on the edges, joyful energy, cinematic"
+     },
+     {
+      "n": 9,
+      "secao": "drop 1",
+      "camera": "contra-plongée larga",
+      "prompt": "Low wide angle of an elegant crowd jumping in sync at a night pool party, scenic light beams sweeping through haze overhead, water reflections strobing amber and blue on their clothes, modern villa terrace behind, palette #080c14 #d9823b #4a90e2, euphoric energy, cinematic",
+      "alt": "Low wide angle of light beams sweeping through haze over a night pool party, jumping silhouettes along the bottom of frame, amber and blue reflections strobing on the water, euphoric energy, cinematic"
+     },
+     {
+      "n": 10,
+      "secao": "drop 1",
+      "camera": "close em silhueta",
+      "prompt": "Close-up framed so tightly that only raised hands and forearms are visible in silhouette against a powerful amber light beam cutting through haze at a night party, fingers spread, light flaring between them, palette #d9823b #080c14, cinematic contrast",
+      "alt": "Close-up of raised hand silhouettes against a powerful amber light beam cutting through haze at night, light flaring between spread fingers, strong cinematic contrast"
+     },
+     {
+      "n": 11,
+      "secao": "drop 1",
+      "camera": "jump cut, tripé fixo",
+      "prompt": "Fixed frame at a night pool party, a stylish young woman dancing the same sharp move at the pool edge, jump cut repositioning her along the glowing pool border, amber and teal lights, crowd blurred behind, playful editing energy, palette #d9823b #1a3b5c, cinematic",
+      "alt": "Fixed frame at a night pool party, a dancing silhouette repeating a sharp move at different points along the glowing pool edge, jump cut energy, amber and teal lights, crowd blur behind, cinematic"
+     },
+     {
+      "n": 12,
+      "secao": "drop 1",
+      "camera": "larga do outro lado da piscina",
+      "prompt": "Wide shot from across the pool at night, dancers and scenic amber lights perfectly mirrored on the water surface, symmetry between party and reflection, modern villa glowing warm behind, haze, palette #080c14 #1a3b5c #d9823b #f4e2c8, cinematic composition",
+      "alt": "Wide shot from across a glowing pool at night, amber lights and dancing silhouettes mirrored on the calm water surface, modern villa glowing warm behind, haze, symmetrical cinematic composition"
+     },
+     {
+      "n": 13,
+      "secao": "verso 2",
+      "camera": "órbita lenta média",
+      "prompt": "Slow orbiting medium shot around a stylish young woman walking gracefully along a glowing pool edge at night, relaxed confident stride, amber scenic lights and teal water glow sliding across the frame, blurred elegant guests behind, palette #d9823b #1a3b5c #080c14, smooth cinematic movement",
+      "alt": "Slow orbiting medium shot around an elegant silhouette walking along a glowing pool edge at night, amber lights and teal water glow sliding across the frame, blurred party lights behind, smooth cinematic movement"
+     },
+     {
+      "n": 14,
+      "secao": "verso 2",
+      "camera": "médio com foco raso",
+      "prompt": "Medium shot of a DJ booth silhouette at a night pool party, hands moving over glowing equipment, heavy bokeh of amber and blue party lights behind, atmospheric haze, shallow depth of field, palette #080c14 #d9823b #4a90e2, sophisticated nightclub mood, cinematic",
+      "alt": "Medium shot of glowing equipment lights and knobs in the dark, heavy amber and blue bokeh behind, atmospheric haze, shallow depth of field, sophisticated nightclub mood, cinematic"
+     },
+     {
+      "n": 15,
+      "secao": "verso 2",
+      "camera": "close rasante na água",
+      "prompt": "Close-up framed so tightly that only a hand and wrist are visible skimming the glowing water surface of a pool at night, fingertips drawing a trail of rippling amber light, teal depths below, slow graceful motion, shallow depth of field, cinematic",
+      "alt": "Close-up of a glowing pool surface at night with a soft trail of ripples drawing a line of amber light across teal water, slow graceful motion, shallow depth of field, cinematic"
+     },
+     {
+      "n": 16,
+      "secao": "verso 2",
+      "camera": "handheld suave, dois planos",
+      "prompt": "Gentle handheld medium shot of elegant young guests laughing and toasting on a poolside daybed at night, warm amber string lights, teal pool glow reflecting on their faces from below, relaxed sophisticated celebration, palette #d9823b #f4e2c8 #1a3b5c, cinematic warmth",
+      "alt": "Gentle handheld medium shot of a poolside daybed at night with warm amber string lights, glasses and cushions catching teal reflections from the glowing pool, relaxed sophisticated celebration atmosphere, cinematic warmth"
+     },
+     {
+      "n": 17,
+      "secao": "build-up 2",
+      "camera": "tilt acompanhando subida",
+      "prompt": "Camera tilting up following a stylish young woman climbing wide illuminated steps to an elevated pool deck at night, amber uplights on each step, haze thickening, teal glow of the pool falling behind her, anticipation building, palette #d9823b #1a3b5c #080c14, cinematic",
+      "alt": "Camera tilting up along wide illuminated steps to an elevated pool deck at night, amber uplights glowing on each step through thickening haze, teal pool glow below, rising anticipation, cinematic"
+     },
+     {
+      "n": 18,
+      "secao": "build-up 2",
+      "camera": "push-in nas costas, ela vira de perfil",
+      "prompt": "Slow push-in on the back of a stylish young woman standing on an elevated deck above a night pool party, she turns her head to a sharp profile as scenic lights intensify around her, amber rim light on her profile, crowd and teal pool below, rising tension, palette #d9823b #080c14, cinematic",
+      "alt": "Slow push-in toward an elegant silhouette standing on an elevated deck above a glowing night pool party, amber rim light intensifying around the figure, crowd lights and teal pool below, rising tension, cinematic"
+     },
+     {
+      "n": 19,
+      "secao": "build-up 2",
+      "camera": "macro detalhe",
+      "prompt": "Macro close-up framed so tightly that only an earring and the jawline are visible, the metal catching flashes of amber and blue party light in rhythm, dark background with bokeh, shallow depth of field, luxurious detail, cinematic",
+      "alt": "Macro close-up of a small metallic jewel catching rhythmic flashes of amber and blue party light against a dark bokeh background, shallow depth of field, luxurious cinematic detail"
+     },
+     {
+      "n": 20,
+      "secao": "drop 2",
+      "camera": "grua descendo frontal",
+      "prompt": "Wide symmetrical frontal master shot descending smoothly on a crane over a night pool party in full eruption, stylish woman dancing at center of the deck, crowd around the glowing pool, powerful floodlights creating rim light and haze beams, palette #080c14 #1a3b5c #d9823b #f4e2c8, bold commercial grade, cinematic",
+      "alt": "Wide symmetrical frontal crane shot descending over a glowing night pool surrounded by dancing silhouettes, powerful floodlights creating haze beams and rim light, amber and navy palette, bold commercial cinematic grade"
+     },
+     {
+      "n": 21,
+      "secao": "drop 2",
+      "camera": "slowmo médio",
+      "prompt": "Slow motion medium shot of a stylish young woman whipping her wet hair back at a night pool party, arc of golden backlit water droplets flying through the air, amber rim light, teal glow behind, palette #d9823b #1a3b5c, cinematic high speed",
+      "alt": "Slow motion shot of an arc of golden backlit water droplets flying through the night air over a glowing pool, amber rim light against teal glow, cinematic high speed capture"
+     },
+     {
+      "n": 22,
+      "secao": "drop 2",
+      "camera": "subaquática",
+      "prompt": "Underwater shot in a glowing pool at night, legs kicking and dancing framed from the waist down, streams of bubbles, amber and teal scenic light rays refracting through the water surface above, dreamlike energetic motion, cinematic",
+      "alt": "Underwater shot in a glowing pool at night, streams of silver bubbles rising through amber and teal light rays refracting from the surface above, dreamlike energetic motion, cinematic"
+     },
+     {
+      "n": 23,
+      "secao": "drop 2",
+      "camera": "close baixo rápido",
+      "prompt": "Fast low close-up framed so tightly that only feet and ankles are visible dancing quick steps through shallow water on a pool deck at night, splashes catching amber and blue strobing light, energetic rhythm, cinematic texture",
+      "alt": "Fast low close-up of shallow water on a stone pool deck at night being kicked into small splashes that catch amber and blue strobing light, energetic rhythm, cinematic texture"
+     },
+     {
+      "n": 24,
+      "secao": "drop 2",
+      "camera": "larga baixa",
+      "prompt": "Low wide shot of an elegant crowd bouncing in perfect sync at a night pool party, scenic light beams tilting across them through haze, water reflections strobing on the deck, villa glowing behind, palette #080c14 #d9823b #4a90e2, euphoric collective energy, cinematic",
+      "alt": "Low wide shot of bouncing silhouettes at a night pool party under tilting light beams and haze, water reflections strobing across the deck, villa glowing behind, euphoric collective energy, cinematic"
+     },
+     {
+      "n": 25,
+      "secao": "drop 2",
+      "camera": "perfil com speedramp",
+      "prompt": "Profile medium shot of a stylish young woman jumping at the peak of a dance move at a night pool party, speed ramp slowing at the apex then accelerating on the landing, amber rim light freezing her silhouette against teal haze, dynamic cinematic energy",
+      "alt": "Profile shot of a jumping dancer silhouette at the peak of a move over a glowing pool deck, speed ramp slowing at the apex, amber rim light against teal haze, dynamic cinematic energy"
+     },
+     {
+      "n": 26,
+      "secao": "drop 2",
+      "camera": "flash frame P&B",
+      "prompt": "High contrast black and white flash frame of an ecstatic crowd dancing at a night pool party, arms up, harsh direct flash aesthetic, grain, frozen mid-movement, raw documentary energy, monochrome",
+      "alt": "High contrast black and white flash frame of raised arm silhouettes and splashing water at a night party, harsh flash aesthetic, grain, frozen mid-movement, monochrome documentary energy"
+     },
+     {
+      "n": 27,
+      "secao": "drop 2",
+      "camera": "reflexo invertido",
+      "prompt": "Shot of the pool water surface at night showing dancers upside down in the amber-lit reflection, a ripple crossing and distorting the mirrored image, teal depths beneath, abstract and hypnotic, palette #1a3b5c #d9823b #080c14, cinematic",
+      "alt": "Shot of a glowing pool surface at night with amber party lights mirrored upside down, a slow ripple crossing and bending the reflection into abstract shapes, teal depths beneath, hypnotic cinematic mood"
+     },
+     {
+      "n": 28,
+      "secao": "drop 2",
+      "camera": "handheld médio, trio",
+      "prompt": "Handheld medium shot of a stylish young woman flanked by two dancers hitting a synchronized routine on a pool deck at night, sharp coordinated moves, amber and teal scenic lights pulsing, haze, crowd cheering blurred behind, palette #d9823b #1a3b5c, commercial grade energy, cinematic",
+      "alt": "Handheld medium shot of three dancing silhouettes hitting a synchronized routine on a pool deck at night, amber and teal lights pulsing through haze, blurred party glow behind, commercial grade energy, cinematic"
+     },
+     {
+      "n": 29,
+      "secao": "drop 2",
+      "camera": "macro na água pulsando",
+      "prompt": "Macro shot of a pool water surface at night pulsing with concentric rings driven by deep bass vibrations, amber and teal light bending across each wave, mesmerizing physical rhythm, shallow depth of field, cinematic detail",
+      "alt": "Macro shot of dark water pulsing with concentric rings under amber and teal light, each wave bending the reflections rhythmically, mesmerizing physical detail, cinematic"
+     },
+     {
+      "n": 30,
+      "secao": "ponte",
+      "camera": "top-down subindo devagar",
+      "prompt": "Overhead top-down shot rising slowly above a stylish young woman floating on her back in a glowing pool at night, arms spread wide, dress fanning in the water, soft amber and teal light, gentle ripples radiating from her body, serene suspended moment, palette #1a3b5c #d9823b #f4e2c8, cinematic",
+      "alt": "Overhead top-down shot rising slowly above a glowing pool at night, a white fabric shape floating with gentle ripples radiating outward, soft amber and teal light on calm water, serene suspended moment, cinematic"
+     },
+     {
+      "n": 31,
+      "secao": "ponte",
+      "camera": "close estático",
+      "prompt": "Still close-up framed so tightly that only a shoulder and collarbone are visible with water droplets catching amber light, skin rising and falling with calm breath, teal shadows, soft focus background of distant party lights, intimate quiet moment, cinematic",
+      "alt": "Still close-up of water droplets sliding down a smooth wet surface catching amber light against teal shadows, soft bokeh of distant party lights behind, intimate quiet cinematic moment"
+     },
+     {
+      "n": 32,
+      "secao": "ponte",
+      "camera": "larga parada",
+      "prompt": "Wide still shot of a night pool party in suspension, thin steam drifting over the calm glowing water, motionless elegant silhouettes around the edge, a single amber light beam cutting the haze, deep navy darkness beyond, palette #080c14 #d9823b, held breath before the storm, cinematic",
+      "alt": "Wide still shot of thin steam drifting over a calm glowing pool at night, a single amber light beam cutting through haze, deep navy darkness beyond, suspended quiet tension, cinematic"
+     },
+     {
+      "n": 33,
+      "secao": "build final",
+      "camera": "médio frontal, subindo com ela",
+      "prompt": "Medium frontal shot of a stylish young woman rising out of the glowing pool up the steps at night, water streaming off her, powerful amber backlight flaring behind her head, teal glow below, slow determined ascent as tension builds, palette #d9823b #1a3b5c #080c14, cinematic",
+      "alt": "Medium frontal shot of a silhouette rising out of a glowing pool up illuminated steps at night, water streaming down against a powerful amber backlight flare, teal glow below, slow determined ascent, cinematic tension"
+     },
+     {
+      "n": 34,
+      "secao": "build final",
+      "camera": "tilt de baixo para cima",
+      "prompt": "Low angle tilting up as an entire crowd raises their arms together at a night pool party, scenic light beams surging brighter through the haze above them, amber and blue palette intensifying, collective anticipation at maximum, cinematic",
+      "alt": "Low angle tilting up toward surging amber and blue light beams in thick haze over a night pool party, rows of raised arm silhouettes at the bottom of frame, collective anticipation at maximum, cinematic"
+     },
+     {
+      "n": 35,
+      "secao": "drop final",
+      "camera": "grua master larga",
+      "prompt": "Wide crane master shot of a night pool party exploding into its biggest moment, everyone jumping and dancing around the glowing pool, floodlights strobing amber and teal through haze, water splashing at the edges, luxury villa blazing with light behind, palette #080c14 #1a3b5c #d9823b #f4e2c8, euphoric climax, cinematic",
+      "alt": "Wide crane master shot of a glowing night pool surrounded by jumping silhouettes, floodlights strobing amber and teal through haze, splashes at the water edges, villa blazing with light behind, euphoric climax, cinematic"
+     },
+     {
+      "n": 36,
+      "secao": "drop final",
+      "camera": "slowmo frontal baixa",
+      "prompt": "Low frontal slow motion shot of dancers kicking a wall of pool water toward the camera at night, thousands of golden backlit droplets filling the frame, silhouettes laughing behind the spray, amber flare, palette #d9823b #080c14, cinematic high speed",
+      "alt": "Low frontal slow motion shot of a wall of golden backlit water spray erupting toward the camera at night, thousands of droplets filling the frame against amber flare and darkness, cinematic high speed"
+     },
+     {
+      "n": 37,
+      "secao": "drop final",
+      "camera": "handheld com whip pans",
+      "prompt": "Aggressive handheld medium shot with quick whip pans following a stylish young woman executing her sharpest dance combination on the pool deck, hair and fabric flying, amber and teal lights streaking across the frame, raw kinetic energy, palette #d9823b #1a3b5c, cinematic",
+      "alt": "Aggressive handheld shot with quick whip pans across a pool deck at night, a dancing silhouette with fabric flying, amber and teal lights streaking into motion trails, raw kinetic energy, cinematic"
+     },
+     {
+      "n": 38,
+      "secao": "drop final",
+      "camera": "flash frame P&B",
+      "prompt": "High contrast black and white flash frame freezing the absolute peak of a night pool party, crowd mid-air, water spray suspended, harsh flash aesthetic with heavy grain, raw celebratory chaos, monochrome",
+      "alt": "High contrast black and white flash frame of suspended water spray and mid-air silhouettes at a night party, harsh flash aesthetic, heavy grain, raw celebratory chaos, monochrome"
+     },
+     {
+      "n": 39,
+      "secao": "drop final",
+      "camera": "close fechado",
+      "prompt": "Tight close-up framed so that only hands are visible clapping overhead against strobing amber and blue party lights, droplets flying off the palms on each clap, rhythmic energy, dark haze background, cinematic",
+      "alt": "Tight close-up of clapping hand silhouettes overhead against strobing amber and blue lights, droplets flying off on each beat, dark haze background, rhythmic cinematic energy"
+     },
+     {
+      "n": 40,
+      "secao": "drop final",
+      "camera": "jump cut triplo",
+      "prompt": "Fixed wide frame at a night pool party with jump cuts placing a stylish young woman in a triumphant dance pose at three different spots around the glowing pool, lights strobing amber and teal, crowd frozen mid-jump around her, playful editing rhythm, cinematic",
+      "alt": "Fixed wide frame of a glowing night pool with jump cuts placing a triumphant dancing silhouette at three different spots around the water, amber and teal strobes, crowd silhouettes mid-jump, playful editing rhythm, cinematic"
+     },
+     {
+      "n": 41,
+      "secao": "drop final",
+      "camera": "subaquática com mergulho",
+      "prompt": "Underwater shot at night as a diver crosses the frame in a streak of bubbles, amber scenic light exploding through the surface above, teal depths, elegant chaos of legs and light rays at the edges, energetic dreamlike moment, cinematic",
+      "alt": "Underwater shot at night of a streak of bubbles crossing the frame, amber light exploding through the rippling surface above into teal depths, energetic dreamlike cinematic moment"
+     },
+     {
+      "n": 42,
+      "secao": "drop final",
+      "camera": "handheld médio frontal",
+      "prompt": "Handheld medium frontal shot of a stylish young woman leading the dance floor at a night pool party, head thrown back with eyes closed in ecstatic release, one arm cutting the air on the beat while the crowd behind mirrors her moves, amber rim light on her throat and jaw, teal glow and haze around, palette #d9823b #1a3b5c #080c14, commanding cinematic energy",
+      "alt": "Handheld medium shot of a dancing crowd at a night pool party mirroring the sharp moves of a central silhouette with head thrown back, amber rim light and teal haze, arms cutting the air in sync, commanding cinematic energy"
+     },
+     {
+      "n": 43,
+      "secao": "drop final",
+      "camera": "speedramp em giro",
+      "prompt": "Medium shot with a speed ramp of a stylish young woman in a final spin on the pool deck at night, motion freezing at the apex with her dress and a fan of water droplets suspended mid-air, then whipping back to full speed, amber rim light carving the frozen silhouette against teal haze, palette #d9823b #1a3b5c, dynamic cinematic energy",
+      "alt": "Medium shot with a speed ramp of a spinning dancer silhouette on a pool deck at night, fabric and a fan of water droplets freezing suspended at the apex then snapping back to speed, amber rim light against teal haze, dynamic cinematic energy"
+     },
+     {
+      "n": 44,
+      "secao": "drop final",
+      "camera": "médio próximo, cabeça virada",
+      "prompt": "Medium close shot of a stylish young woman laughing with her head turned away from camera in three-quarter back view, glittering water spray drifting around her like golden dust, amber rim light on her cheek and hair, teal party glow behind, joyful release, palette #d9823b #f4e2c8 #1a3b5c, cinematic",
+      "alt": "Medium close shot of glittering golden water spray drifting like dust through amber rim light at a night party, a turned silhouette with wet hair catching the glow at frame edge, teal lights behind, joyful cinematic release"
+     },
+     {
+      "n": 45,
+      "secao": "drop final",
+      "camera": "tilt de baixo para cima",
+      "prompt": "Low angle tilting up over raised arms of an elegant crowd in the final chorus of a night pool party, water droplets falling through powerful amber and blue light beams in thick haze, hands opening and closing on the beat, palette #d9823b #1a3b5c #080c14, triumphant collective energy, cinematic",
+      "alt": "Low angle tilting up toward amber and blue light beams in thick haze at night, raised arm silhouettes at the bottom of frame with water droplets falling through the light, triumphant collective energy, cinematic"
+     },
+     {
+      "n": 46,
+      "secao": "drop final",
+      "camera": "handheld larga recuando",
+      "prompt": "Wide handheld shot pulling back through dancing bodies at a night pool party on the last collective hit, the frame opening to reveal the full glowing pool and the luxury villa blazing with amber light behind, floodlights strobing through haze, water splashing at the edges, palette #080c14 #1a3b5c #d9823b #f4e2c8, grand euphoric finale, cinematic",
+      "alt": "Wide handheld shot pulling back between dancing silhouettes at a night pool party, frame opening to a full glowing pool and a villa blazing with amber light, floodlights strobing through haze, grand euphoric finale, cinematic"
+     },
+     {
+      "n": 47,
+      "secao": "outro",
+      "camera": "médio parado, de costas",
+      "prompt": "Still medium shot from behind of a stylish young woman standing at the pool edge as the party winds down at night, shoulders rising and falling with calm breath, wet hair glinting amber, scenic lights dimming softly, ripples settling on the teal water, thinning haze, palette #080c14 #1a3b5c #d9823b, serene afterglow, cinematic",
+      "alt": "Still medium shot of a silhouette standing at the edge of a glowing pool at night as lights dim, ripples settling on teal water, thinning haze and soft amber afterglow, serene cinematic calm"
+     },
+     {
+      "n": 48,
+      "secao": "outro",
+      "camera": "drone afastando e subindo",
+      "prompt": "Aerial drone shot pulling back and rising away from a night pool party winding down, the glowing pool shrinking into an amber and teal jewel set in the dark villa grounds, last ripples settling, haze thinning, city lights faint on the horizon, palette #080c14 #1a3b5c #d9823b, serene cinematic closing",
+      "alt": "Aerial drone shot pulling back and rising over a glowing amber and teal pool set in dark villa grounds at night, last ripples settling on the water, haze thinning, faint lights on the horizon, serene cinematic closing"
+     }
+    ]
+   },
    "nuvem": "subindo",
    "likes": 0,
    "docs": []
