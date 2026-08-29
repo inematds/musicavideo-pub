@@ -4,6 +4,583 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "estilo-ultra-realista-a-powerful-and-emo",
+   "mvd": "MVD#153",
+   "titulo": "Ele Vive",
+   "quando": "2026-08-29T00:49:26-03:00",
+   "solicitacao": "estilo ultra-realista A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.",
+   "genero": "worship cinematográfico moderno / pop-rock orquestral gospel",
+   "bpm": 74,
+   "tom": "Ré maior (sobe para Mi maior no refrão final)",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "reverente",
+    "emocionante",
+    "crescente",
+    "explosivo na ressurreição",
+    "paz no fim"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-ultra-realista-a-powerful-and-emo/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 687779133,
+   "doc": "# Ele Vive\n\n**slug:** `estilo-ultra-realista-a-powerful-and-emo`  ·  **solicitação:** estilo ultra-realista A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/estilo-ultra-realista-a-powerful-and-emo`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Ele Vive\n\n\n\n**slug:** `estilo-ultra-realista-a-powerful-and-emo`  ·  **criado:** 2026-08-29T00:49:26-03:00\n\n**solicitação:** estilo ultra-realista A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** worship cinematográfico moderno / pop-rock orquestral gospel  ·  **BPM:** 74  ·  **Tom:** Ré maior (sobe para Mi maior no refrão final)\n- **Mood:** reverente, emocionante, crescente, explosivo na ressurreição, paz no fim\n- **Instrumentação:** piano acústico, violão de aço dedilhado, cordas orquestrais, bateria de arena com tons graves, baixo elétrico, guitarra ambiente com delay, metais e tímpanos no refrão final, coro gospel de apoio\n- **Voz:** {\"presenca\": \"lead\", \"tipos\": [{\"genero\": \"masculina\", \"registro\": \"tenor, peito quente nos versos, misto forte no refrão\", \"entrega\": \"clara e emotiva, cresce de quase falado para belting controlado\"}, {\"genero\": \"coro\", \"registro\": \"coro gospel misto em harmonias abertas\", \"entrega\": \"entra na explosão 'Ele vive!' e no refrão final, respondendo o hook\"}]}\n- **Params:** `{\"duracao_s\": 180, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Cinematic modern worship anthem, 74 BPM, D major rising to E major for the final chorus. Opens within the first seconds with a soft, close male tenor voice over a single warm grand piano, then fingerpicked steel-string acoustic guitar joins. Verses intimate and clear, almost spoken, with sparse piano, subtle cello and a low ambient guitar swell. Chorus opens wide: deep arena drums with big floor toms, melodic electric bass, lush orchestral strings, delayed clean electric guitar, powerful clear male lead in strong mixed voice. Bridge drops to piano, low strings and a grieving whisper, then a full stop of silence followed by an explosive burst: timpani, brass, crash cymbals and a huge mixed gospel choir shouting the hook. Final chorus grand and high-energy with full orchestra, choir harmonies answering the lead, half-step key change. Outro strips back to piano and one voice, slow fade. Emotional, reverent, epic, polished worship production, wide stereo. Lyrics in pt-BR\n\n**Estrutura:** intro (6s) · verso 1 (28s) · refrao 1 (24s) · verso 2 (26s) · refrao 2 (24s) · ponte (cruz) (14s) · ponte (ele vive) (14s) · refrao final (30s) · outro (14s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\n(quase sussurrado, só piano)\nEle é o Caminho...\n\n[Verso 1]\nNuma noite sem barulho\nNum lugar que ninguém viu\nUma estrela rasgou o céu\nE parou onde Ele dormiu\nNão nasceu num palácio\nNasceu no chão de um curral\nEntre o feno e o frio\nO Rei de tudo, tão real\n\n[Refrão]\nEle é o Caminho, a Verdade e a Vida\nNinguém chega ao Pai senão por Ele\nEle é o Caminho, a Verdade e a Vida\nA luz que nenhuma noite apaga\nEle é o Caminho (Caminho)\nEle é a Verdade (Verdade)\nEle é a Vida, a Vida em mim\n\n[Verso 2]\nAndou por cima do mar\nQuando a fé quis afundar\nMandou o vento calar\nE o vento se calou\nCom dois peixes e cinco pães\nFez a multidão sentar\nSobrou pão em doze cestos\nPra quem não tinha o que dar\nO cego viu, o surdo ouviu\nE o que estava morto levantou\n\n[Refrão]\nEle é o Caminho, a Verdade e a Vida\nNinguém chega ao Pai senão por Ele\nEle é o Caminho, a Verdade e a Vida\nA luz que nenhuma noite apaga\nEle é o Caminho (Caminho)\nEle é a Verdade (Verdade)\nEle é a Vida, a Vida em mim\n\n[Ponte]\n(só piano e cordas graves, voz quase falada)\nMas o mundo que Ele amou\nPregou Ele numa cruz\nTrês horas de escuridão\nSobre o Filho, sobre a luz\n\"Está consumado\" — e o véu rasgou\nA terra tremeu... e tudo parou\n(silêncio)\nMas no terceiro dia\nA pedra rolou!\n\n[Ponte — explosão, coro]\nEle vive! Ele vive!\nA morte não pôde segurar\nEle vive! Ele vive!\nO túmulo está vazio, vem cantar\nEle vive!\n\n[Refrão Final]\n(coro gospel completo, um tom acima)\nEle é o Caminho, a Verdade e a Vida\nNinguém chega ao Pai senão por Ele\nEle é o Caminho, a Verdade e a Vida\nA luz que nenhuma noite apaga\nEle é o Caminho (Ele vive!)\nEle é a Verdade (Ele vive!)\nEle é a Vida, a Vida em mim\n\n[Outro]\n(só piano, voz suave, fade)\nEle é o Caminho...\nEle vive... e vive em mim\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #0b1220, #1e3a5f, #8fa9c4, #f2b544, #fff4d6, #3b2f2f\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Capa SEM pessoa nenhuma: o túmulo vazio ao amanhecer, com a pedra redonda rolada para o lado e uma luz dourada saindo de dentro para a névoa azul e fria da manhã. É a imagem do refrão explosivo ('Ele vive!') contada por objeto e luz, não por rosto — fotografia ultra-realista, escala de paisagem, horizonte no terço inferior. O céu pálido em cima fica vazio de propósito para receber o título no topo (tipografia do template) e a tagline logo acima dele. O contraste é a tese da música: frio e escuro na pedra, quente e vivo na porta aberta.\n\n**Prompt (EN):**\n\n> Ultra-realistic album cover photograph: a wide symbolic landscape of an ancient rock-cut tomb in a hillside of pale Judean limestone at dawn, the massive round stone rolled aside from the open doorway, warm golden light pouring out of the dark opening into cold blue morning mist, a folded white linen cloth faintly visible on the stone shelf inside, wild grass and olive trees silhouetted along the ridge, thin crepuscular rays through the haze, no people anywhere, horizon in the lower third, large empty pale sky above for a title, cinematic dramatic lighting, photorealistic 8k, sharp texture on the stone, subtle film grain, square 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, people, figures, faces, hands, cartoon, illustration, painting, 3d render, cross, blurry, oversaturated, neon, modern objects\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa medida em 294s; 68 planos, média 4.3s, variação mantida de 2s a 10s. Como o núcleo medido na onda está em 179-191s, a explosão 'Ele vive!' foi ancorada ali e as seções foram redistribuídas em volta dela: intro 0-8, verso 1 8-40, refrão 1 40-68, verso 2 68-100, refrão 2 100-128, interlúdio instrumental 128-144 (entrada em Jerusalém, ceia, Getsêmani — o tempo extra que o motor pôs entre o refrão 2 e a ponte), ponte da cruz 144-176 (com o silêncio e o túmulo selado), ponte 'Ele vive' 176-196, refrão final dobrado 196-268 (a segunda passagem, 240-268, é o coro com os planos-símbolo do clipe voltando em ritmo dobrado) e outro 268-294. Distribuição desigual de propósito: intro e versos seguram (6 a 10s, ~7 cortes/min), refrões picam (2.5 a 5s, 15-20 cortes/min), interlúdio e ponte da cruz voltam a segurar (4 a 6s), e o núcleo 179-191 é o trecho mais picado do clipe: 5 planos em 12s, média 2.4s (~25 cortes/min, no teto medido em 2-1m-views-ravenstrikex-mummy-wake), com o melhor plano do clipe fechando o núcleo em 188-191 (figura de branco no jardim, luz atravessando o tecido) — é esse trecho, 179-191, que vira o Short (pode esticar para 176-196 pegando o whiteout da pedra na frente). Montagem só com o que apareceu nas medições: corte seco no beat nos refrões; UM whiteout flash em 176-179 (pedra rolando → luz), como em olympus-ra-3; slowmo na estrela da intro, na pedra, nos jarros caindo; speedramp na corrida do amanhecer; corte para o preto no silêncio da ponte (172-176). Nada de dissolve nem whip pan. O primeiro refrão (40s) cai na troca de noite para amanhecer; o refrão final (196s) sobe junto com a modulação.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 68  ·  **Duração total:** 294.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 8s | estático → dolly-in lento (slowmo) | Céu noturno sobre as colinas da Judeia; uma estrela mais forte que todas sobre um vilarejo distante. A voz entra sussurrando 'Ele é o Caminho'. |\n| 2 | verso 1 | 10s | travelling lento à frente | Caminho de pedras subindo até uma gruta-estábulo; lá dentro, luz de lamparina; do céu, o feixe da estrela cai sobre a entrada. |\n| 3 | verso 1 | 8s | dolly-in interior, câmera baixa | Dentro do estábulo: a manjedoura de feno com um recém-nascido enrolado em linho; a mão de uma jovem mãe pousada na borda; boi e jumento respirando no frio. |\n| 4 | verso 1 | 8s | gimbal, plano geral de costas | Pastores ajoelhados na entrada da gruta, vistos de costas; dentro, o brilho quente; fora, o azul frio e a estrela em cima. |\n| 5 | verso 1 | 6s | estático, macro | 'O Rei de tudo, tão real': a mão minúscula do recém-nascido, saindo do linho, fecha em volta de um dedo adulto; só as mãos e o feno no quadro. |\n| 6 | refrao 1 | 5s | drone, avanço alto | O primeiro refrão abre o dia: o sol rasga o horizonte sobre as colinas e uma estrada de terra corta a paisagem — o Caminho. |\n| 7 | refrao 1 | 4s | steadicam baixo, acompanhando | Pés de sandália pisando a estrada de poeira, só pés e barra da túnica no quadro, sol rasante. |\n| 8 | refrao 1 | 4s | travelling de costas, contraluz | Um homem de túnica simples caminha à frente na estrada; um pequeno grupo o segue; sol na frente, rostos invisíveis. |\n| 9 | refrao 1 | 4s | gimbal, plano médio | Na encosta, uma mão estendida ergue alguém que está ajoelhado no chão — só mãos e antebraços no quadro. |\n| 10 | refrao 1 | 4s | orbital lento | Multidão sentada na relva de uma colina; uma figura de pé entre eles falando; golden hour. |\n| 11 | refrao 1 | 3s | dolly-in, contraluz | 'A luz que nenhuma noite apaga': sol atravessando folhas de oliveira ao vento, flare. |\n| 12 | refrao 1 | 4s | estático baixo, slowmo | 'Ele é a Vida': no rio Jordão, uma figura de costas emerge da água em câmera lenta, a água escorrendo do tecido, sol rasante na frente. |\n| 13 | verso 2 | 8s | drone → tilt down | Tempestade noturna no mar da Galileia: barco de madeira jogado pelas ondas e uma figura caminhando sobre a água em direção a ele. |\n| 14 | verso 2 | 7s | estático, plano geral | 'Mandou o vento calar': o mar vira espelho, o barco balança devagar, o céu abre no amanhecer. |\n| 15 | verso 2 | 6s | gimbal, close de mãos | Mãos partindo pão sobre uma cesta com cinco pães e dois peixes; só mãos e a cesta no quadro. |\n| 16 | verso 2 | 5s | drone, recuo | Milhares sentados em grupos numa encosta verde; cestos passando de mão em mão. |\n| 17 | verso 2 | 6s | estático, de dentro para fora | 'O que estava morto levantou': de dentro de um túmulo escuro, a porta aberta em contraluz; uma figura envolta em faixas de linho dá um passo para a luz. Prenúncio do túmulo vazio. |\n| 18 | refrao 2 | 4s | dolly-in, close de mãos | Mãos de um mendigo cobertas de poeira sendo tomadas por outra mão limpa; a poeira cai na luz. |\n| 19 | refrao 2 | 4s | gimbal, plano médio | Numa rua estreita de pedra, um homem que estava deitado numa esteira se levanta; a multidão recua; poeira nos feixes de luz. |\n| 20 | refrao 2 | 3.5s | travelling lateral | Crianças correndo em direção à figura na estrada, plano aberto, luz dourada. |\n| 21 | refrao 2 | 3.5s | orbital, de cima | Multidão na encosta vista de cima com as mãos erguidas ao pôr do sol. |\n| 22 | refrao 2 | 3s | estático, close | A mão de uma mulher toca a barra de uma túnica no meio da multidão; só a mão e a barra no quadro. |\n| 23 | refrao 2 | 3s | drone, avanço | A mesma estrada do refrão 1, agora cheia de gente seguindo ao pôr do sol. |\n| 24 | refrao 2 | 3s | estático, close de mãos | 'O cego viu': mãos cobertas de barro mergulham num tanque de pedra e a água limpa o barro na luz — Siloé. |\n| 25 | refrao 2 | 4s | dolly-in lento | As muralhas de Jerusalém ao longe sob céu dourado que começa a pesar — prepara o interlúdio e a ponte. |\n| 26 | interludio | 6s | gimbal baixo, acompanhando | Entrada em Jerusalém: cascos de um jumento pisando mantos e ramos de palmeira estendidos na rua de pedra; ramos balançando nas bordas do quadro; portão da cidade à frente. |\n| 27 | interludio | 5s | dolly-in lento, close | A ceia: um cálice de barro com vinho escuro e um pão partido sobre a mesa comprida, lamparinas, uma mão pousada ao lado do cálice; só a mesa e a mão. |\n| 28 | interludio | 5s | dolly-in lento, noturno | Getsêmani: olival à noite sob a lua; ao longe, uma figura ajoelhada sob uma oliveira; entre os troncos, tochas se aproximando. |\n| 29 | ponte (cruz) | 6s | estático, close | 'Mas o mundo que Ele amou': uma coroa de espinhos trançada sobre um degrau de pedra, um manto púrpura amassado ao lado, luz dura do meio-dia. |\n| 30 | ponte (cruz) | 5s | câmera baixa, acompanhando lento | 'Pregou Ele numa cruz': uma viga de madeira pesada é arrastada pela rua de pedra; só a viga, a poeira e os pés borrados da multidão. |\n| 31 | ponte (cruz) | 5s | estático lento, timelapse | 'Três horas de escuridão': ao meio-dia o céu sobre Jerusalém escurece, nuvens engolem o sol, o vento levanta poeira. |\n| 32 | ponte (cruz) | 4s | drone lento, muito distante | Três cruzes numa colina árida, silhuetas mínimas contra o céu negro-roxo, vistas de muito longe, vento. |\n| 33 | ponte (cruz) | 4s | dolly-in, interior | 'O véu rasgou': a cortina pesada do templo se rasga de cima a baixo, poeira cai do teto, a terra treme — corta para o preto no silêncio. |\n| 34 | ponte (cruz) | 4s | estático, plano geral (silêncio) | Depois do preto: o túmulo selado na madrugada azul, a pedra enorme no lugar, uma tocha quase apagada, nada se move. |\n| 35 | ponte (cruz) | 4s | macro, estático | 'Mas no terceiro dia': a primeira luz cinza nas colinas; no chão diante da pedra, pedrinhas começam a tremer — a terra vai se mover. |\n| 36 | ponte (ele vive) | 3s | estático → whiteout (slowmo) | 'A pedra rolou!': a pedra enorme rola do túmulo e uma luz explode de dentro — whiteout flash na virada (176-179). |\n| 37 | ponte (ele vive) | 2s | dolly-in rápido (NÚCLEO 179-181) | Dentro do túmulo vazio: as faixas de linho dobradas sobre a pedra, luz entrando. |\n| 38 | ponte (ele vive) | 2s | gimbal, plano médio, slowmo (NÚCLEO 181-183) | Mulheres na entrada do túmulo: as mãos sobem, os jarros de barro caem no chão em câmera lenta. |\n| 39 | ponte (ele vive) | 2.5s | drone, subida rápida (NÚCLEO 183-185.5) | O sol explode sobre as colinas e o vale inteiro se enche de ouro. |\n| 40 | ponte (ele vive) | 2.5s | travelling rápido, speedramp (NÚCLEO 185.5-188) | Um homem corre pelo olival ao amanhecer, contraluz, alegria — a notícia se espalha. |\n| 41 | ponte (ele vive) | 3s | orbital, contraluz (NÚCLEO 188-191 — melhor plano do clipe) | 'Ele vive!': no jardim ao amanhecer, uma figura de túnica branca em pé, de costas para a câmera, luz atravessando o tecido; à frente, uma mulher se vira. |\n| 42 | ponte (ele vive) | 2.5s | drone, avanço rápido | 'O túmulo está vazio, vem cantar': gente correndo pela estrada em direção ao túmulo na luz do amanhecer, poeira dourada. |\n| 43 | ponte (ele vive) | 2.5s | drone, espiral subindo | A pedra rolada vista de cima: o drone sobe em espiral do túmulo aberto, a luz dourada derramando pela encosta. |\n| 44 | refrao final | 4s | drone, avanço | Amanhecer no mar da Galileia; centenas na praia de frente para o sol com os braços erguidos — o refrão final sobe junto com a modulação. |\n| 45 | refrao final | 3s | gimbal baixo, rápido | Pés correndo na estrada de poeira ao nascer do sol — a estrada do refrão 1, agora acelerada. |\n| 46 | refrao final | 3s | orbital | O túmulo vazio visto de fora, pedra ao lado, gente reunida em volta na luz. |\n| 47 | refrao final | 3s | dolly-in, contraluz | Mãos erguidas contra o sol, poeira e flare; só mãos e antebraços no quadro. |\n| 48 | refrao final | 3s | travelling, plano geral | A figura de branco caminha na praia; homens saltam de um barco e correm até ele, contraluz. |\n| 49 | refrao final | 2.5s | gimbal, close de mãos | Numa mesa rústica, mãos partem o pão diante de dois viajantes — só mãos, pão e a mesa. |\n| 50 | refrao final | 2.5s | drone, plano geral | O vilarejo da estrela (plano 1) agora em plena luz do dia — o clipe volta ao começo. |\n| 51 | refrao final | 3s | gimbal, close | Galhos de oliveira cheios de luz, vento forte, flare — a luz que nenhuma noite apaga. |\n| 52 | refrao final | 3s | travelling de costas | A estrada até o horizonte, o sol no fim dela; uma figura caminha em direção à luz, de costas. |\n| 53 | refrao final | 3s | drone, recuo alto | Recuo épico: a terra inteira — lago, colinas, estrada e o túmulo — sob o nascer do sol. |\n| 54 | refrao final | 3s | dolly-in, close de mãos | 'Ele vive!' (Tomé): uma mão hesitante se aproxima de uma palma aberta marcada por uma cicatriz, num quarto escuro cortado por feixes de luz; só as mãos. |\n| 55 | refrao final | 3s | gimbal, plano médio, slowmo | A pesca milagrosa: uma rede transbordando de peixes prateados é puxada por cima da borda do barco, água e sol. |\n| 56 | refrao final | 3s | drone baixo, rasante | 'Ele é a Vida': trigal dourado ondulando ao vento, o drone voa rasante sobre as espigas contra o sol. |\n| 57 | refrao final | 2.5s | gimbal, contra-plongée, contraluz | No alto de um monte, a figura de branco de costas abre os braços contra o céu em chamas, a túnica batendo no vento; silhuetas abaixo. |\n| 58 | refrao final | 2.5s | estático, close | Uma mão toca a superfície áspera da pedra rolada, na luz da manhã; só a mão e a pedra. |\n| 59 | refrao final | 4s | dolly-in lento (coro — símbolos voltando) | A gruta-estábulo do começo agora ao amanhecer: a manjedoura vazia, o feno na luz que entra pela porta. |\n| 60 | refrao final | 4s | drone rápido, rasante (coro) | O mar da Galileia espelhado com o sol já alto, um barco de vela; o drone rasga a superfície em velocidade. |\n| 61 | refrao final | 4s | gimbal, plano geral (coro) | A encosta da multidão agora vazia, vento na relva, cestos de vime deixados no chão na luz dourada. |\n| 62 | refrao final | 4s | drone, avanço lento (coro) | A colina das três cruzes, agora em manhã dourada e céu azul limpo — cruzes vazias, vento. |\n| 63 | refrao final | 4s | dolly-in, interior (coro) | O salão do templo: a luz do sol entra pelo rasgo da cortina de cima a baixo, poeira brilhando no feixe. |\n| 64 | refrao final | 4s | gimbal baixo, contra-plongée (coro) | A rua estreita de pedra cheia de gente com as mãos erguidas, poeira nos feixes de luz entre as paredes. |\n| 65 | refrao final | 4s | drone, subida épica para o sol (coro) | Do túmulo aberto o drone sobe direto para o sol; a luz dourada engole o quadro. |\n| 66 | outro | 8s | dolly-in lento | A porta do túmulo vazio na manhã quieta; linho dobrado, luz suave, pássaros — a paz do outro. |\n| 67 | outro | 8s | travelling lento, câmera baixa | 'E vive em mim': a estrada de poeira vazia na manhã, uma única linha de pegadas seguindo em direção ao sol, vento levantando a poeira devagar. |\n| 68 | outro | 10s | estático, fade | O céu do plano 1 ao amanhecer: a estrela se dissolve na luz do sol que nasce. Fade para o branco. |\n\n**Prompts (EN):**\n\n1. Ultra-realistic cinematic night sky over dark rolling hills of ancient Judea, one star burning far brighter than all others directly above a distant cluster of small stone houses, thin drifting clouds faintly lit silver, very slow dolly-in toward the star, deep blue-black palette with a single warm point of light, photorealistic, 35mm film grain, no people\n2. Ultra-realistic slow forward travelling shot along a rocky path at night toward a small cave stable cut into a hillside, warm oil-lamp glow spilling from the low entrance, a soft beam of starlight falling on the doorway, cold blue moonlit rocks and dry grass, breath of mist in the cold air, photorealistic cinematic film still, no people\n3. Ultra-realistic slow dolly-in inside a dim stone stable at night, a wooden manger filled with hay holding a newborn wrapped in rough linen, a young woman's hand resting gently on the edge of the manger, an oil lamp casting warm amber light, an ox and a donkey breathing visible mist in the cold behind, dust floating in the lamp glow, photorealistic cinematic, shallow depth of field, 35mm\n4. Ultra-realistic wide shot from behind three shepherds in rough wool cloaks kneeling at the entrance of a cave stable at night, warm golden light glowing from inside, cold blue night and a brilliant star high above the hillside, a few sheep standing in the dark, slow gimbal push forward, photorealistic cinematic, faces not visible\n5. Ultra-realistic macro close-up of a newborn's tiny hand emerging from rough linen and closing around one weathered adult finger, hay and lamp glow behind, warm amber light, dust floating, photorealistic cinematic, very shallow depth of field, no faces\n6. Ultra-realistic aerial drone shot flying forward over golden Judean hills at sunrise, the sun breaking over the ridge with a strong lens flare, a long dusty dirt road cutting through the valley toward the light, morning haze in the low ground, olive groves, photorealistic cinematic, no people\n7. Ultra-realistic low steadicam tracking shot framed so tightly that only worn leather sandals and the dusty hem of a rough linen robe are visible, feet walking steadily along a dirt road at sunrise, golden dust kicked up backlit by the low sun, photorealistic cinematic, 35mm\n8. Ultra-realistic travelling shot from behind a man in a simple rough robe walking ahead along a dusty road at sunrise, a small group of followers in earth-toned garments walking behind him, all backlit by the low sun so faces are not visible, long shadows on the road, golden haze, photorealistic cinematic\n9. Ultra-realistic medium shot framed so tightly that only two hands and forearms are visible, one hand reaching down and firmly clasping a dusty kneeling hand and lifting it up, grassy hillside and golden morning light behind, dust in the air, photorealistic cinematic, shallow depth of field\n10. Ultra-realistic slow orbital shot around a green hillside where hundreds of people in earth-toned robes sit on the grass listening, a single figure in a pale robe standing among them, golden hour light, sea of Galilee glittering far below, photorealistic cinematic, wide lens, faces small and indistinct\n11. Ultra-realistic close dolly-in through olive tree branches moving in the wind, strong sunlight bursting between the silver-green leaves with a warm lens flare, dust motes glowing, photorealistic cinematic, shallow depth of field, no people\n12. Ultra-realistic slow-motion low shot at the Jordan river, a figure in a wet linen robe rising out of the water seen from behind, water cascading from the fabric and hair backlit by the low sun, spray glowing gold, reeds along the bank, photorealistic cinematic, face not visible\n13. Ultra-realistic drone shot descending over a stormy lake at night, a small wooden fishing boat tossed by black waves under lightning, rain and spray, a lone figure in a pale robe walking calmly across the surface of the water toward the boat, seen from far above and behind, photorealistic cinematic, dramatic moonlight through torn clouds\n14. Ultra-realistic static wide shot of a lake becoming perfectly glassy as the storm dies, a wooden fishing boat rocking gently in the calm, torn clouds parting to reveal the first pale light of dawn, mist rising off the still water, photorealistic cinematic, no people visible\n15. Ultra-realistic close-up framed so tightly that only two weathered hands are visible breaking a round flatbread over a woven basket holding five small loaves and two dried fish, crumbs falling in warm afternoon light, grass and robe hems blurred behind, photorealistic cinematic, shallow depth of field\n16. Ultra-realistic drone shot pulling back and rising over a green hillside where thousands of people in earth-toned robes sit in groups on the grass, woven baskets being passed from hand to hand, late afternoon golden light, a lake beyond, photorealistic cinematic, wide lens, faces indistinct\n17. Ultra-realistic static shot from inside a dark rock-cut tomb looking out through the bright open doorway, a figure wrapped in loose strips of linen taking one slow step forward into the blinding daylight, seen only as a backlit silhouette, dust glowing in the beam, photorealistic cinematic, no face visible\n18. Ultra-realistic close dolly-in framed so tightly that only hands are visible, a pair of dusty cracked hands held open being taken by a steady clean hand, dust falling from the fingers into a beam of sunlight, stone street blurred behind, photorealistic cinematic, shallow depth of field\n19. Ultra-realistic gimbal medium shot in a narrow stone street, a man rising to his feet from a woven mat and standing upright with trembling legs, the crowd around him stepping back in awe, dust swirling in strong shafts of sunlight between the walls, photorealistic cinematic, 35mm\n20. Ultra-realistic lateral travelling shot of several children in simple tunics running joyfully along a dusty road toward a figure in a pale robe waiting with open arms, golden afternoon light, dust in the air, wide shot, photorealistic cinematic, faces small and indistinct\n21. Ultra-realistic high orbital shot over a hillside crowd of hundreds in earth-toned robes raising their hands toward a golden sunset, long shadows, warm haze, photorealistic cinematic, wide lens, faces indistinct\n22. Ultra-realistic static close-up framed so tightly that only a woman's hand and the dusty hem of a pale linen robe are visible, fingers reaching through the crowd to touch the fabric, dust and warm light, photorealistic cinematic, shallow depth of field\n23. Ultra-realistic drone shot flying forward over a dusty road at sunset now crowded with hundreds of people in earth-toned robes walking in the same direction toward the low sun, long shadows, golden dust haze, photorealistic cinematic, no faces visible\n24. Ultra-realistic close-up of two hands covered in wet clay plunging into the clear water of a stone pool, the mud clouding and washing away in a shaft of warm sunlight, ripples and droplets glowing, photorealistic cinematic, shallow depth of field, no faces\n25. Ultra-realistic slow dolly-in toward the distant stone walls and towers of ancient Jerusalem on a hill under a heavy golden sky turning bronze, dust in the air, olive groves in the foreground, photorealistic cinematic, no people\n26. Ultra-realistic low gimbal tracking shot of a donkey's hooves stepping over cloaks and palm branches spread across a stone street, more palm fronds waving at the edges of the frame, dust in warm afternoon light, an ancient city gate ahead, photorealistic cinematic, no faces visible\n27. Ultra-realistic slow dolly-in on a clay cup of dark red wine and a broken round bread on a long rough wooden table lit by several oil lamps, one weathered hand resting quietly beside the cup, warm amber light and deep shadows, photorealistic cinematic, shallow depth of field, no faces\n28. Ultra-realistic slow dolly-in through an olive grove at night under cold moonlight, a lone figure kneeling far away beneath a gnarled olive tree seen only as a dark shape, and a line of torch flames approaching in the distance between the trunks, mist on the ground, photorealistic cinematic, no faces\n29. Ultra-realistic static close-up of a crown of woven thorns lying on a worn stone step, a crumpled purple cloth beside it, harsh midday light and dust, deep shadows, photorealistic cinematic, shallow depth of field, no people\n30. Ultra-realistic low tracking shot of a heavy rough wooden beam being dragged slowly over worn stone pavement, dust rising, blurred earth-toned robes and feet of a crowd at the edges of the frame, harsh dim light, photorealistic cinematic, no faces\n31. Ultra-realistic static wide shot of the sky over ancient Jerusalem at midday turning dark as heavy black-purple clouds swallow the sun, sudden dusk light on the stone city, wind lifting dust across the rooftops, slow ominous timelapse feel, photorealistic cinematic, no people\n32. Ultra-realistic slow drone shot from very far away of a barren rocky hill with three small wooden crosses silhouetted against a black-purple stormy sky, dust and wind, no detail visible on the crosses, distant and solemn, photorealistic cinematic, no faces\n33. Ultra-realistic dolly-in inside a dim ancient temple hall, a massive heavy woven curtain in deep red and blue tearing from top to bottom, dust falling from the stone ceiling as the ground trembles, oil lamps swaying, then the light fading to black, photorealistic cinematic, no people\n34. Ultra-realistic static wide shot of a rock-cut tomb sealed by a massive round stone in cold blue pre-dawn light, a single torch guttering low beside the entrance, dead stillness, thin mist on the ground, photorealistic cinematic, no people\n35. Ultra-realistic macro shot of small pebbles and dust on the rocky ground at the foot of a great sealed tomb stone beginning to tremble and jump as the earth shakes, first grey-gold light of dawn touching the rock, photorealistic cinematic, shallow depth of field, no people\n36. Ultra-realistic static shot at first light of a massive round stone slowly rolling away from the entrance of a rock-cut tomb, brilliant golden-white light bursting out of the opening and flooding the frame until it whites out, dust and mist blown outward, slow motion, photorealistic cinematic, no people\n37. Ultra-realistic quick dolly-in inside an empty rock-cut tomb, folded white linen cloths lying neatly on a stone shelf, golden dawn light pouring through the open doorway, dust glowing in the beam, photorealistic cinematic, no people\n38. Ultra-realistic slow-motion gimbal medium shot of two women in dark head coverings at the entrance of an open tomb at dawn, their hands flying up in shock and joy, clay jars slipping from their arms and falling toward the ground, golden light blasting from the doorway behind them, photorealistic cinematic, faces turned away from camera\n39. Ultra-realistic drone shot rising fast over Judean hills as the sun bursts over the ridge, the whole valley flooding with golden light, mist burning off, strong lens flare, photorealistic cinematic, no people\n40. Ultra-realistic fast travelling shot beside a young man in a simple tunic sprinting through an olive grove at dawn, backlit by the rising sun, dust and leaves flying, speed ramp, joyful urgency, photorealistic cinematic, face not visible\n41. Ultra-realistic slow orbital shot in a garden at sunrise, a figure in a white linen robe standing with back to the camera, sunlight glowing through the fabric and haloing the outline, a woman in a dark head covering a few steps away turning toward him, mist and flare, photorealistic cinematic, faces not visible\n42. Ultra-realistic fast drone shot flying forward over a dirt road at sunrise where dozens of people in earth-toned robes are running in the same direction toward a hillside tomb glowing with light, golden dust rising, long shadows, photorealistic cinematic, faces not visible\n43. Ultra-realistic drone shot spiraling upward directly above an open rock-cut tomb at sunrise, the great round stone rolled aside, golden light pouring out of the doorway across the hillside and into blue morning mist, photorealistic cinematic, no people\n44. Ultra-realistic drone shot flying forward over the shore of a lake at sunrise, hundreds of people in earth-toned robes standing on the beach facing the rising sun with arms raised, golden light on the water, mist, photorealistic cinematic, wide lens, faces indistinct\n45. Ultra-realistic fast low gimbal tracking shot framed so tightly that only sandaled feet and a flying robe hem are visible, running along a dusty road at sunrise, golden dust exploding backlit, photorealistic cinematic\n46. Ultra-realistic orbital shot around the open rock-cut tomb at morning, the great stone rolled aside, a crowd in earth-toned robes gathered around the entrance in golden light, dust and mist, photorealistic cinematic, faces indistinct\n47. Ultra-realistic dolly-in framed so tightly that only many raised hands and forearms are visible against the blazing sun, dust glowing in the light, strong lens flare, photorealistic cinematic, shallow depth of field\n48. Ultra-realistic wide travelling shot along a lake shore at sunrise, a figure in a white robe walking on the sand, several men leaping from a wooden fishing boat into the shallow water and running toward him, all backlit by the sun, spray and golden haze, photorealistic cinematic, faces not visible\n49. Ultra-realistic close-up framed so tightly that only hands are visible breaking a round bread over a rough wooden table lit by a single oil lamp and the last light of dusk from a window, crumbs falling, two clay cups, photorealistic cinematic, shallow depth of field\n50. Ultra-realistic drone shot of the same small cluster of stone houses on the Judean hills from the opening, now in bright morning daylight, smoke rising from a hearth, olive trees, blue sky, photorealistic cinematic, no people\n51. Ultra-realistic gimbal close-up moving through olive branches thrashing in strong wind, sunlight bursting through silver-green leaves, warm lens flare, glowing dust, photorealistic cinematic, no people\n52. Ultra-realistic travelling shot from behind a lone figure in a pale robe walking along a dirt road that stretches straight to the horizon, the sun sitting at the end of the road, golden haze and long shadow, photorealistic cinematic, face not visible\n53. Ultra-realistic drone shot pulling back and rising high over the whole landscape at sunrise, a shining lake, green and golden hills, a dirt road winding through the valley and a small open rock tomb glowing on a hillside, mist and flare, epic scale, photorealistic cinematic, no people\n54. Ultra-realistic close dolly-in framed so tightly that only hands are visible, a hesitant trembling hand reaching toward an open palm marked by a small healed scar, shafts of morning light cutting through a dim stone room, dust glowing, photorealistic cinematic, shallow depth of field, no faces\n55. Ultra-realistic slow-motion medium shot of a fishing net bursting with silver fish being hauled over the wooden gunwale of a boat, water pouring and spraying in golden sunrise light, ropes straining, photorealistic cinematic, hands only, no faces\n56. Ultra-realistic low drone shot skimming fast over a golden wheat field rippling in the wind toward the low sun, ears of wheat glowing backlit, dust and seeds in the air, lens flare, photorealistic cinematic, no people\n57. Ultra-realistic low-angle shot from behind a figure in a white robe standing on a hilltop opening both arms wide against a blazing golden sky, the robe blown by strong wind, small dark silhouettes of followers on the slope below, strong lens flare, photorealistic cinematic, face not visible\n58. Ultra-realistic static close-up of a single hand resting on the rough sunlit surface of the great round tomb stone rolled aside, warm morning light and dust, fingers spread on the rock, photorealistic cinematic, shallow depth of field, no faces\n59. Ultra-realistic slow dolly-in into a small stone cave stable at dawn, the wooden manger now empty with hay lit by golden morning light streaming through the low doorway, dust floating, photorealistic cinematic, no people\n60. Ultra-realistic fast low drone shot skimming over the glassy surface of a lake in bright morning sun, a single wooden sailing boat ahead, light glittering on the water, distant green hills, photorealistic cinematic, no people visible\n61. Ultra-realistic gimbal wide shot of a green hillside now empty, wind moving through the grass, a few woven baskets left on the slope in golden morning light, a lake glittering below, photorealistic cinematic, no people\n62. Ultra-realistic drone shot flying slowly toward a barren rocky hill with three small empty wooden crosses against a clear blue morning sky, warm golden light, wind moving dry grass, peaceful and bright, photorealistic cinematic, no people\n63. Ultra-realistic dolly-in inside a dim ancient temple hall, brilliant sunlight pouring through a tall tear running top to bottom in a massive red and blue woven curtain, dust glowing in the beam on the stone floor, photorealistic cinematic, no people\n64. Ultra-realistic low-angle gimbal shot in a narrow stone street packed with people in earth-toned robes raising their hands toward strong shafts of sunlight between the walls, dust swirling in the beams, photorealistic cinematic, faces not visible\n65. Ultra-realistic drone shot rising from the open doorway of a rock-cut tomb straight up into the blazing morning sun, golden light flooding the frame, hills and mist falling away below, strong lens flare, epic scale, photorealistic cinematic, no people\n66. Ultra-realistic very slow dolly-in toward the open doorway of an empty rock-cut tomb in soft quiet morning light, folded white linen just visible inside, wild grass and small flowers at the entrance moving in a light breeze, birds in the distance, photorealistic cinematic, no people\n67. Ultra-realistic slow low travelling shot along an empty dirt road in soft morning light, a single line of footprints in the dust leading toward the low sun on the horizon, a light breeze lifting thin dust, golden haze, photorealistic cinematic, no people\n68. Ultra-realistic static wide shot of the dawn sky over the same Judean hills from the opening, the last bright star slowly dissolving into the growing golden light of the rising sun, thin clouds warming from blue to gold, gentle fade toward white, photorealistic cinematic, no people\n\n## Publicação (YouTube)\n\n- **Título:** Ele Vive\n- **Tags:** reverente, emocionante, crescente, explosivo na ressurreicao, piano acustico, violao de aco dedilhado, cordas orquestrais\n\n**Descrição:**\n\nUma canção de adoração que conta a vida de Jesus do começo ao fim: a estrela sobre um curral, a estrada de poeira, o mar que se acalma, o pão que sobra, a cruz e a pedra que rola. A letra é em português e o refrão diz a única coisa que precisa ser lembrada: Ele é o Caminho, a Verdade e a Vida.\n\nO som começa pequeno, só piano e violão com uma voz quase sussurrada, e cresce a cada seção até virar orquestra, bateria de arena e coro gospel. Na ponte tudo cai em silêncio para a cruz — e depois explode em 'Ele vive!', o momento mais alto da música, que o refrão final leva um tom acima.\n\nO clipe é uma narrativa ultra-realista filmada como se fosse um longa: noite em Belém, amanhecer na Galileia, a multidão na encosta, a escuridão do meio-dia sobre Jerusalém e o túmulo vazio na luz da manhã. Não há cantor em cena; quem carrega a história são a paisagem, as mãos, a luz e a pedra rolada.\n\nTermina como começou, em paz: o mesmo céu, a mesma estrela, agora dissolvida no sol que nasce.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Cinematic modern worship anthem, 74 BPM, D major rising to E major for the final chorus. Opens within the first seconds with a soft, close male tenor voice over a single warm grand piano, then fingerpicked steel-string acoustic guitar joins. Verses intimate and clear, almost spoken, with sparse piano, subtle cello and a low ambient guitar swell. Chorus opens wide: deep arena drums with big floor toms, melodic electric bass, lush orchestral strings, delayed clean electric guitar, powerful clear male lead in strong mixed voice. Bridge drops to piano, low strings and a grieving whisper, then a full stop of silence followed by an explosive burst: timpani, brass, crash cymbals and a huge mixed gospel choir shouting the hook. Final chorus grand and high-energy with full orchestra, choir harmonies answering the lead, half-step key change. Outro strips back to piano and one voice, slow fade. Emotional, reverent, epic, polished worship production, wide stereo. Lyrics in pt-BR",
+    "imagem": "Ultra-realistic album cover photograph: a wide symbolic landscape of an ancient rock-cut tomb in a hillside of pale Judean limestone at dawn, the massive round stone rolled aside from the open doorway, warm golden light pouring out of the dark opening into cold blue morning mist, a folded white linen cloth faintly visible on the stone shelf inside, wild grass and olive trees silhouetted along the ridge, thin crepuscular rays through the haze, no people anywhere, horizon in the lower third, large empty pale sky above for a title, cinematic dramatic lighting, photorealistic 8k, sharp texture on the stone, subtle film grain, square 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, people, figures, faces, hands, cartoon, illustration, painting, 3d render, cross, blurry, oversaturated, neon, modern objects",
+    "conceito": "Capa SEM pessoa nenhuma: o túmulo vazio ao amanhecer, com a pedra redonda rolada para o lado e uma luz dourada saindo de dentro para a névoa azul e fria da manhã. É a imagem do refrão explosivo ('Ele vive!') contada por objeto e luz, não por rosto — fotografia ultra-realista, escala de paisagem, horizonte no terço inferior. O céu pálido em cima fica vazio de propósito para receber o título no topo (tipografia do template) e a tagline logo acima dele. O contraste é a tese da música: frio e escuro na pedra, quente e vivo na porta aberta.",
+    "tagline": "A morte não pôde segurar",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "estático → dolly-in lento (slowmo)",
+      "prompt": "Ultra-realistic cinematic night sky over dark rolling hills of ancient Judea, one star burning far brighter than all others directly above a distant cluster of small stone houses, thin drifting clouds faintly lit silver, very slow dolly-in toward the star, deep blue-black palette with a single warm point of light, photorealistic, 35mm film grain, no people",
+      "alt": "Ultra-realistic night sky over silhouetted desert hills, a single very bright star above a far dark village, faint silver clouds drifting, slow push-in toward the star, deep blue palette with one warm point of light, photorealistic film still, no people"
+     },
+     {
+      "n": 2,
+      "secao": "verso 1",
+      "camera": "travelling lento à frente",
+      "prompt": "Ultra-realistic slow forward travelling shot along a rocky path at night toward a small cave stable cut into a hillside, warm oil-lamp glow spilling from the low entrance, a soft beam of starlight falling on the doorway, cold blue moonlit rocks and dry grass, breath of mist in the cold air, photorealistic cinematic film still, no people",
+      "alt": "Ultra-realistic slow travelling along a stony night path toward a cave entrance in a hillside, warm lamp light glowing inside, a pale beam of starlight touching the doorway, cold blue rocks, drifting mist, photorealistic, no people"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "dolly-in interior, câmera baixa",
+      "prompt": "Ultra-realistic slow dolly-in inside a dim stone stable at night, a wooden manger filled with hay holding a newborn wrapped in rough linen, a young woman's hand resting gently on the edge of the manger, an oil lamp casting warm amber light, an ox and a donkey breathing visible mist in the cold behind, dust floating in the lamp glow, photorealistic cinematic, shallow depth of field, 35mm",
+      "alt": "Ultra-realistic slow dolly-in on a wooden manger filled with hay inside a dim stone stable, a bundle of rough linen cloth resting in the hay lit by a single oil lamp, warm amber glow, mist of animal breath in the cold air behind, dust floating in the light, photorealistic, no faces"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "gimbal, plano geral de costas",
+      "prompt": "Ultra-realistic wide shot from behind three shepherds in rough wool cloaks kneeling at the entrance of a cave stable at night, warm golden light glowing from inside, cold blue night and a brilliant star high above the hillside, a few sheep standing in the dark, slow gimbal push forward, photorealistic cinematic, faces not visible",
+      "alt": "Ultra-realistic wide night shot of a cave stable entrance glowing warm gold from inside, three wool cloaks and shepherd staffs seen only as dark silhouettes kneeling at the doorway, cold blue hillside, a brilliant star above, slow push forward, photorealistic, no faces"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "estático, macro",
+      "prompt": "Ultra-realistic macro close-up of a newborn's tiny hand emerging from rough linen and closing around one weathered adult finger, hay and lamp glow behind, warm amber light, dust floating, photorealistic cinematic, very shallow depth of field, no faces",
+      "alt": "Ultra-realistic macro close-up of rough linen folds in a hay-filled wooden manger lit by a single oil lamp, warm amber glow, dust floating in the light, photorealistic, no people"
+     },
+     {
+      "n": 6,
+      "secao": "refrao 1",
+      "camera": "drone, avanço alto",
+      "prompt": "Ultra-realistic aerial drone shot flying forward over golden Judean hills at sunrise, the sun breaking over the ridge with a strong lens flare, a long dusty dirt road cutting through the valley toward the light, morning haze in the low ground, olive groves, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic aerial drone shot over golden hills at sunrise, sun cresting the ridge with lens flare, a long dirt road leading toward the light through morning haze, photorealistic, no people"
+     },
+     {
+      "n": 7,
+      "secao": "refrao 1",
+      "camera": "steadicam baixo, acompanhando",
+      "prompt": "Ultra-realistic low steadicam tracking shot framed so tightly that only worn leather sandals and the dusty hem of a rough linen robe are visible, feet walking steadily along a dirt road at sunrise, golden dust kicked up backlit by the low sun, photorealistic cinematic, 35mm",
+      "alt": "Ultra-realistic low tracking shot along a dusty dirt road at sunrise, golden dust rising backlit by the low sun, small pebbles and footprints in the sand, photorealistic, no people"
+     },
+     {
+      "n": 8,
+      "secao": "refrao 1",
+      "camera": "travelling de costas, contraluz",
+      "prompt": "Ultra-realistic travelling shot from behind a man in a simple rough robe walking ahead along a dusty road at sunrise, a small group of followers in earth-toned garments walking behind him, all backlit by the low sun so faces are not visible, long shadows on the road, golden haze, photorealistic cinematic",
+      "alt": "Ultra-realistic backlit travelling shot of several dark silhouettes walking away along a dusty road into a rising sun, long shadows stretching toward the camera, golden haze, photorealistic, no faces"
+     },
+     {
+      "n": 9,
+      "secao": "refrao 1",
+      "camera": "gimbal, plano médio",
+      "prompt": "Ultra-realistic medium shot framed so tightly that only two hands and forearms are visible, one hand reaching down and firmly clasping a dusty kneeling hand and lifting it up, grassy hillside and golden morning light behind, dust in the air, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close shot of a wooden walking staff planted in golden grass on a hillside at morning, wind moving the grass, warm light and soft haze, photorealistic, no people"
+     },
+     {
+      "n": 10,
+      "secao": "refrao 1",
+      "camera": "orbital lento",
+      "prompt": "Ultra-realistic slow orbital shot around a green hillside where hundreds of people in earth-toned robes sit on the grass listening, a single figure in a pale robe standing among them, golden hour light, sea of Galilee glittering far below, photorealistic cinematic, wide lens, faces small and indistinct",
+      "alt": "Ultra-realistic slow orbital drone shot over a green hillside dotted with hundreds of small seated silhouettes in earth tones, golden hour light, a lake glittering far below, photorealistic, no faces visible"
+     },
+     {
+      "n": 11,
+      "secao": "refrao 1",
+      "camera": "dolly-in, contraluz",
+      "prompt": "Ultra-realistic close dolly-in through olive tree branches moving in the wind, strong sunlight bursting between the silver-green leaves with a warm lens flare, dust motes glowing, photorealistic cinematic, shallow depth of field, no people",
+      "alt": "Ultra-realistic close-up of olive leaves swaying in wind, sun flaring through the branches, glowing dust, photorealistic, no people"
+     },
+     {
+      "n": 12,
+      "secao": "refrao 1",
+      "camera": "estático baixo, slowmo",
+      "prompt": "Ultra-realistic slow-motion low shot at the Jordan river, a figure in a wet linen robe rising out of the water seen from behind, water cascading from the fabric and hair backlit by the low sun, spray glowing gold, reeds along the bank, photorealistic cinematic, face not visible",
+      "alt": "Ultra-realistic slow-motion close shot of river water breaking and cascading in backlit golden sunlight, spray and droplets glowing, reeds along the bank, photorealistic, no people"
+     },
+     {
+      "n": 13,
+      "secao": "verso 2",
+      "camera": "drone → tilt down",
+      "prompt": "Ultra-realistic drone shot descending over a stormy lake at night, a small wooden fishing boat tossed by black waves under lightning, rain and spray, a lone figure in a pale robe walking calmly across the surface of the water toward the boat, seen from far above and behind, photorealistic cinematic, dramatic moonlight through torn clouds",
+      "alt": "Ultra-realistic drone shot descending over a stormy lake at night, a small empty wooden boat rocking in black waves under lightning, and a calm glowing trail of still water cutting straight across the rough surface toward the boat, photorealistic cinematic, no people"
+     },
+     {
+      "n": 14,
+      "secao": "verso 2",
+      "camera": "estático, plano geral",
+      "prompt": "Ultra-realistic static wide shot of a lake becoming perfectly glassy as the storm dies, a wooden fishing boat rocking gently in the calm, torn clouds parting to reveal the first pale light of dawn, mist rising off the still water, photorealistic cinematic, no people visible",
+      "alt": "Ultra-realistic wide shot of a glassy calm lake at dawn, an empty wooden boat drifting slowly, clouds parting to pale light, mist over the water, photorealistic, no people"
+     },
+     {
+      "n": 15,
+      "secao": "verso 2",
+      "camera": "gimbal, close de mãos",
+      "prompt": "Ultra-realistic close-up framed so tightly that only two weathered hands are visible breaking a round flatbread over a woven basket holding five small loaves and two dried fish, crumbs falling in warm afternoon light, grass and robe hems blurred behind, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close-up of a woven basket on green grass holding five round flatbreads and two small fish, warm afternoon light, shallow depth of field, photorealistic, no people"
+     },
+     {
+      "n": 16,
+      "secao": "verso 2",
+      "camera": "drone, recuo",
+      "prompt": "Ultra-realistic drone shot pulling back and rising over a green hillside where thousands of people in earth-toned robes sit in groups on the grass, woven baskets being passed from hand to hand, late afternoon golden light, a lake beyond, photorealistic cinematic, wide lens, faces indistinct",
+      "alt": "Ultra-realistic drone shot rising over a green hillside dotted with thousands of small seated silhouettes in groups, golden afternoon light, a lake beyond, photorealistic, no faces"
+     },
+     {
+      "n": 17,
+      "secao": "verso 2",
+      "camera": "estático, de dentro para fora",
+      "prompt": "Ultra-realistic static shot from inside a dark rock-cut tomb looking out through the bright open doorway, a figure wrapped in loose strips of linen taking one slow step forward into the blinding daylight, seen only as a backlit silhouette, dust glowing in the beam, photorealistic cinematic, no face visible",
+      "alt": "Ultra-realistic static shot from inside a dark rock-cut tomb looking out through a bright open doorway, loose strips of linen lying on the floor in the beam of daylight, dust glowing, photorealistic, no people"
+     },
+     {
+      "n": 18,
+      "secao": "refrao 2",
+      "camera": "dolly-in, close de mãos",
+      "prompt": "Ultra-realistic close dolly-in framed so tightly that only hands are visible, a pair of dusty cracked hands held open being taken by a steady clean hand, dust falling from the fingers into a beam of sunlight, stone street blurred behind, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close-up of a clay begging bowl on worn stone pavement, dust settling into a beam of sunlight, coins scattered, photorealistic, no people"
+     },
+     {
+      "n": 19,
+      "secao": "refrao 2",
+      "camera": "gimbal, plano médio",
+      "prompt": "Ultra-realistic gimbal medium shot in a narrow stone street, a man rising to his feet from a woven mat and standing upright with trembling legs, the crowd around him stepping back in awe, dust swirling in strong shafts of sunlight between the walls, photorealistic cinematic, 35mm",
+      "alt": "Ultra-realistic gimbal shot in a narrow stone street, an empty woven mat left lying on the pavement, dust swirling in shafts of sunlight between the walls, blurred robes moving away at the edges, photorealistic, no faces"
+     },
+     {
+      "n": 20,
+      "secao": "refrao 2",
+      "camera": "travelling lateral",
+      "prompt": "Ultra-realistic lateral travelling shot of several children in simple tunics running joyfully along a dusty road toward a figure in a pale robe waiting with open arms, golden afternoon light, dust in the air, wide shot, photorealistic cinematic, faces small and indistinct",
+      "alt": "Ultra-realistic lateral travelling shot of small silhouettes running along a dusty road toward the sun, golden dust rising, wide shot, photorealistic, no faces"
+     },
+     {
+      "n": 21,
+      "secao": "refrao 2",
+      "camera": "orbital, de cima",
+      "prompt": "Ultra-realistic high orbital shot over a hillside crowd of hundreds in earth-toned robes raising their hands toward a golden sunset, long shadows, warm haze, photorealistic cinematic, wide lens, faces indistinct",
+      "alt": "Ultra-realistic high orbital drone shot over hundreds of small dark silhouettes on a hillside with arms raised toward a golden sunset, long shadows, photorealistic, no faces"
+     },
+     {
+      "n": 22,
+      "secao": "refrao 2",
+      "camera": "estático, close",
+      "prompt": "Ultra-realistic static close-up framed so tightly that only a woman's hand and the dusty hem of a pale linen robe are visible, fingers reaching through the crowd to touch the fabric, dust and warm light, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close-up of the frayed hem of a pale linen robe brushing over dusty ground, warm light, dust motes, photorealistic, no faces"
+     },
+     {
+      "n": 23,
+      "secao": "refrao 2",
+      "camera": "drone, avanço",
+      "prompt": "Ultra-realistic drone shot flying forward over a dusty road at sunset now crowded with hundreds of people in earth-toned robes walking in the same direction toward the low sun, long shadows, golden dust haze, photorealistic cinematic, no faces visible",
+      "alt": "Ultra-realistic drone shot over a dusty road at sunset filled with hundreds of small silhouettes walking toward the sun, long shadows, golden haze, photorealistic, no faces"
+     },
+     {
+      "n": 24,
+      "secao": "refrao 2",
+      "camera": "estático, close de mãos",
+      "prompt": "Ultra-realistic close-up of two hands covered in wet clay plunging into the clear water of a stone pool, the mud clouding and washing away in a shaft of warm sunlight, ripples and droplets glowing, photorealistic cinematic, shallow depth of field, no faces",
+      "alt": "Ultra-realistic close-up of clear water rippling in an ancient stone pool, a cloud of mud dissolving in a shaft of sunlight, droplets glowing, photorealistic, no people"
+     },
+     {
+      "n": 25,
+      "secao": "refrao 2",
+      "camera": "dolly-in lento",
+      "prompt": "Ultra-realistic slow dolly-in toward the distant stone walls and towers of ancient Jerusalem on a hill under a heavy golden sky turning bronze, dust in the air, olive groves in the foreground, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic slow push toward ancient stone walls on a distant hill under a heavy bronze sky, olive trees in the foreground, photorealistic, no people"
+     },
+     {
+      "n": 26,
+      "secao": "interludio",
+      "camera": "gimbal baixo, acompanhando",
+      "prompt": "Ultra-realistic low gimbal tracking shot of a donkey's hooves stepping over cloaks and palm branches spread across a stone street, more palm fronds waving at the edges of the frame, dust in warm afternoon light, an ancient city gate ahead, photorealistic cinematic, no faces visible",
+      "alt": "Ultra-realistic low tracking shot over palm branches and earth-toned cloaks spread across a worn stone street leading to an ancient city gate, dust in warm afternoon light, photorealistic, no people"
+     },
+     {
+      "n": 27,
+      "secao": "interludio",
+      "camera": "dolly-in lento, close",
+      "prompt": "Ultra-realistic slow dolly-in on a clay cup of dark red wine and a broken round bread on a long rough wooden table lit by several oil lamps, one weathered hand resting quietly beside the cup, warm amber light and deep shadows, photorealistic cinematic, shallow depth of field, no faces",
+      "alt": "Ultra-realistic slow push-in on a clay cup of dark wine and broken bread on a long wooden table in oil lamp light, warm amber glow, deep shadows, photorealistic, no people"
+     },
+     {
+      "n": 28,
+      "secao": "interludio",
+      "camera": "dolly-in lento, noturno",
+      "prompt": "Ultra-realistic slow dolly-in through an olive grove at night under cold moonlight, a lone figure kneeling far away beneath a gnarled olive tree seen only as a dark shape, and a line of torch flames approaching in the distance between the trunks, mist on the ground, photorealistic cinematic, no faces",
+      "alt": "Ultra-realistic slow push through a moonlit olive grove at night, gnarled trunks and mist, a line of torch flames approaching in the far distance, photorealistic, no people"
+     },
+     {
+      "n": 29,
+      "secao": "ponte (cruz)",
+      "camera": "estático, close",
+      "prompt": "Ultra-realistic static close-up of a crown of woven thorns lying on a worn stone step, a crumpled purple cloth beside it, harsh midday light and dust, deep shadows, photorealistic cinematic, shallow depth of field, no people",
+      "alt": "Ultra-realistic close-up of a crown of woven thorns on a worn stone step in harsh midday light, dust and deep shadows, photorealistic, no people"
+     },
+     {
+      "n": 30,
+      "secao": "ponte (cruz)",
+      "camera": "câmera baixa, acompanhando lento",
+      "prompt": "Ultra-realistic low tracking shot of a heavy rough wooden beam being dragged slowly over worn stone pavement, dust rising, blurred earth-toned robes and feet of a crowd at the edges of the frame, harsh dim light, photorealistic cinematic, no faces",
+      "alt": "Ultra-realistic low shot of a heavy rough wooden beam lying on worn stone pavement, dust drifting in dim harsh light, blurred robes passing at the edges, photorealistic, no faces"
+     },
+     {
+      "n": 31,
+      "secao": "ponte (cruz)",
+      "camera": "estático lento, timelapse",
+      "prompt": "Ultra-realistic static wide shot of the sky over ancient Jerusalem at midday turning dark as heavy black-purple clouds swallow the sun, sudden dusk light on the stone city, wind lifting dust across the rooftops, slow ominous timelapse feel, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic static wide shot of a stone city on a hill as black-purple clouds swallow the midday sun, dust blown across rooftops, dim eerie light, photorealistic, no people"
+     },
+     {
+      "n": 32,
+      "secao": "ponte (cruz)",
+      "camera": "drone lento, muito distante",
+      "prompt": "Ultra-realistic slow drone shot from very far away of a barren rocky hill with three small wooden crosses silhouetted against a black-purple stormy sky, dust and wind, no detail visible on the crosses, distant and solemn, photorealistic cinematic, no faces",
+      "alt": "Ultra-realistic slow drone shot of a barren rocky hill under a black-purple stormy sky, a crown of thorns resting on bare rock in the foreground, dust blowing, solemn light, photorealistic, no people"
+     },
+     {
+      "n": 33,
+      "secao": "ponte (cruz)",
+      "camera": "dolly-in, interior",
+      "prompt": "Ultra-realistic dolly-in inside a dim ancient temple hall, a massive heavy woven curtain in deep red and blue tearing from top to bottom, dust falling from the stone ceiling as the ground trembles, oil lamps swaying, then the light fading to black, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic dolly-in inside a dim stone hall, oil lamps swaying and dust falling from the ceiling as the ground trembles, a heavy woven curtain swinging, the light fading to black, photorealistic, no people"
+     },
+     {
+      "n": 34,
+      "secao": "ponte (cruz)",
+      "camera": "estático, plano geral (silêncio)",
+      "prompt": "Ultra-realistic static wide shot of a rock-cut tomb sealed by a massive round stone in cold blue pre-dawn light, a single torch guttering low beside the entrance, dead stillness, thin mist on the ground, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic static shot of a great round stone sealing a rock tomb in cold blue pre-dawn light, a dying torch flame, mist, absolute stillness, photorealistic, no people"
+     },
+     {
+      "n": 35,
+      "secao": "ponte (cruz)",
+      "camera": "macro, estático",
+      "prompt": "Ultra-realistic macro shot of small pebbles and dust on the rocky ground at the foot of a great sealed tomb stone beginning to tremble and jump as the earth shakes, first grey-gold light of dawn touching the rock, photorealistic cinematic, shallow depth of field, no people",
+      "alt": "Ultra-realistic macro shot of pebbles and dust trembling on rocky ground at first light of dawn, warm light touching a great stone behind, photorealistic, no people"
+     },
+     {
+      "n": 36,
+      "secao": "ponte (ele vive)",
+      "camera": "estático → whiteout (slowmo)",
+      "prompt": "Ultra-realistic static shot at first light of a massive round stone slowly rolling away from the entrance of a rock-cut tomb, brilliant golden-white light bursting out of the opening and flooding the frame until it whites out, dust and mist blown outward, slow motion, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic static shot at dawn of a great round stone rolling away from a rock-cut tomb doorway, golden light flooding out of the dark opening until the frame whites out, dust blown outward, slow motion, photorealistic, no people"
+     },
+     {
+      "n": 37,
+      "secao": "ponte (ele vive)",
+      "camera": "dolly-in rápido (NÚCLEO 179-181)",
+      "prompt": "Ultra-realistic quick dolly-in inside an empty rock-cut tomb, folded white linen cloths lying neatly on a stone shelf, golden dawn light pouring through the open doorway, dust glowing in the beam, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic quick push-in on folded white linen cloths on a stone shelf inside an empty rock tomb, golden light through the doorway, glowing dust, photorealistic, no people"
+     },
+     {
+      "n": 38,
+      "secao": "ponte (ele vive)",
+      "camera": "gimbal, plano médio, slowmo (NÚCLEO 181-183)",
+      "prompt": "Ultra-realistic slow-motion gimbal medium shot of two women in dark head coverings at the entrance of an open tomb at dawn, their hands flying up in shock and joy, clay jars slipping from their arms and falling toward the ground, golden light blasting from the doorway behind them, photorealistic cinematic, faces turned away from camera",
+      "alt": "Ultra-realistic slow-motion close shot of two clay jars falling and shattering on rocky ground at the entrance of an open tomb, golden dawn light blasting from the doorway, dust and water splashing, photorealistic, no people"
+     },
+     {
+      "n": 39,
+      "secao": "ponte (ele vive)",
+      "camera": "drone, subida rápida (NÚCLEO 183-185.5)",
+      "prompt": "Ultra-realistic drone shot rising fast over Judean hills as the sun bursts over the ridge, the whole valley flooding with golden light, mist burning off, strong lens flare, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot rising fast as the sun bursts over desert hills, the valley flooding with gold, mist burning off, lens flare, photorealistic, no people"
+     },
+     {
+      "n": 40,
+      "secao": "ponte (ele vive)",
+      "camera": "travelling rápido, speedramp (NÚCLEO 185.5-188)",
+      "prompt": "Ultra-realistic fast travelling shot beside a young man in a simple tunic sprinting through an olive grove at dawn, backlit by the rising sun, dust and leaves flying, speed ramp, joyful urgency, photorealistic cinematic, face not visible",
+      "alt": "Ultra-realistic fast travelling shot through an olive grove at dawn, rising sun flaring between trunks, leaves and dust flying past the lens, a running silhouette far ahead, speed ramp, photorealistic, no faces"
+     },
+     {
+      "n": 41,
+      "secao": "ponte (ele vive)",
+      "camera": "orbital, contraluz (NÚCLEO 188-191 — melhor plano do clipe)",
+      "prompt": "Ultra-realistic slow orbital shot in a garden at sunrise, a figure in a white linen robe standing with back to the camera, sunlight glowing through the fabric and haloing the outline, a woman in a dark head covering a few steps away turning toward him, mist and flare, photorealistic cinematic, faces not visible",
+      "alt": "Ultra-realistic orbital shot in a garden at sunrise, a tall glowing white-robed silhouette seen from behind against the sun, fabric lit through with golden light, mist and lens flare, photorealistic, no faces"
+     },
+     {
+      "n": 42,
+      "secao": "ponte (ele vive)",
+      "camera": "drone, avanço rápido",
+      "prompt": "Ultra-realistic fast drone shot flying forward over a dirt road at sunrise where dozens of people in earth-toned robes are running in the same direction toward a hillside tomb glowing with light, golden dust rising, long shadows, photorealistic cinematic, faces not visible",
+      "alt": "Ultra-realistic fast drone shot over a dirt road at sunrise with many small running silhouettes heading toward a glowing hillside, golden dust, long shadows, photorealistic, no faces"
+     },
+     {
+      "n": 43,
+      "secao": "ponte (ele vive)",
+      "camera": "drone, espiral subindo",
+      "prompt": "Ultra-realistic drone shot spiraling upward directly above an open rock-cut tomb at sunrise, the great round stone rolled aside, golden light pouring out of the doorway across the hillside and into blue morning mist, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot rising in a spiral above an open rock tomb at dawn, the round stone rolled aside, golden light spilling onto the hillside into blue mist, photorealistic, no people"
+     },
+     {
+      "n": 44,
+      "secao": "refrao final",
+      "camera": "drone, avanço",
+      "prompt": "Ultra-realistic drone shot flying forward over the shore of a lake at sunrise, hundreds of people in earth-toned robes standing on the beach facing the rising sun with arms raised, golden light on the water, mist, photorealistic cinematic, wide lens, faces indistinct",
+      "alt": "Ultra-realistic drone shot over a lake shore at sunrise, hundreds of small silhouettes with arms raised facing the sun, golden light on the water, photorealistic, no faces"
+     },
+     {
+      "n": 45,
+      "secao": "refrao final",
+      "camera": "gimbal baixo, rápido",
+      "prompt": "Ultra-realistic fast low gimbal tracking shot framed so tightly that only sandaled feet and a flying robe hem are visible, running along a dusty road at sunrise, golden dust exploding backlit, photorealistic cinematic",
+      "alt": "Ultra-realistic fast low tracking shot along a dusty road at sunrise, golden dust bursting backlit by the sun, photorealistic, no people"
+     },
+     {
+      "n": 46,
+      "secao": "refrao final",
+      "camera": "orbital",
+      "prompt": "Ultra-realistic orbital shot around the open rock-cut tomb at morning, the great stone rolled aside, a crowd in earth-toned robes gathered around the entrance in golden light, dust and mist, photorealistic cinematic, faces indistinct",
+      "alt": "Ultra-realistic orbital shot around an open rock tomb at morning, the great stone rolled aside, golden light glowing from the doorway, a few dark silhouettes standing at a distance, photorealistic, no faces"
+     },
+     {
+      "n": 47,
+      "secao": "refrao final",
+      "camera": "dolly-in, contraluz",
+      "prompt": "Ultra-realistic dolly-in framed so tightly that only many raised hands and forearms are visible against the blazing sun, dust glowing in the light, strong lens flare, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close shot of golden dust and light rays against the blazing sun, dark branches of olive trees reaching upward in the foreground, lens flare, photorealistic, no people"
+     },
+     {
+      "n": 48,
+      "secao": "refrao final",
+      "camera": "travelling, plano geral",
+      "prompt": "Ultra-realistic wide travelling shot along a lake shore at sunrise, a figure in a white robe walking on the sand, several men leaping from a wooden fishing boat into the shallow water and running toward him, all backlit by the sun, spray and golden haze, photorealistic cinematic, faces not visible",
+      "alt": "Ultra-realistic wide shot of a lake shore at sunrise, a wooden fishing boat in the shallows, several silhouettes splashing through golden water toward the beach, spray and haze, photorealistic, no faces"
+     },
+     {
+      "n": 49,
+      "secao": "refrao final",
+      "camera": "gimbal, close de mãos",
+      "prompt": "Ultra-realistic close-up framed so tightly that only hands are visible breaking a round bread over a rough wooden table lit by a single oil lamp and the last light of dusk from a window, crumbs falling, two clay cups, photorealistic cinematic, shallow depth of field",
+      "alt": "Ultra-realistic close-up of a broken round bread and two clay cups on a rough wooden table, oil lamp glow and dusk light from a window, photorealistic, no people"
+     },
+     {
+      "n": 50,
+      "secao": "refrao final",
+      "camera": "drone, plano geral",
+      "prompt": "Ultra-realistic drone shot of the same small cluster of stone houses on the Judean hills from the opening, now in bright morning daylight, smoke rising from a hearth, olive trees, blue sky, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot of a small cluster of stone houses on desert hills in bright morning light, hearth smoke rising, olive trees, photorealistic, no people"
+     },
+     {
+      "n": 51,
+      "secao": "refrao final",
+      "camera": "gimbal, close",
+      "prompt": "Ultra-realistic gimbal close-up moving through olive branches thrashing in strong wind, sunlight bursting through silver-green leaves, warm lens flare, glowing dust, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic close-up of olive branches in strong wind with sunlight bursting through the leaves, lens flare, photorealistic, no people"
+     },
+     {
+      "n": 52,
+      "secao": "refrao final",
+      "camera": "travelling de costas",
+      "prompt": "Ultra-realistic travelling shot from behind a lone figure in a pale robe walking along a dirt road that stretches straight to the horizon, the sun sitting at the end of the road, golden haze and long shadow, photorealistic cinematic, face not visible",
+      "alt": "Ultra-realistic travelling shot along an empty dirt road stretching straight to a sun sitting on the horizon, golden haze, one long shadow cast toward the camera, photorealistic, no faces"
+     },
+     {
+      "n": 53,
+      "secao": "refrao final",
+      "camera": "drone, recuo alto",
+      "prompt": "Ultra-realistic drone shot pulling back and rising high over the whole landscape at sunrise, a shining lake, green and golden hills, a dirt road winding through the valley and a small open rock tomb glowing on a hillside, mist and flare, epic scale, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot rising high over a sunrise landscape of lake, golden hills and a winding dirt road, mist and lens flare, epic scale, photorealistic, no people"
+     },
+     {
+      "n": 54,
+      "secao": "refrao final",
+      "camera": "dolly-in, close de mãos",
+      "prompt": "Ultra-realistic close dolly-in framed so tightly that only hands are visible, a hesitant trembling hand reaching toward an open palm marked by a small healed scar, shafts of morning light cutting through a dim stone room, dust glowing, photorealistic cinematic, shallow depth of field, no faces",
+      "alt": "Ultra-realistic close-up of an open weathered palm held into a shaft of morning light in a dim stone room, dust glowing, photorealistic, no faces"
+     },
+     {
+      "n": 55,
+      "secao": "refrao final",
+      "camera": "gimbal, plano médio, slowmo",
+      "prompt": "Ultra-realistic slow-motion medium shot of a fishing net bursting with silver fish being hauled over the wooden gunwale of a boat, water pouring and spraying in golden sunrise light, ropes straining, photorealistic cinematic, hands only, no faces",
+      "alt": "Ultra-realistic slow-motion close shot of a rope net full of silver fish spilling over a wooden gunwale, water spraying in golden light, photorealistic, no people"
+     },
+     {
+      "n": 56,
+      "secao": "refrao final",
+      "camera": "drone baixo, rasante",
+      "prompt": "Ultra-realistic low drone shot skimming fast over a golden wheat field rippling in the wind toward the low sun, ears of wheat glowing backlit, dust and seeds in the air, lens flare, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic low fast drone shot over a golden wheat field in the wind toward the sun, backlit ears of wheat, lens flare, photorealistic, no people"
+     },
+     {
+      "n": 57,
+      "secao": "refrao final",
+      "camera": "gimbal, contra-plongée, contraluz",
+      "prompt": "Ultra-realistic low-angle shot from behind a figure in a white robe standing on a hilltop opening both arms wide against a blazing golden sky, the robe blown by strong wind, small dark silhouettes of followers on the slope below, strong lens flare, photorealistic cinematic, face not visible",
+      "alt": "Ultra-realistic low-angle shot of a white-robed silhouette with arms spread wide on a hilltop against a blazing golden sky, robe blown by wind, lens flare, photorealistic, no faces"
+     },
+     {
+      "n": 58,
+      "secao": "refrao final",
+      "camera": "estático, close",
+      "prompt": "Ultra-realistic static close-up of a single hand resting on the rough sunlit surface of the great round tomb stone rolled aside, warm morning light and dust, fingers spread on the rock, photorealistic cinematic, shallow depth of field, no faces",
+      "alt": "Ultra-realistic close-up of the rough sunlit surface of a great round stone, warm morning light raking across the texture, dust, photorealistic, no people"
+     },
+     {
+      "n": 59,
+      "secao": "refrao final",
+      "camera": "dolly-in lento (coro — símbolos voltando)",
+      "prompt": "Ultra-realistic slow dolly-in into a small stone cave stable at dawn, the wooden manger now empty with hay lit by golden morning light streaming through the low doorway, dust floating, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic slow push-in on an empty wooden manger with hay in a stone cave lit by golden morning light from the doorway, dust floating, photorealistic, no people"
+     },
+     {
+      "n": 60,
+      "secao": "refrao final",
+      "camera": "drone rápido, rasante (coro)",
+      "prompt": "Ultra-realistic fast low drone shot skimming over the glassy surface of a lake in bright morning sun, a single wooden sailing boat ahead, light glittering on the water, distant green hills, photorealistic cinematic, no people visible",
+      "alt": "Ultra-realistic fast low drone shot over a glassy sunlit lake toward a small wooden boat, light glittering on the water, green hills beyond, photorealistic, no people"
+     },
+     {
+      "n": 61,
+      "secao": "refrao final",
+      "camera": "gimbal, plano geral (coro)",
+      "prompt": "Ultra-realistic gimbal wide shot of a green hillside now empty, wind moving through the grass, a few woven baskets left on the slope in golden morning light, a lake glittering below, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic wide shot of an empty green hillside in golden morning light, wind in the grass, woven baskets on the slope, lake below, photorealistic, no people"
+     },
+     {
+      "n": 62,
+      "secao": "refrao final",
+      "camera": "drone, avanço lento (coro)",
+      "prompt": "Ultra-realistic drone shot flying slowly toward a barren rocky hill with three small empty wooden crosses against a clear blue morning sky, warm golden light, wind moving dry grass, peaceful and bright, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot toward a rocky hill with three empty wooden crosses under a clear blue morning sky, warm light, dry grass in the wind, photorealistic, no people"
+     },
+     {
+      "n": 63,
+      "secao": "refrao final",
+      "camera": "dolly-in, interior (coro)",
+      "prompt": "Ultra-realistic dolly-in inside a dim ancient temple hall, brilliant sunlight pouring through a tall tear running top to bottom in a massive red and blue woven curtain, dust glowing in the beam on the stone floor, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic dolly-in on a tall torn curtain in a dim stone hall with sunlight pouring through the tear, dust glowing in the beam, photorealistic, no people"
+     },
+     {
+      "n": 64,
+      "secao": "refrao final",
+      "camera": "gimbal baixo, contra-plongée (coro)",
+      "prompt": "Ultra-realistic low-angle gimbal shot in a narrow stone street packed with people in earth-toned robes raising their hands toward strong shafts of sunlight between the walls, dust swirling in the beams, photorealistic cinematic, faces not visible",
+      "alt": "Ultra-realistic low-angle shot of many raised hands and forearms in a narrow stone street under shafts of sunlight, dust swirling, photorealistic, no faces"
+     },
+     {
+      "n": 65,
+      "secao": "refrao final",
+      "camera": "drone, subida épica para o sol (coro)",
+      "prompt": "Ultra-realistic drone shot rising from the open doorway of a rock-cut tomb straight up into the blazing morning sun, golden light flooding the frame, hills and mist falling away below, strong lens flare, epic scale, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic drone shot rising from a rock tomb doorway into the blazing sun, golden light flooding the frame, hills below, lens flare, photorealistic, no people"
+     },
+     {
+      "n": 66,
+      "secao": "outro",
+      "camera": "dolly-in lento",
+      "prompt": "Ultra-realistic very slow dolly-in toward the open doorway of an empty rock-cut tomb in soft quiet morning light, folded white linen just visible inside, wild grass and small flowers at the entrance moving in a light breeze, birds in the distance, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic slow push-in on an open rock tomb doorway in soft morning light, wild grass and small flowers moving in a breeze, warm glow inside, photorealistic, no people"
+     },
+     {
+      "n": 67,
+      "secao": "outro",
+      "camera": "travelling lento, câmera baixa",
+      "prompt": "Ultra-realistic slow low travelling shot along an empty dirt road in soft morning light, a single line of footprints in the dust leading toward the low sun on the horizon, a light breeze lifting thin dust, golden haze, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic slow low tracking shot along an empty dusty road at morning toward the sun, a line of footprints in the sand, thin dust drifting, photorealistic, no people"
+     },
+     {
+      "n": 68,
+      "secao": "outro",
+      "camera": "estático, fade",
+      "prompt": "Ultra-realistic static wide shot of the dawn sky over the same Judean hills from the opening, the last bright star slowly dissolving into the growing golden light of the rising sun, thin clouds warming from blue to gold, gentle fade toward white, photorealistic cinematic, no people",
+      "alt": "Ultra-realistic static shot of a dawn sky over desert hills, one last star fading into the golden light of sunrise, clouds turning from blue to gold, slow fade to white, photorealistic, no people"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "estilo-pixar-a-powerful-and-emotional-na",
    "mvd": "MVD#152",
    "titulo": "Ele Vive",
@@ -582,7 +1159,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
