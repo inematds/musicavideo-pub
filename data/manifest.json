@@ -1759,6 +1759,442 @@
      }
     ]
    },
+   "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "sertanejo-sofrencia-pop-live-stadiumcan",
+   "mvd": "MVD#132",
+   "titulo": "Segunda Chance",
+   "quando": "2026-08-28T05:23:33-03:00",
+   "solicitacao": "SERTANEJO SOFRÊNCIA POP — LIVE STADIUMCan tora sertaneja brasileira de 28 anos, linda, sofisticada, elegante e emocionalmente forte. Sofrência madura: ela foi traída, perdoou, voltou e deu uma segunda chance. Ele prometeu mudar, mas continuou procurando outras mulheres. Ela ainda o ama, porém agora acabou. Ela não quer esquecer, porque já aprendeu o que acontece quando perdoa e volta.Música: sertanejo romântico / agronejo pop / sofrência stadium live contemporânea. 126–128 BPM, E maior, energia crescente de íntima para extremamente alta.Instrumenta ção: piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra ambiente, pads/synths cinematográficos muito discretos, backing vocals femininos e grande coro de público.Voz: feminina b rasileira, quente, poderosa, levemente rouca e muito expressiva. Início íntimo e vulnerável, quase conversado; crescimento progressivo; refrão com voz aberta e poderosa; último refrão catártico.Estrutura: 0:00–0:0 5 piano + frase vocal marcante; 0:05–0:30 verso íntimo; 0:30–0:42 pré-refrão crescente; 0:42–1:08 refrão grande; 1:08–1:35 verso 2; 1:35–1:48 pré-refrão; 1:48–2:15 refrão maior; 2:15–2:32 ponte quase só voz+piano; 2:32–2:58 refrão final explosivo com público cantando; final curto e emocional.Letra: direta, adulta e conversacional. Traição repetida, segunda chance desperdiçada, amor que ainda existe e decisão definitiva de não voltar. Sem vingança, humilhação, insultos ou discurso de empoderamento.Refrão: poucas palavras, me lodia grande, frase central extremamente memorável. Deve funcionar tanto como trecho viral de 10–12 segundos quanto cantado por uma arena inteira.Produção: começar muito próxima e íntima e abrir progressivamente o estéreo. Voz brilhante no centro, piano cristalino, graves quentes, bateria aumentando de impacto a cada seção, sanfona emocional sem dominar. Último refrão com bateria de estádio, harmonias femininas, multidão cantando, aplausos e grande sensação de catarse.Prompt Suno/Udio:Emotional contempo rary Brazilian female sertanejo pop / sofrência stadium live anthem, 126–128 BPM, E Major. Intimate acoustic piano and vulnerable slightly raspy female vocal opening immediately with a memorable emotional line. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric electric guitar, subtle cinematic synth textures and progressively larger live drums. Build dramatically from an intimate confession into a massive emotional sing-along chorus. Powerful Brazilian female lead vocal, conversational verses, soaring chest-voice chorus, emotional vocal cracks and female harmonies. Final bridge strips back to voice and piano before exploding into a huge final stadium chorus with thousands of people singing the central hook, applause and live concert energy. Modern polished 2026 production, emotional, sophisticated, grand and cathartic.Negative: EDM drop, trap beat, funk bea t, lo-fi, heavy autotune, monotone vocal, distorted bass, industrial sound, excessive synths, vulgarity, revenge lyrics, victim mentality, long instrumental solo.",
+   "genero": "sertanejo romântico / agronejo pop / sofrência stadium live",
+   "bpm": 127,
+   "tom": "Mi maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "emotivo",
+    "maduro",
+    "digno",
+    "crescente",
+    "catártico de arena"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/sertanejo-sofrencia-pop-live-stadiumcan/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 592740031,
+   "doc": "# Segunda Chance\n\n**slug:** `sertanejo-sofrencia-pop-live-stadiumcan`  ·  **solicitação:** SERTANEJO SOFRÊNCIA POP — LIVE STADIUMCan tora sertaneja brasileira de 28 anos, linda, sofisticada, elegante e emocionalmente forte. Sofrência madura: ela foi traída, perdoou, voltou e deu uma segunda chance. Ele prometeu mudar, mas continuou procurando outras mulheres. Ela ainda o ama, porém agora acabou. Ela não quer esquecer, porque já aprendeu o que acontece quando perdoa e volta.Música: sertanejo romântico / agronejo pop / sofrência stadium live contemporânea. 126–128 BPM, E maior, energia crescente de íntima para extremamente alta.Instrumenta ção: piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra ambiente, pads/synths cinematográficos muito discretos, backing vocals femininos e grande coro de público.Voz: feminina b rasileira, quente, poderosa, levemente rouca e muito expressiva. Início íntimo e vulnerável, quase conversado; crescimento progressivo; refrão com voz aberta e poderosa; último refrão catártico.Estrutura: 0:00–0:0 5 piano + frase vocal marcante; 0:05–0:30 verso íntimo; 0:30–0:42 pré-refrão crescente; 0:42–1:08 refrão grande; 1:08–1:35 verso 2; 1:35–1:48 pré-refrão; 1:48–2:15 refrão maior; 2:15–2:32 ponte quase só voz+piano; 2:32–2:58 refrão final explosivo com público cantando; final curto e emocional.Letra: direta, adulta e conversacional. Traição repetida, segunda chance desperdiçada, amor que ainda existe e decisão definitiva de não voltar. Sem vingança, humilhação, insultos ou discurso de empoderamento.Refrão: poucas palavras, me lodia grande, frase central extremamente memorável. Deve funcionar tanto como trecho viral de 10–12 segundos quanto cantado por uma arena inteira.Produção: começar muito próxima e íntima e abrir progressivamente o estéreo. Voz brilhante no centro, piano cristalino, graves quentes, bateria aumentando de impacto a cada seção, sanfona emocional sem dominar. Último refrão com bateria de estádio, harmonias femininas, multidão cantando, aplausos e grande sensação de catarse.Prompt Suno/Udio:Emotional contempo rary Brazilian female sertanejo pop / sofrência stadium live anthem, 126–128 BPM, E Major. Intimate acoustic piano and vulnerable slightly raspy female vocal opening immediately with a memorable emotional line. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric electric guitar, subtle cinematic synth textures and progressively larger live drums. Build dramatically from an intimate confession into a massive emotional sing-along chorus. Powerful Brazilian female lead vocal, conversational verses, soaring chest-voice chorus, emotional vocal cracks and female harmonies. Final bridge strips back to voice and piano before exploding into a huge final stadium chorus with thousands of people singing the central hook, applause and live concert energy. Modern polished 2026 production, emotional, sophisticated, grand and cathartic.Negative: EDM drop, trap beat, funk bea t, lo-fi, heavy autotune, monotone vocal, distorted bass, industrial sound, excessive synths, vulgarity, revenge lyrics, victim mentality, long instrumental solo.\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/sertanejo-sofrencia-pop-live-stadiumcan`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Segunda Chance\n\n\n\n**slug:** `sertanejo-sofrencia-pop-live-stadiumcan`  ·  **criado:** 2026-08-28T05:23:33-03:00\n\n**solicitação:** SERTANEJO SOFRÊNCIA POP — LIVE STADIUMCan tora sertaneja brasileira de 28 anos, linda, sofisticada, elegante e emocionalmente forte. Sofrência madura: ela foi traída, perdoou, voltou e deu uma segunda chance. Ele prometeu mudar, mas continuou procurando outras mulheres. Ela ainda o ama, porém agora acabou. Ela não quer esquecer, porque já aprendeu o que acontece quando perdoa e volta.Música: sertanejo romântico / agronejo pop / sofrência stadium live contemporânea. 126–128 BPM, E maior, energia crescente de íntima para extremamente alta.Instrumenta ção: piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra ambiente, pads/synths cinematográficos muito discretos, backing vocals femininos e grande coro de público.Voz: feminina b rasileira, quente, poderosa, levemente rouca e muito expressiva. Início íntimo e vulnerável, quase conversado; crescimento progressivo; refrão com voz aberta e poderosa; último refrão catártico.Estrutura: 0:00–0:0 5 piano + frase vocal marcante; 0:05–0:30 verso íntimo; 0:30–0:42 pré-refrão crescente; 0:42–1:08 refrão grande; 1:08–1:35 verso 2; 1:35–1:48 pré-refrão; 1:48–2:15 refrão maior; 2:15–2:32 ponte quase só voz+piano; 2:32–2:58 refrão final explosivo com público cantando; final curto e emocional.Letra: direta, adulta e conversacional. Traição repetida, segunda chance desperdiçada, amor que ainda existe e decisão definitiva de não voltar. Sem vingança, humilhação, insultos ou discurso de empoderamento.Refrão: poucas palavras, me lodia grande, frase central extremamente memorável. Deve funcionar tanto como trecho viral de 10–12 segundos quanto cantado por uma arena inteira.Produção: começar muito próxima e íntima e abrir progressivamente o estéreo. Voz brilhante no centro, piano cristalino, graves quentes, bateria aumentando de impacto a cada seção, sanfona emocional sem dominar. Último refrão com bateria de estádio, harmonias femininas, multidão cantando, aplausos e grande sensação de catarse.Prompt Suno/Udio:Emotional contempo rary Brazilian female sertanejo pop / sofrência stadium live anthem, 126–128 BPM, E Major. Intimate acoustic piano and vulnerable slightly raspy female vocal opening immediately with a memorable emotional line. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric electric guitar, subtle cinematic synth textures and progressively larger live drums. Build dramatically from an intimate confession into a massive emotional sing-along chorus. Powerful Brazilian female lead vocal, conversational verses, soaring chest-voice chorus, emotional vocal cracks and female harmonies. Final bridge strips back to voice and piano before exploding into a huge final stadium chorus with thousands of people singing the central hook, applause and live concert energy. Modern polished 2026 production, emotional, sophisticated, grand and cathartic.Negative: EDM drop, trap beat, funk bea t, lo-fi, heavy autotune, monotone vocal, distorted bass, industrial sound, excessive synths, vulgarity, revenge lyrics, victim mentality, long instrumental solo.\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico / agronejo pop / sofrência stadium live  ·  **BPM:** 127  ·  **Tom:** Mi maior\n- **Mood:** emotivo, maduro, digno, crescente, catártico de arena\n- **Instrumentação:** piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra elétrica ambiente, pads cinematográficos discretos, backing vocals femininos, coro de público de estádio\n- **Voz:** \"feminina brasileira, quente, poderosa, levemente rouca e muito expressiva; versos íntimos quase conversados, refrão aberto em voz de peito, último refrão catártico com quebras emocionais controladas\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR\n\n**Estrutura:** intro (5s) · verso 1 (25s) · pré-refrão 1 (12s) · refrão 1 (26s) · verso 2 (27s) · pré-refrão 2 (13s) · refrão 2 (27s) · ponte (17s) · refrão final (26s) · final (4s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\nSegunda chance não tem terceira vez\n\n[Verso 1]\nEu vi a mensagem e fingi que não vi\nVocê jurou de novo, eu quis acreditar\nGuardei o meu orgulho, abri a porta de casa\nAchei que amor bastava pra te segurar\n\n[Pré-refrão]\nMas o mesmo perfume voltou na tua roupa\nA mesma desculpa, o mesmo olhar no chão\nEu já sei de cor o fim dessa história\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Verso 2]\nNão vou fingir que não dói te deixar\nDói mais ficar e me ver diminuir\nEu não te odeio, eu só aprendi\nQue quem esquece a queda torna a cair\n\n[Pré-refrão]\nO mesmo perfume, a mesma desculpa\nO mesmo \"eu mudo\" que nunca mudou\nDessa vez a porta fecha por dentro\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Ponte]\nNão me peça pra esquecer\nÉ a lembrança que me impede de voltar\nEu perdoo você\nMas não me perdoo se eu ficar\n\n[Refrão final]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Final]\nSegunda chance não tem terceira vez\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0a0f1d, #d96b27, #2c6fbb, #e6b85c, #e0e6ed\n- **Params:** `{}`\n\n**Conceito:** Retrato dela no palco, de pé, olhar DIRETO na lente — calmo, ferido e decidido ao mesmo tempo: a pose da mulher que já chorou e já escolheu. Luz âmbar quente de show recortando o rosto contra o estádio azul-marinho desfocado, com pontinhos de celulares como estrelas. Escolha de olhar: direto na lente (nada de queixo erguido nem olhos fechados — isso é recurso do clipe), porque a música é uma decisão dita de frente.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of a beautiful 28-year-old Brazilian woman with long wavy chestnut hair, elegant fitted leather jacket over premium jeans, standing on a concert stage, looking straight into the lens with calm wounded resolve, warm amber key light sculpting her face against a deep navy stadium blurred background dotted with tiny phone lights like stars, shallow depth of field, palette deep navy #0a0f1d, warm amber #d96b27, soft cyan #2c6fbb, clean space at the bottom for a bold title, cinematic photorealistic photography, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, extra limbs, open mouth, microphone covering face, oversaturated skin, plastic skin\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** Faixa final: 204s. Ritmo mantido do plano original: média ~15 cortes/min com forte assimetria por seção — versos respiram a ~8–9 cortes/min (âncora: gusttavo-lima-mineirao, dolly-in e orbital), refrões picam a ~21–23 cortes/min (âncora: ana-castela-dvd-boiadeira, 23.5 cortes/min medidos aos mesmos ~128 BPM, corte no beat, slowmo/speedramp, drone FPV e steadicam na passarela), inserts handheld de plateia na linguagem fan-cam do siapa-sangka (26.4 cortes/min, cut duro, âmbar naturalista). Seções: intro 0–5, verso1 5–30, pré1 30–42, refrão1 42–72, verso2 72–100, pré2 100–113, refrão2 113–145, ponte 145–162, refrão final 162–192, final 192–204. NÚCLEO medido na onda: 166–178s — coberto pelos shots 39–44, todos a 2.5s (o trecho mais picado do clipe), com o MELHOR PLANO (shot 42, punho erguido de costas para a arena acesa, o quadro-símbolo) caindo em 172.0–174.5s, dentro do núcleo — é esse trecho que vira o Short. Transições restritas ao medido: corte seco no beat nos refrões, dissolve nos versos e na ponte, slowmo nos picos emocionais, um único speedramp (shot 44) na saída do núcleo. Intro segura o plano (5s), ponte segura ainda mais (9s e 8s), refrão final é o mais picado (2.5–3.5s por plano).\n- **Params:** `{}`\n- **Shots:** 51  ·  **Duração total:** 204.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 5.0s | drone zenital descendo lento | Estádio inteiro no escuro; um único foco âmbar sobre o piano de cauda e a silhueta dela sentada. |\n| 2 | verso 1 | 7.0s | dolly-in lento frontal | Aproximação lenta do palco até ela ao piano, luz âmbar íntima, olhos baixos sobre as teclas. |\n| 3 | verso 1 | 6.0s | close em perfil, estático com leve drift | Perfil dela contra a luz, microfone à frente da boca, expressão contida e vulnerável. |\n| 4 | verso 1 | 6.0s | handheld fan-cam da plateia | Vista de dentro do público: ela pequena e iluminada ao piano, mar de celulares em bokeh no primeiro plano. |\n| 5 | verso 1 | 6.0s | detalhe estático com leve push-in | Teclas do piano e dedos em quadro fechado, luz âmbar; o anel de compromisso ainda no dedo. |\n| 6 | pré-refrão 1 | 4.0s | steadicam travelling lateral | Travelling pela banda entrando: fole da sanfona abrindo em quadro fechado, baterista em silhueta ao fundo. |\n| 7 | pré-refrão 1 | 4.0s | plano médio frontal, leve tilt up | Ela se levanta do piano e segura o pedestal do microfone, ombros subindo numa inspiração funda, luz crescendo. |\n| 8 | pré-refrão 1 | 4.0s | drone recuando e subindo | Drone abre do palco para revelar a escala do estádio; as luzes viram do âmbar para azul e âmbar cruzados. |\n| 9 | refrão 1 | 3.5s | grua descendo frontal | Palco inteiro explode em luz: banda completa, feixes âmbar e azuis, ela ao centro no pedestal. |\n| 10 | refrão 1 | 3.5s | steadicam acompanhando na passarela | Ela caminha pela passarela em direção ao público, mão fechada no microfone, cabelo ao vento dos ventiladores. |\n| 11 | refrão 1 | 3.0s | plano geral da plateia, pan lento | Multidão com braços erguidos pulando no tempo, celulares acesos, arquibancada viva. |\n| 12 | refrão 1 | 3.0s | drone FPV mergulhando | Mergulho FPV sobre a multidão em direção ao palco, feixes cruzando o quadro. |\n| 13 | refrão 1 | 3.0s | plano médio lateral do sanfoneiro, leve handheld | O sanfoneiro no auge do refrão: fole totalmente aberto, dedos voando nos botões, luz âmbar e cyan varrendo a banda. |\n| 14 | refrão 1 | 3.5s | close dos olhos para cima, contraluz | Enquadramento dos olhos para cima: olhos fechados com força, sobrancelhas tensas, flare do canhão de luz atrás. |\n| 15 | refrão 1 | 3.0s | detalhe em slowmo, câmera baixa | Botas batendo o tempo na passarela, quadro fechado só na bota e tornozelo, luz varrendo. |\n| 16 | refrão 1 | 3.0s | orbital ao redor dela | Órbita ao redor dela no pedestal, queixo erguido, feixes girando em volta. |\n| 17 | refrão 1 | 4.5s | plano geral por trás dela | De costas, ela de frente para o estádio inteiro aceso — mar de celulares até o horizonte da arquibancada; o plano respira fechando o refrão. |\n| 18 | verso 2 | 8.5s | dolly lento lateral | A energia recua: ela senta na beirada da passarela, microfone descansando na mão, luz âmbar intimista. |\n| 19 | verso 2 | 7.0s | close em perfil contra a luz | Perfil próximo, microfone à frente da boca, uma lágrima descendo iluminada pelo contraluz. |\n| 20 | verso 2 | 6.5s | handheld fan-cam | De novo o olhar da plateia: fan-cam trêmula, ela pequena sentada na passarela, celulares balançando devagar. |\n| 21 | verso 2 | 6.0s | detalhe estático | Quadro fechado só na mão: ela desliza o anel do dedo e o deixa sobre o tampo do piano. |\n| 22 | pré-refrão 2 | 4.5s | steadicam avançando pela banda | Steadicam corta entre os músicos: fole da sanfona, baquetas atacando, luzes subindo de intensidade. |\n| 23 | pré-refrão 2 | 4.5s | plano médio, push-in | Ela se levanta da beirada, respira fundo, ombros sobem, olhos fixos no fundo do estádio — decisão tomada. |\n| 24 | pré-refrão 2 | 4.0s | drone lateral varrendo | Varredura lateral de drone pela arquibancada; os feixes mudam para o cruzamento azul/âmbar do refrão. |\n| 25 | refrão 2 | 3.0s | grua abrindo frontal | Segundo refrão maior: palco em potência máxima, colunas de luz, ela ao centro da passarela. |\n| 26 | refrão 2 | 3.0s | steadicam frontal recuando | Ela avança pela passarela em direção à câmera, cabelo voando, punho fechado no ar marcando a frase. |\n| 27 | refrão 2 | 3.0s | plateia em slowmo | Slowmo da plateia: braços erguidos, rostos emocionados, celulares e lágrimas brilhando. |\n| 28 | refrão 2 | 2.5s | contraluz frontal com strobes | Silhueta dela recortada por strobes brancos e âmbar, punho subindo no tempo, névoa congelada pelos flashes. |\n| 29 | refrão 2 | 3.0s | close dos olhos para cima | Close enquadrado dos olhos para cima: cabeça inclinada para trás, pescoço tensionado, suor e luz — o esforço do canto lido no corpo. |\n| 30 | refrão 2 | 3.0s | drone FPV subindo | FPV sobe da plateia até revelar a arena inteira pulsando em azul e âmbar. |\n| 31 | refrão 2 | 3.0s | detalhe slowmo | Quadro fechado na mão agarrando o pedestal do microfone, nós dos dedos brancos, luz varrendo o metal. |\n| 32 | refrão 2 | 2.5s | handheld fan-cam | Fã nos ombros de alguém acima da multidão, braços abertos, cabeça para trás e olhos fechados, banhada pela luz âmbar. |\n| 33 | refrão 2 | 3.0s | orbital contrapicado | Órbita baixa em contrapicado, ela heroica contra os feixes cruzados e o céu da arena. |\n| 34 | refrão 2 | 3.0s | plano geral com telão | Geral do palco com o telão gigante espelhando o momento, primeiras filas em silhueta. |\n| 35 | refrão 2 | 3.0s | plano geral do fundo do palco | Do fundo do palco: silhueta dela e da banda contra a muralha de luz do estádio. |\n| 36 | ponte | 9.0s | dolly-in muito lento | Tudo apaga menos um foco: ela de volta ao piano, estádio no escuro virando um céu de celulares; o plano mais longo do clipe. |\n| 37 | ponte | 8.0s | zenital descendo devagar | De cima, o círculo de luz do piano no escuro; ela inclina a cabeça para trás, olhos fechados com força. |\n| 38 | refrão final | 2.5s | grande plano geral, corte seco | A explosão: todas as luzes acendem de uma vez, chuva de confete dourado, arena inteira de pé. |\n| 39 | refrão final | 2.5s | steadicam correndo na passarela | Steadicam acelerada acompanhando a passada larga dela pela passarela sob o confete — entrada do NÚCLEO (166s). |\n| 40 | refrão final | 2.5s | drone FPV mergulhando do teto | Mergulho FPV do alto da arena até rasante no palco, atravessando confete e feixes. |\n| 41 | refrão final | 2.5s | plateia em slowmo | Slowmo: plateia em êxtase, gente chorando e sorrindo ao mesmo tempo, confete caindo sobre os braços. |\n| 42 | refrão final | 2.5s | plano geral por trás, slowmo | O MELHOR PLANO DO CLIPE, no coração do núcleo (172–174.5s): de costas em slowmo, ela ergue o punho para a arena inteira acesa — o quadro-símbolo. |\n| 43 | refrão final | 2.5s | close dos olhos para cima, slowmo | Close final da emoção: dos olhos para cima, queixo erguido, trilho de lágrima brilhando, confete desfocado em volta. |\n| 44 | refrão final | 2.5s | whip pan com speedramp, da plateia para ela | Chicote acelerado fechando o núcleo: a imagem arranca da plateia e trava nela na ponta da passarela, confete riscando o quadro. |\n| 45 | refrão final | 3.0s | orbital aberta | Órbita mais aberta: ela de braços abertos de frente para a arena, confete e feixes girando em volta. |\n| 46 | refrão final | 3.0s | plano geral aéreo com fogos | Fogos de artifício estouram sobre a boca do estádio; a arena vira uma tigela de luz. |\n| 47 | refrão final | 3.5s | handheld fan-cam | Dentro da plateia: estranhos se abraçando, pulando juntos, câmera trêmula de quem vive o momento. |\n| 48 | refrão final | 3.0s | detalhe estático | Confete dourado caindo sobre as teclas do piano e sobre o anel deixado no tampo — o refrão final fecha no símbolo. |\n| 49 | final | 5.0s | plano médio estático, luz caindo | Tudo apaga menos o foco âmbar: ela leva a mão ao coração e baixa a cabeça; a luz se fecha devagar. |\n| 50 | final | 3.5s | dolly lento baixo | A passarela vazia depois da tempestade: confete dourado assentando no chão espelhado, névoa baixa, arena escurecendo. |\n| 51 | final | 3.5s | drone recuando e subindo, fade final | O drone recua e sobe: o palco apaga de dentro pra fora até restarem só os celulares como estrelas — e escurece. |\n\n**Prompts (EN):**\n\n1. Cinematic aerial top-down drone shot slowly descending over a dark packed stadium at night, a single warm amber spotlight isolating a grand piano at center stage with the seated silhouette of a woman with long wavy hair, thousands of tiny phone lights in the darkness like stars, haze in the light beam, palette deep navy #0a0f1d and amber #d96b27, epic scale, photorealistic concert film\n2. Slow frontal dolly-in across a dark stage toward a beautiful 28-year-old Brazilian woman with long wavy chestnut hair in an elegant leather jacket, seated at a grand piano, eyes lowered toward the keys, warm amber key light against deep navy darkness, soft haze, blurred stadium bokeh behind her, palette #0a0f1d #d96b27, intimate cinematic concert film, shallow depth of field\n3. Intimate profile close-up of a young Brazilian woman with long wavy chestnut hair, backlit by warm amber stage light, a vintage microphone positioned in front of the lower half of her face, eyes soft and glistening, hair rim-lit, deep navy darkness behind, gentle camera drift, palette #0a0f1d #d96b27 #e6b85c, cinematic photorealistic, shallow depth of field\n4. Handheld fan-cam style shot from within a stadium crowd at night, out-of-focus raised phone screens glowing in the foreground, in the distance a woman at a grand piano under a single warm amber spotlight on a huge dark stage, natural warm concert grade, organic camera sway, palette #0E0E12 #FF9E4A #F5C97B, realistic live concert footage\n5. Macro detail shot framed so tightly that only piano keys and fingers pressing them are visible, a delicate ring catching a glint of warm amber light, polished ivory keys reflecting golden stage glow, slow subtle push-in, deep shadows around, palette #d96b27 #e6b85c #0a0f1d, cinematic shallow depth of field, photorealistic\n6. Steadicam lateral travelling across a concert stage as the band comes alive, framed so tightly that only an accordion bellows expanding in warm amber light is visible in the foreground, a drummer silhouette and cymbals catching cyan backlight behind, rising haze, palette #0a0f1d #d96b27 #2c6fbb, cinematic live concert energy\n7. Medium frontal shot of a beautiful Brazilian woman with long wavy chestnut hair rising from a grand piano bench and gripping a microphone stand with one firm hand, shoulders lifting in a deep breath, jaw set, eyes forward, stage lights blooming from amber to blue behind her, slight tilt up, palette #0a0f1d #d96b27 #2c6fbb, cinematic concert film\n8. Aerial drone shot pulling back and rising from the stage of a packed stadium at night, revealing the full bowl, crossing amber and cyan light beams sweeping over the crowd, thousands of phone lights, haze glowing in the beams, palette #070B19 #d96b27 #00D2FF, epic cinematic scale, photorealistic concert film\n9. Crane shot descending in front of a massive stadium stage exploding with amber and blue light beams, full live band playing, a woman with long chestnut hair at center gripping a microphone stand, head tilted back, haze columns, giant LED glow behind, palette #070B19 #FF5500 #00D2FF, epic live concert cinematography\n10. Steadicam tracking shot following a beautiful Brazilian woman with long wavy chestnut hair striding down a stadium runway toward the crowd, fist wrapped around a handheld microphone at her side, hair blowing, amber and cyan beams sweeping, crowd arms raised on both sides, palette #070B19 #d96b27 #00D2FF, energetic live concert film\n11. Wide shot slowly panning across a massive stadium crowd at night, thousands of people jumping in rhythm with arms raised, glowing phone lights waving, warm amber wash from the stage spilling over the front rows, cyan beams overhead, palette #070B19 #FF9E4A #00D2FF, euphoric live concert energy, photorealistic\n12. FPV drone dive swooping low over a packed stadium crowd toward a blazing stage, amber and cyan beams crossing the frame, phone lights streaking past, haze glowing, the runway and band growing closer at speed, palette #070B19 #FF5500 #00D2FF, adrenaline concert cinematography, photorealistic\n13. Medium lateral shot with subtle handheld energy of an accordion player on a stadium stage at full chorus power, bellows stretched wide, fingers flying over the buttons, warm amber key light with cyan rim light, haze beams sweeping behind, blurred crowd lights beyond the stage edge, palette #070B19 #d96b27 #00D2FF, vibrant live concert cinematography\n14. Extreme close-up framed from the eyes upward of a young Brazilian woman, eyes squeezed shut with intensity, brows tense, beads of sweat catching light, backlit by a blinding amber spotlight flare behind her head, hair rim-lit, deep blue darkness around, palette #0a0f1d #d96b27, emotional cinematic concert film\n15. Slow-motion low-angle detail shot framed so tightly that only an elegant leather boot and ankle are visible stomping the beat on a glossy stadium runway, amber and cyan light sweeping across the reflective floor, haze at floor level, palette #070B19 #d96b27 #00D2FF, rhythmic cinematic concert detail\n16. Orbital camera move circling a beautiful Brazilian woman with long wavy chestnut hair planted at a microphone stand, chin lifted, one hand pressed over her heart, amber and blue beams rotating around her through haze, stadium lights wheeling in the background, palette #070B19 #d96b27 #2c6fbb, dynamic cinematic concert shot\n17. Wide shot from behind a woman with long chestnut hair standing at the edge of a stadium runway, facing an ocean of phone lights and raised arms stretching to the upper decks, amber wash on her back, cyan beams over the crowd, monumental scale, palette #070B19 #d96b27 #00D2FF, iconic concert film frame\n18. Slow lateral dolly of a beautiful Brazilian woman with long wavy chestnut hair sitting on the edge of a stadium runway, legs hanging, a microphone resting loosely in her hand on her lap, warm amber pool of light around her, soft blurred crowd lights below, quiet intimate mood inside a huge dark arena, palette #0E0E12 #FF9E4A #F5C97B, cinematic shallow depth of field\n19. Intimate profile close-up of a young Brazilian woman with wavy chestnut hair, a handheld microphone held in front of the lower half of her face, a single tear sliding down her cheek catching warm amber backlight, eyes glistening and distant, deep navy darkness behind, palette #0a0f1d #d96b27 #e6b85c, emotional cinematic photorealism\n20. Handheld fan-cam style shot from deep in a stadium crowd, out-of-focus phone screens swaying slowly in the foreground, in the distance a woman seated on the runway edge under warm amber light in a vast dark arena, natural concert grade, organic hand sway, palette #0E0E12 #FF9E4A #C96A2E, realistic live footage\n21. Macro detail shot framed so tightly that only a hand and fingers are visible sliding a delicate ring off the ring finger and setting it down on the glossy black lid of a grand piano, warm amber light glinting on the metal, reflections in the polished wood, palette #d96b27 #e6b85c #0a0f1d, quiet symbolic cinematic detail\n22. Steadicam push moving through a live band on a stadium stage, passing an accordion bellows expanding framed so tightly that only the bellows folds are visible, then drumsticks striking a snare in a burst of backlit haze, lights swelling from amber to cyan, palette #0a0f1d #d96b27 #00D2FF, rising cinematic concert energy\n23. Medium push-in on a beautiful Brazilian woman with long wavy chestnut hair standing up from the runway edge, shoulders rising with a deep breath, chin steady, eyes locked on the far end of the stadium with quiet determination, amber light hardening on her face, cyan beams waking behind, palette #0a0f1d #d96b27 #2c6fbb, cinematic emotional build\n24. Lateral aerial drone sweep along a packed stadium grandstand at night, thousands of phone lights, amber and cyan beams beginning to cross over the bowl, haze glowing, the stage blazing at frame edge, palette #070B19 #FF5500 #00D2FF, epic anticipation, photorealistic concert film\n25. Crane shot opening wide on a stadium stage at full power, towering amber and cyan light columns, giant LED glow, a woman with long chestnut hair at the center of the runway with one arm raised high, crowd arms everywhere, haze columns, palette #070B19 #FF5500 #00D2FF, peak live concert cinematography\n26. Steadicam retreating in front of a beautiful Brazilian woman with long wavy chestnut hair striding powerfully down a stadium runway toward camera, hair flying in fan wind, one fist punching the air on the beat, amber and cyan beams sweeping behind her, crowd on both sides, palette #070B19 #d96b27 #00D2FF, powerful concert film energy\n27. Slow-motion medium-wide shot of a stadium crowd at night, arms raised and swaying together, emotional faces lit by warm amber stage wash, glowing phones, glitter of tears catching light, cyan beams overhead, palette #070B19 #FF9E4A #00D2FF, cathartic collective moment, photorealistic\n28. Frontal backlit shot of a woman's silhouette with long wavy hair standing at a microphone stand as white and amber strobe lights flash behind her, one fist rising on the beat, hair rim-lit, haze bursts frozen by the flashes, deep navy darkness between pulses, palette #070B19 #d96b27 #e0e6ed, high-energy strobe concert shot\n29. Extreme close-up framed from the eyes upward of a young Brazilian woman with head tilted back, eyes shut tight, temple veins and brow tension visible, sweat glistening in hard amber backlight, strands of hair backlit and flying, deep blue darkness behind, palette #0a0f1d #d96b27, raw emotional concert cinematography\n30. FPV drone shot rising fast from just above a stadium crowd up over the bowl, revealing the entire arena pulsing with amber and cyan beams, waves of phone lights, blazing stage below, night sky above, palette #070B19 #FF5500 #00D2FF, breathtaking scale, photorealistic concert film\n31. Slow-motion macro detail framed so tightly that only a hand gripping a microphone stand is visible, knuckles whitening with force, amber and cyan light sweeping across the brushed metal, haze behind, palette #070B19 #d96b27 #00D2FF, intense cinematic concert detail\n32. Handheld fan-cam shot of a young woman riding on someone's shoulders above a stadium crowd, arms spread wide, head tilted back with eyes closed, bathed in warm amber stage wash with cyan beams sweeping past, out-of-focus phone lights all around, palette #0E0E12 #FF9E4A #00D2FF, euphoric authentic live concert footage\n33. Low-angle orbital shot circling a beautiful Brazilian woman with long chestnut hair standing tall at a microphone stand, seen heroically from below against crossing amber and cyan beams and the dark stadium sky, hair blowing, haze rays radiating, palette #070B19 #d96b27 #00D2FF, monumental cinematic concert frame\n34. Wide shot of a stadium stage with a giant LED screen glowing with abstract warm light washes behind the performers, front rows of the crowd in silhouette with raised arms, amber and cyan beams overhead, haze, palette #070B19 #d96b27 #00D2FF, grand live production frame, no legible text on screens\n35. Wide shot from the back of a stadium stage, the silhouettes of a female performer and her band against a blinding wall of amber and cyan stadium light, haze columns rising, ocean of phone lights beyond, palette #070B19 #FF5500 #00D2FF, epic silhouette cinematography\n36. Very slow dolly-in through darkness toward a woman with long wavy chestnut hair seated again at the grand piano under a single warm amber spotlight, the entire stadium blacked out around her, tens of thousands of phone lights floating in the dark like a galaxy, absolute intimacy inside vastness, palette #0E0E12 #FF9E4A #F5C97B, breath-holding cinematic moment\n37. Overhead top-down shot slowly descending on a circular pool of warm amber light around a grand piano in total darkness, a woman with long chestnut hair leaning her head back, eyes closed tight, arms loose at her sides, faint phone lights at the frame edges, palette #0E0E12 #d96b27 #e6b85c, suspended emotional cinematic frame\n38. Massive wide shot as every stadium light blasts on at once, golden confetti erupting over the stage and crowd, amber and cyan beams at full power, a woman with chestnut hair at the runway center with both arms spread wide, palette #070B19 #FF5500 #00D2FF #e6b85c, explosive cathartic concert climax, photorealistic\n39. Fast steadicam tracking alongside a beautiful Brazilian woman with long wavy chestnut hair striding wide down a stadium runway under falling golden confetti, jacket catching amber light, crowd arms blurring past, cyan beams sweeping, palette #070B19 #d96b27 #00D2FF, exhilarating concert film motion\n40. FPV drone dive from the stadium roof plunging through falling golden confetti and crossing amber and cyan beams down toward the blazing stage, crowd lights streaking, pulling up in a low pass over the runway, palette #070B19 #FF5500 #00D2FF, spectacular concert cinematography, photorealistic\n41. Slow-motion shot of an ecstatic stadium crowd, people laughing and crying at once, arms stretched upward as golden confetti drifts down through amber light, phone lights glowing, cyan beams above, palette #070B19 #FF9E4A #00D2FF, pure collective catharsis, photorealistic\n42. Slow-motion wide shot from behind a woman with long chestnut hair at the runway tip raising a single fist high toward a fully lit stadium, golden confetti suspended in the air, fireworks glow above, ocean of lights ahead, palette #070B19 #d96b27 #00D2FF #e6b85c, definitive triumphant frame, photorealistic\n43. Slow-motion extreme close-up framed from the eyes upward of a young Brazilian woman with chin raised high, eyes glossy and blazing with release, a shining tear track on her cheekbone catching amber light, golden confetti bokeh floating around her hair, palette #0a0f1d #d96b27 #e6b85c, triumphant emotional cinematography\n44. Speed-ramped whip pan tearing from an euphoric stadium crowd to a sudden sharp lock on a woman with long chestnut hair standing at the runway tip, golden confetti streaking horizontally in the motion blur, amber and cyan beams smearing then snapping into focus, palette #070B19 #FF5500 #00D2FF, kinetic concert climax shot\n45. Wide orbital shot circling a woman with long chestnut hair standing at the runway tip with both arms spread wide facing the crowd, golden confetti swirling in the fan wind, amber and cyan beams rotating around her, ocean of lights beyond, palette #070B19 #d96b27 #00D2FF, iconic climax frame, photorealistic\n46. Aerial wide shot of fireworks bursting over the open bowl of a packed stadium at night, gold and white blooms reflecting on the sea of phone lights below, blazing stage at the center, amber and cyan beams, palette #070B19 #FF5500 #e6b85c, grand finale spectacle, photorealistic\n47. Handheld fan-cam shot inside a jumping stadium crowd, strangers hugging and bouncing together under falling golden confetti, warm amber wash and cyan flashes, phones waving, joyful chaos, palette #0E0E12 #FF9E4A #00D2FF, raw authentic live concert footage\n48. Macro detail shot framed so tightly that only piano keys and the glossy lid are visible as golden confetti flutters down onto them, the abandoned delicate ring resting on the black lacquer catching amber light, palette #d96b27 #e6b85c #0a0f1d, poetic symbolic cinematic detail\n49. Static medium shot of a beautiful Brazilian woman with long wavy chestnut hair alone in a single warm amber spotlight on a dark stage, pressing one hand flat over her heart and bowing her head, confetti settling around her boots, the spotlight slowly irising down toward darkness, palette #0E0E12 #d96b27, quiet emotional ending, photorealistic\n50. Slow low dolly along an empty stadium runway after the show's climax, golden confetti settling on the glossy reflective floor, thin floor-level haze drifting, the arena lights dimming to deep navy with scattered phone lights fading in the dark bowl, palette #0E0E12 #d96b27 #e6b85c, quiet aftermath cinematic mood\n51. Aerial drone shot pulling back and rising away from a stadium at night as the stage lights fade out from the center, leaving only tens of thousands of tiny phone lights glowing in the dark bowl like a field of stars, faint smoke drifting over the stage, image slowly dimming toward black, palette #070B19 #0E0E12 #e6b85c, emotional closing frame, photorealistic\n\n## Publicação (YouTube)\n\n- **Título:** Segunda Chance\n- **Tags:** emotivo, maduro, digno, crescente, piano acustico emocional, violao de aco, baixo eletrico melodico\n\n**Descrição:**\n\nUma mulher que perdoou uma vez conta, de frente, por que não vai perdoar de novo. A história é a da segunda chance desperdiçada: ela voltou, acreditou na promessa de mudança e viu tudo se repetir — o mesmo perfume, a mesma desculpa. Ela ainda ama. E é exatamente por isso que vai embora.\n\nO som é sertanejo de estádio: começa só com piano e uma voz quente, levemente rouca, quase conversando — e cresce a cada seção, com violão, sanfona, baixo melódico e uma bateria que vai ficando do tamanho da arena. No último refrão, a produção abre por inteiro: harmonias femininas, bateria de estádio e uma multidão cantando a frase central de volta.\n\nO clipe acompanha esse crescimento como um show ao vivo filmado de verdade. Da mulher sozinha ao piano, num círculo de luz âmbar cercado por um mar de celulares, até a passarela, o mergulho dos drones sobre a plateia, o confete dourado e os fogos do refrão final. No meio do caminho, um gesto pequeno diz tudo: o anel deixado sobre o tampo do piano.\n\nNão é uma música de vingança. É uma despedida com dignidade — de quem escolheu lembrar para nunca mais voltar.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR",
+    "imagem": "album cover, centered dramatic portrait of a beautiful 28-year-old Brazilian woman with long wavy chestnut hair, elegant fitted leather jacket over premium jeans, standing on a concert stage, looking straight into the lens with calm wounded resolve, warm amber key light sculpting her face against a deep navy stadium blurred background dotted with tiny phone lights like stars, shallow depth of field, palette deep navy #0a0f1d, warm amber #d96b27, soft cyan #2c6fbb, clean space at the bottom for a bold title, cinematic photorealistic photography, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, extra limbs, open mouth, microphone covering face, oversaturated skin, plastic skin",
+    "conceito": "Retrato dela no palco, de pé, olhar DIRETO na lente — calmo, ferido e decidido ao mesmo tempo: a pose da mulher que já chorou e já escolheu. Luz âmbar quente de show recortando o rosto contra o estádio azul-marinho desfocado, com pontinhos de celulares como estrelas. Escolha de olhar: direto na lente (nada de queixo erguido nem olhos fechados — isso é recurso do clipe), porque a música é uma decisão dita de frente.",
+    "tagline": "segunda chance não tem terceira vez",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone zenital descendo lento",
+      "prompt": "Cinematic aerial top-down drone shot slowly descending over a dark packed stadium at night, a single warm amber spotlight isolating a grand piano at center stage with the seated silhouette of a woman with long wavy hair, thousands of tiny phone lights in the darkness like stars, haze in the light beam, palette deep navy #0a0f1d and amber #d96b27, epic scale, photorealistic concert film",
+      "alt": "Cinematic aerial top-down drone shot slowly descending over a dark stadium at night, a single warm amber spotlight isolating an empty grand piano on a vast stage, haze drifting through the light cone, thousands of tiny distant lights like stars in the dark bowl, palette deep navy #0a0f1d and amber #d96b27, photorealistic"
+     },
+     {
+      "n": 2,
+      "secao": "verso 1",
+      "camera": "dolly-in lento frontal",
+      "prompt": "Slow frontal dolly-in across a dark stage toward a beautiful 28-year-old Brazilian woman with long wavy chestnut hair in an elegant leather jacket, seated at a grand piano, eyes lowered toward the keys, warm amber key light against deep navy darkness, soft haze, blurred stadium bokeh behind her, palette #0a0f1d #d96b27, intimate cinematic concert film, shallow depth of field",
+      "alt": "Slow frontal dolly-in toward a grand piano on a dark stage bathed in a warm amber spotlight, polished black lid reflecting the light cone, soft haze drifting, blurred deep navy stadium bokeh in the background, palette #0a0f1d #d96b27, intimate cinematic mood, shallow depth of field"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "close em perfil, estático com leve drift",
+      "prompt": "Intimate profile close-up of a young Brazilian woman with long wavy chestnut hair, backlit by warm amber stage light, a vintage microphone positioned in front of the lower half of her face, eyes soft and glistening, hair rim-lit, deep navy darkness behind, gentle camera drift, palette #0a0f1d #d96b27 #e6b85c, cinematic photorealistic, shallow depth of field",
+      "alt": "A vintage stage microphone in warm amber backlight with a soft feminine silhouette blurred behind it, glowing rim light tracing the mic grille, haze in the beam, deep navy darkness around, gentle camera drift, palette #0a0f1d #d96b45, cinematic shallow depth of field"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "handheld fan-cam da plateia",
+      "prompt": "Handheld fan-cam style shot from within a stadium crowd at night, out-of-focus raised phone screens glowing in the foreground, in the distance a woman at a grand piano under a single warm amber spotlight on a huge dark stage, natural warm concert grade, organic camera sway, palette #0E0E12 #FF9E4A #F5C97B, realistic live concert footage",
+      "alt": "Handheld shot from within a dark stadium crowd at night, a sea of out-of-focus glowing phone screens filling the frame like fireflies, a distant warm amber pool of light on a stage far away, organic camera sway, palette #0E0E12 #FF9E4A, realistic live concert atmosphere"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "detalhe estático com leve push-in",
+      "prompt": "Macro detail shot framed so tightly that only piano keys and fingers pressing them are visible, a delicate ring catching a glint of warm amber light, polished ivory keys reflecting golden stage glow, slow subtle push-in, deep shadows around, palette #d96b27 #e6b85c #0a0f1d, cinematic shallow depth of field, photorealistic",
+      "alt": "Macro detail of grand piano keys in warm amber stage light, framed so tightly that only the keys and their reflections are visible, one key gently pressed down, golden glow and deep shadows, slow subtle push-in, palette #d96b27 #e6b85c #0a0f1d, cinematic photorealistic"
+     },
+     {
+      "n": 6,
+      "secao": "pré-refrão 1",
+      "camera": "steadicam travelling lateral",
+      "prompt": "Steadicam lateral travelling across a concert stage as the band comes alive, framed so tightly that only an accordion bellows expanding in warm amber light is visible in the foreground, a drummer silhouette and cymbals catching cyan backlight behind, rising haze, palette #0a0f1d #d96b27 #2c6fbb, cinematic live concert energy",
+      "alt": "Steadicam lateral travelling across a stage in low light, an accordion bellows expanding framed so tightly that only the bellows folds are visible, warm amber glow on the pleats, cyan rim lights and drum cymbals glinting in the blurred background, haze, palette #0a0f1d #d96b27 #2c6fbb, cinematic"
+     },
+     {
+      "n": 7,
+      "secao": "pré-refrão 1",
+      "camera": "plano médio frontal, leve tilt up",
+      "prompt": "Medium frontal shot of a beautiful Brazilian woman with long wavy chestnut hair rising from a grand piano bench and gripping a microphone stand with one firm hand, shoulders lifting in a deep breath, jaw set, eyes forward, stage lights blooming from amber to blue behind her, slight tilt up, palette #0a0f1d #d96b27 #2c6fbb, cinematic concert film",
+      "alt": "Medium shot of a microphone stand on a stage being gripped by a hand framed at the edge of the light, a feminine silhouette rising behind it against blooming amber and blue stage lights, haze beams intensifying, slight tilt up, palette #0a0f1d #d96b27 #2c6fbb, cinematic concert atmosphere"
+     },
+     {
+      "n": 8,
+      "secao": "pré-refrão 1",
+      "camera": "drone recuando e subindo",
+      "prompt": "Aerial drone shot pulling back and rising from the stage of a packed stadium at night, revealing the full bowl, crossing amber and cyan light beams sweeping over the crowd, thousands of phone lights, haze glowing in the beams, palette #070B19 #d96b27 #00D2FF, epic cinematic scale, photorealistic concert film",
+      "alt": "Aerial drone shot pulling back and rising over a stadium at night, crossing amber and cyan searchlight beams sweeping through haze above a dark sea of tiny lights, monumental architecture of the stage glowing, palette #070B19 #d96b27 #00D2FF, epic cinematic scale"
+     },
+     {
+      "n": 9,
+      "secao": "refrão 1",
+      "camera": "grua descendo frontal",
+      "prompt": "Crane shot descending in front of a massive stadium stage exploding with amber and blue light beams, full live band playing, a woman with long chestnut hair at center gripping a microphone stand, head tilted back, haze columns, giant LED glow behind, palette #070B19 #FF5500 #00D2FF, epic live concert cinematography",
+      "alt": "Crane shot descending in front of a massive stadium stage as amber and blue beams blast upward through haze, full band silhouettes at their instruments, a central figure at a microphone stand seen from a distance, giant LED glow behind, palette #070B19 #FF5500 #00D2FF, epic concert cinematography"
+     },
+     {
+      "n": 10,
+      "secao": "refrão 1",
+      "camera": "steadicam acompanhando na passarela",
+      "prompt": "Steadicam tracking shot following a beautiful Brazilian woman with long wavy chestnut hair striding down a stadium runway toward the crowd, fist wrapped around a handheld microphone at her side, hair blowing, amber and cyan beams sweeping, crowd arms raised on both sides, palette #070B19 #d96b27 #00D2FF, energetic live concert film",
+      "alt": "Steadicam tracking shot gliding down an elevated stadium runway between two seas of raised arms and glowing phone lights, amber and cyan beams sweeping across haze, a silhouetted figure walking ahead with back to camera, palette #070B19 #d96b27 #00D2FF, energetic concert film"
+     },
+     {
+      "n": 11,
+      "secao": "refrão 1",
+      "camera": "plano geral da plateia, pan lento",
+      "prompt": "Wide shot slowly panning across a massive stadium crowd at night, thousands of people jumping in rhythm with arms raised, glowing phone lights waving, warm amber wash from the stage spilling over the front rows, cyan beams overhead, palette #070B19 #FF9E4A #00D2FF, euphoric live concert energy, photorealistic",
+      "alt": "Wide shot slowly panning across a stadium bowl at night filled with waving points of light, silhouetted raised arms moving in rhythm, warm amber stage glow washing the nearest rows, cyan beams crossing overhead haze, palette #070B19 #FF9E4A #00D2FF, euphoric concert atmosphere"
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "drone FPV mergulhando",
+      "prompt": "FPV drone dive swooping low over a packed stadium crowd toward a blazing stage, amber and cyan beams crossing the frame, phone lights streaking past, haze glowing, the runway and band growing closer at speed, palette #070B19 #FF5500 #00D2FF, adrenaline concert cinematography, photorealistic",
+      "alt": "FPV drone dive swooping over a dark sea of glowing lights toward a distant blazing stage, amber and cyan beams crossing through haze, light streaks at the frame edges from the speed, palette #070B19 #FF5500 #00D2FF, adrenaline cinematic energy"
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "plano médio lateral do sanfoneiro, leve handheld",
+      "prompt": "Medium lateral shot with subtle handheld energy of an accordion player on a stadium stage at full chorus power, bellows stretched wide, fingers flying over the buttons, warm amber key light with cyan rim light, haze beams sweeping behind, blurred crowd lights beyond the stage edge, palette #070B19 #d96b27 #00D2FF, vibrant live concert cinematography",
+      "alt": "Medium lateral shot of an accordion framed so tightly that only the fully stretched bellows and buttons are visible, warm amber light raking the pleats, cyan glints on the keys, sweeping haze beams in the blurred background, palette #070B19 #d96b27 #00D2FF, vibrant live concert detail"
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "close dos olhos para cima, contraluz",
+      "prompt": "Extreme close-up framed from the eyes upward of a young Brazilian woman, eyes squeezed shut with intensity, brows tense, beads of sweat catching light, backlit by a blinding amber spotlight flare behind her head, hair rim-lit, deep blue darkness around, palette #0a0f1d #d96b27, emotional cinematic concert film",
+      "alt": "A blinding amber spotlight flare partially eclipsed by the dark silhouette of a head seen from behind, rim light tracing flying strands of hair, haze rays radiating outward, deep blue darkness around, palette #0a0f1d #d96b27, emotional cinematic backlight shot"
+     },
+     {
+      "n": 15,
+      "secao": "refrão 1",
+      "camera": "detalhe em slowmo, câmera baixa",
+      "prompt": "Slow-motion low-angle detail shot framed so tightly that only an elegant leather boot and ankle are visible stomping the beat on a glossy stadium runway, amber and cyan light sweeping across the reflective floor, haze at floor level, palette #070B19 #d96b27 #00D2FF, rhythmic cinematic concert detail",
+      "alt": "Slow-motion low-angle shot of a glossy stadium runway floor as sweeping amber and cyan beams slide across its reflections, floor-level haze drifting, the shadow of a stomping step crossing the light pool, palette #070B19 #d96b27 #00D2FF, rhythmic cinematic detail"
+     },
+     {
+      "n": 16,
+      "secao": "refrão 1",
+      "camera": "orbital ao redor dela",
+      "prompt": "Orbital camera move circling a beautiful Brazilian woman with long wavy chestnut hair planted at a microphone stand, chin lifted, one hand pressed over her heart, amber and blue beams rotating around her through haze, stadium lights wheeling in the background, palette #070B19 #d96b27 #2c6fbb, dynamic cinematic concert shot",
+      "alt": "Orbital camera move circling a lone microphone stand at center stage, amber and blue beams rotating around it through thick haze, a feminine silhouette just outside the light pool, stadium lights wheeling in the blurred background, palette #070B19 #d96b27 #2c6fbb, dynamic cinematic shot"
+     },
+     {
+      "n": 17,
+      "secao": "refrão 1",
+      "camera": "plano geral por trás dela",
+      "prompt": "Wide shot from behind a woman with long chestnut hair standing at the edge of a stadium runway, facing an ocean of phone lights and raised arms stretching to the upper decks, amber wash on her back, cyan beams over the crowd, monumental scale, palette #070B19 #d96b27 #00D2FF, iconic concert film frame",
+      "alt": "Wide shot from behind a silhouetted figure standing at the edge of a stage runway facing a vast stadium bowl filled with glowing lights and raised arms, amber rim light on the silhouette, cyan beams across the haze, monumental scale, palette #070B19 #d96b27 #00D2FF, iconic concert frame"
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "dolly lento lateral",
+      "prompt": "Slow lateral dolly of a beautiful Brazilian woman with long wavy chestnut hair sitting on the edge of a stadium runway, legs hanging, a microphone resting loosely in her hand on her lap, warm amber pool of light around her, soft blurred crowd lights below, quiet intimate mood inside a huge dark arena, palette #0E0E12 #FF9E4A #F5C97B, cinematic shallow depth of field",
+      "alt": "Slow lateral dolly along the edge of a stadium runway at night, a warm amber pool of light on the glossy floor where a microphone rests, soft blurred crowd lights glowing below in the darkness, quiet intimate mood inside a huge dark arena, palette #0E0E12 #FF9E4A #F5C97B, cinematic"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "close em perfil contra a luz",
+      "prompt": "Intimate profile close-up of a young Brazilian woman with wavy chestnut hair, a handheld microphone held in front of the lower half of her face, a single tear sliding down her cheek catching warm amber backlight, eyes glistening and distant, deep navy darkness behind, palette #0a0f1d #d96b27 #e6b85c, emotional cinematic photorealism",
+      "alt": "Macro shot of a single drop of water sliding down a curved surface lit by warm amber backlight against deep navy darkness, glowing trail catching the light, soft haze, palette #0a0f1d #d96b27 #e6b85c, emotional abstract cinematic detail"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "handheld fan-cam",
+      "prompt": "Handheld fan-cam style shot from deep in a stadium crowd, out-of-focus phone screens swaying slowly in the foreground, in the distance a woman seated on the runway edge under warm amber light in a vast dark arena, natural concert grade, organic hand sway, palette #0E0E12 #FF9E4A #C96A2E, realistic live footage",
+      "alt": "Handheld shot from deep in a dark stadium crowd, thousands of out-of-focus warm lights swaying slowly like candles, a distant amber glow on an empty runway, organic hand sway, palette #0E0E12 #FF9E4A #C96A2E, realistic live concert atmosphere"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "detalhe estático",
+      "prompt": "Macro detail shot framed so tightly that only a hand and fingers are visible sliding a delicate ring off the ring finger and setting it down on the glossy black lid of a grand piano, warm amber light glinting on the metal, reflections in the polished wood, palette #d96b27 #e6b85c #0a0f1d, quiet symbolic cinematic detail",
+      "alt": "Macro detail of a delicate ring resting alone on the glossy black lid of a grand piano, warm amber light glinting on the metal band, the piano surface reflecting a soft light cone, deep shadows around, palette #d96b27 #e6b85c #0a0f1d, quiet symbolic cinematic still"
+     },
+     {
+      "n": 22,
+      "secao": "pré-refrão 2",
+      "camera": "steadicam avançando pela banda",
+      "prompt": "Steadicam push moving through a live band on a stadium stage, passing an accordion bellows expanding framed so tightly that only the bellows folds are visible, then drumsticks striking a snare in a burst of backlit haze, lights swelling from amber to cyan, palette #0a0f1d #d96b27 #00D2FF, rising cinematic concert energy",
+      "alt": "Steadicam push across a stage floor through rising haze, instruments catching amber and cyan glints, drumsticks striking a snare framed so tightly that only the sticks and drumhead are visible, light beams swelling in intensity, palette #0a0f1d #d96b27 #00D2FF, rising concert energy"
+     },
+     {
+      "n": 23,
+      "secao": "pré-refrão 2",
+      "camera": "plano médio, push-in",
+      "prompt": "Medium push-in on a beautiful Brazilian woman with long wavy chestnut hair standing up from the runway edge, shoulders rising with a deep breath, chin steady, eyes locked on the far end of the stadium with quiet determination, amber light hardening on her face, cyan beams waking behind, palette #0a0f1d #d96b27 #2c6fbb, cinematic emotional build",
+      "alt": "Medium push-in on a feminine silhouette rising to stand on a stadium runway against hardening amber light, posture straightening, hair lifted by fan wind, cyan beams waking in the haze behind, palette #0a0f1d #d96b27 #2c6fbb, cinematic emotional build"
+     },
+     {
+      "n": 24,
+      "secao": "pré-refrão 2",
+      "camera": "drone lateral varrendo",
+      "prompt": "Lateral aerial drone sweep along a packed stadium grandstand at night, thousands of phone lights, amber and cyan beams beginning to cross over the bowl, haze glowing, the stage blazing at frame edge, palette #070B19 #FF5500 #00D2FF, epic anticipation, photorealistic concert film",
+      "alt": "Lateral aerial drone sweep along a stadium bowl at night filled with tiny glowing lights, amber and cyan beams crossing through haze above, monumental light structure blazing at the frame edge, palette #070B19 #FF5500 #00D2FF, epic cinematic anticipation"
+     },
+     {
+      "n": 25,
+      "secao": "refrão 2",
+      "camera": "grua abrindo frontal",
+      "prompt": "Crane shot opening wide on a stadium stage at full power, towering amber and cyan light columns, giant LED glow, a woman with long chestnut hair at the center of the runway with one arm raised high, crowd arms everywhere, haze columns, palette #070B19 #FF5500 #00D2FF, peak live concert cinematography",
+      "alt": "Crane shot opening wide on a stadium stage at full power, towering amber and cyan light columns rising through haze, giant LED panels glowing, silhouetted figures across the runway with arms raised, palette #070B19 #FF5500 #00D2FF, peak concert cinematography"
+     },
+     {
+      "n": 26,
+      "secao": "refrão 2",
+      "camera": "steadicam frontal recuando",
+      "prompt": "Steadicam retreating in front of a beautiful Brazilian woman with long wavy chestnut hair striding powerfully down a stadium runway toward camera, hair flying in fan wind, one fist punching the air on the beat, amber and cyan beams sweeping behind her, crowd on both sides, palette #070B19 #d96b27 #00D2FF, powerful concert film energy",
+      "alt": "Steadicam retreating low along a stadium runway, glossy floor reflecting sweeping amber and cyan beams, fan wind rippling through haze, a striding silhouette advancing in the background rim light, crowd lights on both sides, palette #070B19 #d96b27 #00D2FF, powerful concert energy"
+     },
+     {
+      "n": 27,
+      "secao": "refrão 2",
+      "camera": "plateia em slowmo",
+      "prompt": "Slow-motion medium-wide shot of a stadium crowd at night, arms raised and swaying together, emotional faces lit by warm amber stage wash, glowing phones, glitter of tears catching light, cyan beams overhead, palette #070B19 #FF9E4A #00D2FF, cathartic collective moment, photorealistic",
+      "alt": "Slow-motion shot of raised arms and waving points of light filling a dark stadium frame, warm amber wash gliding across the silhouettes, cyan beams crossing overhead haze, sparkles of light drifting, palette #070B19 #FF9E4A #00D2FF, cathartic collective atmosphere"
+     },
+     {
+      "n": 28,
+      "secao": "refrão 2",
+      "camera": "contraluz frontal com strobes",
+      "prompt": "Frontal backlit shot of a woman's silhouette with long wavy hair standing at a microphone stand as white and amber strobe lights flash behind her, one fist rising on the beat, hair rim-lit, haze bursts frozen by the flashes, deep navy darkness between pulses, palette #070B19 #d96b27 #e0e6ed, high-energy strobe concert shot",
+      "alt": "Frontal backlit shot of a lone microphone stand silhhouetted against white and amber strobe flashes, haze bursts frozen mid-air by each pulse, deep navy darkness between flashes, glossy stage floor reflecting the light, palette #070B19 #d96b27 #e0e6ed, high-energy strobe concert frame"
+     },
+     {
+      "n": 29,
+      "secao": "refrão 2",
+      "camera": "close dos olhos para cima",
+      "prompt": "Extreme close-up framed from the eyes upward of a young Brazilian woman with head tilted back, eyes shut tight, temple veins and brow tension visible, sweat glistening in hard amber backlight, strands of hair backlit and flying, deep blue darkness behind, palette #0a0f1d #d96b27, raw emotional concert cinematography",
+      "alt": "Hard amber backlight flaring around the dark silhouette of a head tilted back, flying strands of hair glowing at the rim, radiating haze rays, deep blue darkness surrounding the flare, palette #0a0f1d #d96b27, raw emotional backlit cinematography"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "drone FPV subindo",
+      "prompt": "FPV drone shot rising fast from just above a stadium crowd up over the bowl, revealing the entire arena pulsing with amber and cyan beams, waves of phone lights, blazing stage below, night sky above, palette #070B19 #FF5500 #00D2FF, breathtaking scale, photorealistic concert film",
+      "alt": "FPV drone shot rising fast over a dark stadium bowl at night, the entire arena pulsing with amber and cyan beams through haze, waves of tiny lights below, night sky opening above, palette #070B19 #FF5500 #00D2FF, breathtaking cinematic scale"
+     },
+     {
+      "n": 31,
+      "secao": "refrão 2",
+      "camera": "detalhe slowmo",
+      "prompt": "Slow-motion macro detail framed so tightly that only a hand gripping a microphone stand is visible, knuckles whitening with force, amber and cyan light sweeping across the brushed metal, haze behind, palette #070B19 #d96b27 #00D2FF, intense cinematic concert detail",
+      "alt": "Slow-motion macro detail of a microphone stand pole with amber and cyan light sweeping across its brushed metal surface, haze drifting behind, reflections sliding along the chrome, palette #070B19 #d96b27 #00D2FF, intense cinematic detail"
+     },
+     {
+      "n": 32,
+      "secao": "refrão 2",
+      "camera": "handheld fan-cam",
+      "prompt": "Handheld fan-cam shot of a young woman riding on someone's shoulders above a stadium crowd, arms spread wide, head tilted back with eyes closed, bathed in warm amber stage wash with cyan beams sweeping past, out-of-focus phone lights all around, palette #0E0E12 #FF9E4A #00D2FF, euphoric authentic live concert footage",
+      "alt": "Handheld shot of a silhouetted fan lifted on shoulders above a dark crowd, arms spread wide against sweeping amber and cyan beams, out-of-focus phone lights filling the frame around them, organic camera shake, palette #0E0E12 #FF9E4A #00D2FF, euphoric live concert atmosphere"
+     },
+     {
+      "n": 33,
+      "secao": "refrão 2",
+      "camera": "orbital contrapicado",
+      "prompt": "Low-angle orbital shot circling a beautiful Brazilian woman with long chestnut hair standing tall at a microphone stand, seen heroically from below against crossing amber and cyan beams and the dark stadium sky, hair blowing, haze rays radiating, palette #070B19 #d96b27 #00D2FF, monumental cinematic concert frame",
+      "alt": "Low-angle orbital shot circling a lone microphone stand seen from below against crossing amber and cyan beams in the dark stadium sky, haze rays radiating from the lights, a tall silhouette at the frame edge, palette #070B19 #d96b27 #00D2FF, monumental cinematic frame"
+     },
+     {
+      "n": 34,
+      "secao": "refrão 2",
+      "camera": "plano geral com telão",
+      "prompt": "Wide shot of a stadium stage with a giant LED screen glowing with abstract warm light washes behind the performers, front rows of the crowd in silhouette with raised arms, amber and cyan beams overhead, haze, palette #070B19 #d96b27 #00D2FF, grand live production frame, no legible text on screens",
+      "alt": "Wide shot of a stadium stage with a giant LED screen glowing in abstract amber and blue gradients, front rows in silhouette with raised arms, beams crossing overhead haze, palette #070B19 #d96b27 #00D2FF, grand live production frame, no legible text"
+     },
+     {
+      "n": 35,
+      "secao": "refrão 2",
+      "camera": "plano geral do fundo do palco",
+      "prompt": "Wide shot from the back of a stadium stage, the silhouettes of a female performer and her band against a blinding wall of amber and cyan stadium light, haze columns rising, ocean of phone lights beyond, palette #070B19 #FF5500 #00D2FF, epic silhouette cinematography",
+      "alt": "Wide shot from the back of a stadium stage, dark instrument and figure silhouettes against a blinding wall of amber and cyan light, haze columns rising through the beams, glowing sea of lights beyond, palette #070B19 #FF5500 #00D2FF, epic silhouette frame"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "dolly-in muito lento",
+      "prompt": "Very slow dolly-in through darkness toward a woman with long wavy chestnut hair seated again at the grand piano under a single warm amber spotlight, the entire stadium blacked out around her, tens of thousands of phone lights floating in the dark like a galaxy, absolute intimacy inside vastness, palette #0E0E12 #FF9E4A #F5C97B, breath-holding cinematic moment",
+      "alt": "Very slow dolly-in through darkness toward a grand piano under a single warm amber spotlight on a blacked-out stadium stage, tens of thousands of tiny lights floating in the surrounding dark like a galaxy, haze in the light cone, palette #0E0E12 #FF9E4A #F5C97B, breath-holding cinematic stillness"
+     },
+     {
+      "n": 37,
+      "secao": "ponte",
+      "camera": "zenital descendo devagar",
+      "prompt": "Overhead top-down shot slowly descending on a circular pool of warm amber light around a grand piano in total darkness, a woman with long chestnut hair leaning her head back, eyes closed tight, arms loose at her sides, faint phone lights at the frame edges, palette #0E0E12 #d96b27 #e6b85c, suspended emotional cinematic frame",
+      "alt": "Overhead top-down shot slowly descending on a circular pool of warm amber light around a grand piano in total darkness, the polished lid reflecting the spotlight, faint tiny lights at the frame edges like distant stars, palette #0E0E12 #d96b27 #e6b85c, suspended cinematic stillness"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "grande plano geral, corte seco",
+      "prompt": "Massive wide shot as every stadium light blasts on at once, golden confetti erupting over the stage and crowd, amber and cyan beams at full power, a woman with chestnut hair at the runway center with both arms spread wide, palette #070B19 #FF5500 #00D2FF #e6b85c, explosive cathartic concert climax, photorealistic",
+      "alt": "Massive wide shot of a stadium as every light blasts on at once, golden confetti erupting through amber and cyan beams over stage and crowd, silhouetted arms everywhere, palette #070B19 #FF5500 #00D2FF #e6b85c, explosive cathartic concert climax"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "steadicam correndo na passarela",
+      "prompt": "Fast steadicam tracking alongside a beautiful Brazilian woman with long wavy chestnut hair striding wide down a stadium runway under falling golden confetti, jacket catching amber light, crowd arms blurring past, cyan beams sweeping, palette #070B19 #d96b27 #00D2FF, exhilarating concert film motion",
+      "alt": "Fast steadicam rushing low along a stadium runway under falling golden confetti, glossy floor reflecting amber and cyan sweeps, crowd lights blurring past on both sides, a striding silhouette ahead, palette #070B19 #d96b27 #00D2FF, exhilarating concert motion"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "drone FPV mergulhando do teto",
+      "prompt": "FPV drone dive from the stadium roof plunging through falling golden confetti and crossing amber and cyan beams down toward the blazing stage, crowd lights streaking, pulling up in a low pass over the runway, palette #070B19 #FF5500 #00D2FF, spectacular concert cinematography, photorealistic",
+      "alt": "FPV drone dive from a stadium roof plunging through falling golden confetti and crossing amber and cyan light beams toward a blazing stage below, lights streaking with speed, palette #070B19 #FF5500 #00D2FF, spectacular cinematic dive"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "plateia em slowmo",
+      "prompt": "Slow-motion shot of an ecstatic stadium crowd, people laughing and crying at once, arms stretched upward as golden confetti drifts down through amber light, phone lights glowing, cyan beams above, palette #070B19 #FF9E4A #00D2FF, pure collective catharsis, photorealistic",
+      "alt": "Slow-motion shot of golden confetti drifting down through amber light over a field of raised silhouetted arms and glowing lights in a dark stadium, cyan beams crossing above, palette #070B19 #FF9E4A #00D2FF, pure collective catharsis"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "plano geral por trás, slowmo",
+      "prompt": "Slow-motion wide shot from behind a woman with long chestnut hair at the runway tip raising a single fist high toward a fully lit stadium, golden confetti suspended in the air, fireworks glow above, ocean of lights ahead, palette #070B19 #d96b27 #00D2FF #e6b85c, definitive triumphant frame, photorealistic",
+      "alt": "Slow-motion wide shot from behind a silhouette at a runway tip raising a single fist toward a fully lit stadium bowl, golden confetti suspended mid-air, fireworks glow above the rim, ocean of lights ahead, palette #070B19 #d96b27 #00D2FF #e6b85c, definitive triumphant frame"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "close dos olhos para cima, slowmo",
+      "prompt": "Slow-motion extreme close-up framed from the eyes upward of a young Brazilian woman with chin raised high, eyes glossy and blazing with release, a shining tear track on her cheekbone catching amber light, golden confetti bokeh floating around her hair, palette #0a0f1d #d96b27 #e6b85c, triumphant emotional cinematography",
+      "alt": "Slow-motion shot of golden confetti bokeh floating through a warm amber light beam against deep navy darkness, one piece catching a bright glint like a falling star, palette #0a0f1d #d96b27 #e6b85c, triumphant emotional abstract detail"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "whip pan com speedramp, da plateia para ela",
+      "prompt": "Speed-ramped whip pan tearing from an euphoric stadium crowd to a sudden sharp lock on a woman with long chestnut hair standing at the runway tip, golden confetti streaking horizontally in the motion blur, amber and cyan beams smearing then snapping into focus, palette #070B19 #FF5500 #00D2FF, kinetic concert climax shot",
+      "alt": "Speed-ramped whip pan across smearing amber and cyan stadium lights snapping into sharp focus on an empty runway tip under falling golden confetti, motion-blur streaks resolving into crisp beams and haze, palette #070B19 #FF5500 #00D2FF, kinetic cinematic transition"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "orbital aberta",
+      "prompt": "Wide orbital shot circling a woman with long chestnut hair standing at the runway tip with both arms spread wide facing the crowd, golden confetti swirling in the fan wind, amber and cyan beams rotating around her, ocean of lights beyond, palette #070B19 #d96b27 #00D2FF, iconic climax frame, photorealistic",
+      "alt": "Wide orbital shot circling the tip of a stadium runway where golden confetti swirls in fan wind through rotating amber and cyan beams, an open-armed silhouette against the ocean of crowd lights beyond, palette #070B19 #d96b27 #00D2FF, iconic climax frame"
+     },
+     {
+      "n": 46,
+      "secao": "refrão final",
+      "camera": "plano geral aéreo com fogos",
+      "prompt": "Aerial wide shot of fireworks bursting over the open bowl of a packed stadium at night, gold and white blooms reflecting on the sea of phone lights below, blazing stage at the center, amber and cyan beams, palette #070B19 #FF5500 #e6b85c, grand finale spectacle, photorealistic",
+      "alt": "Aerial wide shot of gold and white fireworks blooming over a dark stadium bowl at night, reflections shimmering across thousands of tiny lights below, beams of amber and cyan rising from the center, palette #070B19 #FF5500 #e6b85c, grand finale spectacle"
+     },
+     {
+      "n": 47,
+      "secao": "refrão final",
+      "camera": "handheld fan-cam",
+      "prompt": "Handheld fan-cam shot inside a jumping stadium crowd, strangers hugging and bouncing together under falling golden confetti, warm amber wash and cyan flashes, phones waving, joyful chaos, palette #0E0E12 #FF9E4A #00D2FF, raw authentic live concert footage",
+      "alt": "Handheld shot inside a bouncing sea of silhouetted shoulders and raised arms under falling golden confetti, warm amber wash and cyan flashes sweeping over the crowd, waving points of light, palette #0E0E12 #FF9E4A #00D2FF, raw authentic live atmosphere"
+     },
+     {
+      "n": 48,
+      "secao": "refrão final",
+      "camera": "detalhe estático",
+      "prompt": "Macro detail shot framed so tightly that only piano keys and the glossy lid are visible as golden confetti flutters down onto them, the abandoned delicate ring resting on the black lacquer catching amber light, palette #d96b27 #e6b85c #0a0f1d, poetic symbolic cinematic detail",
+      "alt": "Macro detail of golden confetti fluttering down onto glossy black piano keys and lacquered wood, a small metal glint resting on the lid, warm amber light and deep shadows, palette #d96b27 #e6b85c #0a0f1d, poetic symbolic cinematic detail"
+     },
+     {
+      "n": 49,
+      "secao": "final",
+      "camera": "plano médio estático, luz caindo",
+      "prompt": "Static medium shot of a beautiful Brazilian woman with long wavy chestnut hair alone in a single warm amber spotlight on a dark stage, pressing one hand flat over her heart and bowing her head, confetti settling around her boots, the spotlight slowly irising down toward darkness, palette #0E0E12 #d96b27, quiet emotional ending, photorealistic",
+      "alt": "Static medium shot of a lone microphone stand in a single warm amber spotlight on a dark stage, golden confetti settling on the glossy floor around it, the light slowly dimming toward darkness, palette #0E0E12 #d96b27, quiet emotional ending"
+     },
+     {
+      "n": 50,
+      "secao": "final",
+      "camera": "dolly lento baixo",
+      "prompt": "Slow low dolly along an empty stadium runway after the show's climax, golden confetti settling on the glossy reflective floor, thin floor-level haze drifting, the arena lights dimming to deep navy with scattered phone lights fading in the dark bowl, palette #0E0E12 #d96b27 #e6b85c, quiet aftermath cinematic mood",
+      "alt": "Slow low dolly across a glossy dark stage floor covered in scattered golden confetti, a single warm amber pool of light slowly dimming, thin haze drifting at floor level, deep navy darkness beyond, palette #0E0E12 #d96b27 #e6b85c, quiet aftermath cinematic still"
+     },
+     {
+      "n": 51,
+      "secao": "final",
+      "camera": "drone recuando e subindo, fade final",
+      "prompt": "Aerial drone shot pulling back and rising away from a stadium at night as the stage lights fade out from the center, leaving only tens of thousands of tiny phone lights glowing in the dark bowl like a field of stars, faint smoke drifting over the stage, image slowly dimming toward black, palette #070B19 #0E0E12 #e6b85c, emotional closing frame, photorealistic",
+      "alt": "Aerial drone shot pulling back and rising over a darkened stadium bowl at night, a faint warm ember of light dying at the center stage while tiny scattered lights glimmer like stars across the dark stands, thin smoke drifting, slowly fading to black, palette #070B19 #0E0E12 #e6b85c, emotional closing frame"
+     }
+    ]
+   },
    "nuvem": "subindo",
    "likes": 0,
    "docs": []
