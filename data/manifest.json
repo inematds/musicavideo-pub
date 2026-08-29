@@ -504,6 +504,415 @@
   },
   {
    "fonte": "musicavideo",
+   "slug": "lindo-homem-sofisticado-elegante-40-anos",
+   "mvd": "MVD#148",
+   "titulo": "Dança Comigo",
+   "quando": "2026-08-28T12:04:22-03:00",
+   "solicitacao": "lindo homem, sofisticado elegante 40 anos ## Trilha e som - Musica: True · Sertanejo/Bachata Romântica / Sertanejo Universitário · ~128 bpm · Si menor (Bm) - Instrumentacao: Voz solo, Violão de nylon/aço com dedilhado de bachata, Bongo e güira (percussão latina), Baixo elétrico, Bateria acústica, Teclado/Sintetizador - Mood/energia: Apaixonado, dramático, emotivo e envolvente · alta - SFX: Gritos e aplausos da multidão em arena - Estrutura: Intro 00:00-00:11, Verso 1 00:11-00:43, Pré-Refrão 00:43-01:00, Refrão 1 01:00-01:52, Solo Violão 01:52-02:07, Verso 2 02:07-02:23, Refrão 2 02:23-03:13, Outro instrumental 03:13-03:39 - Mixagem: Voz principal destacada e brilhante no centro, violão dedilhado estéreo bem definido, percussão presente e coro da multidão nas laterais · sincronia: Sincronia labial e instrumental precisa de show gravado ao vivo **Prompt de musica (Suno/Udio):** ``` Brazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up. ``` Negativo: `electronic drop, techno, autotune heavy, distorted rock, lo-fi, acoustic only, slow funeral tempo`",
+   "genero": "sertanejo romântico com bachata / sertanejo universitário ao vivo",
+   "bpm": 128,
+   "tom": "Si menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "apaixonado",
+    "dramático",
+    "emotivo",
+    "envolvente",
+    "de arena"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/lindo-homem-sofisticado-elegante-40-anos/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 535378611,
+   "doc": "# Dança Comigo\n\n**slug:** `lindo-homem-sofisticado-elegante-40-anos`  ·  **solicitação:** lindo homem, sofisticado elegante 40 anos ## Trilha e som - Musica: True · Sertanejo/Bachata Romântica / Sertanejo Universitário · ~128 bpm · Si menor (Bm) - Instrumentacao: Voz solo, Violão de nylon/aço com dedilhado de bachata, Bongo e güira (percussão latina), Baixo elétrico, Bateria acústica, Teclado/Sintetizador - Mood/energia: Apaixonado, dramático, emotivo e envolvente · alta - SFX: Gritos e aplausos da multidão em arena - Estrutura: Intro 00:00-00:11, Verso 1 00:11-00:43, Pré-Refrão 00:43-01:00, Refrão 1 01:00-01:52, Solo Violão 01:52-02:07, Verso 2 02:07-02:23, Refrão 2 02:23-03:13, Outro instrumental 03:13-03:39 - Mixagem: Voz principal destacada e brilhante no centro, violão dedilhado estéreo bem definido, percussão presente e coro da multidão nas laterais · sincronia: Sincronia labial e instrumental precisa de show gravado ao vivo **Prompt de musica (Suno/Udio):** ``` Brazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up. ``` Negativo: `electronic drop, techno, autotune heavy, distorted rock, lo-fi, acoustic only, slow funeral tempo`\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/lindo-homem-sofisticado-elegante-40-anos`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Dança Comigo\n\n\n\n**slug:** `lindo-homem-sofisticado-elegante-40-anos`  ·  **criado:** 2026-08-28T12:04:22-03:00\n\n**solicitação:** lindo homem, sofisticado elegante 40 anos ## Trilha e som - Musica: True · Sertanejo/Bachata Romântica / Sertanejo Universitário · ~128 bpm · Si menor (Bm) - Instrumentacao: Voz solo, Violão de nylon/aço com dedilhado de bachata, Bongo e güira (percussão latina), Baixo elétrico, Bateria acústica, Teclado/Sintetizador - Mood/energia: Apaixonado, dramático, emotivo e envolvente · alta - SFX: Gritos e aplausos da multidão em arena - Estrutura: Intro 00:00-00:11, Verso 1 00:11-00:43, Pré-Refrão 00:43-01:00, Refrão 1 01:00-01:52, Solo Violão 01:52-02:07, Verso 2 02:07-02:23, Refrão 2 02:23-03:13, Outro instrumental 03:13-03:39 - Mixagem: Voz principal destacada e brilhante no centro, violão dedilhado estéreo bem definido, percussão presente e coro da multidão nas laterais · sincronia: Sincronia labial e instrumental precisa de show gravado ao vivo **Prompt de musica (Suno/Udio):** ``` Brazilian bachata romantic sertanejo ballad, 128 BPM, B minor, expressive emotional male vocal, crisp nylon guitar arpeggios, driving bongo and guira rhythm, modern polished live concert production, passionate stadium anthemic build-up. ``` Negativo: `electronic drop, techno, autotune heavy, distorted rock, lo-fi, acoustic only, slow funeral tempo`\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico com bachata / sertanejo universitário ao vivo  ·  **BPM:** 128  ·  **Tom:** Si menor\n- **Mood:** apaixonado, dramático, emotivo, envolvente, de arena\n- **Instrumentação:** voz masculina solo, violão de nylon com dedilhado de bachata, violão de aço, bongo, güira, baixo elétrico melódico, bateria acústica, teclado/sintetizador discreto, coro de multidão em arena\n- **Voz:** \"masculina brasileira, quente, confiante e levemente rouca; versos íntimos quase conversados, refrão aberto e poderoso com a multidão respondendo\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Brazilian romantic sertanejo fused with bachata, 128 BPM, B minor, live arena concert recording. Expressive passionate male lead vocal, warm, confident, slightly husky, intimate conversational verses rising into a huge anthemic romantic chorus. Crisp nylon-string guitar arpeggios in bachata pattern, steel-string acoustic guitar, driving bongo and guira rhythm, melodic electric bass, punchy acoustic drums, subtle keyboard pads. Stadium crowd cheers, applause and singalong ambience on the sides, bright vocal-forward center mix, defined stereo fingerpicked guitar, modern polished live production, dramatic emotional build with an instrumental nylon guitar solo. Lyrics in pt-BR\n\n**Estrutura:** intro (10s) · verso 1 (28s) · pré-refrão (14s) · refrão 1 (43s) · solo violão (13s) · verso 2 (14s) · refrão 2 (43s) · outro (15s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro instrumental — violão de nylon, bongo entra, multidão vibra]\n\n[Verso 1]\nApaga a pressa, deixa a noite inteira\nO violão já sabe o que eu não disse\nTeu perfume chegou antes de você\nE bagunçou tudo que eu decidi\n\nEu já vivi o bastante pra saber\nQue noite assim não pede explicação\nVem devagar, que o mundo pode esperar\nDo lado de fora dessa canção\n\n[Pré-Refrão]\nSe alguém perguntar por nós\nDiz que a gente sumiu do mapa\nQue o endereço agora é esse abraço\nE dessa dança ninguém escapa\n\n[Refrão]\nDança comigo, cola no meu peito\nDeixa a vida do lado de fora\nO que eu guardei a vida inteira\nCabe inteiro nessa hora\nDança comigo devagarinho\nQue o amor não tem relógio\nTeu corpo diz o que eu não digo\nE essa noite é só o começo\n\n[Solo de violão — multidão canta a melodia]\n\n[Verso 2]\nQuarenta anos pra te encontrar\nE eu não chamo isso de atraso\nChamo de estrada, chamo de espera\nCada desvio me trouxe pro teu abraço\n\n[Refrão]\nDança comigo, cola no meu peito\nDeixa a vida do lado de fora\nO que eu guardei a vida inteira\nCabe inteiro nessa hora\nDança comigo devagarinho\nQue o amor não tem relógio\nTeu corpo diz o que eu não digo\nE essa noite é só o começo\n\nDança comigo, dança comigo\nQue o amor não tem relógio\n\n[Outro instrumental — fogos, aplausos e multidão]\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #000000, #b80b0b, #e6b85c, #f4c430, #e5e5e5\n- **Params:** `{}`\n\n**Conceito:** O galã maduro no centro do palco antes da primeira nota: retrato frontal de um homem elegante de 40 e poucos anos, blazer escuro sob luz âmbar lateral, olhar direto na lente — confiante, não arrogante — com a névoa vermelha e dourada da arena desfocada atrás. A pose escolhida é o olhar direto na lente (diferente das capas recentes do acervo, que usaram perfil e cena sem rosto): a música é um convite, e convite se faz olhando nos olhos.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of a handsome sophisticated Brazilian man in his early forties, tailored dark blazer over an open-collar black shirt, trimmed salt-and-pepper beard, direct confident gaze straight into the lens, one warm amber key light sculpting the face against deep red and black arena haze, soft anamorphic flares, blurred bokeh of distant golden crowd lights behind him, shallow depth of field, clean space at the bottom for a bold title, cinematic concert film look, 1:1\n\n**Negativo:** text, letters, typography, watermark, logo, extra limbs, distorted face, plastic skin, cartoon, microphone covering face\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** Média de ~14.7 cortes/min (44 shots em 180s), com ritmo desigual de propósito: refrões a ~17 cortes/min (planos de 2.5–4s), ancorados no desejo-imortal-no-mineirao (18.2 cortes/min medidos em sertanejo 128 bpm de estádio) e puxando para o pico de bala-alojada (23.3 cortes/min) nos momentos de pirotecnia; versos respiram a ~10 cortes/min (planos de 4.5–6s) e a intro segura o plano aéreo por 6s. Corte seco cravado no beat em todo o clipe; slowmo/speedramp SÓ nos refrões e dissolve ocasional só nos versos — exatamente o que a medição registrou nesses DVDs; nada de wipe, zoom digital ou transição que não apareceu na medição.\n- **Params:** `{\"resolucao\": \"720p\"}`\n- **Shots:** 44  ·  **Duração total:** 180.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6.0s | drone | Aéreo noturno da arena lotada, feixes âmbar varrendo a névoa |\n| 2 | intro | 4.0s | dolly-in | Close no dedilhado do violão de nylon abrindo a música |\n| 3 | verso 1 | 6.0s | steadicam | De costas, o cantor caminha até a boca do palco contra a parede de luz |\n| 4 | verso 1 | 5.5s | dolly-in | Médio do cantor no pedestal, mão sobre o peito, luz âmbar quente |\n| 5 | verso 1 | 6.0s | handheld | Plateia: mãos erguidas e luzes de celular balançando devagar |\n| 6 | verso 1 | 5.0s | estatico | Detalhe das mãos no bongo marcando a levada de bachata |\n| 7 | verso 1 | 5.5s | steadicam | Perfil do cantor contra contraluz azul, mão firme no pedestal |\n| 8 | pré-refrão | 4.0s | travelling | Travelling pela beirada do palco, banda em silhueta, luz subindo |\n| 9 | pré-refrão | 3.5s | estatico | Detalhe da güira riscada rápida, brilhos metálicos |\n| 10 | pré-refrão | 3.5s | dolly-in | Punho apertando o pedestal do microfone, tensão antes do refrão |\n| 11 | pré-refrão | 3.0s | estatico | Grande plano do palco em contra-plongée, muralha de luz acendendo |\n| 12 | refrão 1 | 4.0s | drone | Drone FPV mergulha sobre o público em direção ao palco no primeiro refrão |\n| 13 | refrão 1 | 3.5s | dolly-in | Close do cantor enquadrado dos olhos pra cima, contraluz dourada |\n| 14 | refrão 1 | 3.0s | gimbal | Casal dançando bachata colado no meio da plateia, luz dourada |\n| 15 | refrão 1 | 3.5s | handheld | Slowmo de confete dourado caindo sobre mãos erguidas |\n| 16 | refrão 1 | 4.0s | orbital | Órbita ao redor do cantor de braços abertos, queixo erguido, feixes girando |\n| 17 | refrão 1 | 3.0s | handheld | Groove do baixista, mãos e braço do baixo em quadro |\n| 18 | refrão 1 | 3.5s | drone | Plano geral da plateia pulando em uníssono |\n| 19 | refrão 1 | 4.0s | dolly-in | Arpejo veloz no violão de nylon, só mãos e braço do instrumento |\n| 20 | refrão 1 | 3.5s | steadicam | De costas, o cantor abre os braços para o mar de luzes |\n| 21 | refrão 1 | 3.5s | estatico | Feixes cruzados varrendo a névoa, flares anamórficos |\n| 22 | refrão 1 | 4.0s | handheld | Primeiras filas com braços balançando juntos no ritmo |\n| 23 | refrão 1 | 3.5s | dolly-in | Cantor de cabeça inclinada para trás, olhos cerrados, punho no peito |\n| 24 | solo violão | 5.0s | dolly-in | Solo: close absoluto na boca do violão e nos dedos |\n| 25 | solo violão | 4.0s | orbital | Órbita da silhueta do violonista em fumaça azul |\n| 26 | solo violão | 4.0s | steadicam | O cantor apoiado no pedestal, observando o solo, mão no peito |\n| 27 | verso 2 | 5.0s | dolly-in | Cantor sentado na beirada da passarela, luz única e quente, intimista |\n| 28 | verso 2 | 4.5s | gimbal | Na plateia, uma mão pousada sobre o coração, só a mão em quadro |\n| 29 | verso 2 | 4.5s | steadicam | Plano conjunto: cantor e violonista trocam um olhar cúmplice |\n| 30 | refrão 2 | 3.5s | drone | Pirotecnia explode no vão do palco abrindo o último refrão |\n| 31 | refrão 2 | 4.0s | travelling | Speedramp lateral pela primeira fila, mãos estendidas ao palco |\n| 32 | refrão 2 | 3.5s | dolly-in | Close emocional dos olhos pra cima, brilho de lágrima na luz cruzada |\n| 33 | refrão 2 | 3.5s | orbital | Órbita do casal da plateia girando num rodopio de bachata, confete |\n| 34 | refrão 2 | 4.0s | steadicam | Cantor cruza a passarela a passos largos, blazer esvoaçando, feixes acompanhando |\n| 35 | refrão 2 | 3.5s | handheld | Slowmo da baqueta explodindo no prato, spray de luz |\n| 36 | refrão 2 | 3.0s | estatico | Palco inteiro estroboscopando dourado no beat |\n| 37 | refrão 2 | 4.0s | dolly-in | Cantor cai num joelho na beirada do palco, braço estendido à plateia |\n| 38 | refrão 2 | 3.5s | drone | Drone orbita a arena, primeiras cargas de fogos |\n| 39 | refrão 2 | 3.0s | estatico | Duas mãos entrelaçadas erguidas juntas na plateia |\n| 40 | refrão 2 | 4.0s | gimbal | Avanço através da tempestade de confete até o cantor de braços abertos |\n| 41 | refrão 2 | 3.5s | steadicam | Do palco para fora: banda alinhada e o oceano de luzes respondendo |\n| 42 | outro | 5.0s | drone | Fogos em plena floração sobre o estádio, drone subindo devagar |\n| 43 | outro | 5.0s | steadicam | De costas, o cantor se curva em agradecimento diante do mar de luzes |\n| 44 | outro | 5.0s | travelling | Recuo lento: violão no descanso, microfone vazio, névoa baixando |\n\n**Prompts (EN):**\n\n1. aerial drone shot at night over a packed concert arena, warm amber and deep red spotlight beams sweeping through haze, a sea of tiny phone lights below, large stage glowing gold at one end, cinematic concert film, anamorphic flares, high contrast blacks\n2. extreme close-up of a nylon-string acoustic guitar, fingers picking a delicate arpeggio, framed so tightly that only the hand and the guitar soundhole are visible, warm amber stage light, shallow depth of field, slow dolly-in, red haze background, cinematic\n3. steadicam following from behind an elegant man in his early forties in a tailored dark blazer, walking slowly toward the front of a huge arena stage, silhouetted against a wall of golden light and haze, crowd lights twinkling beyond, cinematic concert film, red and gold palette\n4. medium shot of a handsome sophisticated Brazilian man in his early forties at a microphone stand, dark blazer, trimmed salt-and-pepper beard, one hand pressed over his heart, head slightly bowed, warm amber key light against deep red arena haze, slow dolly-in, shallow depth of field, cinematic\n5. handheld shot inside a concert crowd, dozens of raised hands and glowing phone lights swaying slowly side to side, warm golden stage glow washing over them, soft haze, bokeh, intimate live concert atmosphere, cinematic\n6. tight static shot of two hands playing a bongo drum in a latin rhythm, framed so tightly that only the hands and the drumheads are visible, warm red and amber stage light, fine dust rising off the drum skin, shallow depth of field, cinematic\n7. profile shot of an elegant man in his early forties against a deep blue backlight, dark blazer, hand gripping the microphone stand, rim light tracing his beard and jaw, dense haze behind, slow lateral steadicam drift, cinematic concert film\n8. lateral tracking shot along the edge of a large stage, band members in silhouette against rising walls of red and gold light, haze columns thickening, energy visibly building, cinematic concert film, anamorphic flares\n9. tight shot of a metal guira being scraped in fast rhythm, framed so tightly that only the hand and the ridged metal cylinder are visible, sparkling reflections of red and gold stage lights on the metal, shallow depth of field, cinematic\n10. close-up of a fist tightening around a microphone stand, framed so tightly that only the hand and the chrome stand are visible, knuckles tense, red and amber cross light, haze drifting, slow dolly-in building tension, cinematic\n11. low-angle wide static shot of a massive arena stage as an entire wall of golden and red lights ignites at once, haze columns blasting upward, band silhouettes small against the light, cinematic concert film, high contrast\n12. FPV drone dive over a packed arena crowd toward a glowing golden stage, spotlight beams pulsing to the beat, sparks of pyro at the stage lip, sea of raised hands below, fast exhilarating motion, cinematic concert film\n13. extreme close-up framed from the eyes up of a man in his early forties, brow furrowed with intensity, sweat glinting at the temple, golden backlight flaring behind his head, red haze, shallow depth of field, cinematic concert film\n14. gimbal shot of an elegant couple dancing a close bachata inside the concert crowd, golden pit light carving them out of the darkness, her dress swirling on the turn, surrounding crowd blurred, romantic and cinematic\n15. slow-motion handheld shot of golden confetti drifting down over raised hands in a concert crowd, warm backlight turning each piece into a spark, red haze background, dreamy cinematic slow motion\n16. orbital shot circling an elegant man in his early forties at center stage, arms spread wide, chin lifted, dark blazer catching red and gold beams that rotate with the camera, haze swirling, triumphant cinematic concert film\n17. tight handheld shot of hands playing an electric bass in a driving groove, framed so tightly that only the hands and the bass neck are visible, red stage light glinting off the strings, energetic motion, cinematic\n18. wide aerial shot of an arena crowd jumping in unison to the beat, waves of motion rippling through the floor, gold and red light washes sweeping across them, stage blazing in the background, epic concert scale\n19. close-up of fingers flying through a fast bachata arpeggio on a nylon-string guitar, framed so tightly that only the hand and the fretboard are visible, golden stage light, strings blurring with speed, shallow depth of field, cinematic\n20. steadicam shot from behind an elegant man in a dark blazer at the stage lip, arms opening wide toward a sea of phone lights and raised hands, golden front light flooding over him into the crowd, epic romantic concert moment\n21. static wide shot of crossing red and gold spotlight beams sweeping through thick haze above a concert stage, horizontal anamorphic lens flares, particles floating in the light, abstract and epic, cinematic concert film\n22. handheld shot of the front rows of a concert crowd, arms swaying together left and right in rhythm, warm golden stage light on raised hands, confetti settling, joyful united energy, cinematic\n23. dolly-in on an elegant man in his early forties, head tilted back, eyes shut tight, neck tendons tense, fist pressed against his chest, golden backlight halo through haze, emotional peak, cinematic concert film\n24. extreme close-up of a nylon-string guitar solo, framed so tightly that only the fingers and the soundhole are visible, single warm spotlight, blue smoke drifting behind, strings shimmering, slow dolly-in, intimate cinematic moment\n25. orbital shot around a guitarist silhouette seated on a stool in blue smoke, single white spotlight from above, the guitar's curves rim-lit, the arena dark and breathless around him, elegant cinematic concert film\n26. medium shot of an elegant man in his early forties leaning on a microphone stand, watching across the stage with quiet admiration, hand resting on his chest, warm rim light against deep blue haze, cinematic\n27. an elegant man in his early forties sitting on the edge of a stage catwalk, elbows on knees, single warm spotlight pooling around him, the vast dark arena glittering with phone lights beyond, slow dolly-in, intimate cinematic mood\n28. tight shot inside the crowd of a hand pressed over the heart against an elegant dress, framed so tightly that only the hand and the fabric are visible, delicate ring catching golden stage glow, soft bokeh of lights behind, tender cinematic moment\n29. two-shot of an elegant singer in a dark blazer and a guitarist exchanging a knowing glance across the stage, warm amber side light, haze softening the background, quiet complicity before the final chorus, cinematic concert film\n30. wide drone shot as fountains of golden pyro erupt across the top of an arena stage, red beams blasting outward, crowd floor lighting up, haze glowing, explosive celebratory energy, cinematic concert film\n31. fast lateral tracking shot along the front row barricade, dozens of hands stretched toward the stage, motion ramping into slow motion mid-shot, golden light streaks and confetti, exhilarating concert energy, cinematic speed ramp\n32. extreme close-up framed from the eyes up of a man in his early forties, eyes glistening, a tear track catching red and gold cross light, brow tense with emotion, shallow depth of field, cinematic emotional peak\n33. orbital shot circling an elegant couple as he spins her in a bachata turn inside the crowd, golden confetti raining around them, warm pit light, her dress flaring, joyful romantic cinematic moment\n34. steadicam tracking an elegant man in his early forties striding down a long catwalk, dark blazer flowing, follow spots and red beams tracking him, raised hands on both sides, commanding confident presence, cinematic concert film\n35. slow-motion shot of a drumstick striking a crash cymbal, framed so tightly that only the stick and the cymbal are visible, a spray of light and dust erupting off the metal, golden backlight, powerful cinematic slow motion\n36. static wide shot of the full arena stage, entire golden light wall strobing on the beat, band silhouettes locked in groove, haze columns, crowd floor glowing, maximum concert energy, cinematic high contrast\n37. an elegant man in his early forties dropping to one knee at the stage lip, arm stretched out over the crowd, hero backlight blazing gold behind him, haze and confetti in the air, dramatic dolly-in, cinematic climax\n38. drone orbiting high around a packed arena bowl at night, first firework bursts blooming above the roofline, stage a blaze of gold and red at the center, epic celebratory scale, cinematic\n39. tight shot of two hands interlocked and raised together in the crowd, framed so tightly that only the joined hands are visible, golden backlight rimming the fingers, confetti drifting past, tender triumphant moment, cinematic\n40. gimbal push through a storm of golden confetti toward an elegant man in his early forties at center stage, arms spread wide, back slightly arched, chin lifted high, gold backlight exploding behind him, triumphant cinematic climax\n41. wide shot from behind the band on stage looking out over an ocean of phone lights and raised hands filling the arena, red and gold beams overhead, confetti falling, the final chorus tableau, epic cinematic concert film\n42. slow rising drone shot of full firework bloom over a stadium at night, gold and red bursts reflecting on the crowd below, smoke drifting across the beams, grand celebratory finale, cinematic\n43. steadicam shot from behind an elegant man in a dark blazer taking a deep bow at the stage lip, arms open, facing a sea of phone lights and falling confetti, warm golden wash, grateful emotional farewell, cinematic\n44. slow pull-back shot of a nylon-string guitar resting on its stand beside an empty microphone stand, haze settling in warm amber light, the crowd glow softly fading in the background, quiet aftermath of a great night, cinematic\n\n## Publicação (YouTube)\n\n- **Título:** Dança Comigo\n- **Tags:** apaixonado, dramatico, emotivo, envolvente, voz masculina solo, violao de aco\n\n**Descrição:**\n\nUma noite de arena contada por um homem que esperou quarenta anos para encontrar alguém — e por isso mesmo não tem pressa nenhuma. A música fala desse amor maduro que chega tarde e chega inteiro: sem jogo, sem relógio, só o convite para dançar colado até o mundo lá fora desistir de chamar.\n\nO som cruza o sertanejo romântico com a batida da bachata: violão de nylon dedilhado, bongo e güira puxando o corpo, baixo melódico e uma voz masculina quente que cresce do verso íntimo para um refrão de estádio, com a multidão respondendo em coro.\n\nNo vídeo, um show ao vivo de arena lotada: luz vermelha e dourada cortando a névoa, drone mergulhando sobre o público, closes no dedilhado e na percussão, um casal dançando bachata no meio da plateia e fogos fechando a noite. O corte segue o pulso da música — o verso respira, o refrão acelera.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Brazilian romantic sertanejo fused with bachata, 128 BPM, B minor, live arena concert recording. Expressive passionate male lead vocal, warm, confident, slightly husky, intimate conversational verses rising into a huge anthemic romantic chorus. Crisp nylon-string guitar arpeggios in bachata pattern, steel-string acoustic guitar, driving bongo and guira rhythm, melodic electric bass, punchy acoustic drums, subtle keyboard pads. Stadium crowd cheers, applause and singalong ambience on the sides, bright vocal-forward center mix, defined stereo fingerpicked guitar, modern polished live production, dramatic emotional build with an instrumental nylon guitar solo. Lyrics in pt-BR",
+    "imagem": "album cover, centered dramatic portrait of a handsome sophisticated Brazilian man in his early forties, tailored dark blazer over an open-collar black shirt, trimmed salt-and-pepper beard, direct confident gaze straight into the lens, one warm amber key light sculpting the face against deep red and black arena haze, soft anamorphic flares, blurred bokeh of distant golden crowd lights behind him, shallow depth of field, clean space at the bottom for a bold title, cinematic concert film look, 1:1",
+    "negativo": "text, letters, typography, watermark, logo, extra limbs, distorted face, plastic skin, cartoon, microphone covering face",
+    "conceito": "O galã maduro no centro do palco antes da primeira nota: retrato frontal de um homem elegante de 40 e poucos anos, blazer escuro sob luz âmbar lateral, olhar direto na lente — confiante, não arrogante — com a névoa vermelha e dourada da arena desfocada atrás. A pose escolhida é o olhar direto na lente (diferente das capas recentes do acervo, que usaram perfil e cena sem rosto): a música é um convite, e convite se faz olhando nos olhos.",
+    "tagline": "o amor não tem relógio",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone",
+      "prompt": "aerial drone shot at night over a packed concert arena, warm amber and deep red spotlight beams sweeping through haze, a sea of tiny phone lights below, large stage glowing gold at one end, cinematic concert film, anamorphic flares, high contrast blacks",
+      "alt": "aerial view of a large illuminated stadium at night, warm light beams and soft haze, thousands of tiny distant lights, no readable signage, cinematic atmosphere, high contrast"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "dolly-in",
+      "prompt": "extreme close-up of a nylon-string acoustic guitar, fingers picking a delicate arpeggio, framed so tightly that only the hand and the guitar soundhole are visible, warm amber stage light, shallow depth of field, slow dolly-in, red haze background, cinematic",
+      "alt": "extreme close-up of a nylon-string guitar resting on a stand, strings catching warm amber light, slow dolly-in, red stage haze in the background, shallow depth of field, cinematic"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "steadicam",
+      "prompt": "steadicam following from behind an elegant man in his early forties in a tailored dark blazer, walking slowly toward the front of a huge arena stage, silhouetted against a wall of golden light and haze, crowd lights twinkling beyond, cinematic concert film, red and gold palette",
+      "alt": "steadicam gliding along an empty stage catwalk toward a wall of golden light and haze, a single spotlight beam traveling forward, distant twinkling lights beyond, cinematic red and gold concert atmosphere"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "dolly-in",
+      "prompt": "medium shot of a handsome sophisticated Brazilian man in his early forties at a microphone stand, dark blazer, trimmed salt-and-pepper beard, one hand pressed over his heart, head slightly bowed, warm amber key light against deep red arena haze, slow dolly-in, shallow depth of field, cinematic",
+      "alt": "silhouette of a man standing at a microphone stand, backlit by a single warm amber spotlight in dense haze, hand raised over the chest, face not visible, slow dolly-in, deep red background, cinematic"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "handheld shot inside a concert crowd, dozens of raised hands and glowing phone lights swaying slowly side to side, warm golden stage glow washing over them, soft haze, bokeh, intimate live concert atmosphere, cinematic",
+      "alt": "handheld shot of glowing phone lights swaying slowly in a dark arena, soft golden stage glow, gentle haze and bokeh, no faces visible, intimate concert atmosphere"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "tight static shot of two hands playing a bongo drum in a latin rhythm, framed so tightly that only the hands and the drumheads are visible, warm red and amber stage light, fine dust rising off the drum skin, shallow depth of field, cinematic",
+      "alt": "tight static shot of a bongo drum under red and amber stage light, drum skin vibrating subtly, fine dust particles floating in the light, shallow depth of field, cinematic"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "steadicam",
+      "prompt": "profile shot of an elegant man in his early forties against a deep blue backlight, dark blazer, hand gripping the microphone stand, rim light tracing his beard and jaw, dense haze behind, slow lateral steadicam drift, cinematic concert film",
+      "alt": "profile silhouette of a man at a microphone stand against a deep blue backlight in dense haze, rim light only, face in shadow, slow lateral camera drift, cinematic"
+     },
+     {
+      "n": 8,
+      "secao": "pré-refrão",
+      "camera": "travelling",
+      "prompt": "lateral tracking shot along the edge of a large stage, band members in silhouette against rising walls of red and gold light, haze columns thickening, energy visibly building, cinematic concert film, anamorphic flares",
+      "alt": "lateral tracking shot along a stage edge, instruments and stands in silhouette against rising red and gold light walls, thickening haze columns, anamorphic flares, cinematic"
+     },
+     {
+      "n": 9,
+      "secao": "pré-refrão",
+      "camera": "estatico",
+      "prompt": "tight shot of a metal guira being scraped in fast rhythm, framed so tightly that only the hand and the ridged metal cylinder are visible, sparkling reflections of red and gold stage lights on the metal, shallow depth of field, cinematic",
+      "alt": "macro shot of a ridged metal percussion cylinder gleaming under red and gold stage lights, sparkling reflections shifting rhythmically, shallow depth of field, cinematic"
+     },
+     {
+      "n": 10,
+      "secao": "pré-refrão",
+      "camera": "dolly-in",
+      "prompt": "close-up of a fist tightening around a microphone stand, framed so tightly that only the hand and the chrome stand are visible, knuckles tense, red and amber cross light, haze drifting, slow dolly-in building tension, cinematic",
+      "alt": "close-up of a chrome microphone stand in drifting haze, red and amber cross light intensifying on the metal, slow dolly-in, rising tension, cinematic"
+     },
+     {
+      "n": 11,
+      "secao": "pré-refrão",
+      "camera": "estatico",
+      "prompt": "low-angle wide static shot of a massive arena stage as an entire wall of golden and red lights ignites at once, haze columns blasting upward, band silhouettes small against the light, cinematic concert film, high contrast",
+      "alt": "low-angle wide shot of a massive light wall igniting gold and red inside dense haze, vertical haze columns, small dark silhouettes at the base, high contrast, cinematic"
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "FPV drone dive over a packed arena crowd toward a glowing golden stage, spotlight beams pulsing to the beat, sparks of pyro at the stage lip, sea of raised hands below, fast exhilarating motion, cinematic concert film",
+      "alt": "FPV drone dive through pulsing golden light beams and drifting confetti toward a glowing stage in haze, fast exhilarating motion, no distinct faces, cinematic"
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "dolly-in",
+      "prompt": "extreme close-up framed from the eyes up of a man in his early forties, brow furrowed with intensity, sweat glinting at the temple, golden backlight flaring behind his head, red haze, shallow depth of field, cinematic concert film",
+      "alt": "back of a man's head and shoulders against a blinding golden spotlight flare, hair rim-lit, dense red haze, shallow depth of field, cinematic"
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "gimbal",
+      "prompt": "gimbal shot of an elegant couple dancing a close bachata inside the concert crowd, golden pit light carving them out of the darkness, her dress swirling on the turn, surrounding crowd blurred, romantic and cinematic",
+      "alt": "two dancing silhouettes turning together behind a veil of golden haze, a dress hem swirling in the light, surrounding darkness with soft bokeh, romantic cinematic mood"
+     },
+     {
+      "n": 15,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "slow-motion handheld shot of golden confetti drifting down over raised hands in a concert crowd, warm backlight turning each piece into a spark, red haze background, dreamy cinematic slow motion",
+      "alt": "slow-motion shot of golden confetti drifting through warm backlit haze, each piece glowing like a spark, dark red background, dreamy cinematic mood"
+     },
+     {
+      "n": 16,
+      "secao": "refrão 1",
+      "camera": "orbital",
+      "prompt": "orbital shot circling an elegant man in his early forties at center stage, arms spread wide, chin lifted, dark blazer catching red and gold beams that rotate with the camera, haze swirling, triumphant cinematic concert film",
+      "alt": "orbital shot circling a performer silhouette from behind, arms spread wide against rotating red and gold beams in swirling haze, face never visible, triumphant cinematic mood"
+     },
+     {
+      "n": 17,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "tight handheld shot of hands playing an electric bass in a driving groove, framed so tightly that only the hands and the bass neck are visible, red stage light glinting off the strings, energetic motion, cinematic",
+      "alt": "tight shot of an electric bass headstock and strings vibrating under red stage light, subtle rhythmic motion, glinting metal, cinematic"
+     },
+     {
+      "n": 18,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "wide aerial shot of an arena crowd jumping in unison to the beat, waves of motion rippling through the floor, gold and red light washes sweeping across them, stage blazing in the background, epic concert scale",
+      "alt": "distant wide aerial of an arena floor at night, waves of small lights rippling in unison, gold and red washes sweeping across, stage glowing far away, epic scale, no distinct faces"
+     },
+     {
+      "n": 19,
+      "secao": "refrão 1",
+      "camera": "dolly-in",
+      "prompt": "close-up of fingers flying through a fast bachata arpeggio on a nylon-string guitar, framed so tightly that only the hand and the fretboard are visible, golden stage light, strings blurring with speed, shallow depth of field, cinematic",
+      "alt": "macro shot of nylon guitar strings vibrating fast under golden stage light, motion blur on the strings, warm bokeh background, cinematic"
+     },
+     {
+      "n": 20,
+      "secao": "refrão 1",
+      "camera": "steadicam",
+      "prompt": "steadicam shot from behind an elegant man in a dark blazer at the stage lip, arms opening wide toward a sea of phone lights and raised hands, golden front light flooding over him into the crowd, epic romantic concert moment",
+      "alt": "shot from behind a dark-suited silhouette at a stage lip, arms opening toward a sea of tiny lights, golden light flooding outward into haze, epic romantic concert mood"
+     },
+     {
+      "n": 21,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "static wide shot of crossing red and gold spotlight beams sweeping through thick haze above a concert stage, horizontal anamorphic lens flares, particles floating in the light, abstract and epic, cinematic concert film",
+      "alt": "static wide shot of crossing red and gold light beams in thick haze, horizontal lens flares, floating particles, abstract epic concert atmosphere"
+     },
+     {
+      "n": 22,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "handheld shot of the front rows of a concert crowd, arms swaying together left and right in rhythm, warm golden stage light on raised hands, confetti settling, joyful united energy, cinematic",
+      "alt": "handheld shot of dozens of glowing phone lights swaying together left and right in rhythm, warm golden wash, confetti drifting down, joyful energy, no faces visible"
+     },
+     {
+      "n": 23,
+      "secao": "refrão 1",
+      "camera": "dolly-in",
+      "prompt": "dolly-in on an elegant man in his early forties, head tilted back, eyes shut tight, neck tendons tense, fist pressed against his chest, golden backlight halo through haze, emotional peak, cinematic concert film",
+      "alt": "silhouette of a man with head tilted back against a blinding white-gold backlight in haze, fist raised to the chest, face in full shadow, emotional cinematic peak"
+     },
+     {
+      "n": 24,
+      "secao": "solo violão",
+      "camera": "dolly-in",
+      "prompt": "extreme close-up of a nylon-string guitar solo, framed so tightly that only the fingers and the soundhole are visible, single warm spotlight, blue smoke drifting behind, strings shimmering, slow dolly-in, intimate cinematic moment",
+      "alt": "extreme close-up of a nylon-string guitar body under a single warm spotlight, blue smoke drifting, strings shimmering with subtle vibration, slow dolly-in, intimate cinematic mood"
+     },
+     {
+      "n": 25,
+      "secao": "solo violão",
+      "camera": "orbital",
+      "prompt": "orbital shot around a guitarist silhouette seated on a stool in blue smoke, single white spotlight from above, the guitar's curves rim-lit, the arena dark and breathless around him, elegant cinematic concert film",
+      "alt": "orbital shot around a guitar on a stool silhouetted in blue smoke, single overhead white spotlight, rim-lit curves, dark breathless arena around it, elegant cinematic mood"
+     },
+     {
+      "n": 26,
+      "secao": "solo violão",
+      "camera": "steadicam",
+      "prompt": "medium shot of an elegant man in his early forties leaning on a microphone stand, watching across the stage with quiet admiration, hand resting on his chest, warm rim light against deep blue haze, cinematic",
+      "alt": "two dark silhouettes facing each other across a hazy stage, one leaning on a microphone stand, warm rim light against deep blue haze, quiet cinematic moment"
+     },
+     {
+      "n": 27,
+      "secao": "verso 2",
+      "camera": "dolly-in",
+      "prompt": "an elegant man in his early forties sitting on the edge of a stage catwalk, elbows on knees, single warm spotlight pooling around him, the vast dark arena glittering with phone lights beyond, slow dolly-in, intimate cinematic mood",
+      "alt": "an empty stage catwalk edge under a single warm spotlight pool, vast dark arena glittering with tiny lights beyond, slow dolly-in, intimate cinematic mood"
+     },
+     {
+      "n": 28,
+      "secao": "verso 2",
+      "camera": "gimbal",
+      "prompt": "tight shot inside the crowd of a hand pressed over the heart against an elegant dress, framed so tightly that only the hand and the fabric are visible, delicate ring catching golden stage glow, soft bokeh of lights behind, tender cinematic moment",
+      "alt": "tight shot of a hand resting over dark elegant fabric, a delicate ring catching golden light, soft bokeh of distant lights, tender cinematic mood"
+     },
+     {
+      "n": 29,
+      "secao": "verso 2",
+      "camera": "steadicam",
+      "prompt": "two-shot of an elegant singer in a dark blazer and a guitarist exchanging a knowing glance across the stage, warm amber side light, haze softening the background, quiet complicity before the final chorus, cinematic concert film",
+      "alt": "two-shot of a microphone stand and a nylon guitar angled toward each other under warm amber side light, haze softening the dark stage, quiet cinematic pause before a finale"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "drone",
+      "prompt": "wide drone shot as fountains of golden pyro erupt across the top of an arena stage, red beams blasting outward, crowd floor lighting up, haze glowing, explosive celebratory energy, cinematic concert film",
+      "alt": "wide shot of golden spark fountains erupting above a glowing stage structure in haze, red beams blasting outward, explosive celebratory light, no people distinct, cinematic"
+     },
+     {
+      "n": 31,
+      "secao": "refrão 2",
+      "camera": "travelling",
+      "prompt": "fast lateral tracking shot along the front row barricade, dozens of hands stretched toward the stage, motion ramping into slow motion mid-shot, golden light streaks and confetti, exhilarating concert energy, cinematic speed ramp",
+      "alt": "fast lateral tracking shot of golden light streaks and drifting confetti along a dark barricade line, motion ramping into slow motion, exhilarating cinematic energy, no faces"
+     },
+     {
+      "n": 32,
+      "secao": "refrão 2",
+      "camera": "dolly-in",
+      "prompt": "extreme close-up framed from the eyes up of a man in his early forties, eyes glistening, a tear track catching red and gold cross light, brow tense with emotion, shallow depth of field, cinematic emotional peak",
+      "alt": "close-up of a hand gripping the chest of a dark blazer, fabric creasing under tense fingers, red and gold cross light, shallow depth of field, cinematic emotional peak"
+     },
+     {
+      "n": 33,
+      "secao": "refrão 2",
+      "camera": "orbital",
+      "prompt": "orbital shot circling an elegant couple as he spins her in a bachata turn inside the crowd, golden confetti raining around them, warm pit light, her dress flaring, joyful romantic cinematic moment",
+      "alt": "orbital shot circling two spinning silhouettes behind golden confetti rain and warm haze, a dress hem flaring in the light, joyful romantic cinematic mood"
+     },
+     {
+      "n": 34,
+      "secao": "refrão 2",
+      "camera": "steadicam",
+      "prompt": "steadicam tracking an elegant man in his early forties striding down a long catwalk, dark blazer flowing, follow spots and red beams tracking him, raised hands on both sides, commanding confident presence, cinematic concert film",
+      "alt": "steadicam tracking from behind a dark-suited figure striding down a long catwalk, coat flowing, follow spots and red beams tracking, raised hands blurred at the edges, cinematic"
+     },
+     {
+      "n": 35,
+      "secao": "refrão 2",
+      "camera": "handheld",
+      "prompt": "slow-motion shot of a drumstick striking a crash cymbal, framed so tightly that only the stick and the cymbal are visible, a spray of light and dust erupting off the metal, golden backlight, powerful cinematic slow motion",
+      "alt": "slow-motion macro of a crash cymbal shimmering and vibrating under golden backlight, dust particles erupting off the metal, powerful cinematic detail"
+     },
+     {
+      "n": 36,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "static wide shot of the full arena stage, entire golden light wall strobing on the beat, band silhouettes locked in groove, haze columns, crowd floor glowing, maximum concert energy, cinematic high contrast",
+      "alt": "static wide shot of a golden light wall strobing rhythmically through dense haze, dark shapes of instruments at the base, glowing floor of tiny lights, high contrast cinematic energy"
+     },
+     {
+      "n": 37,
+      "secao": "refrão 2",
+      "camera": "dolly-in",
+      "prompt": "an elegant man in his early forties dropping to one knee at the stage lip, arm stretched out over the crowd, hero backlight blazing gold behind him, haze and confetti in the air, dramatic dolly-in, cinematic climax",
+      "alt": "a kneeling silhouette at a stage lip with one arm stretched forward, blazing golden backlight and drifting confetti, face in shadow, dramatic dolly-in, cinematic climax"
+     },
+     {
+      "n": 38,
+      "secao": "refrão 2",
+      "camera": "drone",
+      "prompt": "drone orbiting high around a packed arena bowl at night, first firework bursts blooming above the roofline, stage a blaze of gold and red at the center, epic celebratory scale, cinematic",
+      "alt": "drone orbiting a glowing stadium bowl at night, firework bursts blooming above the roofline, warm light radiating from the center, epic celebratory scale, no people distinct"
+     },
+     {
+      "n": 39,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "tight shot of two hands interlocked and raised together in the crowd, framed so tightly that only the joined hands are visible, golden backlight rimming the fingers, confetti drifting past, tender triumphant moment, cinematic",
+      "alt": "tight shot of two interlocked hands raised against golden backlit haze, confetti drifting past, fingers rim-lit, tender triumphant cinematic moment"
+     },
+     {
+      "n": 40,
+      "secao": "refrão 2",
+      "camera": "gimbal",
+      "prompt": "gimbal push through a storm of golden confetti toward an elegant man in his early forties at center stage, arms spread wide, back slightly arched, chin lifted high, gold backlight exploding behind him, triumphant cinematic climax",
+      "alt": "gimbal push through a storm of golden confetti toward a blazing gold backlight where a dark figure stands with arms spread, seen only as silhouette, triumphant cinematic climax"
+     },
+     {
+      "n": 41,
+      "secao": "refrão 2",
+      "camera": "steadicam",
+      "prompt": "wide shot from behind the band on stage looking out over an ocean of phone lights and raised hands filling the arena, red and gold beams overhead, confetti falling, the final chorus tableau, epic cinematic concert film",
+      "alt": "wide shot from a dark stage looking out over an ocean of tiny swaying lights under red and gold beams, confetti falling through haze, epic cinematic scale, no faces"
+     },
+     {
+      "n": 42,
+      "secao": "outro",
+      "camera": "drone",
+      "prompt": "slow rising drone shot of full firework bloom over a stadium at night, gold and red bursts reflecting on the crowd below, smoke drifting across the beams, grand celebratory finale, cinematic",
+      "alt": "slow rising aerial of gold and red firework blooms over a glowing stadium bowl at night, smoke drifting through light beams, grand celebratory finale, no people distinct"
+     },
+     {
+      "n": 43,
+      "secao": "outro",
+      "camera": "steadicam",
+      "prompt": "steadicam shot from behind an elegant man in a dark blazer taking a deep bow at the stage lip, arms open, facing a sea of phone lights and falling confetti, warm golden wash, grateful emotional farewell, cinematic",
+      "alt": "shot from behind a dark-suited silhouette bowing deeply at a stage lip before a sea of tiny lights and falling confetti, warm golden wash, emotional farewell, cinematic"
+     },
+     {
+      "n": 44,
+      "secao": "outro",
+      "camera": "travelling",
+      "prompt": "slow pull-back shot of a nylon-string guitar resting on its stand beside an empty microphone stand, haze settling in warm amber light, the crowd glow softly fading in the background, quiet aftermath of a great night, cinematic",
+      "alt": "slow pull-back of a nylon-string guitar on a stand beside an empty microphone stand in settling amber haze, distant soft glow fading, quiet cinematic aftermath"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "mulher-jovem-e-estilosa-danca-animada-em",
    "mvd": "MVD#147",
    "titulo": "Gold on the Water",
@@ -2449,7 +2858,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
