@@ -1328,7 +1328,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "aprovado",
    "likes": 0,
    "docs": []
   },
@@ -2070,6 +2070,386 @@
     ]
    },
    "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "a-africa-nao-comeca-na-escravidao-antes-2",
+   "mvd": "MVD#150",
+   "titulo": "Tulikuwa Hapa",
+   "quando": "2026-08-28T03:52:50-03:00",
+   "solicitacao": "A África não começa na escravidão. Antes da colonização, antes das invasões, antes das fronteiras impostas, já existiam povos, culturas, línguas, comércio, conhecimento, reinos, impérios, música e espiritualidade. A África é parte central da própria história da humanidade. Quero transformar essa grandeza em música. Não como uma reprodução folclórica do passado, mas como uma obra que carregue a ancestralidade africana com o impacto sonoro de 2026. Uma voz antiga. Um som novo. Uma África contada pela sua força. Fazer canto em lingua nativa",
+   "genero": "afro-electronic ancestral em suaíli (canto responsorial com baixo moderno)",
+   "bpm": 112,
+   "tom": "Fá menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "erro"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "ancestral",
+    "imponente",
+    "hipnótico",
+    "celebratório",
+    "orgulhoso"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v1.png",
+     "clipe": null,
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/a-africa-nao-comeca-na-escravidao-antes-2/capa-v2.png",
+     "clipe": null,
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [],
+   "bytes": 28687187,
+   "doc": "# Tulikuwa Hapa\n\n\n\n**slug:** `a-africa-nao-comeca-na-escravidao-antes-2`  ·  **criado:** 2026-08-28T03:52:50-03:00\n\n**solicitação:** A África não começa na escravidão. Antes da colonização, antes das invasões, antes das fronteiras impostas, já existiam povos, culturas, línguas, comércio, conhecimento, reinos, impérios, música e espiritualidade. A África é parte central da própria história da humanidade. Quero transformar essa grandeza em música. Não como uma reprodução folclórica do passado, mas como uma obra que carregue a ancestralidade africana com o impacto sonoro de 2026. Uma voz antiga. Um som novo. Uma África contada pela sua força. Fazer canto em lingua nativa\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** afro-electronic ancestral em suaíli (canto responsorial com baixo moderno)  ·  **BPM:** 112  ·  **Tom:** Fá menor\n- **Mood:** ancestral, imponente, hipnótico, celebratório, orgulhoso\n- **Instrumentação:** log drum bass e sub-808 profundo, djembe, talking drum e shekere em camadas, arpejos de harpa dedilhada tipo kora, textura de mbira, pads largos modernos, stabs de synth com peso de metais, coro misto responsorial com ululações\n- **Voz:** {\"presenca\": \"lead\", \"tipos\": [{\"genero\": \"feminina\", \"registro\": \"contralto grave e encorpado\", \"entrega\": \"voz anciã, granulada, comandante — chamadas curtas em suaíli, autoridade de quem conta a história\"}, {\"genero\": \"coro misto\", \"registro\": \"amplo, uníssono e harmonia\", \"entrega\": \"respostas responsoriais nos refrões, ululações agudas altas no mix\"}]}\n- **Params:** `{\"duracao_s\": 180, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Cinematic afro-electronic anthem sung entirely in Swahili, 112 BPM, F minor. A deep, weathered, grainy female contralto lead — commanding, elder-toned, full of authority — delivers short call lines answered by a massive mixed choir in tight call-and-response. Log drum bass and deep clean sub-808 pulse under layered djembe, talking drum and shekere patterns. Plucked harp arpeggios with a kora-like timbre and soft mbira textures weave through wide modern synth pads. Verses stay sparse and hypnotic: voice, hand percussion, sub bass. Choruses explode: full choir answers, stacked drums, brass-weight synth stabs, high ululations bright in the mix. The bridge strips down to the solo voice and a single drum, then the final chorus returns twice as large with layered harmonies. Polished 2026 production, vocal-forward mix, deep controlled low end, wide stereo choir, festive yet solemn power.\n\n**Estrutura:** intro (12s) · verso 1 (26s) · pre-refrao (12s) · refrao 1 (24s) · verso 2 (26s) · refrao 2 (24s) · ponte (18s) · refrao final (26s) · outro (12s)\n\n**Letra** (origem: `gerada`, sw):\n\n```\n[Intro]\nEeeh... eeeh...\nSauti ya kale inaita\n(Tulikuwa hapa... tulikuwa hapa...)\n\n[Verse 1]\nKabla ya meli, kabla ya mipaka\nTulijenga kuta za mawe milimani\nTulisoma nyota, tukalima bonde\nNgoma ikapiga — damu yetu ikajibu\n\n[Pre-Chorus]\nSikia, sikia — sauti ya kale\nInaita jina lako, inaita jina langu\n\n[Chorus]\nTulikuwa hapa! (Tuko hapa!)\nTutakuwa hapa! (Milele!)\nMizizi yetu ni mirefu kuliko usiku\nTulikuwa hapa — moto haujazimika\nAfrika, mama wa dunia!\n\n[Verse 2]\nDhahabu ilisafiri njia za jangwa\nManeno ya hekima yakajaa maktaba\nTanga za bahari zikafunga pwani\nDunia nzima ikaja kujifunza\n\n[Chorus]\nTulikuwa hapa! (Tuko hapa!)\nTutakuwa hapa! (Milele!)\nMizizi yetu ni mirefu kuliko usiku\nTulikuwa hapa — moto haujazimika\nAfrika, mama wa dunia!\n\n[Bridge]\nSauti ya bibi ndani yangu\nSauti ya babu ndani yako\nNgoma moja... moyo mmoja...\n\n[Final Chorus]\nTulikuwa hapa! (Tuko hapa!)\nTutakuwa hapa! (Milele!)\nMizizi yetu ni mirefu kuliko usiku\nTulikuwa hapa — moto haujazimika\nAfrika, mama wa dunia!\nAfrika, mama wa dunia!\n\n[Outro]\nTulikuwa hapa... tulikuwa hapa...\n(Milele...)\n```\n\n**Diff do seu rascunho:**\n\n```diff\n--- letra enviada\n+++ letra do plano\n@@ -1,40 +1,51 @@\n [Intro]\n Eeeh... eeeh...\n-A voz antiga chama\n-(Nós estávamos aqui... nós estávamos aqui...)\n+Sauti ya kale inaita\n+(Tulikuwa hapa... tulikuwa hapa...)\n \n-[Verso 1]\n-Antes dos navios, antes das fronteiras\n-Erguemos muralhas de pedra nas montanhas\n-Lemos as estrelas, lavramos o vale\n-O tambor bateu — nosso sangue respondeu\n+[Verse 1]\n+Kabla ya meli, kabla ya mipaka\n+Tulijenga kuta za mawe milimani\n+Tulisoma nyota, tukalima bonde\n+Ngoma ikapiga — damu yetu ikajibu\n \n-[Pré-refrão]\n-Escuta, escuta — a voz antiga\n-Chama o teu nome, chama o meu nome\n+[Pre-Chorus]\n+Sikia, sikia — sauti ya kale\n+Inaita jina lako, inaita jina langu\n \n-[Refrão]\n-Nós estávamos aqui! (Estamos aqui!)\n-Estaremos aqui! (Para sempre!)\n-Nossas raízes são mais longas que a noite\n-Nós estávamos aqui — o fogo nunca se apagou\n-África, mãe do mundo!\n+[Chorus]\n+Tulikuwa hapa! (Tuko hapa!)\n+Tutakuwa hapa! (Milele!)\n+Mizizi yetu ni mirefu kuliko usiku\n+Tulikuwa hapa — moto haujazimika\n+Afrika, mama wa dunia!\n \n-[Verso 2]\n-O ouro viajou pelas estradas do deserto\n-Palavras de sabedoria encheram bibliotecas\n-Velas do mar costuraram a costa\n-O mundo inteiro veio aprender\n+[Verse 2]\n+Dhahabu ilisafiri njia za jangwa\n+Maneno ya hekima yakajaa maktaba\n+Tanga za bahari zikafunga pwani\n+Dunia nzima ikaja kujifunza\n \n-[Refrão]\n+[Chorus]\n+Tulikuwa hapa! (Tuko hapa!)\n+Tutakuwa hapa! (Milele!)\n+Mizizi yetu ni mirefu kuliko usiku\n+Tulikuwa hapa — moto haujazimika\n+Afrika, mama wa dunia!\n \n-[Ponte]\n-A voz da avó dentro de mim\n-A voz do avô dentro de ti\n-Um só tambor... um só coração...\n+[Bridge]\n+Sauti ya bibi ndani yangu\n+Sauti ya babu ndani yako\n+Ngoma moja... moyo mmoja...\n \n-[Refrão final]\n+[Final Chorus]\n+Tulikuwa hapa! (Tuko hapa!)\n+Tutakuwa hapa! (Milele!)\n+Mizizi yetu ni mirefu kuliko usiku\n+Tulikuwa hapa — moto haujazimika\n+Afrika, mama wa dunia!\n+Afrika, mama wa dunia!\n \n [Outro]\n-Nós estávamos aqui... nós estávamos aqui...\n-(Para sempre...)\n+Tulikuwa hapa... tulikuwa hapa...\n+(Milele...)\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #E8A34B, #C96F2E, #0B1B33, #F4EFE4, #5A2E1B, #D4A373\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Olhar escolhido: DIRETO NA LENTE. Uma jovem mulher africana régia encara a câmera com calma e autoridade — o olhar de quem estava aqui antes e sabe disso. Coroa de miçangas e joias de ouro, luz de fogueira quente vinda de baixo contra noite índigo profunda, padrões geométricos ancestrais projetados em luz tênue sobre a pele e o fundo. A voz antiga num rosto jovem: ancestralidade sem folclore, com acabamento 2026. Espaço limpo acima da cabeça para o título.\n\n**Prompt (EN):**\n\n> centered dramatic portrait of a regal young African woman looking straight into the lens, calm commanding gaze, intricate gold jewelry and a beaded crown, warm firelight glow from below against a deep indigo night background, faint glowing geometric ancestral patterns projected across her skin and the backdrop, shallow depth of field, cinematic photography, rich amber #E8A34B and deep indigo #0B1B33 palette with ivory highlights, clean negative space above her head for a bold title, square 1:1 composition\n\n**Negativo:** text, letters, typography, words, watermark, logo, extra limbs, deformed hands, blurry, cartoon\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa final de 194s coberta por 42 planos (~13.0 cortes/min), na mesma faixa da referência medida tina-turner-1985 (13 cortes/min, épico solene). O NÚCLEO medido na onda (65-77s) cai dentro do refrão 1: ali o ritmo desce para planos cravados de 3s e mora o plano-herói do clipe (n15 — a jovem no centro da roda, cabeça para trás, braços abertos) — é esse trecho que vira o Short. Refrões a ~18-20 cortes/min (planos de 3-4s, teto medido em la-graciosa 20.2); intro, versos e ponte respiram com planos de 5-10s como os dissolves longos da tina-turner. Transições só do que foi medido: corte seco dominante e cravado no beat, dissolve cruzado longo na intro/outro/ponte, white flash na entrada do refrão final (recurso medido na tina-turner). A roda de dança dos refrões alterna steadicam por dentro e plano aéreo por fora, como medido no menos-e-mais.\n- **Params:** `{\"resolucao\": \"1312x736\", \"duracao_shot_s\": 5}`\n- **Shots:** 42  ·  **Duração total:** 194.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 7s | drone | Amanhecer na savana, baobá em silhueta, névoa baixa |\n| 2 | intro | 5s | dolly-in | Mãos anciãs apertando a corda de um tambor à luz do fogo |\n| 3 | verso 1 | 8s | travelling | Muralhas de pedra seca monumentais ao entardecer (Grande Zimbábue) |\n| 4 | verso 1 | 6s | estatico | Biblioteca do deserto: manuscritos iluminados por um feixe de luz |\n| 5 | verso 1 | 7s | orbital | Astrônomo em silhueta lendo as estrelas sobre plataforma de pedra |\n| 6 | verso 1 | 5s | handheld | Comércio: mãos trocando sal e ouro sobre tecido trançado |\n| 7 | pre-refrao | 4s | dolly-in | Presente: a jovem de olhos fechados, cabeça baixa, cidade desfocada atrás |\n| 8 | pre-refrao | 4s | zoom | Macro: pele do tambor vibrando, poeira saltando em câmera lenta |\n| 9 | pre-refrao | 4s | whip-pan | Whip-pan da rua neon para corredor de pedra iluminado por tochas |\n| 10 | refrao 1 | 3.5s | handheld | Roda de dança em volta da fogueira, contra-plongée |\n| 11 | refrao 1 | 3.5s | steadicam | Tambores: palmas borradas sobre djembes, faíscas subindo |\n| 12 | refrao 1 | 3s | handheld | Pés batendo na terra, poeira explodindo no beat |\n| 13 | refrao 1 | 3s | handheld | Mãos chacoalhando o shekere, miçangas borradas no ritmo |\n| 14 | refrao 1 | 3s | orbital | Órbita pela roda de dançarinos, brasas em espiral |\n| 15 | refrao 1 | 3s | estatico | PLANO-HERÓI (núcleo 65-77s / Short): a jovem no centro da roda, cabeça para trás, braços abertos, garganta tensionada |\n| 16 | refrao 1 | 3s | handheld | A jovem girando, tecido índigo e ouro abrindo em círculo, faíscas |\n| 17 | refrao 1 | 3s | dolly-out | Recuo revelando a roda formando um padrão geométrico |\n| 18 | refrao 1 | 3s | zoom | Zoom rápido para dentro do fogo — match cut |\n| 19 | verso 2 | 7s | drone | Costa suaíli: dhows de vela latina cruzando água turquesa ao amanhecer |\n| 20 | verso 2 | 6s | travelling | Caravana de camelos nas dunas douradas, sombras longas |\n| 21 | verso 2 | 7s | dolly-in | Corte real: cajado de ouro e coroa de miçangas sobre trono talhado |\n| 22 | verso 2 | 6s | estatico | Fundição de bronze: metal derretido vertido no molde, faíscas |\n| 23 | refrao 2 | 3.5s | whip-pan | Whip para o presente: praça noturna, multidão dançando a mesma coreografia |\n| 24 | refrao 2 | 3s | handheld | A jovem saltando no ar, joias de ouro pegando a luz |\n| 25 | refrao 2 | 3.5s | steadicam | Steadicam costurando por dentro da multidão, âmbar contra sombra índigo |\n| 26 | refrao 2 | 3s | estatico | Projeção gigante de padrões ancestrais na fachada de um arranha-céu |\n| 27 | refrao 2 | 4s | orbital | Órbita: a jovem e a anciã dançando juntas, dois tempos lado a lado |\n| 28 | refrao 2 | 3.5s | dolly-in | Silhueta de tambor contra painel de LED pulsando âmbar |\n| 29 | refrao 2 | 3.5s | zoom | Crash zoom nos punhos e mãos erguidas sobre a multidão |\n| 30 | ponte | 10s | dolly-in | Silêncio: a anciã sozinha no escuro, tambor contra o peito, lágrima |\n| 31 | ponte | 8s | estatico | Jovem e anciã testa com testa, em silhueta de contraluz |\n| 32 | refrao final | 4s | dolly-out | White flash: recuo revelando fogueira e cidade no mesmo espaço impossível |\n| 33 | refrao final | 3.5s | handheld | Multidão com braços erguidos, cabeças inclinadas para trás |\n| 34 | refrao final | 3.5s | drone | Drone subindo: a multidão fundida forma uma espiral de fogo e LED |\n| 35 | refrao final | 4s | steadicam | A jovem liderando uma onda de dançarinos vindo para a câmera, slow motion |\n| 36 | refrao final | 3.5s | orbital | Jovem e anciã espelhadas no coração do mundo fundido — fogo de um lado, LED do outro |\n| 37 | refrao final | 3.5s | orbital | Órbita do anel de tambores, faíscas e confete de luz |\n| 38 | refrao final | 4s | handheld | Onda sincronizada: centenas de braços sobem e descem juntos no beat |\n| 39 | refrao final | 4s | estatico | Perfil da anciã contra o fogo, queixo erguido, orgulho |\n| 40 | refrao final | 4s | dolly-in | Push-in no tambor golpeado com força, anel de poeira, flash no hit |\n| 41 | outro | 6s | dolly-out | Amanhecer de volta: o tambor descansa na terra diante do baobá |\n| 42 | outro | 8s | drone | Drone se afastando: a jovem caminha ao horizonte carregando o tambor |\n\n**Prompts (EN):**\n\n1. slow aerial drone shot at dawn over a vast savanna, a giant baobab tree in dark silhouette against an amber #E8A34B horizon bleeding into deep indigo #0B1B33 night sky, low mist drifting over golden grass, cinematic, majestic and quiet\n2. slow dolly-in on a pair of weathered dark-skinned hands tightening the rope lacing of a wooden talking drum, framed so tightly that only the hands and the drum are visible, warm flickering firelight, deep shadows, embers drifting, intimate cinematic close-up\n3. smooth lateral tracking shot along massive curved dry-stone walls of an ancient African citadel at golden hour, warm amber light raking across the granite blocks, birds crossing the frame, tall grass swaying at the base, monumental scale, cinematic\n4. static shot inside a dim desert library, ancient leather-bound manuscripts with ornamental geometric illumination laid open on a low wooden table, script blurred and unreadable, a single shaft of golden light cutting through dust motes, sandstone walls, reverent cinematic atmosphere\n5. slow orbital shot around a robed figure standing in silhouette on a raised stone platform at night, arm extended toward a dense star field and glowing Milky Way, deep indigo #0B1B33 sky, faint torchlight below, epic and contemplative, cinematic\n6. handheld close shot of hands exchanging rough salt slabs and small pouches of gold dust over richly woven indigo and amber cloth, framed so tightly that only the hands and goods are visible, bright market daylight, dust in the air, lively documentary energy\n7. slow dolly-in on a young African woman in modern streetwear with gold jewelry, head bowed, eyes closed in concentration, night city bokeh lights blurred behind her, amber street light rim on her profile, tense and expectant, cinematic shallow depth of field\n8. extreme macro shot of a drum skin vibrating, fine dust particles bouncing off the surface in slow motion, strong amber backlight turning the dust into glowing sparks, dark background, rhythmic and hypnotic, cinematic\n9. fast whip-pan transition starting on a neon-lit modern city street at night and landing inside an ancient torch-lit stone corridor, motion blur smearing amber and indigo light between the two worlds, energetic cinematic transition\n10. low angle handheld shot of a circle of dancers in indigo and gold wraps moving around a large bonfire at night, sparks rising, fabric flying, firelight on dark skin, joyful powerful energy, cinematic\n11. steadicam shot gliding past a line of drummers, palms blurring with speed over djembe skins, sparks from the bonfire drifting through frame, sweat catching amber firelight, percussive raw energy, cinematic\n12. handheld close shot of bare feet stamping hard on red earth, framed so tightly that only the feet and ankles are visible, bursts of dust exploding with each impact, firelight raking across the ground, raw percussive rhythm, cinematic\n13. handheld close shot of hands shaking a beaded gourd shekere in fast rhythm, framed so tightly that only the hands and instrument are visible, beads blurring with motion, firelight flashing across the shell netting, sparks drifting behind, percussive frenzy, cinematic\n14. fast orbital shot circling the ring of dancers around the bonfire, motion blur on the spinning fabric, embers spiraling upward, drum silhouettes at the edge of frame, kinetic celebration, warm amber and deep indigo palette, cinematic\n15. static centered shot of the young African woman in modern streetwear and gold jewelry standing in the middle of the dance circle, head tipped back, throat taut, chin raised, arms spread wide, eyes squeezed shut, firelight flickering on her face, sparks rising around her, triumphant surrender, cinematic\n16. handheld shot of the young African woman spinning fast in the firelight, indigo and gold fabric flaring in a wide circle, beads and braids flying, sparks streaking around her, motion blur at the edges of frame, ecstatic release, cinematic\n17. rising dolly-out revealing the dance circle from above, dancers arranged in a geometric cosmogram pattern around the fire, torches marking the outer ring, the formation glowing against the dark savanna, awe and scale, cinematic\n18. fast crash zoom into the heart of the bonfire until orange flames fill the entire frame, sparks streaking past the lens, intense heat shimmer, transition shot, cinematic\n19. aerial drone shot of wooden dhows with white lateen sails crossing turquoise shallow water at dawn, a coral-stone coastal town with carved doorways in the background, golden light on the sails, trade winds, serene grandeur, cinematic\n20. lateral tracking shot of a camel caravan crossing tall golden dunes at late afternoon, salt slabs strapped to the saddles, long blue shadows stretching across the sand ripples, heat haze on the horizon, epic scale, cinematic\n21. slow dolly-in on a golden ceremonial staff and a beaded crown resting on a carved wooden throne draped with patterned cloth, incense smoke curling through shafts of warm light, gold glinting in the darkness, regal silence, cinematic\n22. static shot of hands in thick cloth wraps pouring glowing molten bronze from a clay crucible into a mold, framed so tightly that only the hands, crucible and mold are visible, orange sparks bursting, deep shadows, ancient craft mastery, cinematic\n23. fast whip-pan landing on a night city plaza where a crowd of dancers in modern colorful streetwear performs the same circular choreography, LED screens glowing amber and indigo behind them, urban celebration echoing the ancient dance, cinematic\n24. handheld shot of the young African woman leaping mid-air above the crowd, modern streetwear and gold jewelry catching flashes of amber strobe light, motion frozen at the peak of the jump, euphoric energy, night city background, cinematic\n25. steadicam shot weaving through the dancing crowd at night, faces and shoulders lit warm amber on one side and deep indigo shadow on the other, hands clapping overhead, fabric and braids in motion, immersive celebration, cinematic\n26. static wide shot of a skyscraper facade at night covered by a giant projection of glowing geometric ancestral patterns in amber and gold, the crowd tiny at its base, monumental fusion of ancient and modern, cinematic\n27. orbital shot circling the young woman in modern streetwear and an elder woman in traditional indigo wrap and headdress dancing together in the center of the crowd, amber light wrapping around them, generations mirroring each other's movements, joyful and solemn at once, cinematic\n28. dolly-in on a drummer in silhouette striking a tall drum in front of a massive LED wall pulsing amber light on every hit, rim light outlining flying hands, dust and haze in the beams, raw power meeting technology, cinematic\n29. fast crash zoom onto a sea of raised fists and open hands above the crowd at night, gold rings and bracelets flashing in strobe light, haze beams cutting across, collective triumph, cinematic\n30. very slow dolly-in on the elder woman alone in a dark space, a single soft beam of warm light on her, holding the old talking drum against her chest, eyes closed, a tear track shining on her cheek, profound stillness, cinematic\n31. static shot of the young woman and the elder woman standing forehead to forehead in silhouette, strong amber rim light tracing their profiles against darkness, dust drifting, a single ember floating between them, intimate transmission, cinematic\n32. burst of white light then a fast dolly-out revealing the two women at the center of an impossible space where the bonfire dance circle and the neon city crowd occupy the same ground, double-exposure blend of firelight and LED glow, past and present merged, epic, cinematic\n33. handheld shot inside the merged crowd, dozens of arms raised high, heads tipped back, gold and beads flashing between firelight and strobes, fabric whirling, overwhelming collective joy, cinematic\n34. rising aerial drone shot over the merged crowd forming a giant spiral of torch fire and LED light on dark ground, the pattern glowing like a cosmogram seen from the sky, breathtaking scale, amber against deep indigo, cinematic\n35. steadicam shot pulling back as the young African woman leads a wave of dancers advancing toward camera in slow motion, fabric and braids flowing, dust and sparks suspended in the air, amber key light, unstoppable momentum, cinematic\n36. orbital shot circling the young woman and the elder woman dancing mirrored movements at the heart of the merged world, bonfire flames on one side and neon LED glow on the other painting each woman in a different light, dust and sparks orbiting with the camera, two eras breathing as one, cinematic\n37. fast orbital shot around a ring of drummers at full intensity, sparks and floating particles of golden light filling the air, drum skins blurring with impact, the merged fire and neon world spinning in the background, ecstatic peak, cinematic\n38. wide handheld shot of the merged crowd dropping and raising their arms in one synchronized wave on the beat, firelight and amber strobes flashing alternately across hundreds of hands, dust rising in rhythmic pulses, unified collective ritual, cinematic\n39. static profile shot of the elder woman framed from the eyes up against blazing firelight, chin lifted, deep wrinkles carved by amber light, an expression of fierce pride, sparks drifting past, cinematic portrait\n40. fast dolly-in on the talking drum being struck hard, framed so tightly that only the striking hand and drum are visible, a ring of dust blasting outward on impact, a flash of white light on the hit, raw finality, cinematic\n41. slow dolly-out from the old talking drum resting on red earth in front of the giant baobab tree at dawn, dying embers glowing beside it, soft amber light returning to the savanna, peaceful afterglow, cinematic\n42. aerial drone shot pulling away over the savanna as the sun crests the horizon, the small distant figure of the young woman walking toward the light carrying the drum on her shoulder, long shadow trailing, amber flooding the indigo away, hopeful and eternal, cinematic\n\n## Publicação (YouTube)\n\n- **Título:** Tulikuwa Hapa\n- **Tags:** ancestral, imponente, hipnotico, celebratorio\n\n**Descrição:**\n\nUma voz antiga sobre um som novo. Esta canção percorre a África de antes das fronteiras — as muralhas de pedra erguidas nas montanhas, as bibliotecas cheias de sabedoria no deserto, o ouro que cruzava o Saara, as velas que costuravam a costa do Índico, os olhos que liam as estrelas. Não é lamento nem nostalgia: é afirmação. Estávamos aqui. Estamos aqui. Estaremos aqui.\n\nO canto é todo em suaíli, guiado por uma voz feminina grave e granulada, de anciã, respondida por um coro que cresce a cada refrão. Por baixo, o som é de agora: baixo profundo, tambores em camadas, arpejos de harpa e sintetizadores largos, numa produção pensada para 2026 — ancestralidade sem vitrine de museu.\n\nNo clipe, um tambor passa de mãos anciãs para mãos jovens. Cada batida abre uma janela no tempo: a cidadela de pedra, a caravana nas dunas, os dhows ao amanhecer, a corte de ouro. No fim, a fogueira ancestral e a cidade de neon dançam no mesmo chão — porque a raiz e o fruto sempre foram a mesma árvore.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Cinematic afro-electronic anthem sung entirely in Swahili, 112 BPM, F minor. A deep, weathered, grainy female contralto lead — commanding, elder-toned, full of authority — delivers short call lines answered by a massive mixed choir in tight call-and-response. Log drum bass and deep clean sub-808 pulse under layered djembe, talking drum and shekere patterns. Plucked harp arpeggios with a kora-like timbre and soft mbira textures weave through wide modern synth pads. Verses stay sparse and hypnotic: voice, hand percussion, sub bass. Choruses explode: full choir answers, stacked drums, brass-weight synth stabs, high ululations bright in the mix. The bridge strips down to the solo voice and a single drum, then the final chorus returns twice as large with layered harmonies. Polished 2026 production, vocal-forward mix, deep controlled low end, wide stereo choir, festive yet solemn power.",
+    "imagem": "centered dramatic portrait of a regal young African woman looking straight into the lens, calm commanding gaze, intricate gold jewelry and a beaded crown, warm firelight glow from below against a deep indigo night background, faint glowing geometric ancestral patterns projected across her skin and the backdrop, shallow depth of field, cinematic photography, rich amber #E8A34B and deep indigo #0B1B33 palette with ivory highlights, clean negative space above her head for a bold title, square 1:1 composition",
+    "negativo": "text, letters, typography, words, watermark, logo, extra limbs, deformed hands, blurry, cartoon",
+    "conceito": "Olhar escolhido: DIRETO NA LENTE. Uma jovem mulher africana régia encara a câmera com calma e autoridade — o olhar de quem estava aqui antes e sabe disso. Coroa de miçangas e joias de ouro, luz de fogueira quente vinda de baixo contra noite índigo profunda, padrões geométricos ancestrais projetados em luz tênue sobre a pele e o fundo. A voz antiga num rosto jovem: ancestralidade sem folclore, com acabamento 2026. Espaço limpo acima da cabeça para o título.",
+    "tagline": "a história começa antes do começo",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone",
+      "prompt": "slow aerial drone shot at dawn over a vast savanna, a giant baobab tree in dark silhouette against an amber #E8A34B horizon bleeding into deep indigo #0B1B33 night sky, low mist drifting over golden grass, cinematic, majestic and quiet",
+      "alt": "slow aerial drone shot over a vast empty savanna at dawn, a lone tree silhouette on the horizon, amber and indigo gradient sky, low mist over grass, calm cinematic landscape, no people"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "dolly-in",
+      "prompt": "slow dolly-in on a pair of weathered dark-skinned hands tightening the rope lacing of a wooden talking drum, framed so tightly that only the hands and the drum are visible, warm flickering firelight, deep shadows, embers drifting, intimate cinematic close-up",
+      "alt": "slow dolly-in on an old wooden talking drum with rope lacing resting on woven cloth beside a small fire, warm flickering light, embers drifting in the dark, intimate cinematic still life, no people"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "travelling",
+      "prompt": "smooth lateral tracking shot along massive curved dry-stone walls of an ancient African citadel at golden hour, warm amber light raking across the granite blocks, birds crossing the frame, tall grass swaying at the base, monumental scale, cinematic",
+      "alt": "smooth lateral tracking shot along a massive ancient curved stone wall at golden hour, textured granite blocks in raking amber light, tall grass at the base, birds far in the sky, monumental quiet landscape, no people"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "static shot inside a dim desert library, ancient leather-bound manuscripts with ornamental geometric illumination laid open on a low wooden table, script blurred and unreadable, a single shaft of golden light cutting through dust motes, sandstone walls, reverent cinematic atmosphere",
+      "alt": "static shot inside a dim sandstone chamber, stacks of closed leather-bound volumes and rolled scrolls on wooden shelves, a single shaft of golden light cutting through floating dust, warm and reverent cinematic atmosphere, no readable text, no people"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "orbital",
+      "prompt": "slow orbital shot around a robed figure standing in silhouette on a raised stone platform at night, arm extended toward a dense star field and glowing Milky Way, deep indigo #0B1B33 sky, faint torchlight below, epic and contemplative, cinematic",
+      "alt": "slow orbital shot around a tall carved stone pillar on a platform under a dense star field and glowing Milky Way, deep indigo night, faint warm torchlight at the base, epic contemplative mood, no people"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "handheld close shot of hands exchanging rough salt slabs and small pouches of gold dust over richly woven indigo and amber cloth, framed so tightly that only the hands and goods are visible, bright market daylight, dust in the air, lively documentary energy",
+      "alt": "handheld close shot of rough salt slabs, brass weights and small leather pouches arranged on richly woven indigo and amber cloth, bright market daylight, dust drifting in the air, lively documentary texture, no people"
+     },
+     {
+      "n": 7,
+      "secao": "pre-refrao",
+      "camera": "dolly-in",
+      "prompt": "slow dolly-in on a young African woman in modern streetwear with gold jewelry, head bowed, eyes closed in concentration, night city bokeh lights blurred behind her, amber street light rim on her profile, tense and expectant, cinematic shallow depth of field",
+      "alt": "slow dolly-in on a figure in silhouette standing still against blurred night city bokeh lights, amber rim light tracing the shoulders, head bowed, tense expectant mood, cinematic shallow depth of field, face not visible"
+     },
+     {
+      "n": 8,
+      "secao": "pre-refrao",
+      "camera": "zoom",
+      "prompt": "extreme macro shot of a drum skin vibrating, fine dust particles bouncing off the surface in slow motion, strong amber backlight turning the dust into glowing sparks, dark background, rhythmic and hypnotic, cinematic",
+      "alt": "extreme macro shot of a taut textured surface vibrating, fine dust particles bouncing in slow motion against strong amber backlight, glowing particles on a dark background, hypnotic cinematic detail, no people"
+     },
+     {
+      "n": 9,
+      "secao": "pre-refrao",
+      "camera": "whip-pan",
+      "prompt": "fast whip-pan transition starting on a neon-lit modern city street at night and landing inside an ancient torch-lit stone corridor, motion blur smearing amber and indigo light between the two worlds, energetic cinematic transition",
+      "alt": "fast whip-pan transition from streaks of neon city light to streaks of warm torchlight on ancient stone walls, heavy motion blur of amber and indigo, energetic abstract transition, no people"
+     },
+     {
+      "n": 10,
+      "secao": "refrao 1",
+      "camera": "handheld",
+      "prompt": "low angle handheld shot of a circle of dancers in indigo and gold wraps moving around a large bonfire at night, sparks rising, fabric flying, firelight on dark skin, joyful powerful energy, cinematic",
+      "alt": "low angle handheld shot of a large bonfire at night surrounded by moving shadows and flying fabric edges, sparks spiraling upward into the dark, warm firelight, powerful celebratory energy, no faces visible"
+     },
+     {
+      "n": 11,
+      "secao": "refrao 1",
+      "camera": "steadicam",
+      "prompt": "steadicam shot gliding past a line of drummers, palms blurring with speed over djembe skins, sparks from the bonfire drifting through frame, sweat catching amber firelight, percussive raw energy, cinematic",
+      "alt": "steadicam shot gliding past a row of carved djembe drums lit by firelight, sparks drifting through frame, drum skins trembling with impact blur, percussive raw energy, warm amber tones, no people"
+     },
+     {
+      "n": 12,
+      "secao": "refrao 1",
+      "camera": "handheld",
+      "prompt": "handheld close shot of bare feet stamping hard on red earth, framed so tightly that only the feet and ankles are visible, bursts of dust exploding with each impact, firelight raking across the ground, raw percussive rhythm, cinematic",
+      "alt": "handheld close shot of red earth surface with bursts of dust exploding rhythmically upward, firelight raking low across the textured ground, small stones jumping with each impact, raw percussive energy, no people"
+     },
+     {
+      "n": 13,
+      "secao": "refrao 1",
+      "camera": "handheld",
+      "prompt": "handheld close shot of hands shaking a beaded gourd shekere in fast rhythm, framed so tightly that only the hands and instrument are visible, beads blurring with motion, firelight flashing across the shell netting, sparks drifting behind, percussive frenzy, cinematic",
+      "alt": "handheld close shot of a beaded gourd shekere vibrating in fast rhythm on patterned cloth, beads blurring with motion, firelight flashing across the shell netting, sparks drifting behind, percussive energy, no people"
+     },
+     {
+      "n": 14,
+      "secao": "refrao 1",
+      "camera": "orbital",
+      "prompt": "fast orbital shot circling the ring of dancers around the bonfire, motion blur on the spinning fabric, embers spiraling upward, drum silhouettes at the edge of frame, kinetic celebration, warm amber and deep indigo palette, cinematic",
+      "alt": "fast orbital shot circling a great bonfire at night, embers spiraling upward in the wind, blurred fabric and shadow shapes at the edges of frame, kinetic celebratory energy, amber and indigo palette, no faces"
+     },
+     {
+      "n": 15,
+      "secao": "refrao 1",
+      "camera": "estatico",
+      "prompt": "static centered shot of the young African woman in modern streetwear and gold jewelry standing in the middle of the dance circle, head tipped back, throat taut, chin raised, arms spread wide, eyes squeezed shut, firelight flickering on her face, sparks rising around her, triumphant surrender, cinematic",
+      "alt": "static centered shot of a figure in silhouette with head tipped back and arms spread wide against the glow of a great bonfire, sparks rising around the outline, triumphant open posture, warm amber against indigo night, face not visible"
+     },
+     {
+      "n": 16,
+      "secao": "refrao 1",
+      "camera": "handheld",
+      "prompt": "handheld shot of the young African woman spinning fast in the firelight, indigo and gold fabric flaring in a wide circle, beads and braids flying, sparks streaking around her, motion blur at the edges of frame, ecstatic release, cinematic",
+      "alt": "handheld shot of indigo and gold fabric flaring in a fast spin near a bonfire, beads catching firelight, sparks streaking around the whirling shape, motion blur at the edges, ecstatic energy, no face visible"
+     },
+     {
+      "n": 17,
+      "secao": "refrao 1",
+      "camera": "dolly-out",
+      "prompt": "rising dolly-out revealing the dance circle from above, dancers arranged in a geometric cosmogram pattern around the fire, torches marking the outer ring, the formation glowing against the dark savanna, awe and scale, cinematic",
+      "alt": "rising dolly-out over a geometric pattern of torches and firelight arranged in concentric rings on dark ground, a great central fire glowing, abstract cosmogram of light against the night savanna, awe and scale, no people"
+     },
+     {
+      "n": 18,
+      "secao": "refrao 1",
+      "camera": "zoom",
+      "prompt": "fast crash zoom into the heart of the bonfire until orange flames fill the entire frame, sparks streaking past the lens, intense heat shimmer, transition shot, cinematic",
+      "alt": "fast crash zoom into bright orange flames until fire fills the entire frame, sparks streaking past, heat shimmer distortion, abstract fiery transition, no people"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "drone",
+      "prompt": "aerial drone shot of wooden dhows with white lateen sails crossing turquoise shallow water at dawn, a coral-stone coastal town with carved doorways in the background, golden light on the sails, trade winds, serene grandeur, cinematic",
+      "alt": "aerial drone shot of white lateen sails crossing turquoise shallow water at dawn, coral-stone rooftops far in the background, golden light and long shadows on the sea, serene grandeur, no visible people"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "travelling",
+      "prompt": "lateral tracking shot of a camel caravan crossing tall golden dunes at late afternoon, salt slabs strapped to the saddles, long blue shadows stretching across the sand ripples, heat haze on the horizon, epic scale, cinematic",
+      "alt": "lateral tracking shot across tall golden dunes at late afternoon, a line of long blue shadows stretching over rippled sand, wind lifting a veil of sand grains off the crests, heat haze on the horizon, epic empty landscape"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "dolly-in",
+      "prompt": "slow dolly-in on a golden ceremonial staff and a beaded crown resting on a carved wooden throne draped with patterned cloth, incense smoke curling through shafts of warm light, gold glinting in the darkness, regal silence, cinematic",
+      "alt": "slow dolly-in on a golden ceremonial staff and a beaded crown resting on a carved wooden throne draped with patterned cloth, incense smoke curling through shafts of warm light, regal quiet atmosphere, no people"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "estatico",
+      "prompt": "static shot of hands in thick cloth wraps pouring glowing molten bronze from a clay crucible into a mold, framed so tightly that only the hands, crucible and mold are visible, orange sparks bursting, deep shadows, ancient craft mastery, cinematic",
+      "alt": "static shot of glowing molten metal flowing from a clay crucible into a dark mold, orange sparks bursting against deep shadow, heat glow on rough stone, ancient craft atmosphere, no people"
+     },
+     {
+      "n": 23,
+      "secao": "refrao 2",
+      "camera": "whip-pan",
+      "prompt": "fast whip-pan landing on a night city plaza where a crowd of dancers in modern colorful streetwear performs the same circular choreography, LED screens glowing amber and indigo behind them, urban celebration echoing the ancient dance, cinematic",
+      "alt": "fast whip-pan landing on a night city plaza seen from behind the crowd, dozens of silhouetted figures moving in synchronized circular formation, LED screens glowing amber and indigo beyond them, urban celebration, no faces visible"
+     },
+     {
+      "n": 24,
+      "secao": "refrao 2",
+      "camera": "handheld",
+      "prompt": "handheld shot of the young African woman leaping mid-air above the crowd, modern streetwear and gold jewelry catching flashes of amber strobe light, motion frozen at the peak of the jump, euphoric energy, night city background, cinematic",
+      "alt": "handheld shot of a silhouetted figure leaping mid-air above a crowd, gold accents flashing in amber strobe light, motion frozen at the peak of the jump against glowing city haze, euphoric energy, face not visible"
+     },
+     {
+      "n": 25,
+      "secao": "refrao 2",
+      "camera": "steadicam",
+      "prompt": "steadicam shot weaving through the dancing crowd at night, faces and shoulders lit warm amber on one side and deep indigo shadow on the other, hands clapping overhead, fabric and braids in motion, immersive celebration, cinematic",
+      "alt": "steadicam shot weaving between moving silhouettes in a night crowd, warm amber light on one side and deep indigo shadow on the other, hands clapping overhead against the glow, immersive celebratory motion, no faces visible"
+     },
+     {
+      "n": 26,
+      "secao": "refrao 2",
+      "camera": "estatico",
+      "prompt": "static wide shot of a skyscraper facade at night covered by a giant projection of glowing geometric ancestral patterns in amber and gold, the crowd tiny at its base, monumental fusion of ancient and modern, cinematic",
+      "alt": "static wide shot of a dark skyscraper facade at night covered by a giant projection of glowing geometric patterns in amber and gold, empty plaza reflections at its base, monumental fusion of ancient and modern, no people"
+     },
+     {
+      "n": 27,
+      "secao": "refrao 2",
+      "camera": "orbital",
+      "prompt": "orbital shot circling the young woman in modern streetwear and an elder woman in traditional indigo wrap and headdress dancing together in the center of the crowd, amber light wrapping around them, generations mirroring each other's movements, joyful and solemn at once, cinematic",
+      "alt": "orbital shot circling two silhouetted figures dancing together in a clearing of the crowd, one draped in flowing traditional cloth and one in modern clothes, amber rim light tracing their mirrored movements, joyful and solemn, faces not visible"
+     },
+     {
+      "n": 28,
+      "secao": "refrao 2",
+      "camera": "dolly-in",
+      "prompt": "dolly-in on a drummer in silhouette striking a tall drum in front of a massive LED wall pulsing amber light on every hit, rim light outlining flying hands, dust and haze in the beams, raw power meeting technology, cinematic",
+      "alt": "dolly-in on a tall drum in silhouette in front of a massive LED wall pulsing amber light rhythmically, haze drifting through the light beams, vibrating drum skin catching the glow, raw power meeting technology, no people"
+     },
+     {
+      "n": 29,
+      "secao": "refrao 2",
+      "camera": "zoom",
+      "prompt": "fast crash zoom onto a sea of raised fists and open hands above the crowd at night, gold rings and bracelets flashing in strobe light, haze beams cutting across, collective triumph, cinematic",
+      "alt": "fast crash zoom onto dozens of raised hands in silhouette against amber haze beams at night, bracelets flashing points of light, collective triumphant gesture, no faces visible"
+     },
+     {
+      "n": 30,
+      "secao": "ponte",
+      "camera": "dolly-in",
+      "prompt": "very slow dolly-in on the elder woman alone in a dark space, a single soft beam of warm light on her, holding the old talking drum against her chest, eyes closed, a tear track shining on her cheek, profound stillness, cinematic",
+      "alt": "very slow dolly-in on the old talking drum resting alone on dark ground under a single soft beam of warm light, dust drifting slowly through the beam, rope lacing and worn wood in detail, profound stillness, no people"
+     },
+     {
+      "n": 31,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "static shot of the young woman and the elder woman standing forehead to forehead in silhouette, strong amber rim light tracing their profiles against darkness, dust drifting, a single ember floating between them, intimate transmission, cinematic",
+      "alt": "static shot of two silhouetted profiles leaning toward each other, traced only by strong amber rim light against pure darkness, a single glowing ember floating between them, dust drifting, intimate quiet moment, faces not readable"
+     },
+     {
+      "n": 32,
+      "secao": "refrao final",
+      "camera": "dolly-out",
+      "prompt": "burst of white light then a fast dolly-out revealing the two women at the center of an impossible space where the bonfire dance circle and the neon city crowd occupy the same ground, double-exposure blend of firelight and LED glow, past and present merged, epic, cinematic",
+      "alt": "burst of white light then a fast dolly-out over an impossible landscape where a great bonfire ring and glowing city light towers share the same ground, double-exposure blend of amber fire and indigo neon, epic merged worlds, no people"
+     },
+     {
+      "n": 33,
+      "secao": "refrao final",
+      "camera": "handheld",
+      "prompt": "handheld shot inside the merged crowd, dozens of arms raised high, heads tipped back, gold and beads flashing between firelight and strobes, fabric whirling, overwhelming collective joy, cinematic",
+      "alt": "handheld shot of dozens of raised arms in silhouette against alternating firelight and strobe glow, beads and gold accents flashing, fabric whirling upward, overwhelming collective joy, no faces visible"
+     },
+     {
+      "n": 34,
+      "secao": "refrao final",
+      "camera": "drone",
+      "prompt": "rising aerial drone shot over the merged crowd forming a giant spiral of torch fire and LED light on dark ground, the pattern glowing like a cosmogram seen from the sky, breathtaking scale, amber against deep indigo, cinematic",
+      "alt": "rising aerial drone shot over a giant spiral of torch flames and LED points glowing on dark ground, an abstract cosmogram of light seen from the sky, breathtaking scale, amber against deep indigo, no people distinguishable"
+     },
+     {
+      "n": 35,
+      "secao": "refrao final",
+      "camera": "steadicam",
+      "prompt": "steadicam shot pulling back as the young African woman leads a wave of dancers advancing toward camera in slow motion, fabric and braids flowing, dust and sparks suspended in the air, amber key light, unstoppable momentum, cinematic",
+      "alt": "steadicam shot pulling back as a wave of silhouetted dancers advances toward camera in slow motion through suspended dust and sparks, flowing fabric backlit in amber, unstoppable collective momentum, faces not visible"
+     },
+     {
+      "n": 36,
+      "secao": "refrao final",
+      "camera": "orbital",
+      "prompt": "orbital shot circling the young woman and the elder woman dancing mirrored movements at the heart of the merged world, bonfire flames on one side and neon LED glow on the other painting each woman in a different light, dust and sparks orbiting with the camera, two eras breathing as one, cinematic",
+      "alt": "orbital shot circling two silhouetted figures dancing mirrored movements between a bonfire glow on one side and neon LED glow on the other, dust and sparks orbiting with the camera, amber and indigo split lighting, faces not visible"
+     },
+     {
+      "n": 37,
+      "secao": "refrao final",
+      "camera": "orbital",
+      "prompt": "fast orbital shot around a ring of drummers at full intensity, sparks and floating particles of golden light filling the air, drum skins blurring with impact, the merged fire and neon world spinning in the background, ecstatic peak, cinematic",
+      "alt": "fast orbital shot around a ring of tall drums lit by fire and neon, sparks and floating particles of golden light filling the air, impact blur on the drum skins, spinning merged world in the background, ecstatic peak, no people"
+     },
+     {
+      "n": 38,
+      "secao": "refrao final",
+      "camera": "handheld",
+      "prompt": "wide handheld shot of the merged crowd dropping and raising their arms in one synchronized wave on the beat, firelight and amber strobes flashing alternately across hundreds of hands, dust rising in rhythmic pulses, unified collective ritual, cinematic",
+      "alt": "wide handheld shot of hundreds of silhouetted arms rising and falling in one synchronized wave, alternating firelight and amber strobe flashes, dust rising in rhythmic pulses, unified collective motion, no faces visible"
+     },
+     {
+      "n": 39,
+      "secao": "refrao final",
+      "camera": "estatico",
+      "prompt": "static profile shot of the elder woman framed from the eyes up against blazing firelight, chin lifted, deep wrinkles carved by amber light, an expression of fierce pride, sparks drifting past, cinematic portrait",
+      "alt": "static profile silhouette of an elder figure with a tall headdress against blazing firelight, chin lifted in fierce pride, sparks drifting past the dark outline, amber glow on the edges, face not readable"
+     },
+     {
+      "n": 40,
+      "secao": "refrao final",
+      "camera": "dolly-in",
+      "prompt": "fast dolly-in on the talking drum being struck hard, framed so tightly that only the striking hand and drum are visible, a ring of dust blasting outward on impact, a flash of white light on the hit, raw finality, cinematic",
+      "alt": "fast dolly-in on a drum skin at the exact moment of impact, a ring of dust blasting outward, a flash of white light flooding the frame, raw percussive finality, no people"
+     },
+     {
+      "n": 41,
+      "secao": "outro",
+      "camera": "dolly-out",
+      "prompt": "slow dolly-out from the old talking drum resting on red earth in front of the giant baobab tree at dawn, dying embers glowing beside it, soft amber light returning to the savanna, peaceful afterglow, cinematic",
+      "alt": "slow dolly-out from an old wooden drum resting on red earth before a giant tree silhouette at dawn, dying embers glowing softly beside it, warm light spreading over quiet grassland, peaceful afterglow, no people"
+     },
+     {
+      "n": 42,
+      "secao": "outro",
+      "camera": "drone",
+      "prompt": "aerial drone shot pulling away over the savanna as the sun crests the horizon, the small distant figure of the young woman walking toward the light carrying the drum on her shoulder, long shadow trailing, amber flooding the indigo away, hopeful and eternal, cinematic",
+      "alt": "aerial drone shot pulling away over the savanna as the sun crests the horizon, a single long shadow stretching across golden grass toward the light, amber flooding away the indigo night, hopeful and eternal, no clear person visible"
+     }
+    ]
+   },
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   },
