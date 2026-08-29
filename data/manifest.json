@@ -4,6 +4,590 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "estilo-pixar-a-powerful-and-emotional-na",
+   "mvd": "MVD#152",
+   "titulo": "Ele Vive",
+   "quando": "2026-08-29T00:45:19-03:00",
+   "solicitacao": "estilo Pixar A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.",
+   "genero": "cinematic modern worship / gospel pop-rock orquestral",
+   "bpm": 76,
+   "tom": "Ré maior (modula para Mi maior no refrão final)",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "reverente",
+    "terno nos versos",
+    "épico e triunfante nos refrões",
+    "solene que explode em celebração",
+    "esperançoso"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/estilo-pixar-a-powerful-and-emotional-na/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 764641787,
+   "doc": "# Ele Vive\n\n**slug:** `estilo-pixar-a-powerful-and-emotional-na`  ·  **solicitação:** estilo Pixar A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/estilo-pixar-a-powerful-and-emotional-na`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Ele Vive\n\n\n\n**slug:** `estilo-pixar-a-powerful-and-emotional-na`  ·  **criado:** 2026-08-29T00:45:19-03:00\n\n**solicitação:** estilo Pixar A powerful and emotional narrative gospel song about the life of Jesus. Structure: Verse 1 (humble birth in a manger, star shining), Chorus (powerful, anthemic: Ele é o Caminho, a Verdade e a Vida), Verse 2 (miracles, walking on water, feeding the multitude), Chorus, Bridge (dramatic shift, crucifixion followed by an explosive celebration of the resurrection: Ele vive!), Final Chorus (grand, high-energy, with a backing choir), Outro (peaceful and fading out). Style: Cinematic modern worship, acoustic guitar and piano build up to an epic orchestral pop-rock progression. Vocals: Emotional and clear male or female lead singer, building intensity. Portuguese lyrics.\n\n**estilo de referência:** anthem-pop-rock  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** cinematic modern worship / gospel pop-rock orquestral  ·  **BPM:** 76  ·  **Tom:** Ré maior (modula para Mi maior no refrão final)\n- **Mood:** reverente, terno nos versos, épico e triunfante nos refrões, solene que explode em celebração, esperançoso\n- **Instrumentação:** violão dedilhado, piano de feltro, cordas cinematográficas, bateria ao vivo com toms graves, tímpanos e percussão orquestral, guitarra elétrica em swells, metais no refrão final, coral gospel\n- **Voz:** {\"presenca\": \"lead\", \"tipos\": [{\"genero\": \"masculina\", \"registro\": \"tenor claro, A2-B4, peito para misto nos agudos\", \"entrega\": \"íntima e quase falada nos versos, belting sustentado e emocionado nos refrões, sem grit excessivo\"}, {\"genero\": \"coral\", \"registro\": \"SATB gospel\", \"entrega\": \"responde o gancho (Ele vive!) na ponte e dobra o refrão final em harmonias abertas\"}]}\n- **Params:** `{\"duracao_s\": 180, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Cinematic modern worship anthem, 76 BPM, D major modulating up to E major in the final chorus. Opens with warm fingerpicked acoustic guitar and soft felt piano, intimate and tender; strings, deep toms and a full live drum kit enter at the first chorus and grow into an epic orchestral pop-rock wall with soaring electric guitar swells, brass and cinematic percussion. Lead vocal: clear emotional male tenor, close and gentle in the verses, opening into a powerful sustained belt on the choruses. Bridge drops to voice and piano, dark and solemn, then explodes into a triumphant celebration with big drums, timpani hits and a massive gospel choir shouting the hook. Final chorus grand and high-energy with full choir, layered harmonies and orchestral tutti. Outro strips back to piano, acoustic guitar and a soft hummed line fading out. Uplifting, reverent, tearful and victorious. Lyrics in pt-BR\n\n**Estrutura:** intro (6s) · verso 1 (28s) · refrao 1 (24s) · verso 2 (26s) · refrao 2 (24s) · ponte (28s) · refrao final (30s) · outro (14s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\n(piano e violão, uma frase curta)\n\n[Verso 1]\nNuma noite sem barulho, numa cidade pequena\nNão tinha cama, não tinha nada, só o feno e a fé\nUma estrela abriu o céu como quem acende uma vela\nE o mundo inteiro dormia sem saber quem Ele é\n\nPastores viram a luz e correram pra manjedoura\nUm menino chorando, e o silêncio virou canção\nO Rei de tudo escolheu nascer sem coroa\nPra caber na palma da nossa mão\n\n[Refrão]\nEle é o Caminho, a Verdade e a Vida\nEle é a Luz que a noite não apaga\nEle é o Caminho, a Verdade e a Vida\nQuem vai com Ele não se perde nunca mais\n\n[Verso 2]\nEle andou sobre as ondas quando o barco ia afundar\nDisse não tenha medo, e o vento obedeceu\nCinco pães e dois peixes pra uma multidão sem parar\nE sobrou cesto cheio do pouco que alguém deu\n\nTocou o cego, e o cego viu a cor do dia\nChamou o morto pelo nome, e o morto caminhou\nCada milagre era um jeito de dizer eu te amo\nE ninguém que O encontrou ficou como estava\n\n[Refrão]\nEle é o Caminho, a Verdade e a Vida\nEle é a Luz que a noite não apaga\nEle é o Caminho, a Verdade e a Vida\nQuem vai com Ele não se perde nunca mais\n\n[Ponte]\n(quase só voz e piano, solene)\nUma cruz no alto do monte, o céu ficou escuro\nEle carregou o peso que era nosso pra carregar\nEstá consumado, e o véu rasgou ao meio\nTrês dias de silêncio, e o mundo a esperar\n\n(explode, bateria e coral)\nMas a pedra rolou! Ele vive! Ele vive!\nO túmulo vazio é o grito da manhã\nEle vive! Ele vive!\nA morte perdeu, e a Vida venceu!\n\n[Refrão Final]\n(com coral, um tom acima)\nEle é o Caminho, a Verdade e a Vida\nEle é a Luz que a noite não apaga\nEle é o Caminho, a Verdade e a Vida\nQuem vai com Ele não se perde nunca mais\nEle vive! (Ele vive!)\nEle é o Caminho, a Verdade e a Vida\nEle vive!\n\n[Outro]\n(só piano e violão, voz suave, fade)\nNuma noite sem barulho, uma estrela ainda brilha\nEle vive... Ele vive...\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #0E1B3D, #F2B65A, #F28C6A, #FFF3D6, #6B5E4E\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Capa SEM pessoa nenhuma: a escolha de olhar aqui é a ausência — o túmulo aberto no jardim ao amanhecer, a pedra rolada pro lado e uma luz dourada jorrando de dentro. É a imagem que resume o título (Ele Vive) sem precisar de rosto, e diferencia da maioria das capas do acervo, que são retratos. Look de animação 3D estilizada de longa-metragem: formas arredondadas, iluminação pictórica, raios volumétricos, orvalho nas flores. Céu azul-noite virando rosa e ouro em cima, onde entra o título; a tagline fica acima dele.\n\n**Prompt (EN):**\n\n> album cover, wide symbolic scene of an open rock tomb in a quiet garden at dawn, the great round stone rolled aside, brilliant warm golden light bursting out from inside the tomb and spilling over dewy wild flowers and soft grass, thin mist in the valley behind, olive trees, stylized 3D animated feature film look, soft rounded shapes, painterly global illumination, volumetric light rays, deep night blue sky giving way to rose and gold near the horizon, no people, large negative space in the upper sky for a title, cinematic lighting, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, people in foreground, faces, realistic photo, blood, gore, horror, skulls, extra limbs, deformed, cluttered, dull flat lighting\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa final com 286s. Ritmo conservado da decupagem de 180s: 69 planos, média 4.1s, indo de 3s a 8s, desigual de propósito — versos respiram em 5-7s (~10/min), refrões picam em 3-4s (15-18/min), intro e outro seguram planos longos. Grade de seções recalculada para 286s: intro 0-10, verso 1 10-50, refrão 1 50-86, verso 2 86-126, refrão 2 126-162, ponte 162-222 (solene 162-198, silêncio dos três dias 198-210, explosão 210-222), refrão final 222-262, outro 262-286. NÚCLEO medido na onda em 210-222s = shots 50 a 53, os quatro planos de 3s mais fortes do clipe: whiteout flash na pedra rolando (50), dolly-out do túmulo pro jardim florescendo (51), o melhor plano — o homem em túnica luminosa no jardim com centenas de pássaros explodindo pra cima, orbital em slow motion (52) — e a mulher correndo pra espalhar a notícia (53). Esses 12s são o Short. Montagem só com o que foi medido nas referências: corte seco no downbeat (76 bpm → o 1 de cada compasso cai a cada 3.2s, e os planos de 3-3.5s dos refrões casam com isso); um único whiteout flash, na pedra rolando (shot 50), que é a virada da história; slow motion leve nos shots 21, 52 e 63. Sem whip pan, sem speed transition — não cabem em worship. O arco ganhou os beats que faltavam sem mudar o estilo: Maria e José no estábulo, os viajantes seguindo a estrela, o rio e a pomba, Pedro puxado da água, a mulher que toca a túnica, Lázaro, a menina que senta na cama, a entrada com palmas, o Getsêmani com tochas, o galo ao amanhecer, a subida com a viga, o sepultamento, os guardas dormindo, as mulheres com jarros na madrugada, Emaús e a ascensão insinuada. Nenhum plano com boca cantando; o homem sempre de costas ou em silhueta. Virada visual continua no refrão 1: a estrela do nascimento vira o sol da estrada, e o outro fecha no estábulo e na estrela de onde tudo começou.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 69  ·  **Duração total:** 286.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | drone descendo lento | Céu estrelado sobre uma vila de casinhas de barro; uma estrela enorme e quente domina o quadro. A câmera desce devagar das estrelas em direção ao vilarejo. |\n| 2 | intro | 4s | close estático | Uma poça de água numa rua de terra da vila reflete a estrela; uma gota cai e a ondulação faz a luz tremer. |\n| 3 | verso 1 | 7s | travelling lateral | Silhueta de um casal jovem guiando um burrinho por uma estrada de poeira ao anoitecer, rumo à vila; a estrela à frente. |\n| 4 | verso 1 | 6s | dolly-in suave | Dentro do estábulo de madeira: luz de lampião, feno, um boi e uma ovelha olhando um cocho coberto de pano. |\n| 5 | verso 1 | 5s | close estático | Uma mãozinha de recém-nascido envolta em pano cru fecha em volta de um dedo adulto; só as mãos e o pano no quadro. |\n| 6 | verso 1 | 6s | plano médio estático, de costas | A jovem mãe sentada no feno embala o bebê enrolado, vista de costas; o pai ao lado apoia a mão no ombro dela. Só lampião e a estrela pela fresta da porta. |\n| 7 | verso 1 | 6s | grua subindo | Pastores num morro largam os cajados e olham pra cima; a estrela explode em luz pelo céu. |\n| 8 | verso 1 | 5s | plano geral travelling | Três viajantes com camelos cruzam dunas à noite seguindo a estrela; silhuetas pequenas contra o céu azul. |\n| 9 | verso 1 | 5s | plano geral estático | O feixe da estrela cai sobre o telhado do estábulo; janelas da vila se acendem uma a uma. |\n| 10 | refrao 1 | 4s | drone frontal | Virada: a noite vira dia. Nascer do sol sobre colinas, uma única estrada de terra serpenteando dourada até o horizonte. |\n| 11 | refrao 1 | 4s | orbital lento | O homem adulto de túnica cru caminha na estrada com um grupo de seguidores, vistos de costas, luz de manhã. |\n| 12 | refrao 1 | 4s | close dolly-in | Chama de lamparina de barro numa janela; a câmera entra e a chama cresce em brilho. |\n| 13 | refrao 1 | 4s | steadicam seguindo | Crianças correm por um beco da vila em direção à luz, rindo; pombas levantam voo. |\n| 14 | refrao 1 | 3s | tilt down lento | Uma pomba branca desce em luz sobre um rio calmo de manhã; a câmera desce com ela até a água que brilha. |\n| 15 | refrao 1 | 4s | travelling baixo | Campo de trigo ondulando ao vento em luz dourada, uma trilha aberta no meio. |\n| 16 | refrao 1 | 4s | contra-plongée estático | O homem no topo de um morro, de costas pra câmera, braços um pouco abertos, sol atrás fazendo um halo de luz. |\n| 17 | refrao 1 | 3s | close estático | Uma mão estendida puxa outra mão do chão de poeira; só as duas mãos e a luz no quadro. |\n| 18 | refrao 1 | 3s | drone lateral | Um barco de pesca sai num lago espelhado de manhã, vela de linho enfunada, gaivotas. |\n| 19 | refrao 1 | 3s | drone alto | A vila de manhã vista de cima: portas se abrindo e pessoas saindo em direção à estrada dourada. |\n| 20 | verso 2 | 6s | plano geral com balanço | Tempestade noturna: um barquinho de pesca jogado por ondas escuras enormes, relâmpagos, pescadores agarrados. |\n| 21 | verso 2 | 5s | dolly frontal em slow motion | O homem anda calmo sobre a água em direção ao barco; ondas de luz sob cada passo, a chuva diminuindo. |\n| 22 | verso 2 | 5s | tilt up lento | O mar se acalma: ondas viram espelho, luar refletido; a câmera sobe até o céu limpo. |\n| 23 | verso 2 | 4s | close estático | Uma mão firme puxa um pescador que afundava; só a mão, o braço molhado e a água luminosa no quadro. |\n| 24 | verso 2 | 5s | grua descendo | Encosta verde com uma multidão sentada; um menino ergue uma cestinha com cinco pães e dois peixes. |\n| 25 | verso 2 | 5s | orbital | Cestos transbordando de pão passam de mão em mão pela multidão; o pão se multiplica. |\n| 26 | verso 2 | 5s | close travelling baixo | No meio da multidão, uma mão de mulher toca a barra da túnica cru que passa; a barra brilha ao toque. Só a mão, a barra e a poeira. |\n| 27 | verso 2 | 5s | plano geral dolly-in | Chamou o morto pelo nome: uma figura envolta em linho sai andando de uma caverna-túmulo pra luz do dia; duas irmãs correm ao encontro, vistas de costas. |\n| 28 | refrao 2 | 3s | close estático | Olhos de um cego se abrem pela primeira vez e a cor inunda o quadro, uma lágrima. |\n| 29 | refrao 2 | 3s | steadicam seguindo | Um homem que era paralítico joga fora a muleta e sai correndo pela praça; gente vibrando. |\n| 30 | refrao 2 | 3s | plano médio dolly-in | Uma menina senta na cama de repente, olhos abertos; os pais ao lado caem de joelhos; luz entra pela janela. |\n| 31 | refrao 2 | 3.5s | contra-plongée | Crianças sobem no colo do homem sob uma figueira, luz filtrada pelas folhas. |\n| 32 | refrao 2 | 3s | travelling lateral | Pescadores largam as redes na areia e saem andando atrás do homem pela praia; todos de costas, sol de manhã. |\n| 33 | refrao 2 | 3.5s | drone alto | De cima: uma fila de centenas de pessoas seguindo por um vale na hora dourada. |\n| 34 | refrao 2 | 3.5s | drone descendo | Entrada na cidade: ramos de palmeira balançando e mantos estendidos no chão de uma rua de pedra; um burrinho passa no meio, visto de cima. |\n| 35 | refrao 2 | 3s | close estático | Mãos partem um pão sobre uma mesa de madeira à luz de lampião; um cálice de barro ao lado. Só mãos, pão e cálice. |\n| 36 | refrao 2 | 3.5s | plano médio estático | O homem ajoelhado lava os pés de um pescador com uma bacia, luz de vela. |\n| 37 | refrao 2 | 3s | plano geral estático | Fogueira na praia ao anoitecer: um círculo de seguidores sentados na areia em volta do homem, todos de costas ou de perfil, faíscas subindo pro céu roxo. |\n| 38 | refrao 2 | 4s | dolly-in lento | Jardim de oliveiras à noite; o homem ajoelhado sozinho em oração sob o luar, de costas. |\n| 39 | ponte | 5s | plano geral estático | Tochas aparecem entre as oliveiras à noite: uma fila de soldados com lanças se aproxima; o luar some atrás de nuvens. |\n| 40 | ponte | 4s | plano médio estático | Madrugada cinza: um galo canta num muro de pedra; abaixo, um pescador encolhido num canto, o rosto escondido nas mãos. |\n| 41 | ponte | 5s | travelling lateral lento | Um homem carrega uma viga de madeira pesada por uma rua de pedra que sobe, em silhueta, multidão parada dos dois lados; sem sangue. |\n| 42 | ponte | 5s | plano geral estático | Crucificação, sem sangue: o céu sobre um morro vai do ouro ao negro de tempestade; três cruzes em silhueta na crista, figuras minúsculas. |\n| 43 | ponte | 4s | close dolly-in | Uma coroa de espinhos caída sobre pedra molhada; uma gota de chuva cai nela. |\n| 44 | ponte | 4s | plano médio estático, de costas | Ao pé do morro, na chuva: uma mulher de xale azul e um jovem abraçados, vistos de costas, olhando pra crista escura. |\n| 45 | ponte | 5s | dolly-in dramático | Dentro do templo, a cortina gigante rasga de cima a baixo com uma explosão de luz. |\n| 46 | ponte | 4s | plano geral estático | Entardecer roxo: silhuetas ao longe levam um corpo envolto em linho até um túmulo na rocha; homens empurram a pedra pra fechar. |\n| 47 | ponte | 4s | plano médio estático | Silêncio dos três dias: o túmulo selado à noite, dois guardas dormindo encostados na pedra, lua fria, nada se move. |\n| 48 | ponte | 3s | close estático | Silêncio: interior escuro do túmulo, um pano de linho dobrado sobre a pedra, uma fresta de luz. |\n| 49 | ponte | 5s | steadicam seguindo, de costas | Madrugada azul: três mulheres com jarros de perfume caminham pelo jardim rumo ao túmulo, vistas de costas; o horizonte começa a dourar. |\n| 50 | ponte | 3s | contra-plongée, whiteout flash no corte | NÚCLEO. A pedra enorme rola de lado e a luz da manhã invade tudo — a virada. Entra com flash branco. |\n| 51 | ponte | 3s | dolly-out do interior pro jardim | NÚCLEO. De dentro do túmulo pra fora: jardim ao nascer do sol, luz explodindo, flores desabrochando em câmera rápida. |\n| 52 | ponte | 3s | orbital em slow motion | NÚCLEO — o melhor plano do clipe. Ele vive: o homem de pé no jardim em túnica branca luminosa, de costas, luz irradiando, pássaros explodindo pra cima. |\n| 53 | ponte | 3s | steadicam seguindo | NÚCLEO. Uma das mulheres larga o jarro e corre pelas ruas espalhando a notícia, portas se abrindo à passagem dela. |\n| 54 | refrao final | 3s | drone frontal | A vila ao amanhecer, gente em todos os telhados com braços erguidos, ondas de luz. |\n| 55 | refrao final | 3s | close contra-plongée | Mãos erguem uma cesta de pão pro sol; só mãos e cesta no quadro. |\n| 56 | refrao final | 3s | plano geral travelling | Pescadores na praia arrastam redes transbordando de peixe, sol da manhã. |\n| 57 | refrao final | 3s | travelling de costas | Estrada de Emaús ao entardecer: dois viajantes caminham com o homem entre eles, os três de costas, a luz dourada nas costas deles cresce. |\n| 58 | refrao final | 3.5s | contra-plongée | Os pastores do verso 1 no mesmo morro, um cordeiro no colo; onde estava a estrela agora está o sol. |\n| 59 | refrao final | 3s | drone descendo | Praça da vila em festa: crianças dançando em roda, o homem que corria sem muleta girando, o velho que enxerga olhando pro sol de braços abertos. |\n| 60 | refrao final | 3s | orbital alto | O homem cercado pelos seguidores no morro, braços abertos, vento e luz; visto de cima e de costas. |\n| 61 | refrao final | 3.5s | contra-plongée estático | Visto de baixo: pétalas e pombas brancas cruzando o sol sobre a multidão, braços erguidos entrando pelo canto do quadro. |\n| 62 | refrao final | 3s | close estático | O cocho vazio do estábulo, agora com uma flor brotando do feno na luz. |\n| 63 | refrao final | 3s | tilt up em slow motion | Ascensão insinuada: no morro, os seguidores ajoelhados olham pra cima; a câmera sobe com a luz até uma silhueta de túnica branca subindo entre as nuvens douradas. |\n| 64 | refrao final | 4.5s | drone subindo | Multidão de centenas no morro, todos olhando pra cima; um feixe de luz desce do céu. |\n| 65 | refrao final | 4.5s | plano geral estático | Resolução: o sol explode sobre o morro; uma estrada solitária sobe direto pra dentro da luz. |\n| 66 | outro | 6s | plano médio estático | O estábulo à noite outra vez, a estrela brilhando suave, um lampião aceso; a flor no feno. |\n| 67 | outro | 5s | close estático | A flor branca no feno de perto; uma gota de orvalho na pétala reflete a estrela. |\n| 68 | outro | 5s | plano geral estático | O túmulo aberto no jardim à noite, a pedra parada ao lado, um brilho suave saindo de dentro, vagalumes; tudo em paz. |\n| 69 | outro | 8s | drone subindo lento | A câmera sobe devagar da vila até as estrelas; a estrela vai virando um brilho suave até o fade. |\n\n**Prompts (EN):**\n\n1. Slow aerial descent from a starry night sky toward a tiny hillside village of rounded clay houses, one enormous warm golden star dominating the sky and casting soft light on the rooftops, desert hills in deep blue, stylized 3D animated feature film look, soft rounded shapes, painterly global illumination, volumetric light, cinematic, no people\n2. Static close up of a small puddle on a dirt village street at night reflecting one huge warm golden star, a single drop falls and ripples make the reflected light shimmer, clay walls softly lit in the background, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n3. Side tracking shot of a young couple in silhouette leading a small donkey along a dusty road at dusk toward a distant village, a huge warm star ahead of them on the horizon, purple and gold sky, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric dust, cinematic\n4. Slow dolly in inside a small wooden stable, warm lantern light, loose hay on the floor, a gentle ox and a fluffy sheep watching a small wooden feeding trough draped with cream cloth, dust motes in the light beam, stylized 3D animated feature film look, soft rounded shapes, painterly warm lighting, cinematic\n5. Extreme close up of a tiny newborn hand wrapped in cream linen slowly closing around a single adult finger, framed so tightly that only the two hands and the cloth are visible, warm lantern glow, soft hay out of focus, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic\n6. Static medium shot from behind of a young woman in a blue shawl sitting on hay gently rocking a bundled newborn, a young man beside her resting a hand on her shoulder, both seen from behind, warm lantern light, a huge star visible through the gap of the stable door, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n7. Crane shot rising over three shepherds in rough wool cloaks on a grassy hill at night, they drop their staffs and look up as a brilliant star bursts into rays of golden light across the whole sky, sheep scattering softly, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic\n8. Wide tracking shot of three travelers on camels in silhouette crossing rolling sand dunes at night, following one enormous warm star low on the horizon, deep blue sky, soft moonlit sand, stylized 3D animated feature film look, soft rounded shapes, painterly lighting, cinematic\n9. Static wide shot of a small clay village at night, a single beam of warm starlight falling onto the roof of a humble wooden stable, windows of the houses beginning to glow one by one, deep blue sky, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people\n10. Aerial shot flying forward over rolling green hills at sunrise, a single winding dirt road lit gold stretching toward the horizon, long soft shadows, mist in the valleys, stylized 3D animated feature film look, painterly global illumination, volumetric sunlight, cinematic, no people\n11. Slow orbiting shot of a gentle man with long dark hair and beard in a simple cream robe walking a dusty road at dawn with a small group of followers, all seen from behind, warm backlight rim on the shoulders, dust glowing, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n12. Close up dolly in on a small clay oil lamp on a window sill, its flame flaring brighter and brighter until the light fills the frame, warm gold and cream, stylized 3D animated feature film look, painterly lighting, soft bloom, cinematic, no people\n13. Steadicam following a group of laughing children in colorful tunics running through a narrow sunlit village alley toward a bright opening, white doves scattering upward, dust sparkling, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n14. Slow tilt down following a single white dove descending in a beam of golden light over a calm river at morning, sparkling water, reeds on the banks, soft mist, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people\n15. Low tracking shot gliding through a golden wheat field waving in the wind, a narrow open path through the middle, warm afternoon light, pollen sparkling, stylized 3D animated feature film look, painterly global illumination, cinematic, no people\n16. Low angle wide shot of a man in a simple cream robe standing at the top of a grassy hill, seen from behind, arms slightly open, the rising sun directly behind him creating a halo of rays around his silhouette, wind in the robe, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic\n17. Close up of one hand reaching down and firmly grasping another hand rising from dusty ground, framed so tightly that only the two hands and the glowing dust are visible, warm morning light, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic\n18. Aerial side shot of a small wooden fishing boat with a cream linen sail gliding out onto a glassy lake at morning, gentle wake, seagulls, golden mist over the water, distant green hills, stylized 3D animated feature film look, painterly lighting, cinematic\n19. High aerial shot of a clay village at morning, wooden doors opening one after another and small figures stepping out and walking toward a single golden road leading out of the village, long shadows, doves in the air, stylized 3D animated feature film look, painterly global illumination, cinematic\n20. Wide shot of a small wooden fishing boat tossed on huge dark waves at night, rain and lightning, three fishermen in wool cloaks clinging to the mast and rope, spray flying, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic\n21. Slow motion dolly shot of a man in a cream robe walking calmly across the surface of dark stormy water toward a small boat, ripples of soft golden light spreading under each step, rain slowing, moonlight breaking through clouds, stylized 3D animated feature film look, painterly lighting, cinematic\n22. Close on dark waves flattening into a glassy calm mirror reflecting the moon, camera tilting slowly up to a clearing night sky with stars appearing, mist lifting, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n23. Close up of a strong hand gripping the wet forearm of a man sinking in dark water and pulling him up, framed so tightly that only the two arms and the water are visible, rings of soft golden light on the surface, rain easing, stylized 3D animated feature film look, painterly lighting, cinematic\n24. Crane shot descending over a green hillside where a large crowd in colorful tunics sits on the grass, settling on a small boy holding up a little woven basket with five bread loaves and two fish, warm afternoon light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n25. Orbiting shot of woven baskets overflowing with bread being passed from hand to hand across a seated crowd on a hillside, more loaves appearing as the baskets travel, joyful faces in soft focus, golden hour, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n26. Low close up tracking shot of a woman's hand reaching through a crowd of legs and sandals to touch the hem of a cream robe passing by, the hem glowing softly at the touch, dust sparkling in warm light, framed so tightly that only the hand, the hem and the dust are visible, stylized 3D animated feature film look, painterly lighting, cinematic\n27. Wide dolly in shot of a figure wrapped in cream linen bands stepping out of a dark rock cave tomb into bright daylight, two women in colorful tunics seen from behind running toward it with open arms, villagers gasping in soft focus, dust in the light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic\n28. Extreme close up of an old man's eyes opening for the first time as color and daylight flood into them, a single tear, wonder, framed from the eyes up, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic\n29. Steadicam following a man in a brown tunic who throws away a wooden crutch and runs laughing across a sunlit village square, people around raising their arms and cheering, doves lifting, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n30. Medium dolly in shot of a little girl sitting up suddenly in a simple bed with wide bright eyes, her parents beside the bed dropping to their knees with hands over their mouths in joy, warm sunlight pouring through a small window, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n31. Low angle shot of a man in a cream robe sitting under a fig tree with several small children climbing onto his lap and shoulders, dappled sunlight through the leaves, gentle laughter, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n32. Side tracking shot of two fishermen dropping their nets on a sandy shore and walking away after a man in a cream robe along the beach, all seen from behind, morning sun sparkling on the sea, footprints in the sand, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n33. High aerial shot of a long river of hundreds of tiny people walking together along a valley path at golden hour, long shadows, dust glowing, green and gold landscape, stylized 3D animated feature film look, painterly global illumination, cinematic\n34. Aerial descending shot over a stone city street lined with a cheering crowd waving palm branches and spreading colorful cloaks on the ground, a small donkey walking down the middle carrying a man in a cream robe seen from above, petals in the air, golden light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n35. Close up of two hands breaking a round loaf of bread over a rough wooden table, framed so tightly that only the hands, the bread and a clay cup are visible, warm lantern light, crumbs falling, stylized 3D animated feature film look, painterly lighting, cinematic\n36. Medium shot of a man in a cream robe kneeling on a stone floor washing the feet of a seated fisherman with a clay basin and a linen towel, candlelight, humble and tender, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n37. Static wide shot of a small campfire on a beach at dusk, a circle of followers in wool cloaks sitting on the sand around a man in a cream robe, all seen from behind or in profile, sparks rising into a purple and gold sky, calm sea behind, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n38. Slow dolly in through an olive garden at night toward a man in a cream robe kneeling alone in prayer under moonlight, seen from behind, silver light on the leaves, fireflies, quiet and solemn, stylized 3D animated feature film look, painterly lighting, cinematic\n39. Static wide shot of an olive garden at night as a line of flaming torches appears between the trees, soldiers with spears and helmets approaching in silhouette, the moon slipping behind dark clouds, fireflies fading, tense and solemn, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic\n40. Static medium shot at grey dawn of a rooster crowing on top of a stone wall, below it a fisherman in a wool cloak crouched in a corner of a courtyard with his face hidden in his hands, cold blue light, quiet grief, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n41. Slow side tracking shot of a man in silhouette carrying a heavy wooden beam on his shoulder up a steep stone street, a silent crowd standing on both sides, dust and grey overcast light, no blood, sorrowful and solemn, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic\n42. Static wide shot of a barren hill as the sky turns from gold to dark storm clouds, three wooden crosses in silhouette on the ridge, tiny distant figures, wind bending dry grass, no blood, solemn and sorrowful, stylized 3D animated feature film look, dramatic painterly lighting, cinematic\n43. Close up dolly in on a crown of thorns lying on wet grey stone, a single raindrop falling onto it, dim storm light, no blood, quiet grief, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n44. Static medium shot from behind of a woman in a blue shawl and a young man holding each other in the rain at the foot of a barren hill, looking up at the dark ridge, both seen from behind, grey storm light, no blood, quiet grief, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n45. Dramatic dolly in inside a vast stone temple, a giant heavy purple curtain tearing from the top down with a burst of blinding white gold light through the gap, dust and threads flying, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people\n46. Static wide shot at purple dusk of a rock tomb in a quiet garden, distant silhouettes carrying a body wrapped in cream linen toward the entrance, two men pushing a massive round stone to seal it, cold blue light, no blood, solemn, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n47. Static medium shot at night of a rock tomb sealed by a massive round stone, two soldiers asleep leaning against it with helmets tilted, cold moonlight, still garden, absolute silence, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n48. Static close up inside a dark rock tomb, a folded linen cloth resting on a stone slab, a single thin crack of warm light cutting across it, dust motes, silence, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n49. Steadicam following three women in shawls carrying clay perfume jars walking through a misty garden at blue dawn toward a rock tomb, all seen from behind, the horizon just beginning to turn gold, dew on the grass, hushed, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n50. Low angle shot of a massive round stone rolling away from a tomb entrance with a burst of golden dawn light flooding through, dust and petals blown into the air, triumphant, stylized 3D animated feature film look, painterly lighting, volumetric light, soft bloom, cinematic, no people\n51. Dolly out from inside a dark tomb through its open doorway into a garden at sunrise, light exploding outward, wild flowers blooming in fast motion across the grass, birds rising, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people\n52. Slow motion orbiting shot of a man standing in a sunrise garden in a glowing white robe, seen from behind and above, light radiating from around him, hundreds of white birds bursting upward, petals in the air, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic\n53. Steadicam following a joyful woman in a blue tunic running through sunlit village streets, doors opening one after another as she passes, people leaning out of windows, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n54. Aerial shot flying over a clay village at dawn, people on every rooftop raising their arms, waves of warm light rolling across the houses, doves everywhere, celebration, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n55. Low angle close up of two hands lifting a woven basket full of bread high toward the sun, framed so tightly that only the hands and the basket are visible, lens flare, crumbs sparkling, stylized 3D animated feature film look, painterly lighting, cinematic\n56. Wide tracking shot of fishermen on a sandy shore dragging nets overflowing with silver fish out of the water, morning sun sparkling on the sea, laughter, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n57. Tracking shot from behind of two travelers in wool cloaks walking a dusty road at golden hour with a man in a cream robe between them, all three seen from behind, warm light glowing brighter around them, wheat fields on both sides, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n58. Low angle shot of three shepherds on the same grassy hill from the beginning, one holding a lamb, now in bright morning sun where the star used to be, wind in the grass, joy, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n59. Aerial descending shot over a sunlit village square in celebration, children dancing in a ring, a man in a brown tunic spinning with joy, an old man with arms wide open facing the sun, petals and doves in the air, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n60. High orbiting shot of a man in a white robe on a hilltop with arms open, surrounded by a ring of followers, seen from above and behind, wind in the robes, golden light pouring over the hill, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic\n61. Low angle static shot looking up at hundreds of white doves and drifting petals crossing a bright sun, raised arms of a crowd entering the bottom of the frame, lens flare, celebration, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic\n62. Static close up of the empty wooden feeding trough from the stable, a single small white flower growing out of the hay in a beam of warm light, dust motes, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n63. Slow motion tilt up from a group of followers kneeling on a hilltop looking upward, rising with a column of golden light to a small silhouette in a white robe ascending into parting golden clouds, seen from far below, light rays, wind in the grass, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic\n64. Aerial shot rising over a crowd of hundreds gathered on a green hill, all looking up, a wide beam of golden light coming down from parting clouds, grand and celebratory, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic\n65. Static wide shot of the sun bursting over a hill, a lone dirt road climbing straight up into the light, wheat and flowers on both sides, birds crossing, radiant, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people\n66. Static medium shot of the small wooden stable at night, the warm star glowing softly above it, a single lantern lit by the door, the little white flower in the hay, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n67. Extreme close up of a small white flower growing from hay, a single drop of dew on a petal reflecting one warm golden star, soft lantern glow, gentle night breeze, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n68. Static wide shot of the open rock tomb in a quiet garden at night, the great round stone resting beside it, a soft warm glow coming from inside, fireflies over dewy flowers, starry sky, peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people\n69. Very slow aerial rise from the sleeping clay village up into the starry night sky, the warm star gradually softening into a gentle glow among the stars, deep blue and gold, peaceful fade, stylized 3D animated feature film look, painterly global illumination, cinematic, no people\n\n## Publicação (YouTube)\n\n- **Título:** Ele Vive\n- **Tags:** reverente, terno nos versos, epico e triunfante nos refroes, violao dedilhado, piano de feltro, cordas cinematograficas, anthem pop rock\n\n**Descrição:**\n\nUma canção que conta a vida de Jesus do começo ao fim: a noite silenciosa do nascimento numa manjedoura, os milagres sobre o mar e na multidão, a cruz e, no fim, a pedra que rola e a manhã que grita que Ele vive. O refrão é a frase que Ele mesmo disse — Ele é o Caminho, a Verdade e a Vida — cantada pra ficar na cabeça de quem ouve uma vez só.\n\nO som começa pequeno, só violão dedilhado e piano, e vai crescendo a cada parte: cordas, bateria, metais, até um refrão final com coral inteiro e a música um tom acima. A voz é um tenor claro, quase falado nos versos e aberto nos refrões. A ponte desce pro silêncio da crucificação e explode na celebração da ressurreição.\n\nO clipe é uma animação 3D em estilo de longa-metragem, com formas arredondadas e luz pictórica: a estrela sobre a vila, o barco na tempestade, os cestos de pão que não acabam, o véu que rasga, o túmulo aberto no jardim ao amanhecer e uma vila inteira nos telhados celebrando. A história é contada em imagens, sem palavras na tela, pra caber em qualquer idioma e em qualquer idade.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Cinematic modern worship anthem, 76 BPM, D major modulating up to E major in the final chorus. Opens with warm fingerpicked acoustic guitar and soft felt piano, intimate and tender; strings, deep toms and a full live drum kit enter at the first chorus and grow into an epic orchestral pop-rock wall with soaring electric guitar swells, brass and cinematic percussion. Lead vocal: clear emotional male tenor, close and gentle in the verses, opening into a powerful sustained belt on the choruses. Bridge drops to voice and piano, dark and solemn, then explodes into a triumphant celebration with big drums, timpani hits and a massive gospel choir shouting the hook. Final chorus grand and high-energy with full choir, layered harmonies and orchestral tutti. Outro strips back to piano, acoustic guitar and a soft hummed line fading out. Uplifting, reverent, tearful and victorious. Lyrics in pt-BR",
+    "imagem": "album cover, wide symbolic scene of an open rock tomb in a quiet garden at dawn, the great round stone rolled aside, brilliant warm golden light bursting out from inside the tomb and spilling over dewy wild flowers and soft grass, thin mist in the valley behind, olive trees, stylized 3D animated feature film look, soft rounded shapes, painterly global illumination, volumetric light rays, deep night blue sky giving way to rose and gold near the horizon, no people, large negative space in the upper sky for a title, cinematic lighting, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, people in foreground, faces, realistic photo, blood, gore, horror, skulls, extra limbs, deformed, cluttered, dull flat lighting",
+    "conceito": "Capa SEM pessoa nenhuma: a escolha de olhar aqui é a ausência — o túmulo aberto no jardim ao amanhecer, a pedra rolada pro lado e uma luz dourada jorrando de dentro. É a imagem que resume o título (Ele Vive) sem precisar de rosto, e diferencia da maioria das capas do acervo, que são retratos. Look de animação 3D estilizada de longa-metragem: formas arredondadas, iluminação pictórica, raios volumétricos, orvalho nas flores. Céu azul-noite virando rosa e ouro em cima, onde entra o título; a tagline fica acima dele.",
+    "tagline": "a pedra rolou · a noite acabou",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "drone descendo lento",
+      "prompt": "Slow aerial descent from a starry night sky toward a tiny hillside village of rounded clay houses, one enormous warm golden star dominating the sky and casting soft light on the rooftops, desert hills in deep blue, stylized 3D animated feature film look, soft rounded shapes, painterly global illumination, volumetric light, cinematic, no people",
+      "alt": "Slow aerial descent from a starry night sky over rolling desert hills, one enormous warm golden star dominating the frame and casting soft light on the sand, deep blue night, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people, no buildings"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "close estático",
+      "prompt": "Static close up of a small puddle on a dirt village street at night reflecting one huge warm golden star, a single drop falls and ripples make the reflected light shimmer, clay walls softly lit in the background, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Static close up of a small puddle on a dirt street at night reflecting one huge warm golden star, a single drop falls and ripples make the reflected light shimmer, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "travelling lateral",
+      "prompt": "Side tracking shot of a young couple in silhouette leading a small donkey along a dusty road at dusk toward a distant village, a huge warm star ahead of them on the horizon, purple and gold sky, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric dust, cinematic",
+      "alt": "Side tracking shot along a dusty desert road at dusk, donkey hoofprints and a cart wheel track in the sand, a huge warm star glowing on the horizon above a distant village, purple and gold sky, stylized 3D animated feature film look, painterly lighting, volumetric dust, cinematic, no people"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "dolly-in suave",
+      "prompt": "Slow dolly in inside a small wooden stable, warm lantern light, loose hay on the floor, a gentle ox and a fluffy sheep watching a small wooden feeding trough draped with cream cloth, dust motes in the light beam, stylized 3D animated feature film look, soft rounded shapes, painterly warm lighting, cinematic",
+      "alt": "Slow dolly in inside a small wooden stable, a hanging oil lantern glowing warm, loose hay on the floor, a wooden feeding trough draped with cream cloth in soft light, dust motes floating, stylized 3D animated feature film look, painterly warm lighting, cinematic, no people, no animals"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "close estático",
+      "prompt": "Extreme close up of a tiny newborn hand wrapped in cream linen slowly closing around a single adult finger, framed so tightly that only the two hands and the cloth are visible, warm lantern glow, soft hay out of focus, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic",
+      "alt": "Extreme close up of a bundle of cream linen cloth resting in hay inside a wooden trough, lit from above by a warm lantern, the cloth gently rising and falling, soft focus, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "plano médio estático, de costas",
+      "prompt": "Static medium shot from behind of a young woman in a blue shawl sitting on hay gently rocking a bundled newborn, a young man beside her resting a hand on her shoulder, both seen from behind, warm lantern light, a huge star visible through the gap of the stable door, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static medium shot inside a wooden stable, a wooden trough with a bundled cream cloth in hay, a blue shawl draped over a beam, warm lantern light, a huge star visible through the gap of the stable door, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "grua subindo",
+      "prompt": "Crane shot rising over three shepherds in rough wool cloaks on a grassy hill at night, they drop their staffs and look up as a brilliant star bursts into rays of golden light across the whole sky, sheep scattering softly, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic",
+      "alt": "Crane shot rising over a grassy hill at night with a few fluffy sheep, a wooden shepherd staff planted in the grass, a brilliant star bursting into rays of golden light across the whole sky, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 8,
+      "secao": "verso 1",
+      "camera": "plano geral travelling",
+      "prompt": "Wide tracking shot of three travelers on camels in silhouette crossing rolling sand dunes at night, following one enormous warm star low on the horizon, deep blue sky, soft moonlit sand, stylized 3D animated feature film look, soft rounded shapes, painterly lighting, cinematic",
+      "alt": "Wide tracking shot of rolling sand dunes at night, camel tracks winding toward one enormous warm star low on the horizon, deep blue sky, soft moonlit sand, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 9,
+      "secao": "verso 1",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of a small clay village at night, a single beam of warm starlight falling onto the roof of a humble wooden stable, windows of the houses beginning to glow one by one, deep blue sky, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people",
+      "alt": "Static wide shot of a small clay village at night, a single beam of warm starlight falling onto the roof of a humble wooden stable, windows glowing one by one, deep blue sky, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 10,
+      "secao": "refrao 1",
+      "camera": "drone frontal",
+      "prompt": "Aerial shot flying forward over rolling green hills at sunrise, a single winding dirt road lit gold stretching toward the horizon, long soft shadows, mist in the valleys, stylized 3D animated feature film look, painterly global illumination, volumetric sunlight, cinematic, no people",
+      "alt": "Aerial shot flying forward over rolling green hills at sunrise, a single winding dirt road lit gold stretching toward the horizon, long soft shadows, mist in the valleys, stylized 3D animated feature film look, painterly global illumination, volumetric sunlight, cinematic, no people"
+     },
+     {
+      "n": 11,
+      "secao": "refrao 1",
+      "camera": "orbital lento",
+      "prompt": "Slow orbiting shot of a gentle man with long dark hair and beard in a simple cream robe walking a dusty road at dawn with a small group of followers, all seen from behind, warm backlight rim on the shoulders, dust glowing, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Slow orbiting low shot of worn leather sandals stepping along a dusty road at dawn, framed so tightly that only the sandals and the glowing dust are visible, warm backlight, stylized 3D animated feature film look, painterly lighting, cinematic"
+     },
+     {
+      "n": 12,
+      "secao": "refrao 1",
+      "camera": "close dolly-in",
+      "prompt": "Close up dolly in on a small clay oil lamp on a window sill, its flame flaring brighter and brighter until the light fills the frame, warm gold and cream, stylized 3D animated feature film look, painterly lighting, soft bloom, cinematic, no people",
+      "alt": "Close up dolly in on a small clay oil lamp on a window sill, its flame flaring brighter until the light fills the frame, warm gold and cream, stylized 3D animated feature film look, painterly lighting, soft bloom, cinematic, no people"
+     },
+     {
+      "n": 13,
+      "secao": "refrao 1",
+      "camera": "steadicam seguindo",
+      "prompt": "Steadicam following a group of laughing children in colorful tunics running through a narrow sunlit village alley toward a bright opening, white doves scattering upward, dust sparkling, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Steadicam moving through a narrow sunlit village alley toward a bright opening, white doves bursting upward from a rooftop into golden light, dust sparkling, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 14,
+      "secao": "refrao 1",
+      "camera": "tilt down lento",
+      "prompt": "Slow tilt down following a single white dove descending in a beam of golden light over a calm river at morning, sparkling water, reeds on the banks, soft mist, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people",
+      "alt": "Slow tilt down following a single white dove descending in a beam of golden light over a calm river at morning, sparkling water, reeds on the banks, soft mist, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 15,
+      "secao": "refrao 1",
+      "camera": "travelling baixo",
+      "prompt": "Low tracking shot gliding through a golden wheat field waving in the wind, a narrow open path through the middle, warm afternoon light, pollen sparkling, stylized 3D animated feature film look, painterly global illumination, cinematic, no people",
+      "alt": "Low tracking shot gliding through a golden wheat field waving in the wind, a narrow open path through the middle, warm afternoon light, pollen sparkling, stylized 3D animated feature film look, painterly global illumination, cinematic, no people"
+     },
+     {
+      "n": 16,
+      "secao": "refrao 1",
+      "camera": "contra-plongée estático",
+      "prompt": "Low angle wide shot of a man in a simple cream robe standing at the top of a grassy hill, seen from behind, arms slightly open, the rising sun directly behind him creating a halo of rays around his silhouette, wind in the robe, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic",
+      "alt": "Low angle wide shot of a lone olive tree at the top of a grassy hill, the rising sun directly behind it creating long rays around its silhouette, wind in the leaves, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 17,
+      "secao": "refrao 1",
+      "camera": "close estático",
+      "prompt": "Close up of one hand reaching down and firmly grasping another hand rising from dusty ground, framed so tightly that only the two hands and the glowing dust are visible, warm morning light, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic",
+      "alt": "Close up of a worn wooden staff being lifted from dusty ground into warm morning light, only the staff and glowing dust visible, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 18,
+      "secao": "refrao 1",
+      "camera": "drone lateral",
+      "prompt": "Aerial side shot of a small wooden fishing boat with a cream linen sail gliding out onto a glassy lake at morning, gentle wake, seagulls, golden mist over the water, distant green hills, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Aerial side shot of a small wooden fishing boat with a cream linen sail gliding out onto a glassy lake at morning, gentle wake, seagulls, golden mist over the water, distant green hills, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 19,
+      "secao": "refrao 1",
+      "camera": "drone alto",
+      "prompt": "High aerial shot of a clay village at morning, wooden doors opening one after another and small figures stepping out and walking toward a single golden road leading out of the village, long shadows, doves in the air, stylized 3D animated feature film look, painterly global illumination, cinematic",
+      "alt": "High aerial shot of a clay village at morning, wooden doors opening one after another with warm light inside, a single golden road leading out of the village, long shadows, doves in the air, stylized 3D animated feature film look, painterly global illumination, cinematic, no people"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "plano geral com balanço",
+      "prompt": "Wide shot of a small wooden fishing boat tossed on huge dark waves at night, rain and lightning, three fishermen in wool cloaks clinging to the mast and rope, spray flying, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic",
+      "alt": "Wide shot of a small wooden fishing boat tossed on huge dark waves at night, rain and lightning, a loose rope and a lantern swinging from the mast, spray flying, stylized 3D animated feature film look, dramatic painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "dolly frontal em slow motion",
+      "prompt": "Slow motion dolly shot of a man in a cream robe walking calmly across the surface of dark stormy water toward a small boat, ripples of soft golden light spreading under each step, rain slowing, moonlight breaking through clouds, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Slow motion dolly shot low over dark stormy water, ripples of soft golden light spreading across the surface as if from footsteps, rain slowing, moonlight breaking through the clouds, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "tilt up lento",
+      "prompt": "Close on dark waves flattening into a glassy calm mirror reflecting the moon, camera tilting slowly up to a clearing night sky with stars appearing, mist lifting, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Close on dark waves flattening into a glassy calm mirror reflecting the moon, camera tilting slowly up to a clearing night sky with stars appearing, mist lifting, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 23,
+      "secao": "verso 2",
+      "camera": "close estático",
+      "prompt": "Close up of a strong hand gripping the wet forearm of a man sinking in dark water and pulling him up, framed so tightly that only the two arms and the water are visible, rings of soft golden light on the surface, rain easing, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Close up of a wet rope being pulled taut out of dark water into moonlight, rings of soft golden light on the surface, rain easing, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 24,
+      "secao": "verso 2",
+      "camera": "grua descendo",
+      "prompt": "Crane shot descending over a green hillside where a large crowd in colorful tunics sits on the grass, settling on a small boy holding up a little woven basket with five bread loaves and two fish, warm afternoon light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Crane shot descending over a green hillside toward a small woven basket resting on the grass with five bread loaves and two fish inside, a crowd far in the background as soft blurred colors, warm afternoon light, stylized 3D animated feature film look, painterly lighting, cinematic"
+     },
+     {
+      "n": 25,
+      "secao": "verso 2",
+      "camera": "orbital",
+      "prompt": "Orbiting shot of woven baskets overflowing with bread being passed from hand to hand across a seated crowd on a hillside, more loaves appearing as the baskets travel, joyful faces in soft focus, golden hour, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Orbiting shot of a dozen woven baskets on green grass overflowing with bread loaves, more loaves gently appearing and piling up as the camera circles, golden hour light, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 26,
+      "secao": "verso 2",
+      "camera": "close travelling baixo",
+      "prompt": "Low close up tracking shot of a woman's hand reaching through a crowd of legs and sandals to touch the hem of a cream robe passing by, the hem glowing softly at the touch, dust sparkling in warm light, framed so tightly that only the hand, the hem and the dust are visible, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Low close up tracking shot of the hem of a cream linen robe brushing over dusty ground, the hem glowing softly, dust sparkling in warm light, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 27,
+      "secao": "verso 2",
+      "camera": "plano geral dolly-in",
+      "prompt": "Wide dolly in shot of a figure wrapped in cream linen bands stepping out of a dark rock cave tomb into bright daylight, two women in colorful tunics seen from behind running toward it with open arms, villagers gasping in soft focus, dust in the light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic",
+      "alt": "Wide dolly in shot of a dark rock cave tomb with a large stone rolled aside, strips of cream linen lying on the ground in a beam of bright daylight, wild flowers at the entrance, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 28,
+      "secao": "refrao 2",
+      "camera": "close estático",
+      "prompt": "Extreme close up of an old man's eyes opening for the first time as color and daylight flood into them, a single tear, wonder, framed from the eyes up, stylized 3D animated feature film look, soft subsurface skin, painterly lighting, cinematic",
+      "alt": "Extreme close up of a clay bowl of water on a stone step, ripples clearing until the surface reflects a bright blue sky and sunlight, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 29,
+      "secao": "refrao 2",
+      "camera": "steadicam seguindo",
+      "prompt": "Steadicam following a man in a brown tunic who throws away a wooden crutch and runs laughing across a sunlit village square, people around raising their arms and cheering, doves lifting, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Steadicam gliding across a sunlit village square toward a wooden crutch lying abandoned on the cobblestones, dust rising in the air, doves lifting into the light, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 30,
+      "secao": "refrao 2",
+      "camera": "plano médio dolly-in",
+      "prompt": "Medium dolly in shot of a little girl sitting up suddenly in a simple bed with wide bright eyes, her parents beside the bed dropping to their knees with hands over their mouths in joy, warm sunlight pouring through a small window, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Medium dolly in shot of a simple bed with a rumpled linen blanket thrown back, a small clay cup on a stool, warm sunlight pouring through a small window onto the empty bed, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 31,
+      "secao": "refrao 2",
+      "camera": "contra-plongée",
+      "prompt": "Low angle shot of a man in a cream robe sitting under a fig tree with several small children climbing onto his lap and shoulders, dappled sunlight through the leaves, gentle laughter, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Low angle shot under a large fig tree with dappled sunlight through the leaves, a row of tiny leather sandals lined up on the roots, a fig falling softly, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 32,
+      "secao": "refrao 2",
+      "camera": "travelling lateral",
+      "prompt": "Side tracking shot of two fishermen dropping their nets on a sandy shore and walking away after a man in a cream robe along the beach, all seen from behind, morning sun sparkling on the sea, footprints in the sand, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Side tracking shot of fishing nets lying abandoned on a sandy shore beside a beached wooden boat, a trail of footprints leading away along the beach, morning sun sparkling on the sea, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 33,
+      "secao": "refrao 2",
+      "camera": "drone alto",
+      "prompt": "High aerial shot of a long river of hundreds of tiny people walking together along a valley path at golden hour, long shadows, dust glowing, green and gold landscape, stylized 3D animated feature film look, painterly global illumination, cinematic",
+      "alt": "High aerial shot of a long winding valley path at golden hour, long shadows of olive trees, dust glowing along the trail, green and gold landscape, stylized 3D animated feature film look, painterly global illumination, cinematic, no people"
+     },
+     {
+      "n": 34,
+      "secao": "refrao 2",
+      "camera": "drone descendo",
+      "prompt": "Aerial descending shot over a stone city street lined with a cheering crowd waving palm branches and spreading colorful cloaks on the ground, a small donkey walking down the middle carrying a man in a cream robe seen from above, petals in the air, golden light, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Aerial descending shot over a stone city street carpeted with colorful cloaks and green palm branches, petals drifting in golden light, stone arches and doorways, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 35,
+      "secao": "refrao 2",
+      "camera": "close estático",
+      "prompt": "Close up of two hands breaking a round loaf of bread over a rough wooden table, framed so tightly that only the hands, the bread and a clay cup are visible, warm lantern light, crumbs falling, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Close up of a round loaf of bread broken in two beside a clay cup on a rough wooden table, warm lantern light, crumbs on the wood, steam rising, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 36,
+      "secao": "refrao 2",
+      "camera": "plano médio estático",
+      "prompt": "Medium shot of a man in a cream robe kneeling on a stone floor washing the feet of a seated fisherman with a clay basin and a linen towel, candlelight, humble and tender, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Medium shot of a clay basin of water and a folded linen towel on a stone floor, candlelight reflecting in the water, gentle ripples, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 37,
+      "secao": "refrao 2",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of a small campfire on a beach at dusk, a circle of followers in wool cloaks sitting on the sand around a man in a cream robe, all seen from behind or in profile, sparks rising into a purple and gold sky, calm sea behind, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static wide shot of a small campfire on a beach at dusk, sparks rising into a purple and gold sky, a beached wooden boat and folded nets nearby, calm sea behind, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 38,
+      "secao": "refrao 2",
+      "camera": "dolly-in lento",
+      "prompt": "Slow dolly in through an olive garden at night toward a man in a cream robe kneeling alone in prayer under moonlight, seen from behind, silver light on the leaves, fireflies, quiet and solemn, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Slow dolly in through an olive garden at night, silver moonlight on the leaves, a single drop of dew falling from a branch, fireflies drifting, quiet and solemn, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 39,
+      "secao": "ponte",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of an olive garden at night as a line of flaming torches appears between the trees, soldiers with spears and helmets approaching in silhouette, the moon slipping behind dark clouds, fireflies fading, tense and solemn, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic",
+      "alt": "Static wide shot of an olive garden at night as a line of flaming torches appears between the trees, orange torchlight flickering on the trunks, the moon slipping behind dark clouds, fireflies fading, tense and solemn, stylized 3D animated feature film look, dramatic painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 40,
+      "secao": "ponte",
+      "camera": "plano médio estático",
+      "prompt": "Static medium shot at grey dawn of a rooster crowing on top of a stone wall, below it a fisherman in a wool cloak crouched in a corner of a courtyard with his face hidden in his hands, cold blue light, quiet grief, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static medium shot at grey dawn of a rooster crowing on top of a stone wall, an empty stone courtyard below with a dying fire and a dropped wool cloak, cold blue light, quiet grief, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 41,
+      "secao": "ponte",
+      "camera": "travelling lateral lento",
+      "prompt": "Slow side tracking shot of a man in silhouette carrying a heavy wooden beam on his shoulder up a steep stone street, a silent crowd standing on both sides, dust and grey overcast light, no blood, sorrowful and solemn, stylized 3D animated feature film look, soft rounded character design, dramatic painterly lighting, cinematic",
+      "alt": "Slow side tracking shot up a steep empty stone street under a grey overcast sky, a heavy wooden beam lying across the cobblestones, dust drifting, sorrowful and solemn, stylized 3D animated feature film look, dramatic painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 42,
+      "secao": "ponte",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of a barren hill as the sky turns from gold to dark storm clouds, three wooden crosses in silhouette on the ridge, tiny distant figures, wind bending dry grass, no blood, solemn and sorrowful, stylized 3D animated feature film look, dramatic painterly lighting, cinematic",
+      "alt": "Static wide shot of a barren hill as the sky turns from gold to dark storm clouds, wind bending dry grass, lightning far behind the ridge, solemn and sorrowful, stylized 3D animated feature film look, dramatic painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 43,
+      "secao": "ponte",
+      "camera": "close dolly-in",
+      "prompt": "Close up dolly in on a crown of thorns lying on wet grey stone, a single raindrop falling onto it, dim storm light, no blood, quiet grief, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Close up dolly in on a torn piece of cream cloth lying on wet grey stone, a single raindrop falling onto it, dim storm light, quiet grief, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 44,
+      "secao": "ponte",
+      "camera": "plano médio estático, de costas",
+      "prompt": "Static medium shot from behind of a woman in a blue shawl and a young man holding each other in the rain at the foot of a barren hill, looking up at the dark ridge, both seen from behind, grey storm light, no blood, quiet grief, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static medium shot of a blue shawl lying on wet stones in the rain at the foot of a barren hill, the dark ridge above under storm clouds, grey light, quiet grief, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 45,
+      "secao": "ponte",
+      "camera": "dolly-in dramático",
+      "prompt": "Dramatic dolly in inside a vast stone temple, a giant heavy purple curtain tearing from the top down with a burst of blinding white gold light through the gap, dust and threads flying, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people",
+      "alt": "Dramatic dolly in inside a vast stone temple, a giant heavy purple curtain tearing from the top down with a burst of blinding white gold light through the gap, dust and threads flying, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 46,
+      "secao": "ponte",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot at purple dusk of a rock tomb in a quiet garden, distant silhouettes carrying a body wrapped in cream linen toward the entrance, two men pushing a massive round stone to seal it, cold blue light, no blood, solemn, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static wide shot at purple dusk of a rock tomb in a quiet garden, a massive round stone slowly rolling to seal the entrance, cold blue light, wild flowers closing, solemn, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 47,
+      "secao": "ponte",
+      "camera": "plano médio estático",
+      "prompt": "Static medium shot at night of a rock tomb sealed by a massive round stone, two soldiers asleep leaning against it with helmets tilted, cold moonlight, still garden, absolute silence, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Static medium shot at night of a rock tomb sealed by a massive round stone, a spear and a helmet resting against it, cold moonlight, still garden, absolute silence, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 48,
+      "secao": "ponte",
+      "camera": "close estático",
+      "prompt": "Static close up inside a dark rock tomb, a folded linen cloth resting on a stone slab, a single thin crack of warm light cutting across it, dust motes, silence, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Static close up inside a dark rock tomb, a folded linen cloth resting on a stone slab, a single thin crack of warm light cutting across it, dust motes, silence, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 49,
+      "secao": "ponte",
+      "camera": "steadicam seguindo, de costas",
+      "prompt": "Steadicam following three women in shawls carrying clay perfume jars walking through a misty garden at blue dawn toward a rock tomb, all seen from behind, the horizon just beginning to turn gold, dew on the grass, hushed, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Steadicam gliding along a garden path at blue dawn toward a rock tomb, mist over dewy grass, the horizon just beginning to turn gold, three clay perfume jars resting on a stone by the path, hushed, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 50,
+      "secao": "ponte",
+      "camera": "contra-plongée, whiteout flash no corte",
+      "prompt": "Low angle shot of a massive round stone rolling away from a tomb entrance with a burst of golden dawn light flooding through, dust and petals blown into the air, triumphant, stylized 3D animated feature film look, painterly lighting, volumetric light, soft bloom, cinematic, no people",
+      "alt": "Low angle shot of a massive round stone rolling away from a tomb entrance with a burst of golden dawn light flooding through, dust and petals blown into the air, triumphant, stylized 3D animated feature film look, painterly lighting, volumetric light, soft bloom, cinematic, no people"
+     },
+     {
+      "n": 51,
+      "secao": "ponte",
+      "camera": "dolly-out do interior pro jardim",
+      "prompt": "Dolly out from inside a dark tomb through its open doorway into a garden at sunrise, light exploding outward, wild flowers blooming in fast motion across the grass, birds rising, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people",
+      "alt": "Dolly out from inside a dark tomb through its open doorway into a garden at sunrise, light exploding outward, wild flowers blooming in fast motion across the grass, birds rising, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 52,
+      "secao": "ponte",
+      "camera": "orbital em slow motion",
+      "prompt": "Slow motion orbiting shot of a man standing in a sunrise garden in a glowing white robe, seen from behind and above, light radiating from around him, hundreds of white birds bursting upward, petals in the air, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic",
+      "alt": "Slow motion orbiting shot of hundreds of white doves bursting upward from a sunrise garden, petals swirling in the air, golden light radiating from the center of the frame, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 53,
+      "secao": "ponte",
+      "camera": "steadicam seguindo",
+      "prompt": "Steadicam following a joyful woman in a blue tunic running through sunlit village streets, doors opening one after another as she passes, people leaning out of windows, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Steadicam gliding fast down a sunlit village street as wooden doors open one after another, warm light pouring out of each doorway, petals in the air, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 54,
+      "secao": "refrao final",
+      "camera": "drone frontal",
+      "prompt": "Aerial shot flying over a clay village at dawn, people on every rooftop raising their arms, waves of warm light rolling across the houses, doves everywhere, celebration, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Aerial shot flying over a clay village at dawn, colorful banners and paper lanterns lifting from every rooftop into the sky, waves of warm light rolling across the houses, celebration, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 55,
+      "secao": "refrao final",
+      "camera": "close contra-plongée",
+      "prompt": "Low angle close up of two hands lifting a woven basket full of bread high toward the sun, framed so tightly that only the hands and the basket are visible, lens flare, crumbs sparkling, stylized 3D animated feature film look, painterly lighting, cinematic",
+      "alt": "Low angle close up of a woven basket full of bread held up against a bright sun, only the basket visible, lens flare, crumbs sparkling in the light, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 56,
+      "secao": "refrao final",
+      "camera": "plano geral travelling",
+      "prompt": "Wide tracking shot of fishermen on a sandy shore dragging nets overflowing with silver fish out of the water, morning sun sparkling on the sea, laughter, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Wide tracking shot of a fishing net overflowing with silver fish lying on a sandy shore, water draining out, morning sun sparkling on the sea behind, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 57,
+      "secao": "refrao final",
+      "camera": "travelling de costas",
+      "prompt": "Tracking shot from behind of two travelers in wool cloaks walking a dusty road at golden hour with a man in a cream robe between them, all three seen from behind, warm light glowing brighter around them, wheat fields on both sides, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Tracking shot along a dusty road at golden hour between wheat fields, three sets of footprints in the dust, warm light glowing brighter toward the horizon, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 58,
+      "secao": "refrao final",
+      "camera": "contra-plongée",
+      "prompt": "Low angle shot of three shepherds on the same grassy hill from the beginning, one holding a lamb, now in bright morning sun where the star used to be, wind in the grass, joy, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Low angle shot of a small white lamb standing on a grassy hill in bright morning sun, wind in the grass, a shepherd staff planted beside it, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 59,
+      "secao": "refrao final",
+      "camera": "drone descendo",
+      "prompt": "Aerial descending shot over a sunlit village square in celebration, children dancing in a ring, a man in a brown tunic spinning with joy, an old man with arms wide open facing the sun, petals and doves in the air, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "Aerial descending shot over a sunlit village square in celebration, a ring of colorful cloaks laid on the cobblestones, petals and doves swirling in the air, warm light, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 60,
+      "secao": "refrao final",
+      "camera": "orbital alto",
+      "prompt": "High orbiting shot of a man in a white robe on a hilltop with arms open, surrounded by a ring of followers, seen from above and behind, wind in the robes, golden light pouring over the hill, stylized 3D animated feature film look, soft rounded character design, painterly lighting, cinematic",
+      "alt": "High orbiting shot of a lone olive tree on a hilltop, sun rays fanning out from behind it, wind in the leaves, golden light pouring over the hill, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 61,
+      "secao": "refrao final",
+      "camera": "contra-plongée estático",
+      "prompt": "Low angle static shot looking up at hundreds of white doves and drifting petals crossing a bright sun, raised arms of a crowd entering the bottom of the frame, lens flare, celebration, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic",
+      "alt": "Low angle static shot looking up at hundreds of white doves and drifting petals crossing a bright sun, tree branches at the edge of the frame, lens flare, celebration, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 62,
+      "secao": "refrao final",
+      "camera": "close estático",
+      "prompt": "Static close up of the empty wooden feeding trough from the stable, a single small white flower growing out of the hay in a beam of warm light, dust motes, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Static close up of the empty wooden feeding trough from the stable, a single small white flower growing out of the hay in a beam of warm light, dust motes, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 63,
+      "secao": "refrao final",
+      "camera": "tilt up em slow motion",
+      "prompt": "Slow motion tilt up from a group of followers kneeling on a hilltop looking upward, rising with a column of golden light to a small silhouette in a white robe ascending into parting golden clouds, seen from far below, light rays, wind in the grass, stylized 3D animated feature film look, soft rounded character design, painterly lighting, volumetric light, cinematic",
+      "alt": "Slow motion tilt up from a grassy hilltop rising with a column of golden light into parting golden clouds, light rays fanning out, doves rising, wind in the grass, stylized 3D animated feature film look, painterly lighting, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 64,
+      "secao": "refrao final",
+      "camera": "drone subindo",
+      "prompt": "Aerial shot rising over a crowd of hundreds gathered on a green hill, all looking up, a wide beam of golden light coming down from parting clouds, grand and celebratory, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic",
+      "alt": "Aerial shot rising over a green hill covered in wild flowers, a wide beam of golden light coming down from parting clouds, grand and celebratory, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 65,
+      "secao": "refrao final",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of the sun bursting over a hill, a lone dirt road climbing straight up into the light, wheat and flowers on both sides, birds crossing, radiant, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people",
+      "alt": "Static wide shot of the sun bursting over a hill, a lone dirt road climbing straight up into the light, wheat and flowers on both sides, birds crossing, radiant, stylized 3D animated feature film look, painterly global illumination, volumetric light, cinematic, no people"
+     },
+     {
+      "n": 66,
+      "secao": "outro",
+      "camera": "plano médio estático",
+      "prompt": "Static medium shot of the small wooden stable at night, the warm star glowing softly above it, a single lantern lit by the door, the little white flower in the hay, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Static medium shot of the small wooden stable at night, the warm star glowing softly above it, a single lantern lit by the door, the little white flower in the hay, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 67,
+      "secao": "outro",
+      "camera": "close estático",
+      "prompt": "Extreme close up of a small white flower growing from hay, a single drop of dew on a petal reflecting one warm golden star, soft lantern glow, gentle night breeze, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Extreme close up of a small white flower growing from hay, a single drop of dew on a petal reflecting one warm golden star, soft lantern glow, gentle night breeze, quiet and peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 68,
+      "secao": "outro",
+      "camera": "plano geral estático",
+      "prompt": "Static wide shot of the open rock tomb in a quiet garden at night, the great round stone resting beside it, a soft warm glow coming from inside, fireflies over dewy flowers, starry sky, peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people",
+      "alt": "Static wide shot of the open rock tomb in a quiet garden at night, the great round stone resting beside it, a soft warm glow coming from inside, fireflies over dewy flowers, starry sky, peaceful, stylized 3D animated feature film look, painterly lighting, cinematic, no people"
+     },
+     {
+      "n": 69,
+      "secao": "outro",
+      "camera": "drone subindo lento",
+      "prompt": "Very slow aerial rise from the sleeping clay village up into the starry night sky, the warm star gradually softening into a gentle glow among the stars, deep blue and gold, peaceful fade, stylized 3D animated feature film look, painterly global illumination, cinematic, no people",
+      "alt": "Very slow aerial rise from the sleeping clay village up into the starry night sky, the warm star gradually softening into a gentle glow among the stars, deep blue and gold, peaceful fade, stylized 3D animated feature film look, painterly global illumination, cinematic, no people"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "quero-uma-historia-sobre-o-egito-antigo",
    "mvd": "MVD#151",
    "titulo": "Escrito na Pedra",
@@ -440,7 +1024,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "aprovado",
    "likes": 0,
    "docs": []
   },
