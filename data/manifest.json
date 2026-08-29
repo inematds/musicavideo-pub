@@ -4,6 +4,448 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "quero-uma-historia-sobre-o-egito-antigo",
+   "mvd": "MVD#151",
+   "titulo": "Escrito na Pedra",
+   "quando": "2026-08-28T22:04:02-03:00",
+   "solicitacao": "quero uma historia sobre o egito antigo, com musica cotnando as dificuldades e o diferencial da epoca",
+   "genero": "épico egípcio cinematográfico (ney, alaúde, harpa, tambores de moldura e sistro + orquestra e produção moderna)",
+   "bpm": 96,
+   "tom": "Ré menor (escala hijaz / frígia dominante, abre em Ré maior no refrão final)",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "ancestral",
+    "sofrido nos versos",
+    "orgulhoso e monumental no refrão",
+    "a dureza do deserto e a engenhosidade de quem aprendeu a contar"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/quero-uma-historia-sobre-o-egito-antigo/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 487413044,
+   "doc": "# Escrito na Pedra\n\n**slug:** `quero-uma-historia-sobre-o-egito-antigo`  ·  **solicitação:** quero uma historia sobre o egito antigo, com musica cotnando as dificuldades e o diferencial da epoca\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/quero-uma-historia-sobre-o-egito-antigo`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Escrito na Pedra\n\n\n\n**slug:** `quero-uma-historia-sobre-o-egito-antigo`  ·  **criado:** 2026-08-28T22:04:02-03:00\n\n**solicitação:** quero uma historia sobre o egito antigo, com musica cotnando as dificuldades e o diferencial da epoca\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** épico egípcio cinematográfico (ney, alaúde, harpa, tambores de moldura e sistro + orquestra e produção moderna)  ·  **BPM:** 96  ·  **Tom:** Ré menor (escala hijaz / frígia dominante, abre em Ré maior no refrão final)\n- **Mood:** ancestral, sofrido nos versos, orgulhoso e monumental no refrão, a dureza do deserto e a engenhosidade de quem aprendeu a contar\n- **Instrumentação:** ney (flauta de cana) como melodia de abertura, alaúde de braço longo em ostinato, harpa arqueada, tambores de moldura graves e darbuka, sistro e chocalhos metálicos, drone de cordas baixas, coro masculino grave responsorial, cordas orquestrais e metais entrando no refrão, sub-baixo moderno discreto, ambiência de vento e água\n- **Voz:** \"voz masculina grave e áspera de contador de história nos versos, quase falada; refrão aberto em peito com coro masculino grave e uma voz feminina aguda em contracanto; na ponte a voz feminina assume sozinha sobre tambor\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Epic cinematic ancient Egyptian song, 96 BPM, D minor with hijaz (phrygian dominant) melodies, opening in D major on the final chorus. Opens within the first two seconds with a deep male chant hook over wind, river water and a lone ney reed flute, then a long-neck lute ostinato and low frame drums enter. Arched harp arpeggios, darbuka, sistrum rattles and metallic shakers give ancient texture; low string drones, cinematic orchestral strings and brass swell progressively; a subtle modern sub bass underneath. Lead vocal: deep, weathered, slightly raspy male storyteller voice, almost spoken in the verses, opening into a powerful chest-voice chorus doubled by a low male choir with a high ethereal female counter-melody. Bridge strips down to the female voice alone over a single frame drum and wind, then the final chorus explodes into full orchestra, massive drums and choir. Verses hard and dusty, chorus proud and monumental; huge dynamic range, wide stereo, clean powerful vocals, organic percussion. Lyrics in pt-BR\n\n**Estrutura:** intro (10s) · verso 1 (28s) · pré-refrão (12s) · refrão (24s) · verso 2 (26s) · refrão (24s) · ponte (20s) · refrão final (26s) · outro (10s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\n(coro grave, quase falado, sobre vento e água)\nO rio sobe... o rio desce...\n\n[Verso 1]\nNasci na margem, com o sol no lombo\nCada cheia é uma promessa, cada seca é um assombro\nO deserto espera ali do lado, com fome\nSete anos de fartura, sete anos sem nome\nMeu pai contou os degraus na pedra\nMarcou a água que sobe e a água que enreda\n\n[Pré-refrão]\nE quando a fome bate, o povo não corre\nAprende a medir, aprende a guardar\nNinguém lembra de quem só sofre\nLembra de quem soube contar\n\n[Refrão]\nOnde o deserto queima, a gente planta\nOnde a pedra pesa, a gente levanta\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\n\n[Verso 2]\nContaram as estrelas até fechar o ano\nTrezentos e sessenta e cinco dias no plano\nCuraram a ferida com mel e com linho\nCavaram canal onde a areia era o caminho\nPuxaram a pedra que ninguém puxava\nSem roda de ferro, só corda e palavra\n\n[Refrão]\nOnde o deserto queima, a gente planta\nOnde a pedra pesa, a gente levanta\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\n\n[Ponte]\n(voz feminina sozinha, só tambor e vento)\nE quando eu partir pro outro lado do rio\nNão me leva ouro, leva o que eu escrevi\nPorque o vento apaga a pegada no chão\nMas o que é gravado não morre não\n\n[Refrão final]\n(orquestra e coro inteiros)\nOnde o deserto queima, a gente planta\nOnde a pedra pesa, a gente levanta\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\nEscreve na pedra! Escreve na pedra!\nO rio sobe, o rio desce\nEscreve na pedra o que ninguém esquece\n\n[Outro]\n(coro grave some no vento)\nO rio sobe... o rio desce...\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #0B1A2B, #C8862B, #E9D3A3, #2F6B5A, #8C2F1E\n- **Params:** `{}`\n\n**Conceito:** Capa SEM pessoa nenhuma: a escada de pedra de um nilômetro descendo até a água do Nilo ao amanhecer, com marcas de cheia gravadas nos degraus — a água que sobe e a mão que contou. Ao fundo, do outro lado do rio, uma pirâmide ainda em construção com rampas de tijolo, minúscula no horizonte, e o verde estreito dos campos entre duas faixas de deserto. Céu limpo e vazio no terço superior para o título. O olhar da capa é o do rio: ninguém no quadro, só o que a época deixou gravado.\n\n**Prompt (EN):**\n\n> album cover, wide symbolic landscape: a carved stone stairway of an ancient Egyptian nilometer descending into the calm dark water of a great river at dawn, flood marks and notches carved into the steps, thin morning mist on the water, papyrus reeds at the edge; on the far bank a narrow strip of green fields between sand, and far on the horizon a pyramid still under construction with mud-brick ramps, tiny and hazy; low golden sun from the left, long shadows, warm amber light on the stone, deep blue shadows, palette deep night blue #0B1A2B, amber gold #C8862B, sand #E9D3A3, river green #2F6B5A, ochre red #8C2F1E; clean empty sky in the upper third as negative space for a title, cinematic lighting, photographic realism, fine grain, 1:1\n\n**Negativo:** text, letters, typography, watermark, logo, people in foreground, faces, modern buildings, boats with engines, cartoon, oversaturated, blurry, extra pyramids in foreground\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa pronta com 235 s. Média de ~13 cortes/min (52 planos em 235 s, planos de 3 a 10 s, média 4,5 s), ancorada entre as duas referências de clipe narrativo/performance medidas: Marília Mendonça & Maiara e Maraisa (8,36 cortes/min a 128 bpm, ritmo lento, corte seco no beat) e Menos é Mais / Simone Mendes (30 cortes/min a 85 bpm, live festiva). A 96 bpm, épico e narrativo, o clipe fica mais perto do lado lento e não é parelho: intro segura o plano (7 e 5 s), versos respiram em 5–6 s (≈10 cortes/min), pré-refrão aperta para 3–4,5 s, refrão pica em 3–4 s (≈18 cortes/min, ainda abaixo dos 30 da live porque a música é hino e não festa), ponte abre em 6–7 s e o outro segura 10 s. NÚCLEO medido na onda em 130–142 s = planos 30 a 33 (quatro planos de 3 s, o trecho mais picado do clipe, aberto pelo perfil do escriba contra o sol e fechado pela água no sulco): é esse bloco que vira o Short. Cada corte cai no tempo forte do tambor de moldura. Transições: só corte seco no beat (o único recurso presente nas duas referências narrativas) e um fade out no plano final (medido na live). Sem slow motion, speed ramp ou wipes — nenhum deles aparece na medição dessas referências; o wipe/smear medido no lyric video é linguagem tipográfica e não entra aqui.\n- **Params:** `{}`\n- **Shots:** 52  ·  **Duração total:** 235.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 7.0s | geral · drone travelling lento para a frente | O Nilo antes do sol: névoa baixa, palmeiras em silhueta, o rio largo e parado — o mundo ainda em silêncio. |\n| 2 | intro | 5.0s | detalhe · estático | Água subindo devagar por degraus de pedra gravados com marcas — o nilômetro, primeira luz. |\n| 3 | verso 1 | 6.0s | médio · steadicam lateral acompanhando | O jovem escriba caminha pela margem ao nascer do sol, cesto de junco no ombro, aldeia de tijolo cru ao fundo. |\n| 4 | verso 1 | 5.5s | detalhe · estático, nível do chão | Um pé descalço afunda no lodo preto da cheia ao lado da terra rachada da seca — os dois mundos num só quadro. |\n| 5 | verso 1 | 6.0s | geral · pan lento da esquerda para a direita | A linha exata onde o verde acaba e o deserto começa; calor tremendo no ar, um trabalhador minúsculo ao longe. |\n| 6 | verso 1 | 6.0s | geral · dolly lento para a frente, altura do chão | O ano sem nome: o leito de um canal seco e rachado, um barco de junco encalhado no barro, gado magro ao longe no calor — a seca que apaga. |\n| 7 | verso 1 | 5.0s | médio · handheld leve, por trás do ombro | O pai, agachado no nilômetro, conta os entalhes com o dedo; o filho observa por trás — a herança é medir. |\n| 8 | verso 1 | 5.5s | detalhe · estático | Uma mão com pincel de junco risca a marca de cheia na pedra — o número que vai alimentar o ano. |\n| 9 | pré-refrão | 4.5s | médio · dolly lento para dentro | Silos de barro; grãos escorrem de sacos; o jovem escriba faz contas no papiro sob luz poeirenta — guardar é sobreviver. |\n| 10 | pré-refrão | 3.5s | geral · estático, ligeiramente alto | Dois agrimensores esticam uma corda de nós sobre o campo ainda molhado da cheia, refazendo os limites que a água apagou — aprende a medir. |\n| 11 | pré-refrão | 3.0s | close · estático, dos olhos para cima, perfil | Os olhos do escriba se erguem para o sol, suor e kohl, contra a luz — a decisão de aprender e não fugir. |\n| 12 | pré-refrão | 3.0s | geral · dolly-out | Uma fila de aldeões sobe do rio com jarros d'água, sol baixo recortando os corpos — o povo se organiza. |\n| 13 | refrão | 4.0s | geral · drone, vista de cima | Campos verdes cortados por canais geométricos; a água entra pelos sulcos — a resposta ao deserto. |\n| 14 | refrão | 3.0s | geral · estático, contraluz | Uma fileira de shadufs na margem sobe e desce em silhueta contra o sol baixo, jarros derramando água nos canais — a máquina simples que venceu a seca. |\n| 15 | refrão | 3.0s | médio · travelling lateral | Dezenas de trabalhadores arrastam um bloco de calcário num trenó; um deles molha a areia à frente. |\n| 16 | refrão | 3.5s | detalhe · estático | Corda tesa sobre um ombro, fibras estalando — o peso da pedra visto de perto. |\n| 17 | refrão | 3.0s | geral · contra-plongée, estático | Uma muralha de pedra sobe com rampa de tijolo cru; trabalhadores minúsculos nos andaimes — a gente levanta. |\n| 18 | refrão | 3.5s | detalhe · estático | Cinzel entalha um hieróglifo na pedra, lascas voando — escreve na pedra. |\n| 19 | refrão | 3.0s | médio · steadicam lateral, contraluz | Um camponês lança sementes no lodo preto ainda molhado, os grãos brilhando no sol baixo — a gente planta. |\n| 20 | refrão | 3.0s | médio · estático, contraluz | O escriba no topo da escada do nilômetro, punho fechado no peito, queixo erguido, ombros subindo na inspiração — o hino no corpo. |\n| 21 | refrão | 4.0s | geral · pan lento | O vale inteiro na hora dourada: velas de barcos de junco, campos verdes entre dois desertos, o rio que decide tudo. |\n| 22 | verso 2 | 5.5s | geral · estático, noite | Astrônomos-sacerdotes num terraço de templo miram as estrelas com um instrumento de fio de prumo; a Via Láctea inteira — contaram o céu. |\n| 23 | verso 2 | 5.0s | detalhe · travelling lento sobre a superfície | Uma grade de calendário entalhada na pedra, luz de lamparina; um dedo percorre as casas — trezentos e sessenta e cinco. |\n| 24 | verso 2 | 6.0s | médio · handheld, interior | Uma curandeira passa mel numa ferida no antebraço de um trabalhador e enfaixa com linho — a medicina da época. |\n| 25 | verso 2 | 5.5s | geral · dolly lateral | Trabalhadores cavam um canal na areia; a água rompe a barreira e corre pelo sulco novo — a areia vira caminho. |\n| 26 | verso 2 | 6.0s | médio · contra-plongée, estático | Homens inclinados nas cordas puxando um bloco rampa acima, todos os corpos no mesmo ângulo, poeira — corda e palavra. |\n| 27 | pré-refrão | 4.5s | médio · dolly lento para dentro | O escriba de pé junto a uma fila de sacos de grão, bastão de contagem na mão, marcando entalhes um a um enquanto os carregadores passam — quem soube contar. |\n| 28 | pré-refrão | 4.0s | médio · estático, contraluz | O braço do capataz erguido no ar, dezenas de mãos apertando as cordas, todos parados esperando o sinal — a respiração presa antes do puxão. |\n| 29 | pré-refrão | 3.5s | detalhe · estático, nível do chão | Pés descalços cravam na areia, tendões saltando, as cordas ficam tesas de um golpe, poeira explode — o instante antes do refrão. |\n| 30 | refrão | 3.0s | close · estático, perfil, contraluz | NÚCLEO (130 s) — O escriba de perfil contra o sol, mandíbula travada, olhos apertados, veia saltada no pescoço — o refrão inteiro na garganta. |\n| 31 | refrão | 3.0s | geral · drone orbitando, contra-plongée | NÚCLEO — O melhor plano do clipe: o escriba de pé sobre o bloco recém-assentado no topo da pirâmide inacabada, punho erguido ao céu, cabeça para trás, olhos fechados, centenas de trabalhadores nas rampas abaixo, o sol explodindo atrás — a pedra que a gente levanta. |\n| 32 | refrão | 3.0s | geral · contra-plongée, handheld | NÚCLEO — Centenas de trabalhadores erguem os braços quando o bloco assenta, poeira em contraluz, cordas frouxando — a gente levanta. |\n| 33 | refrão | 3.0s | detalhe · estático | NÚCLEO (fecha em 142 s) — Água despejada de um jarro de barro num sulco, sol atravessando o jato — a gente planta. |\n| 34 | refrão | 3.5s | geral · drone alto, avançando | O canteiro imenso de uma pirâmide pela metade: rampas, milhares de figuras minúsculas, o deserto ao redor. |\n| 35 | refrão | 3.5s | médio · steadicam avançando | Oficina de papiro: mulheres prensam tiras cruzadas, luz coada pelas paredes de junco — a página que vai durar. |\n| 36 | refrão | 3.0s | detalhe · estático | Hieróglifos recém-entalhados recebem pigmento ocre e azul de um pincel — a pedra ganha cor. |\n| 37 | refrão | 4.0s | geral · estático, crepúsculo | A cheia se espalha pelos campos ao entardecer; aldeões parados nos diques, assistindo o rio decidir o ano. |\n| 38 | refrão | 4.0s | médio · dolly lento para dentro, de costas | O escriba ajoelhado encosta a palma numa parede entalhada, de costas para a câmera, luz de tocha — o que fica. |\n| 39 | ponte | 7.0s | geral · estático, amanhecer | Um barco funerário cruza o rio para a margem oeste no nevoeiro da manhã — partir pro outro lado do rio. |\n| 40 | ponte | 6.0s | médio · dolly lento para dentro, contraluz de névoa | A voz feminina no corpo: uma mulher de linho parada na beira do rio ao amanhecer, mão espalmada no peito, cabeça inclinada para trás, olhos fechados, o vento puxando o cabelo trançado — só ela e o tambor. |\n| 41 | ponte | 6.0s | close · estático, perfil, uma lamparina | O rosto do pai, velho, de perfil, olhos fechados, só uma lamparina — não me leva ouro. |\n| 42 | ponte | 7.0s | detalhe · travelling baixo, depois tilt para cima | O vento apaga pegadas na areia; a câmera sobe e encontra uma estela de pedra gravada que o vento não move. |\n| 43 | refrão final | 3.5s | geral · drone, orbitando | A pirâmide pronta, o sol nascente batendo no revestimento polido — a pedra que ninguém esquece. |\n| 44 | refrão final | 3.5s | médio · travelling lateral | Uma fileira de canteiros entalha a mesma parede ao mesmo tempo, cinzéis batendo em uníssono, lascas voando — escreve na pedra! escreve na pedra! |\n| 45 | refrão final | 4.0s | detalhe · estático | Uma mão velha guia uma mão pequena a riscar a marca de cheia na pedra — o filho agora ensina. |\n| 46 | refrão final | 3.5s | geral · contra-plongée, estático, contraluz | Aldeões enfileirados no dique erguem os jarros de barro para o sol nascente, a água da cheia espelhando tudo aos pés — o rio sobe. |\n| 47 | refrão final | 4.0s | close · estático, dos olhos para cima, contraluz | O escriba, queixo erguido, lágrima descendo pelo kohl, contra o sol — o clímax no rosto, sem boca. |\n| 48 | refrão final | 4.5s | geral · estático, contraluz, amanhecer | O escriba já grisalho e uma criança pequena, lado a lado nos degraus do nilômetro ao nascer do sol, a água nos pés, a criança apontando para as marcas na pedra — a herança passa. |\n| 49 | refrão final | 4.5s | geral · pan amplo | O vale vivo: rio cheio, barcos, campos verdes, pilones de templo, gente pequena em tudo — a época inteira num quadro. |\n| 50 | refrão final | 4.5s | geral · drone, vista alta, avançando | A cheia chegou: aldeões atravessam os campos alagados com água pelos joelhos, braços erguidos, respingos brilhando no sol — o ano está salvo. |\n| 51 | refrão final | 7.0s | médio → detalhe · dolly-in contínuo | Uma parede de hieróglifos à luz de tocha; a câmera avança até um único cartucho entalhado encher o quadro. |\n| 52 | outro | 10.0s | geral · estático, noite, fade out | O Nilo à noite, estrelas refletidas na água parada, a silhueta distante da pirâmide; a imagem esmaece para o preto. |\n\n**Prompts (EN):**\n\n1. Wide aerial shot drifting slowly forward over a broad calm river before sunrise, low mist on the water, palm trees and reed beds in silhouette on both banks, a thin strip of dark fields and pale sand beyond, deep blue pre-dawn sky with a faint amber line on the horizon, ancient Egyptian landscape with no modern elements, palette deep night blue #0B1A2B, sand #E9D3A3, amber #C8862B, cinematic, fine film grain, approximately 7 seconds\n2. Static close detail of ancient carved stone steps descending into river water, the water slowly creeping up over one step, notches and flood marks cut into the stone, first golden light touching the wet surface, tiny ripples, dark blue shadows, palette amber #C8862B and night blue #0B1A2B, photographic realism, approximately 5 seconds\n3. Medium tracking shot moving sideways alongside a young ancient Egyptian man with a shaved head, kohl-lined eyes and a white linen kilt, walking along a muddy riverbank at sunrise carrying a woven reed basket on his shoulder, mud-brick village houses and date palms behind him, low golden sun rim-lighting his shoulders, dust in the air, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 6 seconds\n4. Ground-level static close detail framed so tightly that only a bare foot and ankle are visible, the foot pressing slowly into wet black river silt, the silt oozing between the toes, next to it a patch of dry cracked pale earth, low warm sunlight raking across the texture, palette sand #E9D3A3 and dark mud, macro photographic realism, approximately 5.5 seconds\n5. Slow panning wide shot across the sharp boundary where green irrigated fields end and endless pale desert sand begins, heat haze shimmering over the dunes, a single tiny worker figure far away carrying a hoe, harsh midday sun, bleached sky, palette river green #2F6B5A, sand #E9D3A3, ochre #8C2F1E, ancient Egyptian landscape, cinematic realism, approximately 6 seconds\n6. Slow low dolly forward along the bed of a dried-up ancient irrigation canal, the mud cracked into pale plates, a small reed boat stranded and tilted in the dry bed, dead papyrus stalks bleached white, a few thin cattle far away in shimmering heat haze, harsh bleached midday sky, palette sand #E9D3A3, ochre #8C2F1E, faded river green #2F6B5A, ancient Egyptian landscape, cinematic realism, approximately 6 seconds\n7. Handheld medium shot from behind the shoulder of a young Egyptian man watching an older man with a grey stubbled head crouched on carved stone steps beside the river, the older man running his fingertip along notches cut into the stone, morning light from the side, water lapping below, linen kilts, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 5 seconds\n8. Static close detail framed so tightly that only a hand and wrist are visible, the hand holding a reed brush and painting a short red-ochre mark onto rough limestone beside older faded marks, sunlight and shadow on the stone, fine dust, palette ochre #8C2F1E and sand #E9D3A3, macro photographic realism, approximately 5.5 seconds\n9. Slow dolly-in medium shot inside a granary courtyard of tall conical clay silos, workers pouring golden grain from sacks into a stone bin, a young Egyptian scribe with shaved head seated on the ground writing on a papyrus sheet on his lap, shafts of sunlight cutting through thick dust, warm amber tones #C8862B and sand #E9D3A3, cinematic realism, approximately 4.5 seconds\n10. Static slightly elevated wide shot of two ancient Egyptian surveyors in white linen stretching a long knotted measuring rope taut across a flat field of dark wet silt after the flood, evenly spaced knots on the rope, wooden stakes driven into the mud, low morning sun raking across the wet ground and glinting on the rope, palm trees and the river far behind, palette river green #2F6B5A, sand #E9D3A3, amber #C8862B, cinematic realism, approximately 3.5 seconds\n11. Static close-up in profile framed from the eyes upward of a young Egyptian man with a shaved head, kohl-lined eyes lifting slowly toward the blazing sun, beads of sweat on the brow, harsh backlight carving a bright rim on the skull and brow, blown-out sky behind, palette amber #C8862B and deep shadow, cinematic realism, approximately 3 seconds\n12. Wide shot pulling back to reveal a long line of ancient Egyptian villagers in linen climbing a sandy riverbank path carrying clay water jars on their heads and shoulders, low golden sun behind them rim-lighting every figure, dust glowing in the backlight, palette amber #C8862B, sand #E9D3A3, cinematic realism, approximately 3 seconds\n13. Top-down aerial shot of ancient irrigated fields divided into a geometric grid of earthen dikes and narrow canals, river water flowing into the channels and flooding the squares one by one, bright green crops against dark wet soil, sand at the edges, warm afternoon light, palette river green #2F6B5A, sand #E9D3A3, amber #C8862B, cinematic, approximately 4 seconds\n14. Static wide shot in strong backlight of a row of ancient Egyptian shaduf water-lifting poles along a riverbank, counterweighted wooden beams rising and dipping, clay buckets lifting water from the river and spilling it into an earthen channel, farmers in silhouette working the poles, low golden sun flaring behind, glowing spray and dust, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 3 seconds\n15. Side tracking medium shot of dozens of ancient Egyptian workers in linen kilts hauling a massive limestone block on a wooden sledge with thick ropes across sand, one worker ahead pouring water on the sand from a jar, bodies leaning hard into the ropes, dust and sweat, harsh sunlight, palette sand #E9D3A3, amber #C8862B, cinematic realism, approximately 3 seconds\n16. Static close detail framed so tightly that only a thick twisted rope and the bare shoulder it bites into are visible, the rope stretched taut and fibers fraying under strain, sweat and dust on the skin, hard sunlight and deep shadow, palette amber #C8862B and sand #E9D3A3, macro realism, approximately 3.5 seconds\n17. Low-angle static wide shot of a monumental stone wall under construction rising against a bright sky, a long mud-brick ramp climbing its side, tiny workers on the ramp and on wooden scaffolds, blocks being levered into place, dust catching the sun, palette sand #E9D3A3, amber #C8862B, night blue #0B1A2B shadows, cinematic realism, approximately 3 seconds\n18. Static close detail framed so tightly that only a hand, a copper chisel and a wooden mallet are visible, the chisel cutting a crisp hieroglyphic bird symbol into pale limestone, stone chips flying with each strike, fine dust, warm side light, palette sand #E9D3A3 and amber #C8862B, macro realism, approximately 3.5 seconds\n19. Side steadicam medium shot in backlight of an ancient Egyptian farmer in a linen kilt walking across dark wet river silt and casting handfuls of seed in a wide arc, the grains glittering as they catch the low golden sun, bare feet sinking in the mud, palm trees and a thin line of desert behind, palette amber #C8862B, dark mud, sand #E9D3A3, cinematic realism, approximately 3 seconds\n20. Static medium shot of a young Egyptian man with a shaved head standing at the top of carved stone steps above the river, one fist pressed against his chest, chin lifted high, shoulders rising as his chest expands, head tilted slightly back with eyes shut tight, strong backlight from the low sun turning him into a glowing rim-lit figure, wind moving his linen kilt, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 3 seconds\n21. Slow panning wide shot of the river valley at golden hour, reed boats with square linen sails gliding on the water, a ribbon of green fields on each bank framed by pale desert cliffs, long shadows, warm haze, ancient Egyptian landscape with no modern elements, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic, approximately 4 seconds\n22. Static wide night shot of two ancient Egyptian priests in white linen on a flat temple rooftop, one holding a wooden sighting instrument with a hanging plumb line toward the sky, the Milky Way blazing overhead, stone columns in silhouette, a single oil lamp glow at their feet, palette night blue #0B1A2B with warm amber #C8862B lamp light, cinematic realism, approximately 5.5 seconds\n23. Slow tracking close-up sliding across a stone slab carved with a dense grid of small marks and star symbols, a fingertip moving from cell to cell, flickering oil-lamp light throwing moving shadows into the carved lines, warm amber #C8862B on pale stone with deep shadows, macro realism, approximately 5 seconds\n24. Handheld medium shot inside a dim mud-brick room, an ancient Egyptian woman healer with braided hair spreading golden honey from a small clay pot onto a cut on a worker's forearm, then wrapping it with a strip of white linen, a shaft of daylight from a high window, dust, clay jars and dried herbs on a shelf, palette amber #C8862B, sand #E9D3A3, deep shadow, cinematic realism, approximately 6 seconds\n25. Lateral dolly wide shot of ancient Egyptian workers with wooden hoes digging a narrow canal through pale sand, one worker breaking the last earthen barrier, river water rushing through into the fresh channel and darkening the sand ahead, splashes catching the sun, palette sand #E9D3A3, river green #2F6B5A, amber #C8862B, cinematic realism, approximately 5.5 seconds\n26. Low-angle static medium shot of a row of ancient Egyptian workers leaning at the same steep angle into thick ropes, hauling a limestone block up a mud-brick ramp, muscles taut, feet digging into the sand, dust clouds glowing in backlight, an overseer's raised arm at the edge of frame, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 6 seconds\n27. Slow dolly-in medium shot of a young ancient Egyptian scribe with a shaved head standing beside a long row of bulging grain sacks at a riverside dock, cutting small tally notches into a wooden counting stick with a flint blade as porters walk past behind him carrying more sacks from a reed boat, late golden light, dust, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 4.5 seconds\n28. Static medium shot in strong backlight of an overseer standing on a stone block with one arm raised high and frozen, below him rows of ancient Egyptian workers gripping thick ropes and leaning forward motionless, waiting for the signal, dust hanging still in the golden air, tension in every body, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 4 seconds\n29. Ground-level static close detail of several pairs of bare feet driving hard into pale sand as ropes above them snap suddenly taut, calf tendons straining, sand and dust bursting up in a low cloud lit by hard sunlight, palette sand #E9D3A3 and amber #C8862B, macro realism, approximately 3.5 seconds\n30. Static tight close-up in profile of a young Egyptian man with a shaved head and kohl-lined eyes against the blazing sun, jaw clenched, eyes squeezed shut, tendons and a vein standing out on the neck, head tilted back, sweat glinting on the rim-lit skin, blown-out sky, palette amber #C8862B and deep shadow, cinematic realism, approximately 3 seconds\n31. Orbiting aerial shot rising in a low arc around a young ancient Egyptian man with a shaved head standing alone on a freshly set limestone block at the very top of a half-built pyramid, one fist thrust high toward the sky, head thrown back, eyes closed, chest lifted, linen kilt whipping in the wind, far below him hundreds of tiny workers on long mud-brick ramps and the whole desert construction site, the sun flaring directly behind him and throwing a long shadow down the stone courses, dust glowing in the backlight, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B shadows, epic cinematic realism, approximately 3 seconds\n32. Low-angle handheld wide shot of hundreds of ancient Egyptian workers on a stone ramp raising their arms and tools to the sky as a massive block settles into place above them, dust clouds glowing in strong backlight, ropes going slack, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 3 seconds\n33. Static close detail of river water pouring from the lip of a clay jar into a small earthen irrigation furrow, the stream lit from behind by low sun so the water glows amber, droplets sparkling, dark wet soil and green seedlings at the edges, palette amber #C8862B, river green #2F6B5A, macro realism, approximately 3 seconds\n34. High aerial shot pushing forward over a vast ancient construction site, a pyramid half-built with stepped stone courses and long mud-brick ramps spiraling up its sides, thousands of tiny workers and sledges moving along the ramps, the river valley green far behind, harsh sunlight, palette sand #E9D3A3, amber #C8862B, river green #2F6B5A, cinematic realism, approximately 3.5 seconds\n35. Steadicam medium shot moving forward through a papyrus workshop, ancient Egyptian women in linen laying thin pale papyrus strips in crossed layers on a flat stone and pressing them with a smooth wooden tool, sunlight filtering in bright stripes through reed walls, water basins and bundles of green papyrus stalks, palette sand #E9D3A3, amber #C8862B, river green #2F6B5A, cinematic realism, approximately 3.5 seconds\n36. Static close detail of freshly carved hieroglyphs in pale limestone being filled with color, a fine reed brush laying vivid ochre red #8C2F1E and deep blue pigment into the carved shapes of a bird and a wave, small clay pigment pots beside, warm side light, macro realism, approximately 3 seconds\n37. Static wide shot at dusk of floodwater spreading slowly across flat fields, the water reflecting an orange and violet sky, a line of ancient Egyptian villagers standing motionless on a narrow earthen dike watching, palm trees in silhouette, palette night blue #0B1A2B, amber #C8862B, cinematic realism, approximately 4 seconds\n38. Slow dolly-in medium shot from behind of a young Egyptian man with a shaved head kneeling before a stone wall densely carved with hieroglyphs, pressing his open palm flat against the carvings, flickering torchlight from the side throwing his shadow across the wall, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 4 seconds\n39. Static wide shot at dawn of a small ancient Egyptian wooden funeral barque with a curved prow crossing a wide misty river toward the western bank, a few standing figures in white linen on board, pale sun barely through the mist, the river almost still, muted palette night blue #0B1A2B, sand #E9D3A3, faint amber #C8862B, solemn cinematic realism, approximately 7 seconds\n40. Slow dolly-in medium shot of an ancient Egyptian woman in a plain white linen dress standing alone at the misty edge of a wide river at dawn, one open hand pressed flat against her chest, head tilted slightly back, eyes closed, wind pulling at her long braided hair and the hem of her dress, pale sun diffused through the mist behind her, water lapping at her bare feet, muted palette night blue #0B1A2B, sand #E9D3A3, faint amber #C8862B, solemn cinematic realism, approximately 6 seconds\n41. Static close-up in profile of an elderly Egyptian man with a deeply lined face, grey stubble on his shaved head, eyes closed in stillness, lit by a single oil lamp from below and in front, the rest of the frame in darkness, warm amber #C8862B skin against black, cinematic realism, approximately 6 seconds\n42. Low tracking shot skimming over sand where a trail of footprints is being erased by wind-blown grains streaming across them, then the camera tilts up to reveal a standing carved stone stela with hieroglyphs, unmoved, the sand hissing past its base, warm low light, palette sand #E9D3A3, amber #C8862B, cinematic realism, approximately 7 seconds\n43. Orbiting aerial shot of a completed ancient pyramid with smooth polished white limestone casing, the rising sun striking one face and turning it blazing gold, long shadow across the desert, the green river valley in the distance, clear sky, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B, cinematic realism, approximately 3.5 seconds\n44. Side tracking medium shot along a long pale limestone wall where a row of ancient Egyptian stone masons in linen kilts strike copper chisels with wooden mallets in unison, stone chips bursting from each blow, half-finished hieroglyph columns emerging along the wall, dust glowing in strong side sunlight, palette sand #E9D3A3, amber #C8862B, ochre #8C2F1E, cinematic realism, approximately 3.5 seconds\n45. Static close detail framed so tightly that only two hands are visible, a weathered older hand gently guiding a small young hand holding a reed brush, together painting a red-ochre flood mark onto rough limestone beside many older marks, morning light, palette ochre #8C2F1E, sand #E9D3A3, amber #C8862B, macro realism, approximately 4 seconds\n46. Low-angle static wide shot of a line of ancient Egyptian villagers standing on a narrow earthen dike lifting clay water jars high toward the rising sun, floodwater mirroring the sky and the figures at their feet, rim light on every jar and arm, dust and mist glowing, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B, cinematic realism, approximately 3.5 seconds\n47. Static close-up framed from the eyes upward of a young Egyptian man with a shaved head, chin raised high, a single tear running through the kohl at the corner of one eye, strong backlight from the sun creating a golden rim along the brow and skull, sky blown out, palette amber #C8862B and deep shadow, cinematic realism, approximately 4 seconds\n48. Static wide shot in backlight at sunrise of a middle-aged Egyptian man with grey stubble on his shaved head and a small child in a linen tunic standing side by side on the carved stone steps of a nilometer, river water lapping at their feet, the child pointing at a column of flood marks cut into the stone, the low sun flaring behind them over the river and turning both into glowing rim-lit figures, mist on the water, palette amber #C8862B, night blue #0B1A2B, sand #E9D3A3, cinematic realism, approximately 4.5 seconds\n49. Wide slow pan across a thriving ancient Egyptian river valley in late afternoon, the river full with reed boats and sails, green fields with tiny farmers, monumental temple pylons and obelisks catching the sun, palm groves, mud-brick towns, desert cliffs in the far background, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic realism, approximately 4.5 seconds\n50. High aerial shot pushing forward over flat fields covered in fresh shallow floodwater, dozens of ancient Egyptian villagers wading knee-deep through the water with arms raised, splashes flashing in low golden sun, the water mirroring the sky, dark dikes and palm groves dividing the flooded plots, the river shining beyond, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic realism, approximately 4.5 seconds\n51. Continuous slow dolly-in from a medium shot of a temple wall completely covered in carved and painted hieroglyphs lit by flickering torchlight, pushing steadily closer until a single oval carved cartouche with a few symbols fills the entire frame, ochre red #8C2F1E and deep blue pigment in the grooves, warm amber #C8862B light and deep shadows, cinematic realism, approximately 7 seconds\n52. Static wide night shot of the river perfectly still, the Milky Way reflected in the black water, palm silhouettes on the bank, the distant dark silhouette of a pyramid against the star field, faint mist, no artificial light, palette night blue #0B1A2B with cold starlight, slow gentle fade to black at the end, cinematic realism, approximately 10 seconds\n\n## Publicação (YouTube)\n\n- **Título:** Escrito na Pedra\n- **Tags:** ancestral, sofrido nos versos, harpa arqueada\n\n**Descrição:**\n\nUma canção sobre o Egito antigo contada de baixo para cima: não pelos faraós, mas por quem vivia na margem do rio. A letra fala do que era difícil de verdade — a cheia que podia faltar ou afogar tudo, o deserto esperando ao lado, a fome dos anos ruins, a pedra que ninguém puxava — e do que fez aquela época diferente de todas as outras: aprender a medir a água, contar as estrelas até fechar um ano de trezentos e sessenta e cinco dias, curar com mel e linho, cavar canais na areia e escrever na pedra o que não podia ser esquecido.\n\nO som começa quase vazio, com vento, água e uma flauta de cana, e cresce com alaúde, harpa, tambores de moldura e sistros até virar orquestra e coro no refrão. A voz principal é grave e áspera, de quem conta a história; no refrão entra um coro masculino e uma voz feminina aguda por cima, e na ponte ela fica sozinha sobre um tambor antes da explosão final.\n\nNo clipe, um jovem escriba aprende com o pai a marcar a cheia nos degraus do nilômetro e atravessa o vale: os campos irrigados, os blocos arrastados na areia, os astrônomos no telhado do templo, a oficina de papiro, a pirâmide subindo. No fim, é a mão dele que guia a mão de uma criança para fazer a mesma marca na mesma pedra.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Epic cinematic ancient Egyptian song, 96 BPM, D minor with hijaz (phrygian dominant) melodies, opening in D major on the final chorus. Opens within the first two seconds with a deep male chant hook over wind, river water and a lone ney reed flute, then a long-neck lute ostinato and low frame drums enter. Arched harp arpeggios, darbuka, sistrum rattles and metallic shakers give ancient texture; low string drones, cinematic orchestral strings and brass swell progressively; a subtle modern sub bass underneath. Lead vocal: deep, weathered, slightly raspy male storyteller voice, almost spoken in the verses, opening into a powerful chest-voice chorus doubled by a low male choir with a high ethereal female counter-melody. Bridge strips down to the female voice alone over a single frame drum and wind, then the final chorus explodes into full orchestra, massive drums and choir. Verses hard and dusty, chorus proud and monumental; huge dynamic range, wide stereo, clean powerful vocals, organic percussion. Lyrics in pt-BR",
+    "imagem": "album cover, wide symbolic landscape: a carved stone stairway of an ancient Egyptian nilometer descending into the calm dark water of a great river at dawn, flood marks and notches carved into the steps, thin morning mist on the water, papyrus reeds at the edge; on the far bank a narrow strip of green fields between sand, and far on the horizon a pyramid still under construction with mud-brick ramps, tiny and hazy; low golden sun from the left, long shadows, warm amber light on the stone, deep blue shadows, palette deep night blue #0B1A2B, amber gold #C8862B, sand #E9D3A3, river green #2F6B5A, ochre red #8C2F1E; clean empty sky in the upper third as negative space for a title, cinematic lighting, photographic realism, fine grain, 1:1",
+    "negativo": "text, letters, typography, watermark, logo, people in foreground, faces, modern buildings, boats with engines, cartoon, oversaturated, blurry, extra pyramids in foreground",
+    "conceito": "Capa SEM pessoa nenhuma: a escada de pedra de um nilômetro descendo até a água do Nilo ao amanhecer, com marcas de cheia gravadas nos degraus — a água que sobe e a mão que contou. Ao fundo, do outro lado do rio, uma pirâmide ainda em construção com rampas de tijolo, minúscula no horizonte, e o verde estreito dos campos entre duas faixas de deserto. Céu limpo e vazio no terço superior para o título. O olhar da capa é o do rio: ninguém no quadro, só o que a época deixou gravado.",
+    "tagline": "onde o deserto queima, a gente planta",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "geral · drone travelling lento para a frente",
+      "prompt": "Wide aerial shot drifting slowly forward over a broad calm river before sunrise, low mist on the water, palm trees and reed beds in silhouette on both banks, a thin strip of dark fields and pale sand beyond, deep blue pre-dawn sky with a faint amber line on the horizon, ancient Egyptian landscape with no modern elements, palette deep night blue #0B1A2B, sand #E9D3A3, amber #C8862B, cinematic, fine film grain, approximately 7 seconds",
+      "alt": "Slow aerial glide over still dark water at dawn, mist hovering on the surface, reed silhouettes at the edges, distant flat sandy horizon with a faint amber glow, no people, no buildings, deep blue and amber palette, quiet cinematic mood, approximately 7 seconds"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail of ancient carved stone steps descending into river water, the water slowly creeping up over one step, notches and flood marks cut into the stone, first golden light touching the wet surface, tiny ripples, dark blue shadows, palette amber #C8862B and night blue #0B1A2B, photographic realism, approximately 5 seconds",
+      "alt": "Static close shot of worn stone steps meeting calm water, a thin sheet of water sliding over the lowest step, warm low light on wet stone, dark shadows, no people, no text, approximately 5 seconds"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "médio · steadicam lateral acompanhando",
+      "prompt": "Medium tracking shot moving sideways alongside a young ancient Egyptian man with a shaved head, kohl-lined eyes and a white linen kilt, walking along a muddy riverbank at sunrise carrying a woven reed basket on his shoulder, mud-brick village houses and date palms behind him, low golden sun rim-lighting his shoulders, dust in the air, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 6 seconds",
+      "alt": "Medium tracking shot moving sideways along a muddy riverbank at sunrise, a lone figure seen from behind at a distance carrying a reed basket, mud-brick houses and palm trees in warm backlight, dust in the air, no readable faces, amber and sand palette, cinematic, approximately 6 seconds"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "detalhe · estático, nível do chão",
+      "prompt": "Ground-level static close detail framed so tightly that only a bare foot and ankle are visible, the foot pressing slowly into wet black river silt, the silt oozing between the toes, next to it a patch of dry cracked pale earth, low warm sunlight raking across the texture, palette sand #E9D3A3 and dark mud, macro photographic realism, approximately 5.5 seconds",
+      "alt": "Ground-level static macro of wet black river silt meeting dry cracked pale earth, a small trickle of water seeping into the cracks, low raking amber light, textures only, no people, approximately 5.5 seconds"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "geral · pan lento da esquerda para a direita",
+      "prompt": "Slow panning wide shot across the sharp boundary where green irrigated fields end and endless pale desert sand begins, heat haze shimmering over the dunes, a single tiny worker figure far away carrying a hoe, harsh midday sun, bleached sky, palette river green #2F6B5A, sand #E9D3A3, ochre #8C2F1E, ancient Egyptian landscape, cinematic realism, approximately 6 seconds",
+      "alt": "Slow pan across the hard line between green crops and bare desert sand, heat shimmer over the dunes, blinding midday light, no people, green and sand palette, cinematic, approximately 6 seconds"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "geral · dolly lento para a frente, altura do chão",
+      "prompt": "Slow low dolly forward along the bed of a dried-up ancient irrigation canal, the mud cracked into pale plates, a small reed boat stranded and tilted in the dry bed, dead papyrus stalks bleached white, a few thin cattle far away in shimmering heat haze, harsh bleached midday sky, palette sand #E9D3A3, ochre #8C2F1E, faded river green #2F6B5A, ancient Egyptian landscape, cinematic realism, approximately 6 seconds",
+      "alt": "Slow low dolly along a dried-up canal bed of cracked pale mud, a small stranded reed boat tilted on its side, bleached dead reeds, heat shimmer on the horizon, no people, no animals, sand and ochre palette, cinematic, approximately 6 seconds"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "médio · handheld leve, por trás do ombro",
+      "prompt": "Handheld medium shot from behind the shoulder of a young Egyptian man watching an older man with a grey stubbled head crouched on carved stone steps beside the river, the older man running his fingertip along notches cut into the stone, morning light from the side, water lapping below, linen kilts, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 5 seconds",
+      "alt": "Handheld medium shot over a shoulder in silhouette looking down at carved stone steps by the river, a hand tracing notches in the stone, morning side light, water lapping below, no readable faces, approximately 5 seconds"
+     },
+     {
+      "n": 8,
+      "secao": "verso 1",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail framed so tightly that only a hand and wrist are visible, the hand holding a reed brush and painting a short red-ochre mark onto rough limestone beside older faded marks, sunlight and shadow on the stone, fine dust, palette ochre #8C2F1E and sand #E9D3A3, macro photographic realism, approximately 5.5 seconds",
+      "alt": "Static macro of a reed brush tip leaving a red-ochre stroke on rough pale limestone beside older faded strokes, raking sunlight, dust motes, no hand visible, no readable text, approximately 5.5 seconds"
+     },
+     {
+      "n": 9,
+      "secao": "pré-refrão",
+      "camera": "médio · dolly lento para dentro",
+      "prompt": "Slow dolly-in medium shot inside a granary courtyard of tall conical clay silos, workers pouring golden grain from sacks into a stone bin, a young Egyptian scribe with shaved head seated on the ground writing on a papyrus sheet on his lap, shafts of sunlight cutting through thick dust, warm amber tones #C8862B and sand #E9D3A3, cinematic realism, approximately 4.5 seconds",
+      "alt": "Slow dolly-in on tall conical clay silos in a courtyard, golden grain pouring in a stream into a stone bin, thick dust lit by shafts of sunlight, silhouetted figures blurred in the background, no readable faces, no readable writing, approximately 4.5 seconds"
+     },
+     {
+      "n": 10,
+      "secao": "pré-refrão",
+      "camera": "geral · estático, ligeiramente alto",
+      "prompt": "Static slightly elevated wide shot of two ancient Egyptian surveyors in white linen stretching a long knotted measuring rope taut across a flat field of dark wet silt after the flood, evenly spaced knots on the rope, wooden stakes driven into the mud, low morning sun raking across the wet ground and glinting on the rope, palm trees and the river far behind, palette river green #2F6B5A, sand #E9D3A3, amber #C8862B, cinematic realism, approximately 3.5 seconds",
+      "alt": "Static slightly elevated wide shot of a long knotted rope stretched taut between wooden stakes across a flat field of dark wet silt after a flood, evenly spaced knots glinting in low morning sun, palm trees and a river far behind, no people, approximately 3.5 seconds"
+     },
+     {
+      "n": 11,
+      "secao": "pré-refrão",
+      "camera": "close · estático, dos olhos para cima, perfil",
+      "prompt": "Static close-up in profile framed from the eyes upward of a young Egyptian man with a shaved head, kohl-lined eyes lifting slowly toward the blazing sun, beads of sweat on the brow, harsh backlight carving a bright rim on the skull and brow, blown-out sky behind, palette amber #C8862B and deep shadow, cinematic realism, approximately 3 seconds",
+      "alt": "Static close-up of a bare shaved head in silhouette from the eyes upward against a blazing white sun, bright rim light on the skull, sweat glinting, no facial features readable, amber and shadow palette, approximately 3 seconds"
+     },
+     {
+      "n": 12,
+      "secao": "pré-refrão",
+      "camera": "geral · dolly-out",
+      "prompt": "Wide shot pulling back to reveal a long line of ancient Egyptian villagers in linen climbing a sandy riverbank path carrying clay water jars on their heads and shoulders, low golden sun behind them rim-lighting every figure, dust glowing in the backlight, palette amber #C8862B, sand #E9D3A3, cinematic realism, approximately 3 seconds",
+      "alt": "Wide dolly-out of a line of silhouetted figures carrying clay jars up a sandy riverbank against a low golden sun, glowing dust, no readable faces, amber and sand palette, approximately 3 seconds"
+     },
+     {
+      "n": 13,
+      "secao": "refrão",
+      "camera": "geral · drone, vista de cima",
+      "prompt": "Top-down aerial shot of ancient irrigated fields divided into a geometric grid of earthen dikes and narrow canals, river water flowing into the channels and flooding the squares one by one, bright green crops against dark wet soil, sand at the edges, warm afternoon light, palette river green #2F6B5A, sand #E9D3A3, amber #C8862B, cinematic, approximately 4 seconds",
+      "alt": "Top-down aerial of a geometric grid of canals and green plots with water spreading through the channels, dark wet soil and pale sand at the edges, warm light, no people, approximately 4 seconds"
+     },
+     {
+      "n": 14,
+      "secao": "refrão",
+      "camera": "geral · estático, contraluz",
+      "prompt": "Static wide shot in strong backlight of a row of ancient Egyptian shaduf water-lifting poles along a riverbank, counterweighted wooden beams rising and dipping, clay buckets lifting water from the river and spilling it into an earthen channel, farmers in silhouette working the poles, low golden sun flaring behind, glowing spray and dust, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 3 seconds",
+      "alt": "Static wide shot in strong backlight of a row of counterweighted wooden shaduf poles along a riverbank, clay buckets lifting water and spilling it into an earthen channel, glowing spray against a low golden sun, no people, approximately 3 seconds"
+     },
+     {
+      "n": 15,
+      "secao": "refrão",
+      "camera": "médio · travelling lateral",
+      "prompt": "Side tracking medium shot of dozens of ancient Egyptian workers in linen kilts hauling a massive limestone block on a wooden sledge with thick ropes across sand, one worker ahead pouring water on the sand from a jar, bodies leaning hard into the ropes, dust and sweat, harsh sunlight, palette sand #E9D3A3, amber #C8862B, cinematic realism, approximately 3 seconds",
+      "alt": "Side tracking shot of a massive limestone block on a wooden sledge being dragged across sand by taut ropes stretching out of frame, water darkening the sand ahead of it, dust in harsh sunlight, no people visible, approximately 3 seconds"
+     },
+     {
+      "n": 16,
+      "secao": "refrão",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail framed so tightly that only a thick twisted rope and the bare shoulder it bites into are visible, the rope stretched taut and fibers fraying under strain, sweat and dust on the skin, hard sunlight and deep shadow, palette amber #C8862B and sand #E9D3A3, macro realism, approximately 3.5 seconds",
+      "alt": "Static macro of a thick twisted rope pulled taut over a rough wooden beam, fibers fraying and trembling under strain, dust drifting in hard sunlight, no people, approximately 3.5 seconds"
+     },
+     {
+      "n": 17,
+      "secao": "refrão",
+      "camera": "geral · contra-plongée, estático",
+      "prompt": "Low-angle static wide shot of a monumental stone wall under construction rising against a bright sky, a long mud-brick ramp climbing its side, tiny workers on the ramp and on wooden scaffolds, blocks being levered into place, dust catching the sun, palette sand #E9D3A3, amber #C8862B, night blue #0B1A2B shadows, cinematic realism, approximately 3 seconds",
+      "alt": "Low-angle static wide shot of a monumental stone wall under construction with a mud-brick ramp and wooden scaffolding, dust in the sun, empty of people, sand and amber palette, approximately 3 seconds"
+     },
+     {
+      "n": 18,
+      "secao": "refrão",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail framed so tightly that only a hand, a copper chisel and a wooden mallet are visible, the chisel cutting a crisp hieroglyphic bird symbol into pale limestone, stone chips flying with each strike, fine dust, warm side light, palette sand #E9D3A3 and amber #C8862B, macro realism, approximately 3.5 seconds",
+      "alt": "Static macro of a copper chisel tip biting into pale limestone, stone chips flying, a shallow carved groove forming, fine dust in warm side light, no hands visible, no readable text, approximately 3.5 seconds"
+     },
+     {
+      "n": 19,
+      "secao": "refrão",
+      "camera": "médio · steadicam lateral, contraluz",
+      "prompt": "Side steadicam medium shot in backlight of an ancient Egyptian farmer in a linen kilt walking across dark wet river silt and casting handfuls of seed in a wide arc, the grains glittering as they catch the low golden sun, bare feet sinking in the mud, palm trees and a thin line of desert behind, palette amber #C8862B, dark mud, sand #E9D3A3, cinematic realism, approximately 3 seconds",
+      "alt": "Side steadicam shot in backlight of handfuls of seed arcing through the air and glittering in low golden sun over dark wet river silt, bare footprints in the mud, palm trees behind, no readable faces, approximately 3 seconds"
+     },
+     {
+      "n": 20,
+      "secao": "refrão",
+      "camera": "médio · estático, contraluz",
+      "prompt": "Static medium shot of a young Egyptian man with a shaved head standing at the top of carved stone steps above the river, one fist pressed against his chest, chin lifted high, shoulders rising as his chest expands, head tilted slightly back with eyes shut tight, strong backlight from the low sun turning him into a glowing rim-lit figure, wind moving his linen kilt, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 3 seconds",
+      "alt": "Static medium shot of a lone figure in full silhouette standing at the top of stone steps above a river against a blazing low sun, fist against the chest, chin lifted, wind in the linen, no facial features readable, amber and blue palette, approximately 3 seconds"
+     },
+     {
+      "n": 21,
+      "secao": "refrão",
+      "camera": "geral · pan lento",
+      "prompt": "Slow panning wide shot of the river valley at golden hour, reed boats with square linen sails gliding on the water, a ribbon of green fields on each bank framed by pale desert cliffs, long shadows, warm haze, ancient Egyptian landscape with no modern elements, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic, approximately 4 seconds",
+      "alt": "Slow pan across a wide river at golden hour with a few small sailboats far away, green fields and pale desert cliffs on both banks, warm haze, no people readable, approximately 4 seconds"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "geral · estático, noite",
+      "prompt": "Static wide night shot of two ancient Egyptian priests in white linen on a flat temple rooftop, one holding a wooden sighting instrument with a hanging plumb line toward the sky, the Milky Way blazing overhead, stone columns in silhouette, a single oil lamp glow at their feet, palette night blue #0B1A2B with warm amber #C8862B lamp light, cinematic realism, approximately 5.5 seconds",
+      "alt": "Static wide night shot of a flat stone temple rooftop with columns in silhouette under the blazing Milky Way, a wooden sighting instrument with a hanging plumb line standing alone, a small oil lamp glowing, no people, approximately 5.5 seconds"
+     },
+     {
+      "n": 23,
+      "secao": "verso 2",
+      "camera": "detalhe · travelling lento sobre a superfície",
+      "prompt": "Slow tracking close-up sliding across a stone slab carved with a dense grid of small marks and star symbols, a fingertip moving from cell to cell, flickering oil-lamp light throwing moving shadows into the carved lines, warm amber #C8862B on pale stone with deep shadows, macro realism, approximately 5 seconds",
+      "alt": "Slow tracking close-up sliding across a stone slab carved with a grid of small notches and star shapes, flickering oil-lamp light moving through the grooves, no hand, no readable text, amber and shadow palette, approximately 5 seconds"
+     },
+     {
+      "n": 24,
+      "secao": "verso 2",
+      "camera": "médio · handheld, interior",
+      "prompt": "Handheld medium shot inside a dim mud-brick room, an ancient Egyptian woman healer with braided hair spreading golden honey from a small clay pot onto a cut on a worker's forearm, then wrapping it with a strip of white linen, a shaft of daylight from a high window, dust, clay jars and dried herbs on a shelf, palette amber #C8862B, sand #E9D3A3, deep shadow, cinematic realism, approximately 6 seconds",
+      "alt": "Handheld medium shot inside a dim mud-brick room, hands out of frame, a small clay pot of golden honey and a folded strip of white linen on a wooden table in a shaft of daylight, dried herbs and clay jars on a shelf, dust in the light, no people, approximately 6 seconds"
+     },
+     {
+      "n": 25,
+      "secao": "verso 2",
+      "camera": "geral · dolly lateral",
+      "prompt": "Lateral dolly wide shot of ancient Egyptian workers with wooden hoes digging a narrow canal through pale sand, one worker breaking the last earthen barrier, river water rushing through into the fresh channel and darkening the sand ahead, splashes catching the sun, palette sand #E9D3A3, river green #2F6B5A, amber #C8862B, cinematic realism, approximately 5.5 seconds",
+      "alt": "Lateral dolly wide shot of a freshly dug narrow channel in pale sand, water breaking through an earthen barrier and rushing along the channel, splashes catching the sun, wooden hoes left on the bank, no people, approximately 5.5 seconds"
+     },
+     {
+      "n": 26,
+      "secao": "verso 2",
+      "camera": "médio · contra-plongée, estático",
+      "prompt": "Low-angle static medium shot of a row of ancient Egyptian workers leaning at the same steep angle into thick ropes, hauling a limestone block up a mud-brick ramp, muscles taut, feet digging into the sand, dust clouds glowing in backlight, an overseer's raised arm at the edge of frame, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 6 seconds",
+      "alt": "Low-angle static shot of several thick ropes stretched at a steep angle up a mud-brick ramp toward a limestone block, the ropes trembling under tension, dust clouds glowing in backlight, no people, approximately 6 seconds"
+     },
+     {
+      "n": 27,
+      "secao": "pré-refrão",
+      "camera": "médio · dolly lento para dentro",
+      "prompt": "Slow dolly-in medium shot of a young ancient Egyptian scribe with a shaved head standing beside a long row of bulging grain sacks at a riverside dock, cutting small tally notches into a wooden counting stick with a flint blade as porters walk past behind him carrying more sacks from a reed boat, late golden light, dust, palette amber #C8862B, sand #E9D3A3, river green #2F6B5A, cinematic realism, approximately 4.5 seconds",
+      "alt": "Slow dolly-in on a long row of bulging grain sacks on a riverside dock beside a moored reed boat, a wooden tally stick with rows of notches resting on top of a sack, late golden light and dust, no people, no readable text, approximately 4.5 seconds"
+     },
+     {
+      "n": 28,
+      "secao": "pré-refrão",
+      "camera": "médio · estático, contraluz",
+      "prompt": "Static medium shot in strong backlight of an overseer standing on a stone block with one arm raised high and frozen, below him rows of ancient Egyptian workers gripping thick ropes and leaning forward motionless, waiting for the signal, dust hanging still in the golden air, tension in every body, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 4 seconds",
+      "alt": "Static medium shot in strong backlight of a single raised arm in silhouette above a field of taut ropes stretching toward a limestone block, dust hanging still in golden air, no readable faces, approximately 4 seconds"
+     },
+     {
+      "n": 29,
+      "secao": "pré-refrão",
+      "camera": "detalhe · estático, nível do chão",
+      "prompt": "Ground-level static close detail of several pairs of bare feet driving hard into pale sand as ropes above them snap suddenly taut, calf tendons straining, sand and dust bursting up in a low cloud lit by hard sunlight, palette sand #E9D3A3 and amber #C8862B, macro realism, approximately 3.5 seconds",
+      "alt": "Ground-level static macro of thick ropes lying on pale sand snapping suddenly taut and lifting off the ground, sand and dust bursting up in hard sunlight, no people, approximately 3.5 seconds"
+     },
+     {
+      "n": 30,
+      "secao": "refrão",
+      "camera": "close · estático, perfil, contraluz",
+      "prompt": "Static tight close-up in profile of a young Egyptian man with a shaved head and kohl-lined eyes against the blazing sun, jaw clenched, eyes squeezed shut, tendons and a vein standing out on the neck, head tilted back, sweat glinting on the rim-lit skin, blown-out sky, palette amber #C8862B and deep shadow, cinematic realism, approximately 3 seconds",
+      "alt": "Static profile silhouette of a shaved head and neck against a blazing sun, head tilted back, tendons visible only as a rim-lit edge, sweat glinting, no facial features readable, amber and shadow palette, approximately 3 seconds"
+     },
+     {
+      "n": 31,
+      "secao": "refrão",
+      "camera": "geral · drone orbitando, contra-plongée",
+      "prompt": "Orbiting aerial shot rising in a low arc around a young ancient Egyptian man with a shaved head standing alone on a freshly set limestone block at the very top of a half-built pyramid, one fist thrust high toward the sky, head thrown back, eyes closed, chest lifted, linen kilt whipping in the wind, far below him hundreds of tiny workers on long mud-brick ramps and the whole desert construction site, the sun flaring directly behind him and throwing a long shadow down the stone courses, dust glowing in the backlight, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B shadows, epic cinematic realism, approximately 3 seconds",
+      "alt": "Orbiting aerial shot rising around a lone figure in full silhouette standing on the top block of a half-built pyramid with one fist raised to the sky, the sun flaring directly behind, long mud-brick ramps and the desert far below, dust glowing in backlight, no facial features readable, approximately 3 seconds"
+     },
+     {
+      "n": 32,
+      "secao": "refrão",
+      "camera": "geral · contra-plongée, handheld",
+      "prompt": "Low-angle handheld wide shot of hundreds of ancient Egyptian workers on a stone ramp raising their arms and tools to the sky as a massive block settles into place above them, dust clouds glowing in strong backlight, ropes going slack, palette amber #C8862B and sand #E9D3A3, cinematic realism, approximately 3 seconds",
+      "alt": "Low-angle handheld wide shot of a massive limestone block settling into place on a high stone course, ropes going slack, dust clouds glowing in strong backlight, tools raised in silhouette at the bottom edge of frame, no readable faces, approximately 3 seconds"
+     },
+     {
+      "n": 33,
+      "secao": "refrão",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail of river water pouring from the lip of a clay jar into a small earthen irrigation furrow, the stream lit from behind by low sun so the water glows amber, droplets sparkling, dark wet soil and green seedlings at the edges, palette amber #C8862B, river green #2F6B5A, macro realism, approximately 3 seconds",
+      "alt": "Static macro of water pouring from a clay jar into a small earthen furrow, the backlit stream glowing amber, droplets sparkling, green seedlings at the edge, no people, approximately 3 seconds"
+     },
+     {
+      "n": 34,
+      "secao": "refrão",
+      "camera": "geral · drone alto, avançando",
+      "prompt": "High aerial shot pushing forward over a vast ancient construction site, a pyramid half-built with stepped stone courses and long mud-brick ramps spiraling up its sides, thousands of tiny workers and sledges moving along the ramps, the river valley green far behind, harsh sunlight, palette sand #E9D3A3, amber #C8862B, river green #2F6B5A, cinematic realism, approximately 3.5 seconds",
+      "alt": "High aerial shot pushing forward over a half-built pyramid with stepped stone courses and long mud-brick ramps in the desert, the green river valley far behind, harsh sunlight, no people readable, approximately 3.5 seconds"
+     },
+     {
+      "n": 35,
+      "secao": "refrão",
+      "camera": "médio · steadicam avançando",
+      "prompt": "Steadicam medium shot moving forward through a papyrus workshop, ancient Egyptian women in linen laying thin pale papyrus strips in crossed layers on a flat stone and pressing them with a smooth wooden tool, sunlight filtering in bright stripes through reed walls, water basins and bundles of green papyrus stalks, palette sand #E9D3A3, amber #C8862B, river green #2F6B5A, cinematic realism, approximately 3.5 seconds",
+      "alt": "Steadicam medium shot moving forward through a workshop of reed walls with sunlight in bright stripes, thin pale papyrus strips laid in crossed layers on a flat stone, bundles of green stalks and water basins, no people, approximately 3.5 seconds"
+     },
+     {
+      "n": 36,
+      "secao": "refrão",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail of freshly carved hieroglyphs in pale limestone being filled with color, a fine reed brush laying vivid ochre red #8C2F1E and deep blue pigment into the carved shapes of a bird and a wave, small clay pigment pots beside, warm side light, macro realism, approximately 3 seconds",
+      "alt": "Static macro of small clay pots of ochre red and deep blue pigment beside a pale carved limestone surface, a brush tip resting in the red pigment, warm side light, no hands, no readable text, approximately 3 seconds"
+     },
+     {
+      "n": 37,
+      "secao": "refrão",
+      "camera": "geral · estático, crepúsculo",
+      "prompt": "Static wide shot at dusk of floodwater spreading slowly across flat fields, the water reflecting an orange and violet sky, a line of ancient Egyptian villagers standing motionless on a narrow earthen dike watching, palm trees in silhouette, palette night blue #0B1A2B, amber #C8862B, cinematic realism, approximately 4 seconds",
+      "alt": "Static wide shot at dusk of floodwater spreading across flat fields and reflecting an orange and violet sky, a narrow earthen dike and palm trees in silhouette, no people, approximately 4 seconds"
+     },
+     {
+      "n": 38,
+      "secao": "refrão",
+      "camera": "médio · dolly lento para dentro, de costas",
+      "prompt": "Slow dolly-in medium shot from behind of a young Egyptian man with a shaved head kneeling before a stone wall densely carved with hieroglyphs, pressing his open palm flat against the carvings, flickering torchlight from the side throwing his shadow across the wall, palette amber #C8862B and night blue #0B1A2B, cinematic realism, approximately 4 seconds",
+      "alt": "Slow dolly-in on a stone wall densely carved with symbols lit by flickering torchlight, a kneeling figure seen only as a dark shadow cast across the wall, amber and deep blue palette, no readable faces, no readable text, approximately 4 seconds"
+     },
+     {
+      "n": 39,
+      "secao": "ponte",
+      "camera": "geral · estático, amanhecer",
+      "prompt": "Static wide shot at dawn of a small ancient Egyptian wooden funeral barque with a curved prow crossing a wide misty river toward the western bank, a few standing figures in white linen on board, pale sun barely through the mist, the river almost still, muted palette night blue #0B1A2B, sand #E9D3A3, faint amber #C8862B, solemn cinematic realism, approximately 7 seconds",
+      "alt": "Static wide shot at dawn of a small wooden boat with a curved prow drifting across a wide misty river toward a pale far bank, no people, pale sun through mist, muted blue and sand palette, solemn mood, approximately 7 seconds"
+     },
+     {
+      "n": 40,
+      "secao": "ponte",
+      "camera": "médio · dolly lento para dentro, contraluz de névoa",
+      "prompt": "Slow dolly-in medium shot of an ancient Egyptian woman in a plain white linen dress standing alone at the misty edge of a wide river at dawn, one open hand pressed flat against her chest, head tilted slightly back, eyes closed, wind pulling at her long braided hair and the hem of her dress, pale sun diffused through the mist behind her, water lapping at her bare feet, muted palette night blue #0B1A2B, sand #E9D3A3, faint amber #C8862B, solemn cinematic realism, approximately 6 seconds",
+      "alt": "Slow dolly-in on a lone female figure in full silhouette standing at the misty edge of a river at dawn, hand against the chest, head tilted back, wind in long braided hair and linen, pale diffused sun behind, no facial features readable, muted blue and sand palette, approximately 6 seconds"
+     },
+     {
+      "n": 41,
+      "secao": "ponte",
+      "camera": "close · estático, perfil, uma lamparina",
+      "prompt": "Static close-up in profile of an elderly Egyptian man with a deeply lined face, grey stubble on his shaved head, eyes closed in stillness, lit by a single oil lamp from below and in front, the rest of the frame in darkness, warm amber #C8862B skin against black, cinematic realism, approximately 6 seconds",
+      "alt": "Static close-up of a single clay oil lamp flame burning in darkness, the soft amber glow falling on a rough mud-brick wall beside it, the flame swaying slowly, no people, approximately 6 seconds"
+     },
+     {
+      "n": 42,
+      "secao": "ponte",
+      "camera": "detalhe · travelling baixo, depois tilt para cima",
+      "prompt": "Low tracking shot skimming over sand where a trail of footprints is being erased by wind-blown grains streaming across them, then the camera tilts up to reveal a standing carved stone stela with hieroglyphs, unmoved, the sand hissing past its base, warm low light, palette sand #E9D3A3, amber #C8862B, cinematic realism, approximately 7 seconds",
+      "alt": "Low tracking shot over sand with wind-blown grains streaming across faint marks and erasing them, then tilting up to a standing carved stone slab, unmoved, sand hissing past its base, no readable text, warm low light, approximately 7 seconds"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "geral · drone, orbitando",
+      "prompt": "Orbiting aerial shot of a completed ancient pyramid with smooth polished white limestone casing, the rising sun striking one face and turning it blazing gold, long shadow across the desert, the green river valley in the distance, clear sky, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B, cinematic realism, approximately 3.5 seconds",
+      "alt": "Orbiting aerial shot of a smooth white-cased pyramid catching the rising sun on one face, long shadow over the desert, green valley far away, no people, approximately 3.5 seconds"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "médio · travelling lateral",
+      "prompt": "Side tracking medium shot along a long pale limestone wall where a row of ancient Egyptian stone masons in linen kilts strike copper chisels with wooden mallets in unison, stone chips bursting from each blow, half-finished hieroglyph columns emerging along the wall, dust glowing in strong side sunlight, palette sand #E9D3A3, amber #C8862B, ochre #8C2F1E, cinematic realism, approximately 3.5 seconds",
+      "alt": "Side tracking shot along a long pale limestone wall with rows of half-finished carved symbols, several copper chisels and wooden mallets striking the stone at once, chips bursting out, dust in strong side sunlight, no people visible, no readable text, approximately 3.5 seconds"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "detalhe · estático",
+      "prompt": "Static close detail framed so tightly that only two hands are visible, a weathered older hand gently guiding a small young hand holding a reed brush, together painting a red-ochre flood mark onto rough limestone beside many older marks, morning light, palette ochre #8C2F1E, sand #E9D3A3, amber #C8862B, macro realism, approximately 4 seconds",
+      "alt": "Static macro of a reed brush laying a fresh red-ochre stroke onto rough limestone beside a long column of older faded strokes, morning light, no hands, no readable text, approximately 4 seconds"
+     },
+     {
+      "n": 46,
+      "secao": "refrão final",
+      "camera": "geral · contra-plongée, estático, contraluz",
+      "prompt": "Low-angle static wide shot of a line of ancient Egyptian villagers standing on a narrow earthen dike lifting clay water jars high toward the rising sun, floodwater mirroring the sky and the figures at their feet, rim light on every jar and arm, dust and mist glowing, palette amber #C8862B, sand #E9D3A3, night blue #0B1A2B, cinematic realism, approximately 3.5 seconds",
+      "alt": "Low-angle static wide shot of clay jars raised in silhouette along a narrow earthen dike against a rising sun, floodwater mirroring the sky below, glowing mist, no readable faces, approximately 3.5 seconds"
+     },
+     {
+      "n": 47,
+      "secao": "refrão final",
+      "camera": "close · estático, dos olhos para cima, contraluz",
+      "prompt": "Static close-up framed from the eyes upward of a young Egyptian man with a shaved head, chin raised high, a single tear running through the kohl at the corner of one eye, strong backlight from the sun creating a golden rim along the brow and skull, sky blown out, palette amber #C8862B and deep shadow, cinematic realism, approximately 4 seconds",
+      "alt": "Static close-up of a shaved head in silhouette from the eyes upward, chin raised toward a blazing sun, a single glint of moisture catching the rim light, no facial features readable, amber and shadow palette, approximately 4 seconds"
+     },
+     {
+      "n": 48,
+      "secao": "refrão final",
+      "camera": "geral · estático, contraluz, amanhecer",
+      "prompt": "Static wide shot in backlight at sunrise of a middle-aged Egyptian man with grey stubble on his shaved head and a small child in a linen tunic standing side by side on the carved stone steps of a nilometer, river water lapping at their feet, the child pointing at a column of flood marks cut into the stone, the low sun flaring behind them over the river and turning both into glowing rim-lit figures, mist on the water, palette amber #C8862B, night blue #0B1A2B, sand #E9D3A3, cinematic realism, approximately 4.5 seconds",
+      "alt": "Static wide shot at sunrise of a tall figure and a small child in full silhouette standing on carved stone steps above a river, the child's arm raised toward marks on the stone, sun flaring behind them, mist on the water, no facial features readable, approximately 4.5 seconds"
+     },
+     {
+      "n": 49,
+      "secao": "refrão final",
+      "camera": "geral · pan amplo",
+      "prompt": "Wide slow pan across a thriving ancient Egyptian river valley in late afternoon, the river full with reed boats and sails, green fields with tiny farmers, monumental temple pylons and obelisks catching the sun, palm groves, mud-brick towns, desert cliffs in the far background, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic realism, approximately 4.5 seconds",
+      "alt": "Wide slow pan across a river valley in late afternoon, full river with small sailboats, green fields, temple pylons and obelisks catching the sun, palm groves, desert cliffs behind, no people readable, approximately 4.5 seconds"
+     },
+     {
+      "n": 50,
+      "secao": "refrão final",
+      "camera": "geral · drone, vista alta, avançando",
+      "prompt": "High aerial shot pushing forward over flat fields covered in fresh shallow floodwater, dozens of ancient Egyptian villagers wading knee-deep through the water with arms raised, splashes flashing in low golden sun, the water mirroring the sky, dark dikes and palm groves dividing the flooded plots, the river shining beyond, palette amber #C8862B, river green #2F6B5A, sand #E9D3A3, cinematic realism, approximately 4.5 seconds",
+      "alt": "High aerial shot pushing forward over flat fields covered in fresh shallow floodwater mirroring a golden sky, dark dikes and palm groves dividing the plots, ripples spreading across the water, the river shining beyond, no people readable, approximately 4.5 seconds"
+     },
+     {
+      "n": 51,
+      "secao": "refrão final",
+      "camera": "médio → detalhe · dolly-in contínuo",
+      "prompt": "Continuous slow dolly-in from a medium shot of a temple wall completely covered in carved and painted hieroglyphs lit by flickering torchlight, pushing steadily closer until a single oval carved cartouche with a few symbols fills the entire frame, ochre red #8C2F1E and deep blue pigment in the grooves, warm amber #C8862B light and deep shadows, cinematic realism, approximately 7 seconds",
+      "alt": "Continuous slow dolly-in on a stone wall covered in carved abstract symbols lit by flickering torchlight, pushing closer until a single oval carved shape fills the frame, ochre and blue pigment in the grooves, no readable text, no people, approximately 7 seconds"
+     },
+     {
+      "n": 52,
+      "secao": "outro",
+      "camera": "geral · estático, noite, fade out",
+      "prompt": "Static wide night shot of the river perfectly still, the Milky Way reflected in the black water, palm silhouettes on the bank, the distant dark silhouette of a pyramid against the star field, faint mist, no artificial light, palette night blue #0B1A2B with cold starlight, slow gentle fade to black at the end, cinematic realism, approximately 10 seconds",
+      "alt": "Static wide night shot of a perfectly still river reflecting the Milky Way, reed and palm silhouettes on the bank, a faint distant triangular silhouette on the horizon, soft mist, slow fade to black at the end, no people, approximately 10 seconds"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "linda-jovem-25-anos-cabelo-curto-alta-ma",
    "mvd": "MVD#149",
    "titulo": "One More Song",
@@ -2195,7 +2637,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
