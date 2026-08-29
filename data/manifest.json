@@ -4,6 +4,484 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "linda-jovem-25-anos-cabelo-curto-alta-ma",
+   "mvd": "MVD#149",
+   "titulo": "One More Song",
+   "quando": "2026-08-28T12:09:38-03:00",
+   "solicitacao": "linda jovem 25 anos cabelo curto alta magra, discreta, sorriso largo, elegante, sensual. cuidada. homem 4o anos mesma linha ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums`",
+   "genero": "soft rock / balada folk-rock orquestral ao vivo",
+   "bpm": 72,
+   "tom": "Si maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "emotivo",
+    "melancólico",
+    "intimista",
+    "romântico",
+    "que cresce para o salão inteiro"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/clipe-1.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/linda-jovem-25-anos-cabelo-curto-alta-ma/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 445868584,
+   "doc": "# One More Song\n\n**slug:** `linda-jovem-25-anos-cabelo-curto-alta-ma`  ·  **solicitação:** linda jovem 25 anos cabelo curto alta magra, discreta, sorriso largo, elegante, sensual. cuidada. homem 4o anos mesma linha ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums`\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/linda-jovem-25-anos-cabelo-curto-alta-ma`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# One More Song\n\n\n\n**slug:** `linda-jovem-25-anos-cabelo-curto-alta-ma`  ·  **criado:** 2026-08-28T12:09:38-03:00\n\n**solicitação:** linda jovem 25 anos cabelo curto alta magra, discreta, sorriso largo, elegante, sensual. cuidada. homem 4o anos mesma linha ## Trilha e som - Musica: True · soft rock/balada folk-rock orquestral · ~72 bpm · B maior (aproximado) - Instrumentacao: voz principal masculina, voz feminina convidada, violao, piano, cordas (orquestra), bateria com vassouras, baixo, sax alto, backing vocals - Mood/energia: emotivo, melancolico, intimista, romântico · baixa - SFX: aplausos, vivas da plateia, ambiencia de salao - Estrutura: intro instrumental 00:00-00:10, verso 1 (voz masculina) 00:10-00:44, verso 2 (voz feminina) 00:44-01:20, refrao em dueto 01:20-02:00, verso 3 02:00-02:40, refrao 02:40-03:04, solo de sax 03:04-03:14, refrao final 03:14-04:05, desfecho e aplausos 04:05-04:29 - Mixagem: voz principal a frente com reverb de salao; banda e orquestra de apoio; plateia sutil no fundo e em destaque nos aplausos finais · sincronia: cortes e dissolves seguem frases musicais mais que beats; telao espelha os closes; picos de luz no refrao **Prompt de musica (Suno/Udio):** ``` Emotional soft rock ballad, 72 bpm, B major. Raspy male lead voice answered by an airy female duet partner. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft bass, and a tender alto saxophone solo. Intimate and heartfelt, building slowly to a soaring final chorus with audience warmth. Ideal for an emotional live-performance reel. ``` Negativo: `no EDM, no autotune, no rap, no heavy distortion, no aggressive drums`\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** soft rock / balada folk-rock orquestral ao vivo  ·  **BPM:** 72  ·  **Tom:** Si maior\n- **Mood:** emotivo, melancólico, intimista, romântico, que cresce para o salão inteiro\n- **Instrumentação:** voz principal masculina, voz feminina convidada, violão dedilhado, piano de cauda, cordas orquestrais, bateria com vassouras, baixo suave, sax alto (solo), backing vocals, ambiência de salão e aplausos\n- **Voz:** \"dueto — voz masculina principal quente e levemente rouca; voz feminina convidada aérea e límpida; vozes se encontram nos refrões com backing vocals suaves\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional soft rock ballad, 72 bpm, B major. Warm slightly raspy male lead vocal answered by an airy limpid female duet partner, both voices blending in the choruses. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft round bass, tender alto saxophone solo, soft backing vocals. Intimate live-ballroom atmosphere with subtle audience presence and warm applause swelling at the very end. Builds slowly from a quiet instrumental intro to a soaring final duet chorus. Vocal-forward mix with elegant hall reverb. Lyrics in en-US\n\n**Estrutura:** intro (8s) · verso_1 (28s) · verso_2 (28s) · refrao_dueto (28s) · verso_3 (26s) · refrao_2 (22s) · solo_sax (10s) · refrao_final (22s) · desfecho (8s)\n\n**Letra** (origem: `gerada`, en-US):\n\n```\n[Intro — instrumental]\n\n[Verse 1 — male]\nI've played a thousand rooms like this\nSame tired lights, same opening chord\nBut when you smiled from the second row\nI lost the lines I've sung a hundred times before\n\n[Verse 2 — female]\nI only came to hear the band\nI wasn't looking for a hand to hold\nBut something in that broken verse\nFelt like a coat against the cold\n\n[Chorus — duet]\nSo give me one more song before we say goodnight\nOne more slow one underneath this light\nLet the band pack up the stars\nWe'll keep the one that's ours\nGive me one more song before we say goodnight\n\n[Verse 3 — traded]\n(He) They're stacking chairs behind us now\n(She) The candles giving up their flame\n(Both) But no one's told the music yet\nThat we were never meant to end this way\n\n[Chorus — duet]\nSo give me one more song before we say goodnight\nOne more slow one underneath this light\nLet the band pack up the stars\nWe'll keep the one that's ours\nGive me one more song before we say goodnight\n\n[Alto sax solo]\n\n[Final chorus — duet, full orchestra]\nGive me one more song before we say goodnight\nOne more slow one, hold me in this light\nWhen the hall goes dark and still\nSay you'll remember — say you will\nGive me one more song before we say goodnight\n\n[Outro]\nGoodnight... but not just yet\n(warm applause)\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #FFC46B, #E8B98A, #2B4FD8, #1A120E, #F2EAD9\n- **Params:** `{}`\n\n**Conceito:** Retrato do dueto sob a luz do salão. Escolha de olhar: ELA olha direto na lente, sorriso largo e elegante — a música é um convite, e a capa convida; ELE, meio passo atrás, de perfil, olhando para ela. Âmbar quente na pele contra fundo azul profundo do salão — o mesmo warm-vs-cool medido nas referências de concerto. Título entra na base, fora dos rostos.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of an elegant duet: a tall slender woman in her mid-twenties with a short chic haircut, champagne evening dress, wide warm confident smile, looking directly into the lens; a distinguished man in his early forties in a tailored midnight-blue suit standing half a step behind her in profile, gaze turned toward her; warm amber stage key light on skin against a deep blue hazy ballroom background with soft chandelier bokeh, shallow depth of field, palette of amber gold and deep blue, clean space for bold title at the bottom, cinematic concert photography, 1:1\n\n**Negativo:** text, letters, typography, watermark, logo, extra limbs, deformed hands, oversaturated colors, plastic skin\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** ≈13,8 cortes/min (57 planos em 248 s), ancorado no broadcast de concerto medido a 12,3 cortes/min. Transições só as medidas nesse ref: dissolve/crossfade predominante nos versos, corte direto nos refrões, fade-in inicial e fade final; sem slowmo/speedramp. Cortes e dissolves seguem FRASES musicais, não beats. Duração desigual de propósito: intro segura (8 s), versos respiram (4–6,5 s), refrões picam (3–4,5 s), desfecho alonga de novo. O NÚCLEO medido da faixa (59–71 s) cai exatamente na entrada do refrão em dueto: quatro planos de 3 s — fusão dos spots → dois-shot do casal (o melhor plano do clipe) → mãos quase se tocando → perfil dela contra o spot. É esse trecho que vira Short.\n- **Params:** `{}`\n- **Shots:** 57  ·  **Duração total:** 248.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 8.0s | estatico | Fade-in do preto: palco do salão, feixe âmbar, banda em silhueta, escadaria LED azul, plateia em silhueta. |\n| 2 | intro | 4.0s | estatico | Detalhe do lustre de cristal aceso contra o teto escuro, névoa passando devagar. |\n| 3 | verso_1 | 6.0s | travelling | Câmera de balcão avança sobre o salão em direção ao palco, colunas douradas emoldurando. |\n| 4 | verso_1 | 5.0s | dolly-in | Médio do homem no pé de microfone vintage, olhos fechados, mão no peito, luz âmbar. |\n| 5 | verso_1 | 4.5s | estatico | Detalhe do dedilhado no violão, só mão e cordas no quadro. |\n| 6 | verso_1 | 4.5s | estatico | A mulher espera na coxia, meia sombra, rim light azul, sorriso contido. |\n| 7 | verso_1 | 4.0s | estatico | Close do homem de perfil, dos olhos pra cima, microfone desfocado à frente, olhos fechados. |\n| 8 | verso_2 | 6.0s | dolly-in | Ela entra da sombra para o spot quente no centro do palco, vestido brilhando. |\n| 9 | verso_2 | 5.0s | estatico | Close dela dos olhos pra cima, olhos fechados com intensidade, microfone desfocado na borda. |\n| 10 | verso_2 | 4.5s | estatico | Detalhe do piano: teclas e martelos, só dedos e teclas no quadro. |\n| 11 | verso_2 | 4.0s | estatico | Médio do homem ouvindo, sorriso admirado, arcos das cordas se movendo atrás. |\n| 12 | verso_2 | 3.5s | estatico | Geral: dois spots separados, ele à esquerda, ela à direita, orquestra entre eles — apertando o ritmo rumo ao refrão. |\n| 13 | refrao_dueto | 3.0s | travelling | NÚCLEO 59–71s começa aqui. Os dois caminham um em direção ao outro, os spots se fundem num só. |\n| 14 | refrao_dueto | 3.0s | handheld | O MELHOR PLANO DO CLIPE (cai no coração do núcleo): dois-shot médio lado a lado no mesmo spot, sorriso largo dela, mão dele perto da dela no pedestal. |\n| 15 | refrao_dueto | 3.0s | estatico | Detalhe: duas mãos quase se tocando no pedestal do microfone. |\n| 16 | refrao_dueto | 3.0s | estatico | Fecho do núcleo: close dela de perfil contra o spot, olhos cerrados, pescoço tensionado de emoção. |\n| 17 | refrao_dueto | 4.5s | estatico | Plateia em silhueta balançando, brilho quente vindo do palco. |\n| 18 | refrao_dueto | 3.5s | pan | Detalhe da orquestra: arcos subindo e descendo em uníssono. |\n| 19 | refrao_dueto | 3.0s | estatico | Ele com a cabeça inclinada para trás, olhos fechados, garganta tensionada, mão firme no pedestal. |\n| 20 | refrao_dueto | 3.0s | estatico | Pico de luz do refrão: contra-plongée dos feixes âmbar e azul estourando mais fortes sobre o palco. |\n| 21 | refrao_dueto | 4.0s | zoom-out | Zoom-out lento do casal para o palco inteiro, luz florescendo no tempo forte. |\n| 22 | verso_3 | 6.5s | handheld | Íntimo: os dois frente a frente na meia-luz, testas quase se tocando, olhos fechados. |\n| 23 | verso_3 | 5.5s | estatico | Detalhe: vassoura de arame desenhando círculos na caixa da bateria. |\n| 24 | verso_3 | 5.0s | estatico | Close do homem de perfil dos olhos pra cima, olhos marejados, luz quente na têmpora. |\n| 25 | verso_3 | 5.0s | estatico | Close dela olhando para ele fora de quadro, sorriso suave, lágrima pegando a luz. |\n| 26 | verso_3 | 5.5s | estatico | As mãos dos dois finalmente se entrelaçam no pedestal do microfone. |\n| 27 | verso_3 | 4.5s | pan | Pan alto pelo teto do salão: lustres, feixes azuis, palco como ilha de luz. |\n| 28 | refrao_2 | 4.0s | dolly-in | Dolly-in pelo corredor central em direção ao palco, plateia em silhueta dos dois lados. |\n| 29 | refrao_2 | 4.0s | estatico | Contra-plongée: ela com braço estendido à plateia, ele com punho no peito, luz intensificada. |\n| 30 | refrao_2 | 3.5s | estatico | Detalhe do baixo: dedos nas cordas grossas, só dedos e cordas no quadro. |\n| 31 | refrao_2 | 3.5s | estatico | Na plateia: mãos dadas de um casal no braço da poltrona, só as mãos no quadro. |\n| 32 | refrao_2 | 3.5s | estatico | Close dela dos olhos pra cima encarando a luz, flare estourando na lente. |\n| 33 | refrao_2 | 3.5s | estatico | Backing vocals em silhueta balançando suavemente nos seus microfones, meia-luz azul. |\n| 34 | refrao_2 | 5.0s | estatico | Geral no pico do refrão: toda a luz acesa, feixes em leque, plateia se levantando. |\n| 35 | solo_sax | 6.5s | dolly-in | Sax alto entra no spot âmbar, latão brilhando, músico em meia silhueta. |\n| 36 | solo_sax | 5.5s | estatico | Detalhe: chaves do sax se movendo sob os dedos, reflexos no latão. |\n| 37 | refrao_final | 3.5s | estatico | Geral: banda e orquestra em luz dourada, casal ao centro, plateia de pé. |\n| 38 | refrao_final | 3.0s | handheld | Ela abre o sorriso largo virada para ele, cabelo curto balançando, luz inundando. |\n| 39 | refrao_final | 3.0s | estatico | Detalhe: duas mãos entrelaçadas erguidas contra as luzes, só as mãos no quadro. |\n| 40 | refrao_final | 3.5s | travelling | Travelling em arco lento circundando o casal no centro do palco, feixes girando atrás. |\n| 41 | refrao_final | 3.5s | estatico | Médio: os dois lado a lado de frente pra plateia, braço dela nas costas dele, poeira brilhando. |\n| 42 | refrao_final | 3.5s | estatico | Detalhe do piano em cascata subindo as teclas, luz dourada estourando no verniz. |\n| 43 | refrao_final | 3.0s | estatico | Plateia batendo palmas acima da cabeça, contraluz quente recortando os braços. |\n| 44 | refrao_final | 4.0s | estatico | Plateia em silhueta balançando junto, brilho quente lavando o salão (reprise). |\n| 45 | refrao_final | 3.5s | pan | Contra-plongée dos arcos das cordas em uníssono contra contraluz dourado, poeira cintilando. |\n| 46 | refrao_final | 3.0s | tilt | Detalhe onírico: poeira e névoa cintilando nos feixes cruzados âmbar e azul. |\n| 47 | refrao_final | 4.0s | dolly-in | Dolly-in deslizando por entre as cabeças da plateia em direção ao palco radiante. |\n| 48 | refrao_final | 4.0s | estatico | Os dois no pedestal compartilhado, a cabeça dela inclinada para o ombro dele, rim light dourado. |\n| 49 | refrao_final | 5.0s | handheld | Dois-shot fechado segurado: rostos lado a lado na luz florescendo, olhos fechados, sobrancelhas erguidas de emoção. |\n| 50 | refrao_final | 4.5s | travelling | Grua subindo sobre o salão, feixes âmbar e azul se encontrando sobre a plateia. |\n| 51 | refrao_final | 4.0s | zoom-out | Zoom-out lento do palco revelando o salão inteiro, balcões e lustres. |\n| 52 | desfecho | 5.0s | estatico | Plateia se levantando em ovação, luz da casa subindo sobre o salão. |\n| 53 | desfecho | 6.0s | dolly-out | Os dois se curvam de mãos dadas, luz da casa subindo, orquestra de pé, aplausos. |\n| 54 | desfecho | 5.5s | travelling | Os dois saem de mãos dadas em direção à coxia escura, contraluz quente, névoa. |\n| 55 | desfecho | 4.0s | estatico | Na borda da sombra, ela olha para trás por cima do ombro com um sorriso suave. |\n| 56 | desfecho | 5.0s | estatico | Orquestra de pé, arcos erguidos em saudação, luz da casa brilhando nos instrumentos. |\n| 57 | desfecho | 7.5s | estatico | Plano final: o spot vazio no chão do palco depois da saída, poeira no feixe, fade pro preto. |\n\n**Prompts (EN):**\n\n1. Fade-in from black: wide static shot of a grand ballroom stage, a single warm amber spotlight beam cutting through haze, band instruments in silhouette, a blue LED staircase glowing behind the stage, audience heads in dark silhouette in the foreground, gilded columns at the frame edges, elegant broadcast concert cinematography, palette of amber gold and deep blue\n2. close-up of a crystal chandelier glowing warm gold against the dark ornate ceiling of a grand ballroom, thin haze drifting slowly through its light, soft sparkle on the crystals, static shot\n3. slow travelling shot from a high balcony gliding over a grand concert hall toward the warmly lit stage, gilded columns framing the image, crystal chandeliers overhead, audience silhouettes below, warm stage glow in the distance, elegant broadcast concert look\n4. medium shot, slow dolly-in: a distinguished man in his early forties in a tailored midnight-blue suit standing at a vintage chrome microphone stand, eyes closed, one hand pressed flat on his chest, warm amber key light with cool blue background haze, shallow depth of field, cinematic concert lighting\n5. extreme close-up of fingertips fingerpicking the strings over the sound hole of an acoustic guitar, framed so tightly that only the hand and strings are visible, warm tungsten light on the wood grain, shallow focus, gentle static shot\n6. medium-wide static shot: a tall slender young woman with a short chic haircut in a champagne evening dress waiting in the stage wings, half in shadow, cool blue rim light tracing her profile, a soft anticipatory smile, cinematic haze drifting\n7. tight profile close-up of the man in his forties framed from the eyes up against a warm spotlight flare, eyes closed, furrowed brow, the vintage microphone blurred at the lower edge of frame, deep blue haze background\n8. slow dolly-in: the young woman with the short chic haircut steps from shadow into a warm spotlight at center stage, champagne dress catching the light, blue LED staircase glowing behind her, haze beams, cinematic concert look, medium-wide tightening to medium\n9. close-up of the young woman framed from the eyes up, eyes closed with intensity, brows lifted, warm amber key light sculpting her cheekbones, the microphone head blurred at the bottom edge of frame, deep blue background bokeh\n10. overhead close-up of grand piano keys, hands framed so tightly that only the fingers and keys are visible, warm light reflecting on the black lacquered lid, felt hammers moving inside, shallow focus\n11. medium shot of the man listening with a soft admiring smile, head slightly turned toward the far side of the stage, orchestral string section bows moving in unison behind him in warm amber light, shallow depth of field\n12. wide static shot: two separate warm spotlights on the same grand stage, the suited man at his microphone on the left, the woman in her pool of light on the right, orchestra silhouettes between them, audience heads dark in the foreground, amber versus deep blue palette\n13. smooth lateral travelling shot as the two performers walk toward each other across the stage, their two spotlights sliding and merging into one pool of warm light, haze beams crossing, audience silhouettes swaying below the stage\n14. gentle handheld medium two-shot: the woman and the man side by side sharing one warm spotlight, her wide elegant smile, his hand resting near hers on the shared microphone stand, blue haze and LED staircase glowing behind\n15. close-up of two hands almost touching on a chrome microphone stand, framed so tightly that only the hands and the stand are visible, warm rim light on the skin, deep blue bokeh background\n16. tight close-up of the young woman in profile against the spotlight, framed from the eyes up, eyes shut tight, throat and jaw tense with emotion, a strand of short hair catching amber light, blue haze beyond\n17. wide static shot from behind the crowd: audience silhouettes gently swaying, warm stage glow washing over dark heads and shoulders, chandelier bokeh floating above the hall\n18. close-up slow pan across orchestral string section bows rising and falling in unison, warm amber light gleaming on polished wood and strings, shallow focus, elegant concert texture\n19. medium close-up: the man in the midnight-blue suit at the vintage microphone, head tilted back, eyes closed, throat taut, one hand gripping the stand, warm spotlight pouring from above, deep blue haze behind\n20. low-angle shot of amber and blue light beams snapping brighter over the stage at the chorus peak, haze swirling through the crossing beams, chandelier glow at the top of frame, celebratory energy\n21. slow zoom-out from the duo at center stage to reveal the full stage, stage lights blooming brighter, haze beams fanning out over the audience silhouettes, grand broadcast concert scale\n22. intimate gentle handheld medium shot: the two performers facing each other in half light, foreheads almost touching, eyes closed, the rest of the stage falling into soft darkness around them, warm edge light only\n23. extreme close-up of a wire brush sweeping slow circles on a snare drum head, framed so tightly that only the brush and drum are visible, warm low light, soft focus falloff\n24. profile close-up of the man framed from the eyes up, eyes glistening, deep blue background haze, warm edge light tracing his temple and grey-flecked hair, shallow depth of field\n25. close-up of the young woman looking off-frame toward her duet partner, gentle smile, a single tear catching amber light on her cheek, deep blue bokeh behind, cinematic softness\n26. close-up of the man's hand and the woman's hand finally interlacing on the chrome microphone stand, framed so tightly that only the hands and the stand are visible, warm rim light on skin, deep blue bokeh background\n27. slow pan from a high balcony across the ballroom ceiling, crystal chandeliers glowing warm, haze drifting through blue light shafts, the stage a bright warm island far below\n28. dolly-in along the center aisle of the hall toward the stage, rows of silhouetted audience on both sides, the duo small and bright under merged spotlights ahead, haze beams overhead\n29. low-angle medium two-shot: the woman with one arm stretched toward the crowd, the man with a fist pressed to his chest, both bathed in intensified warm light, blue beams crossing behind them, haze swirling\n30. close-up of fingers plucking thick bass strings, framed so tightly that only the fingers and strings are visible, warm light glinting on the wound metal, shallow focus\n31. in the audience, a pair of clasped hands resting on a velvet seat armrest, framed so tightly that only the hands and armrest are visible, warm stage light flickering over them, dark hall around\n32. close-up of the young woman framed from the eyes up, facing into the light, spotlight flare blooming across the lens, eyes bright with emotion, amber light on skin, deep blue beyond\n33. medium static shot: three backing vocalists in elegant evening wear swaying gently at their microphone stands in cool blue half-light, subtle warm rim light tracing their silhouettes, haze drifting\n34. wide shot at the chorus peak: every stage light at full intensity, beams fanning through haze, orchestra and band fully lit in gold, audience silhouettes rising from their seats, grand celebratory scale\n35. slow dolly-in on an alto saxophone player stepping forward into a single amber spotlight, the brass bell gleaming, body in half silhouette, blue haze behind, smoke curling through the light beam\n36. extreme close-up of alto saxophone keys moving under fingers, framed so tightly that only the keys and fingers are visible, warm reflections rippling over the lacquered brass, shallow focus\n37. wide shot: full band and orchestra bathed in golden light, the elegant duo at center stage, audience on its feet in silhouette, chandeliers blazing above, celebratory broadcast concert energy\n38. handheld medium close-up: the young woman breaking into a wide joyful smile turned toward her partner, short hair swinging with the movement, warm light flooding her face, blue beams sweeping behind\n39. close-up of two joined hands lifted high, framed so tightly that only the hands are visible against blazing stage lights, rim-lit fingers, lens flare, triumphant feeling\n40. slow arcing travelling shot circling the elegant duo at center stage in full golden light, haze beams rotating behind them, her champagne dress and his midnight-blue suit glowing, blurred audience lights beyond\n41. medium shot: the duo side by side facing the crowd, her arm around his back, both glowing in full warm light, fine sparkling dust drifting through the beams around them\n42. close-up of hands sweeping a rising cascade up grand piano keys, framed so tightly that only the fingers and keys are visible, golden light flaring on the black lacquer, energetic yet elegant\n43. wide static shot: audience silhouettes clapping with hands above their heads, warm backlight from the stage outlining every pair of raised arms, dark hall, celebratory energy\n44. wide static shot from behind the crowd: audience silhouettes gently swaying, warm stage glow washing over dark heads and shoulders, chandelier bokeh floating above the hall\n45. low-angle close pan across violin bows rising and falling in unison against golden backlight, sparkling dust drifting between the strings, polished wood gleaming, shallow focus\n46. glittering dust and haze particles drifting through crossing amber and blue light beams above the stage, slow upward tilt, dreamlike sparkle, abstract concert texture\n47. dolly-in gliding past dark audience heads and shoulders toward the radiant golden stage where the duo stands small and bright at the shared microphone, light beams fanning overhead, haze glowing\n48. medium shot: the duo at the shared microphone stand, her head leaning toward his shoulder, his temple tilted toward her short hair, both rim-lit in gold against deep blue haze, tender and triumphant\n49. gentle handheld close two-shot: their faces side by side in blooming warm light, eyes closed, brows lifted with emotion, fine sparkling dust drifting around them, deep blue bokeh beyond\n50. high travelling shot rising over the grand hall, amber and blue light beams meeting above the crowd silhouettes, the golden stage glowing below, crystal chandeliers passing near the frame\n51. slow zoom-out from the bright stage revealing the entire grand ballroom, tiers of ornate balconies, glowing chandeliers, beams of amber and blue light meeting above the crowd silhouettes\n52. wide static shot: the audience rising to its feet in silhouette as warm house lights come up over the grand hall, the stage glowing gold beyond, chandeliers brightening, ovation energy\n53. gentle dolly-out medium-wide shot: the duo bowing together hand in hand as warm house lights rise over the hall, orchestra standing behind them, chandelier glow filling the frame, applause energy\n54. medium-wide travelling shot following the duo from behind as they walk off hand in hand toward the dark stage wings, backlit by the warm stage glow, haze curling around their silhouettes\n55. close-up: the young woman pausing at the edge of darkness, glancing back over her bare shoulder with a soft wide smile, warm stage light catching her short hair, deep blue shadow beyond\n56. medium-wide static shot: the orchestra standing, violin bows raised in salute, warm house light gleaming on polished instruments, applause atmosphere in the grand hall\n57. final static shot: an empty warm spotlight pool on the polished stage floor after the performers have exited, fine dust drifting in the beam, deep blue darkness around, slow fade to black\n\n## Publicação (YouTube)\n\n- **Título:** One More Song\n- **Tags:** emotivo, melancolico, intimista, romantico, voz principal masculina, voz feminina convidada, violao dedilhado\n\n**Descrição:**\n\nUm salão de concerto, um homem que já cantou mil noites iguais e uma mulher que só tinha ido ouvir a banda. É disso que a música fala: do pedido simples de mais uma canção antes de dizer boa-noite — porque a banda pode guardar as estrelas, mas aquela ali é deles.\n\nO som é uma balada soft rock com orquestra: violão dedilhado, piano quente, cordas, bateria com vassouras e um solo de sax alto. Ele abre o primeiro verso com a voz levemente rouca, ela responde no segundo com uma voz mais aérea, e as duas se encontram no refrão em dueto. No fim, a plateia responde com aplausos que ficam na gravação.\n\nNo clipe, o palco é filmado como nos registros clássicos de concerto: luz âmbar sobre fundo azul, dissolves que acompanham as frases musicais, closes de mãos, cordas e vassouras. Os dois começam cada um no seu foco de luz — e terminam dividindo o mesmo.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Emotional soft rock ballad, 72 bpm, B major. Warm slightly raspy male lead vocal answered by an airy limpid female duet partner, both voices blending in the choruses. Gentle fingerpicked acoustic guitar, warm grand piano, lush orchestral strings, brushed drums, soft round bass, tender alto saxophone solo, soft backing vocals. Intimate live-ballroom atmosphere with subtle audience presence and warm applause swelling at the very end. Builds slowly from a quiet instrumental intro to a soaring final duet chorus. Vocal-forward mix with elegant hall reverb. Lyrics in en-US",
+    "imagem": "album cover, centered dramatic portrait of an elegant duet: a tall slender woman in her mid-twenties with a short chic haircut, champagne evening dress, wide warm confident smile, looking directly into the lens; a distinguished man in his early forties in a tailored midnight-blue suit standing half a step behind her in profile, gaze turned toward her; warm amber stage key light on skin against a deep blue hazy ballroom background with soft chandelier bokeh, shallow depth of field, palette of amber gold and deep blue, clean space for bold title at the bottom, cinematic concert photography, 1:1",
+    "negativo": "text, letters, typography, watermark, logo, extra limbs, deformed hands, oversaturated colors, plastic skin",
+    "conceito": "Retrato do dueto sob a luz do salão. Escolha de olhar: ELA olha direto na lente, sorriso largo e elegante — a música é um convite, e a capa convida; ELE, meio passo atrás, de perfil, olhando para ela. Âmbar quente na pele contra fundo azul profundo do salão — o mesmo warm-vs-cool medido nas referências de concerto. Título entra na base, fora dos rostos.",
+    "tagline": "antes que as luzes se apaguem",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "estatico",
+      "prompt": "Fade-in from black: wide static shot of a grand ballroom stage, a single warm amber spotlight beam cutting through haze, band instruments in silhouette, a blue LED staircase glowing behind the stage, audience heads in dark silhouette in the foreground, gilded columns at the frame edges, elegant broadcast concert cinematography, palette of amber gold and deep blue",
+      "alt": "Fade-in from black: empty grand ballroom stage under one warm amber spotlight in soft haze, instruments resting in silhouette, blue LED glow in the background, gilded columns at the edges, no people visible, cinematic wide static shot"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "estatico",
+      "prompt": "close-up of a crystal chandelier glowing warm gold against the dark ornate ceiling of a grand ballroom, thin haze drifting slowly through its light, soft sparkle on the crystals, static shot",
+      "alt": "close-up of warm golden chandelier crystals sparkling against deep darkness, slow drifting haze, soft bokeh, static shot, no people visible"
+     },
+     {
+      "n": 3,
+      "secao": "verso_1",
+      "camera": "travelling",
+      "prompt": "slow travelling shot from a high balcony gliding over a grand concert hall toward the warmly lit stage, gilded columns framing the image, crystal chandeliers overhead, audience silhouettes below, warm stage glow in the distance, elegant broadcast concert look",
+      "alt": "slow travelling shot from a high balcony gliding over an ornate concert hall toward a distant warm-lit stage, gilded columns and chandeliers framing the image, rows of seats in soft darkness, no readable faces"
+     },
+     {
+      "n": 4,
+      "secao": "verso_1",
+      "camera": "dolly-in",
+      "prompt": "medium shot, slow dolly-in: a distinguished man in his early forties in a tailored midnight-blue suit standing at a vintage chrome microphone stand, eyes closed, one hand pressed flat on his chest, warm amber key light with cool blue background haze, shallow depth of field, cinematic concert lighting",
+      "alt": "medium shot, slow dolly-in: silhouette of a suited figure at a vintage chrome microphone stand against warm amber backlight, face unreadable in shadow, haze beams crossing, cool blue background"
+     },
+     {
+      "n": 5,
+      "secao": "verso_1",
+      "camera": "estatico",
+      "prompt": "extreme close-up of fingertips fingerpicking the strings over the sound hole of an acoustic guitar, framed so tightly that only the hand and strings are visible, warm tungsten light on the wood grain, shallow focus, gentle static shot",
+      "alt": "extreme close-up of acoustic guitar strings vibrating over the sound hole, warm tungsten glow on polished wood, no people visible, static macro shot"
+     },
+     {
+      "n": 6,
+      "secao": "verso_1",
+      "camera": "estatico",
+      "prompt": "medium-wide static shot: a tall slender young woman with a short chic haircut in a champagne evening dress waiting in the stage wings, half in shadow, cool blue rim light tracing her profile, a soft anticipatory smile, cinematic haze drifting",
+      "alt": "medium-wide static shot: an elegant evening-dress silhouette waiting in dark stage wings, cool blue rim light tracing the outline, face hidden in shadow, haze drifting through the light"
+     },
+     {
+      "n": 7,
+      "secao": "verso_1",
+      "camera": "estatico",
+      "prompt": "tight profile close-up of the man in his forties framed from the eyes up against a warm spotlight flare, eyes closed, furrowed brow, the vintage microphone blurred at the lower edge of frame, deep blue haze background",
+      "alt": "vintage chrome microphone in sharp focus with a blurred suited silhouette behind it, warm spotlight flare, deep blue haze, static close-up, no readable face"
+     },
+     {
+      "n": 8,
+      "secao": "verso_2",
+      "camera": "dolly-in",
+      "prompt": "slow dolly-in: the young woman with the short chic haircut steps from shadow into a warm spotlight at center stage, champagne dress catching the light, blue LED staircase glowing behind her, haze beams, cinematic concert look, medium-wide tightening to medium",
+      "alt": "slow dolly-in on a warm spotlight circle on a polished stage floor as a long dress hem and heeled shoes step into it, framed so tightly that only the hem and shoes are visible, blue glow behind"
+     },
+     {
+      "n": 9,
+      "secao": "verso_2",
+      "camera": "estatico",
+      "prompt": "close-up of the young woman framed from the eyes up, eyes closed with intensity, brows lifted, warm amber key light sculpting her cheekbones, the microphone head blurred at the bottom edge of frame, deep blue background bokeh",
+      "alt": "a chrome microphone head in warm light with a soft feminine silhouette blurred beyond it, amber and blue bokeh, static close-up, no readable face"
+     },
+     {
+      "n": 10,
+      "secao": "verso_2",
+      "camera": "estatico",
+      "prompt": "overhead close-up of grand piano keys, hands framed so tightly that only the fingers and keys are visible, warm light reflecting on the black lacquered lid, felt hammers moving inside, shallow focus",
+      "alt": "macro shot of grand piano hammers and strings moving inside the open lid, warm tungsten reflections on black lacquer, no people visible"
+     },
+     {
+      "n": 11,
+      "secao": "verso_2",
+      "camera": "estatico",
+      "prompt": "medium shot of the man listening with a soft admiring smile, head slightly turned toward the far side of the stage, orchestral string section bows moving in unison behind him in warm amber light, shallow depth of field",
+      "alt": "a row of violin scrolls and moving bows in warm amber light, players in soft silhouette, medium static shot, shallow depth of field"
+     },
+     {
+      "n": 12,
+      "secao": "verso_2",
+      "camera": "estatico",
+      "prompt": "wide static shot: two separate warm spotlights on the same grand stage, the suited man at his microphone on the left, the woman in her pool of light on the right, orchestra silhouettes between them, audience heads dark in the foreground, amber versus deep blue palette",
+      "alt": "wide static shot of two warm spotlight pools on a grand stage separated by darkness, orchestra instruments in silhouette between them, amber versus deep blue palette, no readable faces"
+     },
+     {
+      "n": 13,
+      "secao": "refrao_dueto",
+      "camera": "travelling",
+      "prompt": "smooth lateral travelling shot as the two performers walk toward each other across the stage, their two spotlights sliding and merging into one pool of warm light, haze beams crossing, audience silhouettes swaying below the stage",
+      "alt": "two warm spotlight beams sliding across a hazy stage floor until they overlap into one bright pool of light, slow lateral travelling shot, deep blue darkness around"
+     },
+     {
+      "n": 14,
+      "secao": "refrao_dueto",
+      "camera": "handheld",
+      "prompt": "gentle handheld medium two-shot: the woman and the man side by side sharing one warm spotlight, her wide elegant smile, his hand resting near hers on the shared microphone stand, blue haze and LED staircase glowing behind",
+      "alt": "two elegant silhouettes side by side in one warm spotlight, seen from behind against the glowing blue staircase, gentle handheld medium shot"
+     },
+     {
+      "n": 15,
+      "secao": "refrao_dueto",
+      "camera": "estatico",
+      "prompt": "close-up of two hands almost touching on a chrome microphone stand, framed so tightly that only the hands and the stand are visible, warm rim light on the skin, deep blue bokeh background",
+      "alt": "close-up of a chrome microphone stand catching warm rim light against deep blue bokeh, subtle haze drifting, static shot, no people visible"
+     },
+     {
+      "n": 16,
+      "secao": "refrao_dueto",
+      "camera": "estatico",
+      "prompt": "tight close-up of the young woman in profile against the spotlight, framed from the eyes up, eyes shut tight, throat and jaw tense with emotion, a strand of short hair catching amber light, blue haze beyond",
+      "alt": "profile silhouette of a short-haired figure against a blinding warm spotlight, blooming lens flare, features unreadable, static close-up"
+     },
+     {
+      "n": 17,
+      "secao": "refrao_dueto",
+      "camera": "estatico",
+      "prompt": "wide static shot from behind the crowd: audience silhouettes gently swaying, warm stage glow washing over dark heads and shoulders, chandelier bokeh floating above the hall",
+      "alt": "soft chandelier bokeh above a dark hall with warm stage glow rising from below, gentle sway of shadows, static wide shot, no faces visible"
+     },
+     {
+      "n": 18,
+      "secao": "refrao_dueto",
+      "camera": "pan",
+      "prompt": "close-up slow pan across orchestral string section bows rising and falling in unison, warm amber light gleaming on polished wood and strings, shallow focus, elegant concert texture",
+      "alt": "close-up slow pan across cello strings and a moving bow in warm amber light, the player out of frame, shallow focus, polished wood gleaming"
+     },
+     {
+      "n": 19,
+      "secao": "refrao_dueto",
+      "camera": "estatico",
+      "prompt": "medium close-up: the man in the midnight-blue suit at the vintage microphone, head tilted back, eyes closed, throat taut, one hand gripping the stand, warm spotlight pouring from above, deep blue haze behind",
+      "alt": "medium close-up silhouette of a suited figure with head tilted back at a microphone stand, warm top light blooming around the outline, deep blue haze, no readable face"
+     },
+     {
+      "n": 20,
+      "secao": "refrao_dueto",
+      "camera": "estatico",
+      "prompt": "low-angle shot of amber and blue light beams snapping brighter over the stage at the chorus peak, haze swirling through the crossing beams, chandelier glow at the top of frame, celebratory energy",
+      "alt": "low-angle abstract shot of crossing amber and blue light beams intensifying through swirling haze, dark ceiling above, no people visible"
+     },
+     {
+      "n": 21,
+      "secao": "refrao_dueto",
+      "camera": "zoom-out",
+      "prompt": "slow zoom-out from the duo at center stage to reveal the full stage, stage lights blooming brighter, haze beams fanning out over the audience silhouettes, grand broadcast concert scale",
+      "alt": "slow zoom-out across a hazy grand ballroom as warm light beams fan from the stage over silhouetted seat rows, amber and deep blue palette, no readable faces"
+     },
+     {
+      "n": 22,
+      "secao": "verso_3",
+      "camera": "handheld",
+      "prompt": "intimate gentle handheld medium shot: the two performers facing each other in half light, foreheads almost touching, eyes closed, the rest of the stage falling into soft darkness around them, warm edge light only",
+      "alt": "two elegant silhouettes facing each other in a dim pool of warm light, outlines nearly touching, deep darkness all around, gentle handheld medium shot"
+     },
+     {
+      "n": 23,
+      "secao": "verso_3",
+      "camera": "estatico",
+      "prompt": "extreme close-up of a wire brush sweeping slow circles on a snare drum head, framed so tightly that only the brush and drum are visible, warm low light, soft focus falloff",
+      "alt": "macro shot of a wire brush resting on a snare drum head vibrating subtly, warm low light and soft shadows, no people visible"
+     },
+     {
+      "n": 24,
+      "secao": "verso_3",
+      "camera": "estatico",
+      "prompt": "profile close-up of the man framed from the eyes up, eyes glistening, deep blue background haze, warm edge light tracing his temple and grey-flecked hair, shallow depth of field",
+      "alt": "out-of-focus warm and blue stage lights forming soft bokeh with a dark head-and-shoulders silhouette at the frame edge, static close-up, no readable face"
+     },
+     {
+      "n": 25,
+      "secao": "verso_3",
+      "camera": "estatico",
+      "prompt": "close-up of the young woman looking off-frame toward her duet partner, gentle smile, a single tear catching amber light on her cheek, deep blue bokeh behind, cinematic softness",
+      "alt": "a champagne fabric shoulder and the edge of short hair rim-lit by amber light, head turned away from camera toward a warm glow, static close-up, no face visible"
+     },
+     {
+      "n": 26,
+      "secao": "verso_3",
+      "camera": "estatico",
+      "prompt": "close-up of the man's hand and the woman's hand finally interlacing on the chrome microphone stand, framed so tightly that only the hands and the stand are visible, warm rim light on skin, deep blue bokeh background",
+      "alt": "close-up of a chrome microphone stand in warm rim light with soft shadows crossing over it, deep blue bokeh background, static shot, no people visible"
+     },
+     {
+      "n": 27,
+      "secao": "verso_3",
+      "camera": "pan",
+      "prompt": "slow pan from a high balcony across the ballroom ceiling, crystal chandeliers glowing warm, haze drifting through blue light shafts, the stage a bright warm island far below",
+      "alt": "slow pan across an ornate ceiling with crystal chandeliers glowing warm, haze drifting through blue light shafts, a bright pool of light far below, no people visible"
+     },
+     {
+      "n": 28,
+      "secao": "refrao_2",
+      "camera": "dolly-in",
+      "prompt": "dolly-in along the center aisle of the hall toward the stage, rows of silhouetted audience on both sides, the duo small and bright under merged spotlights ahead, haze beams overhead",
+      "alt": "dolly-in along a dark center aisle toward a distant warm-lit stage, empty seat rows on both sides, haze beams overhead, no readable faces"
+     },
+     {
+      "n": 29,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "low-angle medium two-shot: the woman with one arm stretched toward the crowd, the man with a fist pressed to his chest, both bathed in intensified warm light, blue beams crossing behind them, haze swirling",
+      "alt": "low-angle shot of crossing blue and amber light beams above a stage, haze swirling through them, two small dark figures at the bottom of frame"
+     },
+     {
+      "n": 30,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "close-up of fingers plucking thick bass strings, framed so tightly that only the fingers and strings are visible, warm light glinting on the wound metal, shallow focus",
+      "alt": "macro close-up of thick bass strings vibrating over a dark pickup, warm metallic glints, no people visible"
+     },
+     {
+      "n": 31,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "in the audience, a pair of clasped hands resting on a velvet seat armrest, framed so tightly that only the hands and armrest are visible, warm stage light flickering over them, dark hall around",
+      "alt": "warm stage light flickering across empty velvet theater seats, static close-up, dark hall around, no people visible"
+     },
+     {
+      "n": 32,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "close-up of the young woman framed from the eyes up, facing into the light, spotlight flare blooming across the lens, eyes bright with emotion, amber light on skin, deep blue beyond",
+      "alt": "a spotlight flare blooming directly into the lens through haze, amber core with a deep blue halo, static close-up, abstract and emotional"
+     },
+     {
+      "n": 33,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "medium static shot: three backing vocalists in elegant evening wear swaying gently at their microphone stands in cool blue half-light, subtle warm rim light tracing their silhouettes, haze drifting",
+      "alt": "three chrome microphone stands in cool blue half-light with soft swaying silhouettes behind them, warm rim light edges, haze drifting, no readable faces"
+     },
+     {
+      "n": 34,
+      "secao": "refrao_2",
+      "camera": "estatico",
+      "prompt": "wide shot at the chorus peak: every stage light at full intensity, beams fanning through haze, orchestra and band fully lit in gold, audience silhouettes rising from their seats, grand celebratory scale",
+      "alt": "wide shot of a grand stage at full golden light intensity, beams fanning through haze over silhouetted rising rows, no readable faces"
+     },
+     {
+      "n": 35,
+      "secao": "solo_sax",
+      "camera": "dolly-in",
+      "prompt": "slow dolly-in on an alto saxophone player stepping forward into a single amber spotlight, the brass bell gleaming, body in half silhouette, blue haze behind, smoke curling through the light beam",
+      "alt": "slow dolly-in on a gleaming alto saxophone held up in a warm spotlight, the player fully in dark silhouette, blue haze and smoke curling behind"
+     },
+     {
+      "n": 36,
+      "secao": "solo_sax",
+      "camera": "estatico",
+      "prompt": "extreme close-up of alto saxophone keys moving under fingers, framed so tightly that only the keys and fingers are visible, warm reflections rippling over the lacquered brass, shallow focus",
+      "alt": "extreme close-up of a lacquered brass saxophone bell reflecting warm stage lights, reflections slowly shifting, no people visible"
+     },
+     {
+      "n": 37,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "wide shot: full band and orchestra bathed in golden light, the elegant duo at center stage, audience on its feet in silhouette, chandeliers blazing above, celebratory broadcast concert energy",
+      "alt": "wide shot of a golden-lit grand stage and a standing silhouetted crowd with arms raised in the dark, chandeliers glowing above, no readable faces"
+     },
+     {
+      "n": 38,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "handheld medium close-up: the young woman breaking into a wide joyful smile turned toward her partner, short hair swinging with the movement, warm light flooding her face, blue beams sweeping behind",
+      "alt": "handheld shot of champagne dress fabric swinging lightly in flooding warm light, gentle motion blur and sparkle, blue beams behind, no face in frame"
+     },
+     {
+      "n": 39,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "close-up of two joined hands lifted high, framed so tightly that only the hands are visible against blazing stage lights, rim-lit fingers, lens flare, triumphant feeling",
+      "alt": "blazing stage lights behind a dark raised shape at the center of frame, strong rim light and lens flare, abstract celebratory close-up"
+     },
+     {
+      "n": 40,
+      "secao": "refrao_final",
+      "camera": "travelling",
+      "prompt": "slow arcing travelling shot circling the elegant duo at center stage in full golden light, haze beams rotating behind them, her champagne dress and his midnight-blue suit glowing, blurred audience lights beyond",
+      "alt": "slow arcing travelling shot circling a single bright warm spotlight pool with two elegant silhouettes inside it, haze beams rotating through deep blue darkness"
+     },
+     {
+      "n": 41,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "medium shot: the duo side by side facing the crowd, her arm around his back, both glowing in full warm light, fine sparkling dust drifting through the beams around them",
+      "alt": "two elegant figures seen from behind facing a wall of bright warm light and a dark crowd, sparkling dust drifting in the beams"
+     },
+     {
+      "n": 42,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "close-up of hands sweeping a rising cascade up grand piano keys, framed so tightly that only the fingers and keys are visible, golden light flaring on the black lacquer, energetic yet elegant",
+      "alt": "close-up of grand piano keys reflecting flaring golden stage light on black lacquer, subtle vibration, no people visible"
+     },
+     {
+      "n": 43,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "wide static shot: audience silhouettes clapping with hands above their heads, warm backlight from the stage outlining every pair of raised arms, dark hall, celebratory energy",
+      "alt": "rows of raised-arm silhouettes against warm stage backlight in a dark hall, wide static shot, no faces visible"
+     },
+     {
+      "n": 44,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "wide static shot from behind the crowd: audience silhouettes gently swaying, warm stage glow washing over dark heads and shoulders, chandelier bokeh floating above the hall",
+      "alt": "soft chandelier bokeh above a dark hall with warm stage glow rising from below, gentle sway of shadows, static wide shot, no faces visible"
+     },
+     {
+      "n": 45,
+      "secao": "refrao_final",
+      "camera": "pan",
+      "prompt": "low-angle close pan across violin bows rising and falling in unison against golden backlight, sparkling dust drifting between the strings, polished wood gleaming, shallow focus",
+      "alt": "low-angle close pan across violin scrolls and bows in golden backlight with sparkling dust, players out of frame, shallow focus"
+     },
+     {
+      "n": 46,
+      "secao": "refrao_final",
+      "camera": "tilt",
+      "prompt": "glittering dust and haze particles drifting through crossing amber and blue light beams above the stage, slow upward tilt, dreamlike sparkle, abstract concert texture",
+      "alt": "glittering dust and haze particles drifting through crossing amber and blue light beams, slow upward tilt, dreamlike abstract sparkle, no people"
+     },
+     {
+      "n": 47,
+      "secao": "refrao_final",
+      "camera": "dolly-in",
+      "prompt": "dolly-in gliding past dark audience heads and shoulders toward the radiant golden stage where the duo stands small and bright at the shared microphone, light beams fanning overhead, haze glowing",
+      "alt": "dolly-in gliding past dark silhouetted heads toward a radiant golden stage in the distance, light beams fanning overhead through haze, no readable faces"
+     },
+     {
+      "n": 48,
+      "secao": "refrao_final",
+      "camera": "estatico",
+      "prompt": "medium shot: the duo at the shared microphone stand, her head leaning toward his shoulder, his temple tilted toward her short hair, both rim-lit in gold against deep blue haze, tender and triumphant",
+      "alt": "two elegant silhouettes leaning together at one microphone stand, golden rim light tracing their outlines against deep blue haze, medium static shot"
+     },
+     {
+      "n": 49,
+      "secao": "refrao_final",
+      "camera": "handheld",
+      "prompt": "gentle handheld close two-shot: their faces side by side in blooming warm light, eyes closed, brows lifted with emotion, fine sparkling dust drifting around them, deep blue bokeh beyond",
+      "alt": "two soft profile silhouettes side by side against a blooming warm light source, sparkling dust drifting, features unreadable, gentle handheld close shot"
+     },
+     {
+      "n": 50,
+      "secao": "refrao_final",
+      "camera": "travelling",
+      "prompt": "high travelling shot rising over the grand hall, amber and blue light beams meeting above the crowd silhouettes, the golden stage glowing below, crystal chandeliers passing near the frame",
+      "alt": "high travelling shot rising through haze over a dark ornate hall, amber and blue beams meeting above silhouetted rows, a golden stage far below, no readable faces"
+     },
+     {
+      "n": 51,
+      "secao": "refrao_final",
+      "camera": "zoom-out",
+      "prompt": "slow zoom-out from the bright stage revealing the entire grand ballroom, tiers of ornate balconies, glowing chandeliers, beams of amber and blue light meeting above the crowd silhouettes",
+      "alt": "slow zoom-out from a bright warm stage revealing an ornate hall with tiers of balconies and glowing chandeliers, light beams meeting in the haze, no readable faces"
+     },
+     {
+      "n": 52,
+      "secao": "desfecho",
+      "camera": "estatico",
+      "prompt": "wide static shot: the audience rising to its feet in silhouette as warm house lights come up over the grand hall, the stage glowing gold beyond, chandeliers brightening, ovation energy",
+      "alt": "wide static shot of silhouetted rows rising in a grand hall as warm house lights brighten the ornate ceiling, golden stage glow beyond, no readable faces"
+     },
+     {
+      "n": 53,
+      "secao": "desfecho",
+      "camera": "dolly-out",
+      "prompt": "gentle dolly-out medium-wide shot: the duo bowing together hand in hand as warm house lights rise over the hall, orchestra standing behind them, chandelier glow filling the frame, applause energy",
+      "alt": "gentle dolly-out from a warm-lit stage as house lights rise over a grand hall, two distant elegant silhouettes taking a bow, orchestra shapes standing behind"
+     },
+     {
+      "n": 54,
+      "secao": "desfecho",
+      "camera": "travelling",
+      "prompt": "medium-wide travelling shot following the duo from behind as they walk off hand in hand toward the dark stage wings, backlit by the warm stage glow, haze curling around their silhouettes",
+      "alt": "two elegant hand-in-hand silhouettes walking away into dark stage wings against warm backlight, haze curling through the glow, travelling shot from behind"
+     },
+     {
+      "n": 55,
+      "secao": "desfecho",
+      "camera": "estatico",
+      "prompt": "close-up: the young woman pausing at the edge of darkness, glancing back over her bare shoulder with a soft wide smile, warm stage light catching her short hair, deep blue shadow beyond",
+      "alt": "a bare shoulder and short hair rim-lit by warm light at the edge of deep blue darkness, head turned away from camera toward the glow, static close-up, no face visible"
+     },
+     {
+      "n": 56,
+      "secao": "desfecho",
+      "camera": "estatico",
+      "prompt": "medium-wide static shot: the orchestra standing, violin bows raised in salute, warm house light gleaming on polished instruments, applause atmosphere in the grand hall",
+      "alt": "medium-wide static shot of raised violin bows and gleaming instruments in warm house light, players in soft silhouette, applause atmosphere, no readable faces"
+     },
+     {
+      "n": 57,
+      "secao": "desfecho",
+      "camera": "estatico",
+      "prompt": "final static shot: an empty warm spotlight pool on the polished stage floor after the performers have exited, fine dust drifting in the beam, deep blue darkness around, slow fade to black",
+      "alt": "final static shot: an empty warm spotlight pool on a polished stage floor, fine dust drifting in the beam, deep blue darkness around, slow fade to black"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "entendi-voce-quer-uma-instrucao-curta-pa",
    "mvd": "MVD#140",
    "titulo": "Qian Fan (Mil Velas)",
@@ -372,7 +850,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -16109,6 +16587,158 @@
   }
  ],
  "analisevideo": [
+  {
+   "fonte": "analisevideo",
+   "slug": "facebook-13",
+   "titulo": "Facebook",
+   "quando": "2026-08-28T13:32:37",
+   "url": "https://www.facebook.com/share/r/19UNW424TL/",
+   "canal": "Yanca Vallen",
+   "duracao_s": 54,
+   "tipo": "clipe musical",
+   "resumo": "Cantora country/gospel interpreta canção ao ar livre em plano fixo diante de microfone condensador vintage. O cenário rural ensolarado com silo e cerca ao fundo reforça a estética sertaneja intimista.",
+   "look": "warm country natural",
+   "paleta": [
+    "#E8DAC8",
+    "#8B5A3E",
+    "#2B211D",
+    "#6F7A5E",
+    "#88B1C8",
+    "#D9A87A"
+   ],
+   "movimentos": [
+    "estatico"
+   ],
+   "ritmo": "lento",
+   "cortes_por_minuto": 0.0,
+   "musica": "gospel",
+   "bpm": 74,
+   "mood": "emocionante e intimista",
+   "tags": [
+    "country gospel",
+    "clipe musical",
+    "sertanejo acustico",
+    "close up",
+    "reels cantora",
+    "plano fixo",
+    "luz natural",
+    "chapeu de cowboy",
+    "golden hour",
+    "performance vocal"
+   ],
+   "referencias": [
+    "Ana Castela Reels acústicos",
+    "Estilo country gospel live session",
+    "Nashville acoustic sessions",
+    "Kacey Musgraves outdoor visuals"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Facebook\nFonte: https://www.facebook.com/share/r/19UNW424TL/\nDuracao: 54s · tipo: clipe musical · confianca: 0.98\n\nCantora country/gospel interpreta canção ao ar livre em plano fixo diante de microfone condensador vintage. O cenário rural ensolarado com silo e cerca ao fundo reforça a estética sertaneja intimista.\n\n## Fotografia\n- Paleta: #E8DAC8, #8B5A3E, #2B211D, #6F7A5E, #88B1C8, #D9A87A\n- Luz: luz natural suave frontal/lateral com difusao de ceu aberto e rim light suave no chapeu (luz solar natural indireta de fim de tarde)\n- Cor: quente (~5200K) · contraste medio · look warm country natural\n- Lente/DOF: 85mm f/1.8 · rasa (bokeh cremoso no fundo rural)\n- Textura: limpo digital com leve textura organica\n\n## Camera (bloco a bloco)\n- 00:00–00:50 · close · estatico (parado) · nivel — Enquadramento fixo de performance musical com microfone em primeiro plano.\n- 00:50–00:54 · close · estatico (parado) · nivel — Desfoque optico/digital seguido de fade out para preto.\n\n## Montagem\n- 0 cortes · 0.0/min · ritmo lento\n- Transicoes: fade out\n- match cut: False · jump cut: False · corte no beat: False\n- Velocidade: False\n\n## Trilha e som\n- Musica: True · gospel/country gospel acústico · ~74 bpm · A maior\n- Instrumentacao: violao acustico, baixo sutil, pads sintetizados, percussao leve, voz feminina\n- Mood/energia: emocionante e intimista · media\n- SFX: -\n- Estrutura: intro/verso 00:00-00:26, refrão/crescendo 00:27-00:50, fade 00:50-00:54\n- Mixagem: Voz limpa e presente na frente, violao e pad espaciais no background. · sincronia: lipsync sincronizado\n\n**Prompt de musica (Suno/Udio):**\n```\nEmotional Brazilian country gospel acoustic song, 74 bpm, A major, delicate acoustic guitar fingerpicking, lush ambient synth pads, heartfelt powerful female lead vocal, warm organic studio mix for inspirational reel.\n```\nNegativo: `electronic beats, distortion, heavy metal, aggressive drums, autotune`\n\n## Texto e grafismo\n- Tipografia: sans-serif moderna com logo Spotify e @ de usuario (Helvetica/Gotham)\n- Animacao: estatico com transparencia · legendas: None\n- Motion graphics: -\n\n## Pos\n- Efeitos: defocus/blur final · VFX: None\n- LUT sugerida: Warm Film Kodak Portra 400 · sound design: Masterizacao limpa com reverb sutil na voz\n\n## Narrativa\n- Gancho (3s): Presenca vocal imediata e olhar expressivo em primeiro plano.\n- Estrutura: Performance musical continua em plano unico. · arco: Evolucao de tom reflexivo nos versos para expressao emotiva e aberta no refrao.\n- CTA: 'OUÇA AGORA / Link na bio' sobreposto na base.\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> Emotional Brazilian country gospel acoustic song, 74 bpm, A major, delicate acoustic guitar fingerpicking, lush ambient synth pads, heartfelt powerful female lead vocal, warm organic studio mix for inspirational reel.\n\nNegativo: `electronic beats, distortion, heavy metal, aggressive drums, autotune`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A young brunette cowgirl in a white cowboy hat and black western shirt singing into a silver studio microphone, close-up eye level, static camera, 85mm lens shallow depth of field, warm golden hour sunlight, palette #E8DAC8 #8B5A3E #2B211D, cinematic warm grade with soft grain, blurred country ranch road background, 10 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: Emotional Brazilian country gospel acoustic song, 74 bpm, A major, delicate acoustic guitar fingerpicking, lush ambient synth pads, heartfelt powerful female lead vocal, warm organic studio mix for inspirational reel.\n```\n\n## Como refazer (dificuldade: facil)\n- Equipamento: Smartphone ou camera mirrorless, Lente clara (50mm ou 85mm), Microfone vintage cenografico com pedestal, Tripe\n1. Escolha uma locacao externa rural com profundidade (estrada de terra, cerca).\n2. Posicione a camera em 9:16 sobre tripe fixo na altura dos olhos.\n3. Instale o microfone condensador cenografico proximo a boca do cantor.\n4. Grave em golden hour ou luz suave indireta usando lente de f/1.8 a f/2.8 para fundo desfocado.\n5. Execute a performance musical com playback guia.\n6. Adicione color grading quente e insira o fade out com desfoque nos segundos finais.\n\n## Prompts p/ gerador de video (5 cenas)\n\n### Cena 1 · 00:00–00:10 · ~10s — Inicio do verso intimista\n> A beautiful young cowgirl in a white hat singing softly into a vintage studio microphone, close-up eye level, static tripod shot, 85mm f/1.8 shallow depth of field, soft natural afternoon sunlight, palette #E8DAC8 #8B5A3E #2B211D, clean cinematic tone, blurred ranch background with silo, 10 seconds.\n\nNegativo: `camera shake, harsh shadows, low quality, oversaturated`\n\n### Cena 2 · 00:10–00:20 · ~10s — Desenvolvimento do verso\n> Brunette woman wearing western hat singing emotionally into a silver condenser mic, close-up framing, locked-off camera, 85mm lens bokeh, warm ambient daylight, palette #E8DAC8 #6F7A5E #D9A87A, soft filmic look, rural dirt road background, 10 seconds.\n\nNegativo: `distortion, fast panning, glitch, extra limbs`\n\n### Cena 3 · 00:20–00:30 · ~10s — Transicao para o refrao\n> Woman in cowboy hat smiling and singing with growing emotion into microphone, close-up front angle, steady static shot, 85mm shallow focus, golden hour rim lighting, palette #E8DAC8 #8B5A3E #88B1C8, warm organic grade, country landscape background, 10 seconds.\n\nNegativo: `blurry face, abrupt motion, cold lighting`\n\n### Cena 4 · 00:30–00:42 · ~12s — Climax vocal do refrao\n> Cowgirl singing passionately with eyes closed into large condenser mic, tight close-up, motionless camera, 85mm telephoto shallow DOF, glowing natural backlight, palette #E8DAC8 #2B211D #D9A87A, cinematic kodak warmth, outdoor farm setting, 12 seconds.\n\nNegativo: `overexposed, digital noise, zoom in, twitching`\n\n### Cena 5 · 00:42–00:54 · ~12s — Fechamento e fade out\n> Woman concluding song into vintage microphone then gradually blurring into soft focus, close-up static camera, 85mm lens with optical defocus transition, gentle late afternoon light, palette #E8DAC8 #8B5A3E #2B211D, warm cinematic film fade, outdoor ranch road, 12 seconds.\n\nNegativo: `jerky motion, harsh artifacts, rapid cuts`\n\nReferencias: Ana Castela Reels acústicos, Estilo country gospel live session, Nashville acoustic sessions, Kacey Musgraves outdoor visuals\nTags: country gospel, clipe musical, sertanejo acustico, close up, reels cantora, plano fixo, luz natural, chapeu de cowboy, golden hour, performance vocal\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "facebook-12",
+   "titulo": "Facebook",
+   "quando": "2026-08-28T12:29:45",
+   "url": "https://www.facebook.com/reel/1237552808346189",
+   "canal": "Lilly Palmer",
+   "duracao_s": 21,
+   "tipo": "reel de festival",
+   "resumo": "Uma DJ de techno performa no palco principal de um festival ao ar livre durante o dia. A câmera faz um movimento contínuo partindo de close lateral até revelar a multidão e o drop com jatos de CO2. O vídeo transmite euforia, energia festival e conexão intensa com o público.",
+   "look": "vibrante, comercial festival, saturação de céu e LED",
+   "paleta": [
+    "#111113",
+    "#2A52BE",
+    "#D92B7D",
+    "#EAEAEA",
+    "#8B95A5",
+    "#4682B4"
+   ],
+   "movimentos": [
+    "dolly-in",
+    "dolly-out",
+    "estatico",
+    "handheld",
+    "orbital"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 0.0,
+   "musica": "Electronic",
+   "bpm": 150,
+   "mood": "eletrizante, eufórico, intenso",
+   "tags": [
+    "dj",
+    "festival",
+    "techno",
+    "hardtechno",
+    "musicaeletronica",
+    "recap",
+    "plano-sequencia",
+    "drop",
+    "co2",
+    "multidao",
+    "stageview",
+    "projectglow"
+   ],
+   "referencias": [
+    "Sara Landry Boiler Room / Festival Sets",
+    "Afterlife & Tomorrowland stage recaps",
+    "DJ snake festival recap reels",
+    "Ultra Music Festival official clips"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Facebook\nFonte: https://www.facebook.com/reel/1237552808346189\nDuracao: 21s · tipo: reel de festival · confianca: 0.95\n\nUma DJ de techno performa no palco principal de um festival ao ar livre durante o dia. A câmera faz um movimento contínuo partindo de close lateral até revelar a multidão e o drop com jatos de CO2. O vídeo transmite euforia, energia festival e conexão intensa com o público.\n\n## Fotografia\n- Paleta: #111113, #2A52BE, #D92B7D, #EAEAEA, #8B95A5, #4682B4\n- Luz: luz natural solar direta + contra-luz suave da estrutura (sol pleno e painéis de LED de palco)\n- Cor: 5600K (luz do dia neutra/fria) · contraste alto · look vibrante, comercial festival, saturação de céu e LED\n- Lente/DOF: 16-24mm equivalente ultrawide · profunda (grande angular)\n- Textura: digital limpo sem granulação perceptível\n\n## Camera (bloco a bloco)\n- 00:00–00:06 · medio · handheld (suave) · nivel — Foco lateral na DJ manipulando os CDJs durante o build-up\n- 00:06–00:10 · medio · orbital (moderada) · contra-plongee — Transição para trás da DJ conforme a música cresce\n- 00:10–00:15 · geral · dolly-out (acelerando) · contra-plongee — DJ ergue os braços revelando a massa de milhares de pessoas\n- 00:15–00:18 · geral · estatico (estatico) · contra-plongee — Drop com disparo sincronizado de canhões de fumaça CO2\n- 00:18–00:21 · medio · dolly-in (rapida) · contra-plongee — DJ gira de frente comemorando com as mãos para o alto\n\n## Montagem\n- 0 cortes · 0.0/min · ritmo medio\n- Transicoes: plano-sequencia continuo\n- match cut: False · jump cut: False · corte no beat: False\n- Velocidade: velocidade real constante\n\n## Trilha e som\n- Musica: True · Electronic/Hard Techno / Peak Time · ~150 bpm · F minor\n- Instrumentacao: heavy kick drum, acid synth bass, riser sweeps, distorted vocal chops\n- Mood/energia: eletrizante, eufórico, intenso · alta\n- SFX: CO2 blast sound, crowd roar ambiance\n- Estrutura: build-up 00:00-00:14, snare roll 00:10-00:14, drop 00:15-00:21\n- Mixagem: trilha musical em volume máximo com ambiência ao vivo em segundo plano · sincronia: perfeita sincronicidade no drop aos 00:15 com os jatos de fumaça\n\n**Prompt de musica (Suno/Udio):**\n```\nHigh-energy Hard Techno track at 150 BPM in F minor. Relentless pounding kick drum, aggressive acid 303 basslines, sharp vocal sample chops, tense rising snare build-up erupting into a massive festival drop with euphoric energy and heavy sub-bass drive.\n```\nNegativo: `slow tempo, acoustic instruments, low energy, chillout, lo-fi`\n\n## Texto e grafismo\n- Tipografia: logo impresso na testeira do palco (Sans-serif geométrica)\n- Animacao: nenhuma (elemento físico cenográfico 'PROJECT GLOW') · legendas: None\n- Motion graphics: -\n\n## Pos\n- Efeitos: - · VFX: None\n- LUT sugerida: Clean Vibrant Festival Daylight Rec709 · sound design: realce nos graves do drop e ganho no ruído de crowd\n\n## Narrativa\n- Gancho (3s): foco dinâmico na DJ operando o mixer com alta energia\n- Estrutura: preparação (build), revelação (visão do público), clímax (drop CO2) e celebração · arco: tensão crescente até o pico catártico\n- CTA: None\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> High-energy Hard Techno track at 150 BPM in F minor. Relentless pounding kick drum, aggressive acid 303 basslines, sharp vocal sample chops, tense rising snare build-up erupting into a massive festival drop with euphoric energy and heavy sub-bass drive.\n\nNegativo: `slow tempo, acoustic instruments, low energy, chillout, lo-fi`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> A female DJ in black activewear performs behind festival CDJs, raising her arms as massive CO2 smoke cannons erupt over a huge outdoor daytime crowd under a bright blue sky, medium wide shot from behind, slow cinematic crane-out, 18mm lens deep focus, vibrant daylight palette with #111113, #2A52BE, #EAEAEA, ultra-clean sharp look, festival stage backdrop, 4 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: High-energy Hard Techno track at 150 BPM in F minor. Relentless pounding kick drum, aggressive acid 303 basslines, sharp vocal sample chops, tense rising snare build-up erupting into a massive festival drop with euphoric energy and heavy sub-bass drive.\n```\n\n## Como refazer (dificuldade: media)\n- Equipamento: smartphone 4K 60fps ou câmera mirrorless, gimbal de mão de 3 eixos, lente ultrawide\n1. Posicione-se ao lado da mesa de DJ durante o início do build-up.\n2. Mantenha o enquadramento médio no artista operando os controles.\n3. Inicie um movimento orbital suave para a traseira do palco nos 5 segundos que antecedem o drop.\n4. Afaste sutilmente para revelar toda a multidão no momento exato do impacto musical.\n5. Mantenha o foco fixo durante o disparo dos efeitos pirotécnicos ou CO2.\n6. Avance levemente quando o DJ se virar para fechar com a reação eufórica.\n\n## Prompts p/ gerador de video (5 cenas)\n\n### Cena 1 · 00:00–00:05 · ~5s — Preparação no CDJ\n> Female DJ with dark ponytail in black athletic top adjusting CDJ mixer on stage, side medium shot, steady handheld motion, 24mm lens sharp focus, direct daylight sun, palette #111113 and #4682B4, crisp modern video grade, festival truss stage background, 5 seconds.\n\nNegativo: `blurry, low quality, night, indoor, bad hands`\n\n### Cena 2 · 00:05–00:10 · ~5s — Transição de Ângulo\n> Female DJ smiling and moving to the beat turning towards the audience, tracking orbital camera move from side to rear angle, 20mm wide lens, bright open sky lighting, palette #111113, #2A52BE, sharp clean digital texture, large outdoor festival platform, 5 seconds.\n\nNegativo: `shake, distortion, oversaturation, night time`\n\n### Cena 3 · 00:10–00:15 · ~5s — Braços ao Alto para a Multidão\n> Female DJ raising hands facing a massive sea of thousands of festival attendees, wide shot from behind DJ booth, smooth dolly back, 16mm ultrawide lens deep depth of field, hard direct daylight, palette #2A52BE and #EAEAEA, vibrant festival color grade, sunny outdoor arena, 5 seconds.\n\nNegativo: `empty venue, indoor, dull colors, motion blur`\n\n### Cena 4 · 00:15–00:18 · ~3s — O Drop e Jatos de CO2\n> Two giant vertical white CO2 smoke columns blasting high into the blue sky behind DJ deck with huge cheering crowd, wide center shot, static smooth hold, 18mm sharp lens, sunny daytime high contrast, palette #EAEAEA and #2A52BE, clean high resolution, concert mainstage, 3 seconds.\n\nNegativo: `dark, night, fire, rain, messy framing`\n\n### Cena 5 · 00:18–00:21 · ~3s — Celebração Final\n> Female DJ spinning back around towards camera with huge smile and arms open in celebration, low angle medium shot, fast push in, 24mm lens with subtle background bokeh, clear sunny overhead light, palette #111113, #2A52BE, vivid punchy look, festival stage setup, 3 seconds.\n\nNegativo: `dark, frowning, blurry, bad anatomy`\n\nReferencias: Sara Landry Boiler Room / Festival Sets, Afterlife & Tomorrowland stage recaps, DJ snake festival recap reels, Ultra Music Festival official clips\nTags: dj, festival, techno, hardtechno, musicaeletronica, recap, plano-sequencia, drop, co2, multidao, stageview, projectglow\n"
+  },
+  {
+   "fonte": "analisevideo",
+   "slug": "2-9m-views-29k-reactions-new-york-lilly-palmer",
+   "titulo": "Facebook",
+   "quando": "2026-08-28T12:26:07",
+   "url": "https://www.facebook.com/reel/1816602519326034",
+   "canal": "Lilly Palmer",
+   "duracao_s": 13,
+   "tipo": "reel de festival",
+   "resumo": "Registro enérgico de uma DJ tocando em um festival ao ar livre ao entardecer sob uma estrutura de viaduto. A câmera em plano-sequência acompanha seus movimentos e revela a multidão vibrando com fumaça e luz natural dourada.",
+   "look": "golden hour festival glow",
+   "paleta": [
+    "#121417",
+    "#D89366",
+    "#626E7A",
+    "#B95A81",
+    "#E8C49E",
+    "#3A414A"
+   ],
+   "movimentos": [
+    "gimbal",
+    "handheld",
+    "orbital"
+   ],
+   "ritmo": "medio",
+   "cortes_por_minuto": 0.0,
+   "musica": "Electronic",
+   "bpm": 126,
+   "mood": "energico e eufórico",
+   "tags": [
+    "dj",
+    "festival",
+    "electronic music",
+    "golden hour",
+    "plano sequencia",
+    "gimbal",
+    "breakaway",
+    "bass house",
+    "stage recap",
+    "performance"
+   ],
+   "referencias": [
+    "Aftermovies da Tomorrowland",
+    "Estilo visual Boiler Room Outdoor",
+    "Reels oficiais Cercle",
+    "Cobertura de festival por Sam Kolder"
+   ],
+   "video": null,
+   "doc": "# analisevideo — Facebook\nFonte: https://www.facebook.com/reel/1816602519326034\nDuracao: 13s · tipo: reel de festival · confianca: 0.95\n\nRegistro enérgico de uma DJ tocando em um festival ao ar livre ao entardecer sob uma estrutura de viaduto. A câmera em plano-sequência acompanha seus movimentos e revela a multidão vibrando com fumaça e luz natural dourada.\n\n## Fotografia\n- Paleta: #121417, #D89366, #626E7A, #B95A81, #E8C49E, #3A414A\n- Luz: backlight de golden hour + luz ambiente difusa de palco (sol poente e atmosfera de palco)\n- Cor: quente · contraste medio-alto · look golden hour festival glow\n- Lente/DOF: 24mm · media\n- Textura: limpo digital\n\n## Camera (bloco a bloco)\n- 00:00–00:03 · medio · gimbal (moderada) · nivel — Acompanha a DJ de frente enquanto ela aponta para o alto e inicia a danca.\n- 00:03–00:06 · medio · orbital (moderada) · contra-plongee — Giro para as costas da artista, revelando o mar de pessoas e jatos de fumaça.\n- 00:06–00:09 · medio · handheld (suave) · nivel — A DJ se vira de volta para a camera enquanto danca no ritmo do beat.\n- 00:09–00:13 · medio · gimbal (suave) · nivel — Movimento sutil de reenquadramento frontal acompanhando os passos e gestos finais.\n\n## Montagem\n- 0 cortes · 0.0/min · ritmo medio\n- Transicoes: -\n- match cut: False · jump cut: False · corte no beat: False\n- Velocidade: False\n\n## Trilha e som\n- Musica: True · Electronic/Tech House / Bass House · ~126 bpm · F minor\n- Instrumentacao: punchy kick, sub bass, vocal chop, synth lead\n- Mood/energia: energico e eufórico · alta\n- SFX: crowd roar, smoke canon hiss\n- Estrutura: build-up 00:00-00:03, drop energetico 00:04-00:13\n- Mixagem: musica em primeiro plano com ambiencia de festival ao fundo · sincronia: movimentos corporais perfeitamente sincronizados com o beat drop\n\n**Prompt de musica (Suno/Udio):**\n```\nHigh-energy festival tech house track, 126 BPM, F minor, punchy rolling sub bass, crisp four-on-the-floor kick, rhythmic vocal chops, aggressive club lead synth, euphoric drop vibe suitable for outdoor dance festival recap.\n```\nNegativo: `slow tempo, acoustic instruments, sad melodic pads, distorted vocals, lo-fi`\n\n## Texto e grafismo\n- Tipografia: stencil moderno em caixa alta no palco ('BREAKAWAY') (sans-serif geometrica)\n- Animacao: None · legendas: None\n- Motion graphics: -\n\n## Pos\n- Efeitos: - · VFX: smoke cannons praticos no palco\n- LUT sugerida: Warm Festival Sunset LUT · sound design: graves reforcados com reverb de arena\n\n## Narrativa\n- Gancho (3s): A DJ gesticula para o drop enquanto a camera inicia o movimento envolvente.\n- Estrutura: momento de conexao inicial, revelacao do publico no drop, performance de danca contínua. · arco: crescimento rapido de energia culminando no drop com fumaça e publico vibrando.\n- CTA: None\n\n## Refazer semelhante\n\n**Música** (Suno/Udio — cole como está):\n> High-energy festival tech house track, 126 BPM, F minor, punchy rolling sub bass, crisp four-on-the-floor kick, rhythmic vocal chops, aggressive club lead synth, euphoric drop vibe suitable for outdoor dance festival recap.\n\nNegativo: `slow tempo, acoustic instruments, sad melodic pads, distorted vocals, lo-fi`\n\n**Clipe** (o trecho mais forte, para gerador de vídeo):\n> Full shot of a confident female DJ with ponytail dancing behind decks on outdoor stage, orbital gimbal camera movement circling to reveal massive crowd, 24mm lens medium depth of field, golden hour sunset rim light, palette #121417 #D89366 #626E7A, clean festival look with atmospheric smoke flares, outdoor arena stage, 3 seconds.\n\n**No bot, de uma vez:**\n```\nmusicavideo: High-energy festival tech house track, 126 BPM, F minor, punchy rolling sub bass, crisp four-on-the-floor kick, rhythmic vocal chops, aggressive club lead synth, euphoric drop vibe suitable for outdoor dance festival recap.\n```\n\n## Como refazer (dificuldade: media)\n- Equipamento: Smartphone com lente grande-angular ou mirrorless compacta, Gimbal de 3 eixos, Acesso aos bastidores de um palco de evento\n1. Posicionar o operador na lateral/trás da mesa de DJ em um gimbal com lente 24mm equivalente.\n2. Iniciar enquadramento frontal médio com a artista chamando o drop.\n3. Orbitar suavemente para as costas da artista no exato momento do beat drop.\n4. Revelar a plateia e o efeito de fumaça aproveitando o contra-luz do entardecer.\n5. Acompanhar a virada da artista de volta para o palco mantendo o foco nela.\n6. Finalizar mantendo a estabilidade com movimentos sutis sincronizados com a música.\n\n## Prompts p/ gerador de video (5 cenas)\n\n### Cena 1 · 00:00–00:03 · ~3.0s — Abertura e Chamada do Beat\n> Medium shot of female DJ in athletic outfit raising her finger behind festival decks, frontal eye-level view, slow forward gimbal push, 24mm lens sharp focus, golden hour warm lighting, palette #121417 #D89366 #E8C49E, clean vibrant festival look, industrial outdoor stage background, 3 seconds.\n\nNegativo: `static pose, dark lighting, blurry face, shaky footage`\n\n### Cena 2 · 00:03–00:05 · ~2.0s — Giro Orbital e Revelação do Público\n> Over-the-shoulder medium shot rotating behind the female DJ, smooth fast orbital camera movement, 24mm wide angle, warm sunset backlight with purple smoke bursts, palette #B95A81 #D89366 #121417, cinematic festival glow, massive cheering crowd under elevated bridge, 2 seconds.\n\nNegativo: `choppy movement, empty venue, indoor lighting, low resolution`\n\n### Cena 3 · 00:05–00:08 · ~3.0s — Pico de Energia e Fumaça\n> Back view medium-full shot of female DJ raising arms toward a huge cheering festival crowd, slight low-angle handheld drift, 24mm lens, intense golden hour sky with ambient stage fog, palette #D89366 #626E7A #121417, punchy festival color grade, large festival arena, 3 seconds.\n\nNegativo: `overexposed highlights, static crowd, boring composition`\n\n### Cena 4 · 00:08–00:11 · ~3.0s — Virada e Dança Frontal\n> Medium shot of female DJ turning around with a smile and dancing energetically, smooth eye-level gimbal tracking, 24mm lens crisp details, soft evening ambient light with warm rim, palette #121417 #E8C49E #3A414A, natural contrast festival texture, DJ booth and crowd background, 3 seconds.\n\nNegativo: `motion blur, bad anatomy, flat colors, artificial look`\n\n### Cena 5 · 00:11–00:13 · ~2.0s — Finalização no Drop\n> Medium-full shot of female DJ grooving to the beat behind mixer stage, gentle handheld stabilizer micro-movements, 24mm lens, dusk festival lighting with industrial stage structures, palette #121417 #D89366 #626E7A, modern clean dance reel aesthetic, festival stage environment, 2 seconds.\n\nNegativo: `jittery camera, underexposed subject, desaturated tone`\n\nReferencias: Aftermovies da Tomorrowland, Estilo visual Boiler Room Outdoor, Reels oficiais Cercle, Cobertura de festival por Sam Kolder\nTags: dj, festival, electronic music, golden hour, plano sequencia, gimbal, breakaway, bass house, stage recap, performance\n"
+  },
   {
    "fonte": "analisevideo",
    "slug": "facebook-11",
