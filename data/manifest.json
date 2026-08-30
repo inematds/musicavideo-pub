@@ -1165,6 +1165,435 @@
   },
   {
    "fonte": "musicavideo",
+   "slug": "uma-mae-africana-original-da-antiguidade",
+   "mvd": "MVD#150",
+   "titulo": "Janngo",
+   "quando": "2026-08-28T22:05:32-03:00",
+   "solicitacao": "uma mae africana, original da antiguidade, nomade , prtegendo seus filhos “Quero contar a história da África por outro ângulo. Não através de reis, guerras ou datas. Através de uma mãe. Uma mulher simbólica atravessando gerações. Mudam as épocas. Mudam os perigos. Fome. Seca. Animais. Conflitos. Invasões. Escravidão. Colonização. Mas uma coisa permanece: ela tenta proteger seus filhos. A frase que resume toda a música seria: “Desde o começo do mundo, ela só queria que o filho chegasse vivo ao amanhã.”” use musica original dos antigos cantada em lingua nativa",
+   "genero": "canto pastoral ancestral do Sahel (canção de ninar-caminhada em fulfulde, só voz e instrumentos antigos)",
+   "bpm": 84,
+   "tom": "Lá menor pentatônico",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "erro"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "ancestral",
+    "vigilante",
+    "terno e áspero ao mesmo tempo",
+    "da noite ao amanhecer",
+    "sem nada moderno"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v1.png",
+     "clipe": null,
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/uma-mae-africana-original-da-antiguidade/capa-v2.png",
+     "clipe": null,
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [],
+   "bytes": 46177673,
+   "doc": "# Janngo\n\n\n\n**slug:** `uma-mae-africana-original-da-antiguidade`  ·  **criado:** 2026-08-28T22:05:32-03:00\n\n**solicitação:** uma mae africana, original da antiguidade, nomade , prtegendo seus filhos “Quero contar a história da África por outro ângulo. Não através de reis, guerras ou datas. Através de uma mãe. Uma mulher simbólica atravessando gerações. Mudam as épocas. Mudam os perigos. Fome. Seca. Animais. Conflitos. Invasões. Escravidão. Colonização. Mas uma coisa permanece: ela tenta proteger seus filhos. A frase que resume toda a música seria: “Desde o começo do mundo, ela só queria que o filho chegasse vivo ao amanhã.”” use musica original dos antigos cantada em lingua nativa\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** canto pastoral ancestral do Sahel (canção de ninar-caminhada em fulfulde, só voz e instrumentos antigos)  ·  **BPM:** 84  ·  **Tom:** Lá menor pentatônico\n- **Mood:** ancestral, vigilante, terno e áspero ao mesmo tempo, da noite ao amanhecer, sem nada moderno\n- **Instrumentação:** cabaça percutida com anéis (pulso de caminhada), tambor d'água, palmas, rabeca de espeto de uma corda (bordão e frases de resposta), flauta de madeira soprada na ponta, matracas de madeira ocasionais, ululação no refrão final\n- **Voz:** \"lead feminina madura, registro de peito quente, levemente rouca, sem enfeite de estúdio, com melismas e deslizes de quarto de tom do Sahel; canta como mãe para o filho, quase falado nos versos; coro de mulheres responde 'janngo!' nos refrões; ululação no refrão final; a voz sozinha abre a faixa nos primeiros segundos\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Ancient West African Sahel pastoral lullaby-chant sung entirely in Fulfulde (Fula language), 84 BPM, A minor pentatonic, walking pulse. Lead: mature female voice, warm chest register, slightly hoarse, unpolished, with Sahelian melisma and quarter-tone slides, sung by a mother to her child, half-spoken in the verses and open and full in the choruses. The voice alone opens the track a cappella in the first seconds, then a calabash struck with rings enters as a walking heartbeat. Accompaniment strictly old and acoustic: calabash with rings, water drum pulse, hand claps, one-string spike fiddle playing a drone and answering phrases, end-blown wooden flute, occasional wooden clappers. Women's call-and-response chorus shouting the hook word in the choruses, a long ululation in the final chorus. Bridge drops to one whispered voice and the fiddle. Dry, close, field-recording intimacy, natural room, no reverb wash, no synths, no drum kit, no bass guitar, no orchestra, no modern production, no autotune.\n\n**Estrutura:** intro (12s) · verso 1 (28s) · refrão 1 (22s) · verso 2 (28s) · refrão 2 (22s) · ponte (22s) · refrão final (32s) · outro (14s)\n\n**Letra** (origem: `gerada`, ff):\n\n```\n[Intro]\n(a cappella, one voice, then calabash pulse)\nAy ye ye... biddo am\nAy ye ye... daano, daano\nJemma juuti, mi ndaari ma\n(mmh... mmh...)\n\n[Verse 1]\nJemma ari, yiite maayi\nNdiyam alaa, naange wuli\nMbaroodi ina yaha ladde\nMi nanngi ma, mi suudi ma\nKoyde am mbuli, mi yahi\nWuur, biddo am, wuur\n\n[Chorus]\n(women answer in parentheses)\nJanngo, janngo (janngo!)\nWuur haa janngo, biddo am\nJanngo, janngo (janngo!)\nNaange fuda, a wuuri\nGila fuddoode aduna\nKo dum tan mi dabbi\nWuur haa janngo, biddo am\n\n[Verse 2]\nDuubi benni, leydi waylii\nKoyde wodbe, laana e maayo\nCurki ina yaha dow wuro\nBe nawi wodbe, mi suudi ma\nInnde am mi yejjiti\nAan, mi yejjitaani\n\n[Chorus]\nJanngo, janngo (janngo!)\nWuur haa janngo, biddo am\nJanngo, janngo (janngo!)\nNaange fuda, a wuuri\nGila fuddoode aduna\nKo dum tan mi dabbi\nWuur haa janngo, biddo am\n\n[Bridge]\n(whispered, one voice and fiddle only)\nYaaye... yaaye... yaaye...\nGila fuddoode aduna\nDebbo gooto, bibbe keewde\nMi wonaa laamdo, mi wonaa konu\nKo mi yaaye tan\nKo mi yaaye tan\n\n[Final Chorus]\n(full women's chorus, claps, ululation)\nJanngo, janngo (janngo!)\nWuur haa janngo, biddo am\nJanngo, janngo (janngo!)\nNaange fuda, a wuuri\nGila fuddoode aduna\nKo dum tan mi dabbi\n(ululation)\nWuur haa janngo, biddo am\nWuur haa janngo, bibbe am\n\n[Outro]\n(one voice alone, calabash fades)\nNaange fudi... a wuuri\nAy ye ye... janngo\n```\n\n**Diff do seu rascunho:**\n\n```diff\n--- letra enviada\n+++ letra do plano\n@@ -1,47 +1,67 @@\n [Intro]\n-Ay ye ye... meu filho\n-Ay ye ye... dorme, dorme\n-A noite é longa, eu velei por ti\n+(a cappella, one voice, then calabash pulse)\n+Ay ye ye... biddo am\n+Ay ye ye... daano, daano\n+Jemma juuti, mi ndaari ma\n+(mmh... mmh...)\n \n-[Verso 1]\n-A noite veio, o fogo morreu\n-Não há água, o sol queimou\n-O leão anda pelo mato\n-Eu te segurei, eu te escondi\n-Meus pés queimaram, eu andei\n-Vive, meu filho, vive\n+[Verse 1]\n+Jemma ari, yiite maayi\n+Ndiyam alaa, naange wuli\n+Mbaroodi ina yaha ladde\n+Mi nanngi ma, mi suudi ma\n+Koyde am mbuli, mi yahi\n+Wuur, biddo am, wuur\n \n-[Refrão]\n-Amanhã, amanhã (amanhã!)\n-Vive até amanhã, meu filho\n-Amanhã, amanhã (amanhã!)\n-O sol nasce, tu estás vivo\n-Desde o começo do mundo\n-Foi só isso que eu pedi\n-Vive até amanhã, meu filho\n+[Chorus]\n+(women answer in parentheses)\n+Janngo, janngo (janngo!)\n+Wuur haa janngo, biddo am\n+Janngo, janngo (janngo!)\n+Naange fuda, a wuuri\n+Gila fuddoode aduna\n+Ko dum tan mi dabbi\n+Wuur haa janngo, biddo am\n \n-[Verso 2]\n-Os anos passaram, a terra mudou\n-Pés de estranhos, barcos no mar\n-A fumaça anda sobre a aldeia\n-Levaram outros, eu te escondi\n-Meu nome eu esqueci\n-Tu, eu não esqueci\n+[Verse 2]\n+Duubi benni, leydi waylii\n+Koyde wodbe, laana e maayo\n+Curki ina yaha dow wuro\n+Be nawi wodbe, mi suudi ma\n+Innde am mi yejjiti\n+Aan, mi yejjitaani\n \n-[Refrão]\n+[Chorus]\n+Janngo, janngo (janngo!)\n+Wuur haa janngo, biddo am\n+Janngo, janngo (janngo!)\n+Naange fuda, a wuuri\n+Gila fuddoode aduna\n+Ko dum tan mi dabbi\n+Wuur haa janngo, biddo am\n \n-[Ponte]\n-Mãe... mãe... mãe...\n-Desde o começo do mundo\n-Uma mulher, muitos filhos\n-Não sou rei, não sou exército\n-Sou só mãe\n-Sou só mãe\n+[Bridge]\n+(whispered, one voice and fiddle only)\n+Yaaye... yaaye... yaaye...\n+Gila fuddoode aduna\n+Debbo gooto, bibbe keewde\n+Mi wonaa laamdo, mi wonaa konu\n+Ko mi yaaye tan\n+Ko mi yaaye tan\n \n-[Refrão final]\n-... Vive até amanhã, meu filho\n-Vive até amanhã, meus filhos\n+[Final Chorus]\n+(full women's chorus, claps, ululation)\n+Janngo, janngo (janngo!)\n+Wuur haa janngo, biddo am\n+Janngo, janngo (janngo!)\n+Naange fuda, a wuuri\n+Gila fuddoode aduna\n+Ko dum tan mi dabbi\n+(ululation)\n+Wuur haa janngo, biddo am\n+Wuur haa janngo, bibbe am\n \n [Outro]\n-O sol nasceu... tu estás vivo\n-Ay ye ye... amanhã\n+(one voice alone, calabash fades)\n+Naange fudi... a wuuri\n+Ay ye ye... janngo\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #B86A2E, #0F1B33, #D8B06A, #3A2416, #F3E9D2\n- **Params:** `{}`\n\n**Conceito:** Capa DE COSTAS e DE LONGE, sem rosto legível: uma mulher pequena no quadro atravessa uma planície rachada do Sahel rumo à primeira luz, com um filho amarrado às costas. Não é retrato — é a distância que conta a história: ela é qualquer mãe, de qualquer época. O céu ocupa o terço superior (noite índigo virando ocre) e recebe o título; a sombra longa dela aponta para trás, para a noite de onde vieram. Olhar escolhido: nenhum — ela está de costas, a cabeça do filho espia por cima do ombro, sem feição definida. Difere da capa anterior desta série (retrato com olhos baixos no filho): aqui o corpo inteiro é uma silhueta em marcha.\n\n**Prompt (EN):**\n\n> album cover, wide symbolic landscape: a lone woman seen from behind, small and far away, walking barefoot across a vast cracked drought plain toward the first light of dawn, a small child wrapped in cloth on her back with its head peeking over her shoulder, her long shadow stretching back toward the camera, ancient leather and indigo wrap, dust hanging in the air, tufts of dry golden grass, indigo night sky dissolving into a burnt ochre horizon, cinematic low sun, large empty sky in the upper third for a title, painterly photographic realism, palette burnt ochre #B86A2E, indigo #0F1B33, dry gold #D8B06A, earth #3A2416, bone #F3E9D2, 1:1\n\n**Negativo:** text, letters, typography, watermark, logo, people in foreground, readable face, close-up, modern clothing, buildings, roads, vehicles, power lines, extra limbs, deformed hands, cartoon\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa pronta com 232 s: 49 planos, ~12,7 cortes/min em média — o mesmo patamar dos 180 s anteriores, ancorado na referência medida mais lenta (Marília Mendonça / Maiara & Maraisa, 8,36 cortes/min, só corte seco no beat) e NÃO nas de 23,5 (Ana Castela) e 30 cortes/min (Menos É Mais), que são shows com plateia; um canto de ninar-caminhada a 84 bpm não aguenta corte de show. Seções reescaladas pela duração real: intro 0–16, verso 1 16–53, refrão 1 53–81, verso 2 81–118, refrão 2 118–146, ponte 146–175, refrão final 175–217, outro 217–232. Duração desigual por regra, conservada: intro segura (7, 5, 4 s), versos respiram (4–6 s), refrões picam (3–4 s), a ponte tem os planos mais longos (7–8 s) e o outro fecha em 7 e 8 s. NÚCLEO medido na onda em 184–196 s (planos 40–43): quatro cortes de 3 s, o ritmo mais picado do clipe, com o plano-herói no meio (41: a mãe ergue o filho acima da cabeça no centro da roda de mulheres de todas as eras, sol pleno) — é esse trecho de 12 s que vira o Short, entrando no plano 40 (pés batendo a terra) e saindo no 43 (mãos empilhadas se erguendo). Montagem: corte seco no pulso da cabaça (2 batidas = ~1,4 s, então cada corte cai numa batida); dissolve só nas trocas de era dentro do verso 2 (planos 19→20, 22→23, 23→24; dissolve e superimposição medidos na Ana Castela); fade out no último plano (medido no Menos É Mais). Sem whip pan digital e sem speed ramp: aparecem na medição de show, não cabem aqui.\n- **Params:** `{}`\n- **Shots:** 49  ·  **Duração total:** 232s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 7s | estatico | Noite primordial: fogueira na planície, silhueta da mãe com o bebê ao peito |\n| 2 | intro | 5s | handheld | Close: a mão sobe e desce com a respiração do bebê |\n| 3 | intro | 4s | estatico | O pulso entra: a mão bate a cabaça cercada de anéis, junto às brasas |\n| 4 | verso 1 | 5s | handheld | O fogo morreu: brasas cinzentas na primeira luz, a mão revolve a cinza fria |\n| 5 | verso 1 | 6s | drone | Amanhecer de seca: a mãe minúscula atravessa a terra rachada com o filho nas costas |\n| 6 | verso 1 | 6s | travelling | Seguindo por trás: o filho balança nas costas dela, poeira nos pés descalços |\n| 7 | verso 1 | 5s | estatico | Close: as últimas gotas da cabaça caem numa palma |\n| 8 | verso 1 | 4s | estatico | Sol branco a pino: a mão dela faz sombra sobre a cabeça do filho |\n| 9 | verso 1 | 6s | pan | Capim alto ao entardecer: dois olhos âmbar de leão acendem na luz baixa |\n| 10 | verso 1 | 5s | handheld | Escondida no espinheiro, ela tapa os olhos do filho e prende a respiração |\n| 11 | refrão 1 | 4s | estatico | Primeira luz atinge o espinheiro: testa na testa, olhos fechados, lágrima na luz |\n| 12 | refrão 1 | 3s | handheld | Pés pequenos pisam a terra vermelha na luz da manhã |\n| 13 | refrão 1 | 3s | estatico | Close: palmas de mulher batendo no contraluz dourado, poeira saltando |\n| 14 | refrão 1 | 4s | drone | Aéreo subindo: o rebanho de chifres longos na bruma da manhã, mãe e filho ao lado |\n| 15 | refrão 1 | 4s | steadicam | Três mulheres de índigo caminham e batem palmas, rostos virados ao sol |\n| 16 | refrão 1 | 3s | estatico | Close: a mão bate na cabaça boiando na água, respingos dourados |\n| 17 | refrão 1 | 3s | estatico | Chifres longos em silhueta cortam o disco do sol, poeira dourada |\n| 18 | refrão 1 | 4s | estatico | Silhueta: a mãe ergue o filho acima da cabeça contra o céu do amanhecer |\n| 19 | verso 2 | 6s | dolly-out | Outra era: aldeia de barro com celeiros, ela mói milheto; poeira sobe no horizonte |\n| 20 | verso 2 | 6s | pan | Pan lento: poeira de cavaleiros nas dunas, aldeia vazia, tigela derramada |\n| 21 | verso 2 | 5s | handheld | Dentro do celeiro escuro, ela afunda o filho no milheto e cobre com a esteira |\n| 22 | verso 2 | 5s | handheld | Noite no celeiro: ela ergue a esteira e puxa o filho do milheto, grãos escorrendo no luar |\n| 23 | verso 2 | 6s | estatico | Outra era: costa ao entardecer, três navios ancorados; ela imóvel na praia com o filho |\n| 24 | verso 2 | 5s | travelling | Outra era: estrada de poeira, forte de pedra e trilhos ao longe; ela e o filho pela mão rumo ao horizonte vermelho |\n| 25 | verso 2 | 4s | handheld | Close: a mão pequena agarra o dedo dela enquanto andam, tecido estampado, poeira vermelha |\n| 26 | refrão 2 | 4s | estatico | Match cut 1: a mesma mão tapa os olhos do filho — à luz do fogo |\n| 27 | refrão 2 | 3s | estatico | Match cut 2: a mesma mão, manga de algodão branco, luz em frestas de palha |\n| 28 | refrão 2 | 4s | estatico | Match cut 3: a mesma mão, mar e vento salgado atrás, crepúsculo |\n| 29 | refrão 2 | 3s | estatico | Match cut 4: a mesma mão, manga de tecido estampado, poeira vermelha da estrada |\n| 30 | refrão 2 | 3s | steadicam | Mães de todas as eras caminham juntas ao amanhecer, batendo palmas |\n| 31 | refrão 2 | 4s | handheld | Ululação: garganta e queixo de perfil contra o sol, mão espalmada no peito |\n| 32 | refrão 2 | 3s | estatico | De cima: palmas de todas as eras batendo juntas — couro, índigo, algodão, estampado |\n| 33 | refrão 2 | 4s | drone | Aéreo: rebanho, mulheres e sombras longas riscando a planície |\n| 34 | ponte | 8s | estatico | Noite: a anciã toca a rabeca de uma corda junto às brasas; ao lado, a jovem mãe e o bebê |\n| 35 | ponte | 7s | estatico | Macro: a corda única da rabeca vibra sob o arco de crina, brasa refletida na cabaça |\n| 36 | ponte | 7s | travelling | Silhuetas: fila de mulheres numa crista contra o céu violeta, cada uma com um filho, até o horizonte |\n| 37 | ponte | 7s | handheld | Só os olhos da jovem mãe nas brasas, olhando o bebê; uma lágrima; os olhos se fecham |\n| 38 | refrão final | 5s | estatico | O amanhecer rompe na crista; a fila de mulheres vira junto para a luz |\n| 39 | refrão final | 4s | handheld | Roda de mulheres batendo palmas e pés na terra vermelha, poeira dourada |\n| 40 | refrão final | 3s | handheld | NÚCLEO (entrada do Short): pés descalços batem a terra vermelha, barras de pano voando, poeira no sol |\n| 41 | refrão final | 3s | estatico | NÚCLEO — plano-herói: no centro da roda, a mãe da abertura ergue o filho acima da cabeça no sol pleno, mulheres de todas as eras em volta |\n| 42 | refrão final | 3s | handheld | NÚCLEO — ululação: cabeça atirada para trás, olhos fechados, mão no peito, braços erguidos atrás dela |\n| 43 | refrão final | 3s | estatico | NÚCLEO (saída do Short): muitas mãos de mulheres empilhadas sobre uma mão pequena, depois se erguem |\n| 44 | refrão final | 5s | steadicam | Uma criança corre pelo capim dourado rumo ao sol, braços abertos |\n| 45 | refrão final | 6s | drone | Aéreo em recuo: a roda vira um ponto na planície, rebanho, rio brilhando |\n| 46 | refrão final | 5s | handheld | A mãe da abertura ergue o filho às costas mais uma vez e amarra o pano com um puxão firme |\n| 47 | refrão final | 5s | estatico | Ela caminha para o sol, pequena; a cabeça do filho por cima do ombro olha para trás, para a câmera |\n| 48 | outro | 7s | estatico | O disco do sol sobe entre os dedos pequenos erguidos contra ele |\n| 49 | outro | 8s | estatico | Planície vazia ao sol pleno, pegadas até o horizonte; fade out |\n\n**Prompts (EN):**\n\n1. Static wide shot at night on a vast dark African plain under an indigo sky crowded with stars, a small campfire in the lower third, the silhouette of a seated woman seen from behind holding a cloth-wrapped infant against her chest, ember sparks drifting slowly upward, no other light for miles, ancient timeless mood, palette indigo #0F1B33 and burnt ochre #B86A2E, cinematic 24fps, no text\n2. Extreme close-up in warm firelight: a weathered hand resting on a cloth-wrapped sleeping infant's back, the hand rising and falling slowly with the breathing, framed so tightly that only the hand and the woven cloth are visible, the rest of the frame in darkness, gentle handheld drift, skin texture and firelight grain, no text\n3. Static close-up in ember light: a weathered hand striking a large dry calabash gourd wrapped in a net of cowrie shells and metal rings, the rings jumping with each strike, framed so tightly that only the hand, the gourd and the rings are visible, slow steady walking rhythm, deep darkness around, no text\n4. Handheld close shot at first grey light: the campfire reduced to pale ash and a few dull red embers, a weathered hand pushing through the cold ash and finding nothing, a thin thread of smoke rising, cracked earth around, cold blue-grey dawn light, no text\n5. Slow aerial drone glide at dawn over an endless plain of cracked drought earth, a lone woman tiny in the frame walking with a child bound to her back in cloth, her long shadow stretching behind her, heat shimmer, scattered tufts of dry golden grass, low burnt-ochre sun on the horizon, dust in the air, palette ochre #B86A2E and dry gold #D8B06A, cinematic, no text\n6. Tracking shot from behind at hip height following a woman walking barefoot across an ochre plain, a small child wrapped in cloth on her back, the child's head bobbing gently with each step, dust kicked up by her heels, ancient leather and indigo wrap, low sun ahead, steady walking rhythm, warm dusty light, no faces visible, no text\n7. Static macro close-up in harsh noon light: a clay-brown gourd tipped over, the last drops of water falling into an open cupped palm, cracked earth out of focus below, framed so tightly that only the gourd, the hand and the drops are visible, drops catching the sun, dry dusty texture, no text\n8. Static close-up under a white blazing noon sun: a weathered hand held flat above a small child's head to cast a patch of shade, the child's face hidden in the shadow, framed so tightly that only the hand, the top of the child's head and the burning sky are visible, heat shimmer, blown-out light, no text\n9. Slow handheld pan across tall dry golden grass at dusk, blurred stalks in the foreground, the grass parts and the head of a lion appears low and still, its amber eyes catching the last light, watching, no movement except the wind in the grass, dusty violet-ochre light, tense and quiet, cinematic, no text\n10. Handheld close shot inside a hollow of thorn bushes at blue dusk: a woman crouched low pressing a small child against her chest, her hand cupped over the child's eyes, her own eyes wide and alert looking out through the thorns, shoulders held still as if holding her breath, thorn branches in silhouette in the foreground, cold blue light, no text\n11. Static shot as the first ray of sunrise cuts across a thorn bush, a woman in the golden shaft of light with her eyes closed tight, her forehead pressed against a small child's forehead, a tear catching the light, dust motes glowing, the rest of the frame still in blue shadow, no text\n12. Handheld low close-up: small bare feet stepping onto red earth in golden morning light, framed so tightly that only the feet, ankles and the dust are visible, dust puffing up with each step, warm backlight, no text\n13. Static close-up backlit by low golden sun: two weathered hands clapping together in a steady rhythm, dust bursting from the palms at each clap and glowing in the backlight, brass bracelets on the wrists, framed so tightly that only the hands and the dust are visible, no text\n14. Rising aerial drone shot over a herd of long-horned cattle moving through morning mist across the savanna, a woman with a child on her back walking alongside the herd, dust glowing gold in the low sun, long shadows, vast plain, no text\n15. Steadicam side-tracking shot at hip height: three women in indigo wraps walking together at dawn with children bound to their backs, moving in the same rhythm, hands clapping as they walk, their faces turned away toward the rising sun, dust at their feet, golden backlight, no text\n16. Static macro close-up: a hand striking a calabash gourd floating upside down in a clay bowl of water, water splashing gold in the low sun, framed so tightly that only the hand, the calabash and the water are visible, rhythmic, no text\n17. Static low-angle shot: the enormous curved horns of long-horned cattle passing in silhouette across the rising sun's disc, dust glowing gold around them, sun flare between the horns, slow steady walking rhythm, no text\n18. Static wide shot: a woman standing on a low rise, arms fully extended holding a small child high above her head, both in pure silhouette against a vast burnt-ochre and gold dawn sky, dust and light around them, the cattle herd small below, triumphant stillness, no text\n19. Dolly-out shot at dusk beginning close on a woman in a white cotton wrap with brass rings kneeling and grinding millet on a stone, a small child sitting beside her, the camera pulling back to reveal a Sahel village of round mud-walled granaries with thatched roofs, and far on the horizon a plume of dust rising, warm ochre light turning cold, no text\n20. Slow pan across the horizon at dusk: a distant line of riders' dust rising over the dunes, then the village in the foreground empty and silent, a doorway left open, a wooden bowl spilled on the ground, wind moving the thatch, cold violet and ochre light, no text\n21. Handheld close shot inside a dark granary: a woman pressing a small child down into a heap of millet grain and covering it with a woven mat, her hand lingering flat on the mat, thin slits of daylight cutting through the thatch, dust in the light, urgent but silent, no text\n22. Handheld close shot inside the granary at night: a woman lifting the woven mat and pulling a small child up out of the heap of millet grain, grains streaming off the child's shoulders and catching a thin beam of moonlight through the thatch, her hands brushing dust from the child's hair, silence and relief, no text\n23. Static wide shot on a tropical coast at dusk: palm silhouettes, three large wooden sailing ships anchored offshore as dark shapes on a copper sea, a woman on the beach seen from behind holding a child's hand, both standing perfectly still watching the ships, waves washing in, heavy quiet, no text\n24. Tracking shot from behind along an empty dusty road: a woman in a faded printed cotton wrap carrying a cloth bundle on her head and leading a small child by the hand, walking away from the camera toward a red horizon, a distant stone fort and a railway line glinting on the far side, heat haze, the only movement on the road, no text\n25. Handheld close-up walking alongside: a small child's hand gripping tightly around one finger of a woman's weathered hand, the sleeve of a faded printed wax-fabric wrap swinging with each step, red road dust drifting below, framed so tightly that only the two hands and the fabric are visible, warm late light, no text\n26. Static extreme close-up in firelight: a weathered hand cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead and hairline are visible, fire glow on skin, stillness, no text\n27. Static extreme close-up: the same weathered hand in a white cotton sleeve cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, thin slits of daylight through thatch striping the skin, no text\n28. Static extreme close-up at dusk: the same weathered hand cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, the sea a copper blur behind, salt wind moving a loose strand of hair, no text\n29. Static extreme close-up in harsh daylight: the same weathered hand in a faded printed wax-fabric sleeve cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, red road dust drifting past, heat haze behind, no text\n30. Low-angle steadicam shot moving backward in front of a crowd of women in the cloth of every era — leather, indigo, white cotton, printed wax fabric — walking as one across the plain at dawn with children on their backs, hands clapping in rhythm, faces turned up toward the light, dust glowing gold around their feet, no text\n31. Handheld low-angle profile close-up backlit by the sun: a woman's throat and jawline with her head tilted back into the light, neck tendons taut, a hand pressed flat on her chest, framed from the chin up in profile so the lower face is hidden by flare, dust and sun flare, no text\n32. Static top-down close-up: many pairs of women's hands clapping together in the same rhythm, sleeves of every era side by side — ancient leather, indigo, white cotton, printed wax fabric — dust bursting gold from the palms in low sunlight, framed so tightly that only hands and sleeves are visible, no text\n33. Wide aerial drone shot at full sunrise: the cattle herd and the walking women crossing the plain together, their long shadows drawing moving parallel lines across the golden grass, dust glowing, vast horizon, no text\n34. Static slow shot at night by dying embers: an old woman seated with a one-string spike fiddle across her lap, drawing the bow slowly, beside her a young mother holding an infant, three generations in the ember glow, no one looking at the camera, almost no movement except the bow and the sparks, deep indigo darkness around, no text\n35. Static macro close-up lit only by embers: the single horsehair string of a spike fiddle vibrating slowly under a bow of horsehair drawn by an old wrinkled hand, ember light reflected on the gourd body of the instrument, dust motes drifting, framed so tightly that only the string, the bow and the hand are visible, no text\n36. Slow lateral travelling shot at dusk along a ridge: a long line of women standing in silhouette against a violet sky, each holding a child, evenly spaced all the way to the horizon, wind moving their wraps, no faces readable, solemn and still, no text\n37. Handheld extreme close-up lit only by embers: a young woman's eyes looking down at something out of frame, framed from the eyes up so the lower face is never visible, a tear forming, then the eyes slowly closing, ember light flickering on skin, no text\n38. Static wide shot: dawn breaking over the ridge, the long line of silhouetted women turning together toward the light, their wraps catching gold at the edges, dust rising, the sky shifting from violet to ochre, no text\n39. Handheld shot from inside a circle of dozens of women clapping and stamping on red earth, dust rising gold in the low sun, arms and cloth flying, bodies mid-turn, energy and joy in the movement, chest-height, no text\n40. Handheld ground-level close-up: many bare feet of women stamping red earth in rhythm, dust clouds bursting gold in the low sun, cloth hems of every era — leather, indigo, white cotton, printed wax fabric — flying past, framed so tightly that only feet, hems and dust are visible, fast energy, no text\n41. Static low-angle shot at full sunrise: in the center of a circle of women in the cloth of every era, a woman in an ancient leather and indigo wrap lifts a small child high above her head with both arms fully extended, the child's arms spread wide against the sun, gold dust glowing all around, the women's arms rising toward them, sun flare behind the child, triumphant, no text\n42. Handheld low-angle close shot backlit by the sun: a mature woman mid-turn with her head thrown back and eyes closed, one hand pressed flat on her chest and the other arm thrown up, neck tendons taut, dozens of arms rising behind her in golden dust, sun flare crossing her face so the lower face is lost in light, no text\n43. Static close-up: many women's hands of different ages stacked one over the other over a small child's hand, then lifting away one by one, framed so tightly that only hands are visible, warm morning light, no text\n44. Steadicam shot running behind a child of about five sprinting through tall golden grass toward the rising sun with arms spread wide, women's arms reaching in from the edges of the frame, grass whipping past the lens, lens flare, no text\n45. Aerial drone pull-back shot: the circle of dancing women shrinking to a dot on the vast plain, the cattle herd nearby, a river glinting in the distance, the whole landscape flooded with full golden dawn, no text\n46. Handheld three-quarter shot from behind: the woman in the ancient leather wrap of the opening lifting a small child onto her back one more time, tying the cloth with a firm pull, straightening her spine, then turning her head toward the horizon, dawn light on her shoulders, dust, no text\n47. Static wide shot: a woman walking away from the camera toward the rising sun across the ochre plain, small in the frame, a child bound to her back with its head peeking over her shoulder and turning back to look at the camera, long shadow, dust glowing, the only face turned toward the lens in the whole film, no text\n48. Static close-up: the sun's disc clearing the horizon seen through the spread fingers of a small hand held up against it, framed so tightly that only the hand and the sun are visible, warm flare between the fingers, gentle tremble, no text\n49. Static wide shot of the empty plain at full sunrise, a line of footprints leading to the horizon, wind moving the dry gold grass, dust settling, vast calm sky, slow fade to black at the end, no people, no text\n\n## Publicação (YouTube)\n\n- **Título:** Janngo\n- **Tags:** ancestral, vigilante, terno e aspero ao mesmo tempo, da noite ao amanhecer, tambor d'agua, palmas\n\n**Descrição:**\n\nUma mulher atravessa a África inteira sem nunca sair do lugar: ela é a mesma mãe no primeiro amanhecer do mundo, na seca, no espinheiro onde o leão espreita, na aldeia de celeiros com poeira de cavaleiros no horizonte, na praia onde três navios ancoram, na estrada de terra que leva a um forte de pedra. Mudam as roupas, mudam os perigos. O gesto não muda: a mão sobre os olhos do filho.\n\nA canção é cantada em fulfulde, a língua dos pastores nômades do Sahel, e feita só com o que existia antes de tudo: uma voz de mulher, cabaça batida com anéis, tambor d'água, palmas, uma rabeca de uma corda e uma flauta de madeira. Começa a cappella, como uma canção de ninar cantada em marcha, e cresce até um coro de mulheres respondendo uma única palavra: janngo — amanhã.\n\nNo clipe, cada era é lida em poucos planos e ligada pelo mesmo gesto. Não há reis nem batalhas; há uma mãe escondendo o filho no milheto, uma fila de silhuetas numa crista ao entardecer, uma roda de mulheres batendo o pé na terra vermelha quando o sol finalmente sobe. A frase que a música inteira repete é uma só: desde o começo do mundo, ela só pediu que o filho chegasse vivo ao amanhã.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Ancient West African Sahel pastoral lullaby-chant sung entirely in Fulfulde (Fula language), 84 BPM, A minor pentatonic, walking pulse. Lead: mature female voice, warm chest register, slightly hoarse, unpolished, with Sahelian melisma and quarter-tone slides, sung by a mother to her child, half-spoken in the verses and open and full in the choruses. The voice alone opens the track a cappella in the first seconds, then a calabash struck with rings enters as a walking heartbeat. Accompaniment strictly old and acoustic: calabash with rings, water drum pulse, hand claps, one-string spike fiddle playing a drone and answering phrases, end-blown wooden flute, occasional wooden clappers. Women's call-and-response chorus shouting the hook word in the choruses, a long ululation in the final chorus. Bridge drops to one whispered voice and the fiddle. Dry, close, field-recording intimacy, natural room, no reverb wash, no synths, no drum kit, no bass guitar, no orchestra, no modern production, no autotune.",
+    "imagem": "album cover, wide symbolic landscape: a lone woman seen from behind, small and far away, walking barefoot across a vast cracked drought plain toward the first light of dawn, a small child wrapped in cloth on her back with its head peeking over her shoulder, her long shadow stretching back toward the camera, ancient leather and indigo wrap, dust hanging in the air, tufts of dry golden grass, indigo night sky dissolving into a burnt ochre horizon, cinematic low sun, large empty sky in the upper third for a title, painterly photographic realism, palette burnt ochre #B86A2E, indigo #0F1B33, dry gold #D8B06A, earth #3A2416, bone #F3E9D2, 1:1",
+    "negativo": "text, letters, typography, watermark, logo, people in foreground, readable face, close-up, modern clothing, buildings, roads, vehicles, power lines, extra limbs, deformed hands, cartoon",
+    "conceito": "Capa DE COSTAS e DE LONGE, sem rosto legível: uma mulher pequena no quadro atravessa uma planície rachada do Sahel rumo à primeira luz, com um filho amarrado às costas. Não é retrato — é a distância que conta a história: ela é qualquer mãe, de qualquer época. O céu ocupa o terço superior (noite índigo virando ocre) e recebe o título; a sombra longa dela aponta para trás, para a noite de onde vieram. Olhar escolhido: nenhum — ela está de costas, a cabeça do filho espia por cima do ombro, sem feição definida. Difere da capa anterior desta série (retrato com olhos baixos no filho): aqui o corpo inteiro é uma silhueta em marcha.",
+    "tagline": "que ele chegue vivo ao amanhã",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "estatico",
+      "prompt": "Static wide shot at night on a vast dark African plain under an indigo sky crowded with stars, a small campfire in the lower third, the silhouette of a seated woman seen from behind holding a cloth-wrapped infant against her chest, ember sparks drifting slowly upward, no other light for miles, ancient timeless mood, palette indigo #0F1B33 and burnt ochre #B86A2E, cinematic 24fps, no text",
+      "alt": "Static wide shot at night on a vast dark plain under a star-filled indigo sky, a small campfire in the lower third, a folded cloth bundle resting beside the fire, ember sparks drifting slowly upward, no people, ancient timeless mood, palette indigo and burnt ochre, cinematic, no text"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "handheld",
+      "prompt": "Extreme close-up in warm firelight: a weathered hand resting on a cloth-wrapped sleeping infant's back, the hand rising and falling slowly with the breathing, framed so tightly that only the hand and the woven cloth are visible, the rest of the frame in darkness, gentle handheld drift, skin texture and firelight grain, no text",
+      "alt": "Extreme close-up in warm firelight of a hand-woven cloth wrap lifting and settling gently as if with slow breathing, framed so tightly that only the cloth and firelight are visible, darkness around, subtle handheld drift, no faces, no text"
+     },
+     {
+      "n": 3,
+      "secao": "intro",
+      "camera": "estatico",
+      "prompt": "Static close-up in ember light: a weathered hand striking a large dry calabash gourd wrapped in a net of cowrie shells and metal rings, the rings jumping with each strike, framed so tightly that only the hand, the gourd and the rings are visible, slow steady walking rhythm, deep darkness around, no text",
+      "alt": "Static close-up in ember light: a large dry calabash gourd wrapped in a net of cowrie shells and metal rings resting on the ground, the rings trembling and glinting with a slow rhythmic vibration, framed so tightly that only the gourd and the rings are visible, no people, no text"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Handheld close shot at first grey light: the campfire reduced to pale ash and a few dull red embers, a weathered hand pushing through the cold ash and finding nothing, a thin thread of smoke rising, cracked earth around, cold blue-grey dawn light, no text",
+      "alt": "Handheld close shot at first grey light: a dead campfire reduced to pale ash and a few dull red embers, a thin thread of smoke rising and bending in the wind, cracked earth around, cold blue-grey dawn light, no people, no text"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "drone",
+      "prompt": "Slow aerial drone glide at dawn over an endless plain of cracked drought earth, a lone woman tiny in the frame walking with a child bound to her back in cloth, her long shadow stretching behind her, heat shimmer, scattered tufts of dry golden grass, low burnt-ochre sun on the horizon, dust in the air, palette ochre #B86A2E and dry gold #D8B06A, cinematic, no text",
+      "alt": "Slow aerial drone glide at dawn over an endless plain of cracked drought earth, a single line of bare footprints crossing the cracked ground toward the horizon, no people, heat shimmer, tufts of dry golden grass, low burnt-ochre sun, dust in the air, cinematic, no text"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "travelling",
+      "prompt": "Tracking shot from behind at hip height following a woman walking barefoot across an ochre plain, a small child wrapped in cloth on her back, the child's head bobbing gently with each step, dust kicked up by her heels, ancient leather and indigo wrap, low sun ahead, steady walking rhythm, warm dusty light, no faces visible, no text",
+      "alt": "Low tracking shot at ground level moving forward across an ochre plain, bare footprints appearing in the red dust one after another as an unseen walker passes ahead of the lens, dust puffs lit by low sun, tufts of dry grass, no people visible, no text"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "Static macro close-up in harsh noon light: a clay-brown gourd tipped over, the last drops of water falling into an open cupped palm, cracked earth out of focus below, framed so tightly that only the gourd, the hand and the drops are visible, drops catching the sun, dry dusty texture, no text",
+      "alt": "Static macro close-up in harsh noon light: a clay-brown gourd tipped over, one last drop of water falling onto cracked earth and darkening the dust for a moment, framed so tightly that only the gourd and the cracked ground are visible, no people, no text"
+     },
+     {
+      "n": 8,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "Static close-up under a white blazing noon sun: a weathered hand held flat above a small child's head to cast a patch of shade, the child's face hidden in the shadow, framed so tightly that only the hand, the top of the child's head and the burning sky are visible, heat shimmer, blown-out light, no text",
+      "alt": "Static close-up under a white blazing noon sun: a weathered hand held flat against the sun, its shadow falling on a folded cloth bundle below, framed so tightly that only the hand, the shadow and the burning sky are visible, heat shimmer, no faces, no text"
+     },
+     {
+      "n": 9,
+      "secao": "verso 1",
+      "camera": "pan",
+      "prompt": "Slow handheld pan across tall dry golden grass at dusk, blurred stalks in the foreground, the grass parts and the head of a lion appears low and still, its amber eyes catching the last light, watching, no movement except the wind in the grass, dusty violet-ochre light, tense and quiet, cinematic, no text",
+      "alt": "Slow handheld pan across tall dry golden grass at dusk, blurred stalks in the foreground, in one spot the grass moves against the wind as a large shadow passes behind it, nothing else visible, dusty violet-ochre light, tense and quiet, cinematic, no text"
+     },
+     {
+      "n": 10,
+      "secao": "verso 1",
+      "camera": "handheld",
+      "prompt": "Handheld close shot inside a hollow of thorn bushes at blue dusk: a woman crouched low pressing a small child against her chest, her hand cupped over the child's eyes, her own eyes wide and alert looking out through the thorns, shoulders held still as if holding her breath, thorn branches in silhouette in the foreground, cold blue light, no text",
+      "alt": "Handheld close shot inside a hollow of thorn bushes at blue dusk: a hand cupped protectively over a small cloth-wrapped bundle, thorn branches in silhouette in the foreground, cold blue light, stillness, no faces visible, no text"
+     },
+     {
+      "n": 11,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static shot as the first ray of sunrise cuts across a thorn bush, a woman in the golden shaft of light with her eyes closed tight, her forehead pressed against a small child's forehead, a tear catching the light, dust motes glowing, the rest of the frame still in blue shadow, no text",
+      "alt": "Static shot as the first ray of sunrise cuts across a thorn bush, dew on the thorns glowing gold, dust motes drifting in the shaft of light, the outlines of two silhouettes touching foreheads seen only through the branches, blurred and unreadable, no text"
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "Handheld low close-up: small bare feet stepping onto red earth in golden morning light, framed so tightly that only the feet, ankles and the dust are visible, dust puffing up with each step, warm backlight, no text",
+      "alt": "Handheld low close-up of a single small footprint in red dust filling with golden morning light, a few grains of sand moving in the wind, framed so tightly that only the footprint and dust are visible, no text"
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static close-up backlit by low golden sun: two weathered hands clapping together in a steady rhythm, dust bursting from the palms at each clap and glowing in the backlight, brass bracelets on the wrists, framed so tightly that only the hands and the dust are visible, no text",
+      "alt": "Static close-up backlit by low golden sun: dust bursting rhythmically into a shaft of light as if from unseen clapping hands just below the frame, glowing particles drifting, no people visible, no text"
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "Rising aerial drone shot over a herd of long-horned cattle moving through morning mist across the savanna, a woman with a child on her back walking alongside the herd, dust glowing gold in the low sun, long shadows, vast plain, no text",
+      "alt": "Rising aerial drone shot over a herd of long-horned cattle moving through morning mist across the savanna, dust glowing gold in the low sun, long shadows, vast plain, no people, no text"
+     },
+     {
+      "n": 15,
+      "secao": "refrão 1",
+      "camera": "steadicam",
+      "prompt": "Steadicam side-tracking shot at hip height: three women in indigo wraps walking together at dawn with children bound to their backs, moving in the same rhythm, hands clapping as they walk, their faces turned away toward the rising sun, dust at their feet, golden backlight, no text",
+      "alt": "Top-down shot of three long shadows of walking figures stretched across golden grass at dawn, the shadows' hands clapping in rhythm, dust drifting, no people visible, no text"
+     },
+     {
+      "n": 16,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static macro close-up: a hand striking a calabash gourd floating upside down in a clay bowl of water, water splashing gold in the low sun, framed so tightly that only the hand, the calabash and the water are visible, rhythmic, no text",
+      "alt": "Static macro close-up: a calabash gourd bobbing upside down in a clay bowl of water, ripples spreading and catching low golden sunlight, framed so tightly that only the calabash and water are visible, no text"
+     },
+     {
+      "n": 17,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static low-angle shot: the enormous curved horns of long-horned cattle passing in silhouette across the rising sun's disc, dust glowing gold around them, sun flare between the horns, slow steady walking rhythm, no text",
+      "alt": "Static low-angle shot: the rising sun's disc seen through drifting golden dust with the silhouettes of dry grass stalks bending in the wind in the foreground, sun flare, no animals, no people, no text"
+     },
+     {
+      "n": 18,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static wide shot: a woman standing on a low rise, arms fully extended holding a small child high above her head, both in pure silhouette against a vast burnt-ochre and gold dawn sky, dust and light around them, the cattle herd small below, triumphant stillness, no text",
+      "alt": "Static wide shot: a single acacia tree on a low rise in pure silhouette against a vast burnt-ochre and gold dawn sky, a bird lifting off its top branch, the cattle herd small below, dust and light, no people, no text"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "dolly-out",
+      "prompt": "Dolly-out shot at dusk beginning close on a woman in a white cotton wrap with brass rings kneeling and grinding millet on a stone, a small child sitting beside her, the camera pulling back to reveal a Sahel village of round mud-walled granaries with thatched roofs, and far on the horizon a plume of dust rising, warm ochre light turning cold, no text",
+      "alt": "Dolly-out shot at dusk beginning close on a grinding stone with millet grains, the camera pulling back to reveal a Sahel village of round mud-walled granaries with thatched roofs, empty, and far on the horizon a plume of dust rising, warm ochre light turning cold, no people, no text"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "pan",
+      "prompt": "Slow pan across the horizon at dusk: a distant line of riders' dust rising over the dunes, then the village in the foreground empty and silent, a doorway left open, a wooden bowl spilled on the ground, wind moving the thatch, cold violet and ochre light, no text",
+      "alt": "Slow pan across the horizon at dusk: dust devils spinning over distant dunes, then the village in the foreground empty and silent, a doorway left open, a wooden bowl spilled on the ground, wind moving the thatch, cold violet and ochre light, no people, no text"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "handheld",
+      "prompt": "Handheld close shot inside a dark granary: a woman pressing a small child down into a heap of millet grain and covering it with a woven mat, her hand lingering flat on the mat, thin slits of daylight cutting through the thatch, dust in the light, urgent but silent, no text",
+      "alt": "Handheld close shot inside a dark granary: a heap of millet grain and a woven mat settling over it as if just laid, thin slits of daylight cutting through the thatch, dust drifting in the light, no people visible, no text"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "handheld",
+      "prompt": "Handheld close shot inside the granary at night: a woman lifting the woven mat and pulling a small child up out of the heap of millet grain, grains streaming off the child's shoulders and catching a thin beam of moonlight through the thatch, her hands brushing dust from the child's hair, silence and relief, no text",
+      "alt": "Handheld close shot inside the granary at night: a woven mat being lifted away from a heap of millet grain, grains sliding down and catching a thin beam of moonlight through the thatch, dust drifting, no people visible, no text"
+     },
+     {
+      "n": 23,
+      "secao": "verso 2",
+      "camera": "estatico",
+      "prompt": "Static wide shot on a tropical coast at dusk: palm silhouettes, three large wooden sailing ships anchored offshore as dark shapes on a copper sea, a woman on the beach seen from behind holding a child's hand, both standing perfectly still watching the ships, waves washing in, heavy quiet, no text",
+      "alt": "Static wide shot on a tropical coast at dusk: palm silhouettes, three large wooden sailing ships anchored offshore as dark shapes on a copper sea, a pair of small footprints on wet sand being erased by the incoming waves, no people, heavy quiet, no text"
+     },
+     {
+      "n": 24,
+      "secao": "verso 2",
+      "camera": "travelling",
+      "prompt": "Tracking shot from behind along an empty dusty road: a woman in a faded printed cotton wrap carrying a cloth bundle on her head and leading a small child by the hand, walking away from the camera toward a red horizon, a distant stone fort and a railway line glinting on the far side, heat haze, the only movement on the road, no text",
+      "alt": "Tracking shot along an empty dusty road toward a red horizon, railway rails glinting far off, a dropped cloth bundle on the roadside, heat haze, dust drifting, no people, no text"
+     },
+     {
+      "n": 25,
+      "secao": "verso 2",
+      "camera": "handheld",
+      "prompt": "Handheld close-up walking alongside: a small child's hand gripping tightly around one finger of a woman's weathered hand, the sleeve of a faded printed wax-fabric wrap swinging with each step, red road dust drifting below, framed so tightly that only the two hands and the fabric are visible, warm late light, no text",
+      "alt": "Handheld close-up walking alongside: the hem of a faded printed wax-fabric wrap swinging with each step over red road dust, a small cloth bundle's fringe brushing it, framed so tightly that only the fabric and the dust are visible, no faces, no text"
+     },
+     {
+      "n": 26,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static extreme close-up in firelight: a weathered hand cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead and hairline are visible, fire glow on skin, stillness, no text",
+      "alt": "Static extreme close-up in firelight: a weathered hand cupped around a small clay oil lamp flame, shielding it from the wind, framed so tightly that only the hand and the flame are visible, no text"
+     },
+     {
+      "n": 27,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static extreme close-up: the same weathered hand in a white cotton sleeve cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, thin slits of daylight through thatch striping the skin, no text",
+      "alt": "Static extreme close-up: a hand in a white cotton sleeve cupped around a small clay oil lamp flame, thin slits of daylight through thatch striping the skin, framed so tightly that only the hand and the flame are visible, no text"
+     },
+     {
+      "n": 28,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static extreme close-up at dusk: the same weathered hand cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, the sea a copper blur behind, salt wind moving a loose strand of hair, no text",
+      "alt": "Static extreme close-up at dusk: a hand cupped around a small clay oil lamp flame on a beach, the sea a copper blur behind, wind bending the flame, framed so tightly that only the hand and the flame are visible, no text"
+     },
+     {
+      "n": 29,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static extreme close-up in harsh daylight: the same weathered hand in a faded printed wax-fabric sleeve cupped gently over a small child's eyes, framed so tightly that only the hand and the child's forehead are visible, red road dust drifting past, heat haze behind, no text",
+      "alt": "Static extreme close-up in harsh daylight: a hand in a faded printed wax-fabric sleeve cupped around a small clay oil lamp flame, red road dust drifting past, framed so tightly that only the hand and the flame are visible, no text"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "steadicam",
+      "prompt": "Low-angle steadicam shot moving backward in front of a crowd of women in the cloth of every era — leather, indigo, white cotton, printed wax fabric — walking as one across the plain at dawn with children on their backs, hands clapping in rhythm, faces turned up toward the light, dust glowing gold around their feet, no text",
+      "alt": "Top-down aerial shot of a long line of walking shadows stretched across golden grass at dawn, the shadows' hands clapping in rhythm, dust drifting gold, no people visible, no text"
+     },
+     {
+      "n": 31,
+      "secao": "refrão 2",
+      "camera": "handheld",
+      "prompt": "Handheld low-angle profile close-up backlit by the sun: a woman's throat and jawline with her head tilted back into the light, neck tendons taut, a hand pressed flat on her chest, framed from the chin up in profile so the lower face is hidden by flare, dust and sun flare, no text",
+      "alt": "Handheld low-angle shot into the sun through drifting dust: a raised hand in silhouette with fingers spread wide against the sun flare, dust glowing, no faces, no text"
+     },
+     {
+      "n": 32,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static top-down close-up: many pairs of women's hands clapping together in the same rhythm, sleeves of every era side by side — ancient leather, indigo, white cotton, printed wax fabric — dust bursting gold from the palms in low sunlight, framed so tightly that only hands and sleeves are visible, no text",
+      "alt": "Static top-down close-up: strips of cloth of every era — leather, indigo, white cotton, printed wax fabric — laid side by side on red earth, dust drifting gold across them in low sunlight, framed so tightly that only the cloth and dust are visible, no people, no text"
+     },
+     {
+      "n": 33,
+      "secao": "refrão 2",
+      "camera": "drone",
+      "prompt": "Wide aerial drone shot at full sunrise: the cattle herd and the walking women crossing the plain together, their long shadows drawing moving parallel lines across the golden grass, dust glowing, vast horizon, no text",
+      "alt": "Wide aerial drone shot at full sunrise: a cattle herd crossing the plain, long shadows drawing moving parallel lines across the golden grass, dust glowing, vast horizon, no people, no text"
+     },
+     {
+      "n": 34,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Static slow shot at night by dying embers: an old woman seated with a one-string spike fiddle across her lap, drawing the bow slowly, beside her a young mother holding an infant, three generations in the ember glow, no one looking at the camera, almost no movement except the bow and the sparks, deep indigo darkness around, no text",
+      "alt": "Static slow shot at night by dying embers: a one-string spike fiddle leaning against a stone with its bow resting beside it, a woven cloth on the ground, sparks rising slowly, deep indigo darkness around, no people, no text"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "estatico",
+      "prompt": "Static macro close-up lit only by embers: the single horsehair string of a spike fiddle vibrating slowly under a bow of horsehair drawn by an old wrinkled hand, ember light reflected on the gourd body of the instrument, dust motes drifting, framed so tightly that only the string, the bow and the hand are visible, no text",
+      "alt": "Static macro close-up lit only by embers: the single string of a spike fiddle trembling gently as if just plucked, ember light reflected on the gourd body of the instrument, dust motes drifting, framed so tightly that only the string and the gourd are visible, no people, no text"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "travelling",
+      "prompt": "Slow lateral travelling shot at dusk along a ridge: a long line of women standing in silhouette against a violet sky, each holding a child, evenly spaced all the way to the horizon, wind moving their wraps, no faces readable, solemn and still, no text",
+      "alt": "Slow lateral travelling shot at dusk along a ridge: a long line of acacia trees in silhouette against a violet sky, evenly spaced to the horizon, wind moving the branches, solemn and still, no people, no text"
+     },
+     {
+      "n": 37,
+      "secao": "ponte",
+      "camera": "handheld",
+      "prompt": "Handheld extreme close-up lit only by embers: a young woman's eyes looking down at something out of frame, framed from the eyes up so the lower face is never visible, a tear forming, then the eyes slowly closing, ember light flickering on skin, no text",
+      "alt": "Handheld extreme close-up of embers breathing orange in the dark, then a hand's fingers slowly closing around the edge of a woven cloth, framed so tightly that only the fingers and cloth are visible, no text"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Static wide shot: dawn breaking over the ridge, the long line of silhouetted women turning together toward the light, their wraps catching gold at the edges, dust rising, the sky shifting from violet to ochre, no text",
+      "alt": "Static wide shot: dawn breaking over the ridge, a line of acacia trees catching gold light at the edges, a flock of birds rising from the branches, the sky shifting from violet to ochre, no people, no text"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Handheld shot from inside a circle of dozens of women clapping and stamping on red earth, dust rising gold in the low sun, arms and cloth flying, bodies mid-turn, energy and joy in the movement, chest-height, no text",
+      "alt": "Handheld ground-level shot of many bare feet stamping red earth in a circle, dust clouds rising gold in the low sun, cloth hems flying, framed so tightly that only feet, hems and dust are visible, no text"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Handheld ground-level close-up: many bare feet of women stamping red earth in rhythm, dust clouds bursting gold in the low sun, cloth hems of every era — leather, indigo, white cotton, printed wax fabric — flying past, framed so tightly that only feet, hems and dust are visible, fast energy, no text",
+      "alt": "Handheld ground-level close-up: dust clouds bursting rhythmically from trampled red earth in low golden sun, a few dry grass stalks whipping, framed so tightly that only the ground and the dust are visible, no people, no text"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Static low-angle shot at full sunrise: in the center of a circle of women in the cloth of every era, a woman in an ancient leather and indigo wrap lifts a small child high above her head with both arms fully extended, the child's arms spread wide against the sun, gold dust glowing all around, the women's arms rising toward them, sun flare behind the child, triumphant, no text",
+      "alt": "Static low-angle shot at full sunrise: a woman in an ancient leather and indigo wrap seen in pure silhouette lifting a small child high above her head with both arms fully extended, gold dust glowing all around, sun flare behind the child, no faces visible, triumphant, no text"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Handheld low-angle close shot backlit by the sun: a mature woman mid-turn with her head thrown back and eyes closed, one hand pressed flat on her chest and the other arm thrown up, neck tendons taut, dozens of arms rising behind her in golden dust, sun flare crossing her face so the lower face is lost in light, no text",
+      "alt": "Handheld low-angle shot into the sun: dozens of women's arms thrown up at once in silhouette against the sun flare, golden dust glowing between them, no faces visible, no text"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Static close-up: many women's hands of different ages stacked one over the other over a small child's hand, then lifting away one by one, framed so tightly that only hands are visible, warm morning light, no text",
+      "alt": "Static close-up: many hands stacked one over the other above a small clay oil lamp, then lifting away one by one while the flame stays steady, framed so tightly that only hands and flame are visible, warm morning light, no text"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "steadicam",
+      "prompt": "Steadicam shot running behind a child of about five sprinting through tall golden grass toward the rising sun with arms spread wide, women's arms reaching in from the edges of the frame, grass whipping past the lens, lens flare, no text",
+      "alt": "Steadicam shot tracking forward through tall golden grass parting as if someone runs just ahead, the rising sun straight ahead, grass whipping past the lens, lens flare, no people visible, no text"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "drone",
+      "prompt": "Aerial drone pull-back shot: the circle of dancing women shrinking to a dot on the vast plain, the cattle herd nearby, a river glinting in the distance, the whole landscape flooded with full golden dawn, no text",
+      "alt": "Aerial drone pull-back shot: a circle of trampled dust shrinking to a dot on the vast plain, a cattle herd nearby, a river glinting in the distance, the whole landscape flooded with full golden dawn, no people, no text"
+     },
+     {
+      "n": 46,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Handheld three-quarter shot from behind: the woman in the ancient leather wrap of the opening lifting a small child onto her back one more time, tying the cloth with a firm pull, straightening her spine, then turning her head toward the horizon, dawn light on her shoulders, dust, no text",
+      "alt": "Handheld close-up of a cloth knot being pulled tight at the small of a back, framed so tightly that only the hands, the knot and the cloth are visible, dawn light, dust, no text"
+     },
+     {
+      "n": 47,
+      "secao": "refrão final",
+      "camera": "estatico",
+      "prompt": "Static wide shot: a woman walking away from the camera toward the rising sun across the ochre plain, small in the frame, a child bound to her back with its head peeking over her shoulder and turning back to look at the camera, long shadow, dust glowing, the only face turned toward the lens in the whole film, no text",
+      "alt": "Static wide shot: a woman walking away from the camera toward the rising sun across the ochre plain, very small in the frame, a wrapped shape on her back, long shadow, dust glowing, no faces visible, no text"
+     },
+     {
+      "n": 48,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Static close-up: the sun's disc clearing the horizon seen through the spread fingers of a small hand held up against it, framed so tightly that only the hand and the sun are visible, warm flare between the fingers, gentle tremble, no text",
+      "alt": "Static close-up: the sun's disc clearing the horizon seen through a lattice of dry golden grass stalks, warm flare between the stalks, gentle wind, no people, no text"
+     },
+     {
+      "n": 49,
+      "secao": "outro",
+      "camera": "estatico",
+      "prompt": "Static wide shot of the empty plain at full sunrise, a line of footprints leading to the horizon, wind moving the dry gold grass, dust settling, vast calm sky, slow fade to black at the end, no people, no text",
+      "alt": "Static wide shot of the empty plain at full sunrise, wind moving the dry gold grass, dust settling, vast calm sky, slow fade to black at the end, no people, no text"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "quero-uma-historia-sobre-o-egito-antigo",
    "mvd": "MVD#151",
    "titulo": "Escrito na Pedra",
@@ -1623,7 +2052,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
