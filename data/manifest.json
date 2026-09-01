@@ -4,6 +4,437 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "personagem-cantora-sertaneja-brasileira",
+   "mvd": "MVD#144",
+   "titulo": "Menos Eu",
+   "quando": "2026-08-28T05:05:39-03:00",
+   "atualizado": "2026-09-01T06:44:47-03:00",
+   "solicitacao": "PERSONAGEM Cantora sertaneja brasileira de 35 anos, sofisticada, bonita e bem-sucedida. Mulher forte por fora, mas emocional quando fala do filho. Estética sertaneja moderna, elegante e cinematográfica. HISTÓRIA / EMOÇÃO Ela passou a vida trabalhando por ele. Queria dar tudo que nunca teve. Conseguiu. O filho cresceu, venceu e virou seu maior orgulho. Mas, ao olhar para a infância dele, percebe que muitas das melhores lembranças não têm ela. E quando ele precisa de alguém, nem sempre é para ela que liga primeiro. Ele a ama. Mas quem virou seu porto seguro foi quem estava presente. Mensagem central: “Eu estava fazendo tudo por você. Só não estava com você.” LETRA Sofrência madura, direta e emocional. Temas: sucesso, maternidade, infância, tempo perdido e presença. A maior dor não é perder o amor do filho. É perceber que perdeu um lugar na vida dele. Refrão simples e forte: “Eu te dei tudo, menos eu.” MÚSICA Sertanejo romântico / sofrência contemporânea, ~122 BPM, G maior, clima nostálgico, íntimo e crescente. Piano, violão, acordeon, baixo e bateria live. Voz feminina quente, forte e levemente rouca. Versos quase falados e refrão grande. PROMPT MUSICAL Brazilian female contemporary sertanejo / emotional sofrência, around 122 BPM, key of G major, acoustic guitar, piano, accordion, melodic bass and organic live drums. Story of a successful mother who worked her whole life for her son, but later realizes that while she was building his future, other people were living his present. He loves her, but his emotional safe place became those who were always there. Main hook: “Eu te dei tudo, menos eu.” NEGATIVE bad mother stereotype, abandonment, blaming child, blaming grandmother, guilt manipulation, anti-career message, excessive melodrama, EDM, trap, rap, excessive autotune.",
+   "genero": "sertanejo romântico / sofrência contemporânea",
+   "bpm": 122,
+   "tom": "Sol maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-2.5-flash"
+   },
+   "custo": 0.08,
+   "tags": [
+    "nostálgico",
+    "íntimo",
+    "crescente",
+    "maduro",
+    "emocional sem melodrama"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/personagem-cantora-sertaneja-brasileira/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 571033785,
+   "doc": "# Menos Eu\n\n**slug:** `personagem-cantora-sertaneja-brasileira`  ·  **solicitação:** PERSONAGEM Cantora sertaneja brasileira de 35 anos, sofisticada, bonita e bem-sucedida. Mulher forte por fora, mas emocional quando fala do filho. Estética sertaneja moderna, elegante e cinematográfica. HISTÓRIA / EMOÇÃO Ela passou a vida trabalhando por ele. Queria dar tudo que nunca teve. Conseguiu. O filho cresceu, venceu e virou seu maior orgulho. Mas, ao olhar para a infância dele, percebe que muitas das melhores lembranças não têm ela. E quando ele precisa de alguém, nem sempre é para ela que liga primeiro. Ele a ama. Mas quem virou seu porto seguro foi quem estava presente. Mensagem central: “Eu estava fazendo tudo por você. Só não estava com você.” LETRA Sofrência madura, direta e emocional. Temas: sucesso, maternidade, infância, tempo perdido e presença. A maior dor não é perder o amor do filho. É perceber que perdeu um lugar na vida dele. Refrão simples e forte: “Eu te dei tudo, menos eu.” MÚSICA Sertanejo romântico / sofrência contemporânea, ~122 BPM, G maior, clima nostálgico, íntimo e crescente. Piano, violão, acordeon, baixo e bateria live. Voz feminina quente, forte e levemente rouca. Versos quase falados e refrão grande. PROMPT MUSICAL Brazilian female contemporary sertanejo / emotional sofrência, around 122 BPM, key of G major, acoustic guitar, piano, accordion, melodic bass and organic live drums. Story of a successful mother who worked her whole life for her son, but later realizes that while she was building his future, other people were living his present. He loves her, but his emotional safe place became those who were always there. Main hook: “Eu te dei tudo, menos eu.” NEGATIVE bad mother stereotype, abandonment, blaming child, blaming grandmother, guilt manipulation, anti-career message, excessive melodrama, EDM, trap, rap, excessive autotune.\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-2.5-flash | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/personagem-cantora-sertaneja-brasileira`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Menos Eu\n\n\n\n**slug:** `personagem-cantora-sertaneja-brasileira`  ·  **criado:** 2026-08-28T05:05:39-03:00\n\n**solicitação:** PERSONAGEM Cantora sertaneja brasileira de 35 anos, sofisticada, bonita e bem-sucedida. Mulher forte por fora, mas emocional quando fala do filho. Estética sertaneja moderna, elegante e cinematográfica. HISTÓRIA / EMOÇÃO Ela passou a vida trabalhando por ele. Queria dar tudo que nunca teve. Conseguiu. O filho cresceu, venceu e virou seu maior orgulho. Mas, ao olhar para a infância dele, percebe que muitas das melhores lembranças não têm ela. E quando ele precisa de alguém, nem sempre é para ela que liga primeiro. Ele a ama. Mas quem virou seu porto seguro foi quem estava presente. Mensagem central: “Eu estava fazendo tudo por você. Só não estava com você.” LETRA Sofrência madura, direta e emocional. Temas: sucesso, maternidade, infância, tempo perdido e presença. A maior dor não é perder o amor do filho. É perceber que perdeu um lugar na vida dele. Refrão simples e forte: “Eu te dei tudo, menos eu.” MÚSICA Sertanejo romântico / sofrência contemporânea, ~122 BPM, G maior, clima nostálgico, íntimo e crescente. Piano, violão, acordeon, baixo e bateria live. Voz feminina quente, forte e levemente rouca. Versos quase falados e refrão grande. PROMPT MUSICAL Brazilian female contemporary sertanejo / emotional sofrência, around 122 BPM, key of G major, acoustic guitar, piano, accordion, melodic bass and organic live drums. Story of a successful mother who worked her whole life for her son, but later realizes that while she was building his future, other people were living his present. He loves her, but his emotional safe place became those who were always there. Main hook: “Eu te dei tudo, menos eu.” NEGATIVE bad mother stereotype, abandonment, blaming child, blaming grandmother, guilt manipulation, anti-career message, excessive melodrama, EDM, trap, rap, excessive autotune.\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico / sofrência contemporânea  ·  **BPM:** 122  ·  **Tom:** Sol maior\n- **Mood:** nostálgico, íntimo, crescente, maduro, emocional sem melodrama\n- **Instrumentação:** piano, violão acústico em arpejos, acordeon expressivo, baixo elétrico melódico, bateria acústica live, harmonias vocais femininas no refrão final\n- **Voz:** \"feminina brasileira, quente, forte e levemente rouca; versos quase falados e confessionais, refrão aberto, grande e fácil de cantar junto\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Brazilian contemporary female country heartbreak ballad, sofrencia style, around 122 BPM, key of G major, emotional half-time feel. Intimate piano opening, acoustic guitar arpeggios, expressive accordion phrases answering the voice, melodic electric bass, organic live drums entering on the first chorus, subtle female vocal harmonies on the final chorus. Warm, powerful, slightly raspy Brazilian female lead vocal: almost spoken confessional verses, rising pre-chorus, big open sing-along chorus. Vocal-forward polished acoustic live-studio mix with warm compression. Story of a successful mother who worked her whole life to give her son everything he needed, and realizes too late that she gave him everything except her own presence — while she built his future, others lived his present. He loves her, but his safe harbor became those who were there. Mature, dignified, nostalgic and growing emotion, no self-pity, no blame. Immediate vocal hook in the first seconds. Main hook: 'Eu te dei tudo, menos eu'. Lyrics in pt-BR\n\n**Estrutura:** intro (12s) · verso 1 (30s) · pre-refrao (10s) · refrao 1 (24s) · verso 2 (28s) · refrao 2 (24s) · ponte (18s) · refrao final (26s) · outro (8s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\n(quase falado, suave)\nEu te dei tudo... menos eu\n\n[Verso 1]\nAprendi a fechar contrato antes de aprender a te ninar\nCada estrada que eu rodava era pensando em te dar um lar\nTe liguei de tanto quarto de hotel\nTeu primeiro \"mamãe\" eu ouvi pelo celular\n\n[Pré-refrão]\nVocê cresceu no colo da vovó\nO meu colo ficou pra depois\nE o depois nunca chegou\n\n[Refrão]\nEu te dei tudo, menos eu\nTe dei escola, casa e chão\nMas o abraço de todo dia\nFoi de outra mão\nEu te dei tudo, menos eu\nMeu orgulho é te ver vencer\nSó queria ter estado lá\nPra te ver crescer\n\n[Verso 2]\nHoje você é tudo aquilo que um dia eu sonhei pra você\nFala da vovó com um brilho que eu não vou ter\nNão te faltou amor, eu sei, cuidaram tão bem de você\nSó que o porto seguro que eu quis ser\nJá tinha dono antes de eu perceber\n\n[Refrão]\nEu te dei tudo, menos eu\nTe dei escola, casa e chão\nMas o abraço de todo dia\nFoi de outra mão\nEu te dei tudo, menos eu\nMeu orgulho é te ver vencer\nSó queria ter estado lá\nPra te ver crescer\n\n[Ponte]\nNão me arrependo do suor\nCada ausência tinha um porquê\nMas se o tempo me deixasse escolher de novo\nEu trocava qualquer palco\nPra te ver aprender a ler\n\n[Refrão final]\nEu te dei tudo, menos eu\nTe dei escola, casa e chão\nMas o abraço de todo dia\nFoi de outra mão\nEu te dei tudo, menos eu\nMeu orgulho é te ver vencer\nAgora eu tô aqui, filho\nDeixa eu te ver crescer\n\n[Outro]\n(suave, resolvido)\nEu te dei tudo... menos eu\nAinda dá tempo de te dar eu\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #E8A87C, #FFC46B, #2B4FD8, #1A120E, #F2EAD9\n- **Params:** `{}`\n\n**Conceito:** Camarim depois do show: a cantora sofisticada, cercada pelo sucesso que construiu (lâmpadas de espelho, jaqueta de palco, discos na parede), mas de olhos baixos sobre uma fotografia antiga do filho — o único troféu que faltou. Olhar escolhido: olhos baixos sobre a foto (nem lente, nem perfil, nem olhos fechados), porque o gesto de olhar a lembrança É a música. Luz quente-fria medida no acervo: âmbar das lâmpadas contra sombra azul.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of an elegant 35-year-old Brazilian female country singer, long dark wavy hair, tailored leather jacket over a silk blouse, fine delicate jewelry, sitting at a backstage dressing-room table after a show, eyes lowered gazing at a small worn family photograph held gently in both hands, warm amber mirror bulbs glowing behind her, cool deep blue shadow filling the edges of the room, faint haze, shallow depth of field, sophisticated modern country aesthetic, cinematic photography, space for bold title at the bottom, 1:1\n\n**Negativo:** text, letters, typography, watermark, logo, extra limbs, distorted hands, open mouth, microphone, stage crowd, vulgar outfit\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** Faixa final de 207s (a estrutura de 180s foi esticada em ~1,15x: intro 0–14, verso 1 14–48, pré-refrão 48–60, refrão 1 60–88, verso 2 88–120, refrão 2 120–148, ponte 148–168, refrão final 168–198, outro 198–207). 47 planos em 207s = média de 13,6 cortes/min, com a mesma variação real por seção que já estava: versos respiram a ~10,6 cortes/min (planos de 5–7s), pré-refrão e ponte seguram o plano (6–7s), refrões picam a ~17 cortes/min (8 planos em 28s, 3–4s cada). O NÚCLEO medido na onda, 171–183s, é o pico do refrão final e roda a 25 cortes/min (5 planos de 2–2,5s, o regime mais picado do clipe): corredor → olhos fechados → coxia → reconhecimento → abraço. É um mini-filme fechado em 12s, feito pra virar o Short: o melhor plano do clipe (n. 36, o slow-motion em que ela vê o filho na coxia) cai em 178,5–181s, no centro do núcleo, e o abraço fecha os 183s. Ancoragem nas referências medidas: o lyric video de balada (72 BPM) rodou a 20,7 cortes/min com cross-dissolve e dupla exposição — esta sofrência em half-time (122 BPM sentidos como ~61) fica abaixo disso nos versos e usa o dissolve dele nas passagens presente→memória; o DVD sertanejo ao vivo (128 BPM, 23,5 cortes/min) dá o corte seco no beat e o slowmo dos refrões de palco — os refrões daqui se aproximam desse regime e só o núcleo o ultrapassa, porque ali a montagem é paralela (corredor/palco) e cada corte é uma pergunta respondida no plano seguinte. Recursos usados só os medidos: corte no beat, cross-dissolve, slow-motion nos picos emocionais (reencontro e abraço), drone e steadicam nos planos de show. O canto nunca é descrito pela boca: lê-se no corpo — cabeça pra trás, olhos fechados, garganta tensionada, mão no pé do microfone.\n- **Params:** `{}`\n- **Shots:** 47  ·  **Duração total:** 207.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 8.0s | dolly-in lento | Camarim vazio à noite; o sucesso está lá, ela não. |\n| 2 | intro | 6.0s | close estático | As mãos e a fotografia antiga — o objeto que conta a história. |\n| 3 | verso 1 | 7.0s | geral estático | Flashback: madrugada azul, o carro sai, uma janela acesa fica. |\n| 4 | verso 1 | 6.0s | médio estático | Flashback: ela de saída beija a testa do filho dormindo. |\n| 5 | verso 1 | 5.0s | close estático | A mão pequena na janela vendo o carro ir. |\n| 6 | verso 1 | 6.0s | médio estático | Flashback: quarto de hotel à noite, o primeiro 'mamãe' chega pelo telefone — a mão vai à boca. |\n| 7 | verso 1 | 5.0s | médio, travelling suave | Presente: ela no banco de trás do carro à noite, elegância cansada. |\n| 8 | verso 1 | 5.0s | detalhe estático | Flashback: calendário com dias riscados e o desenho da criança ao lado. |\n| 9 | pre-refrao | 6.0s | geral, travelling lateral | A casa enorme e vazia — ela pequena dentro do que conquistou. |\n| 10 | pre-refrao | 6.0s | plongée close | O álbum de fotos da infância: as páginas viram, ela não aparece. |\n| 11 | refrao 1 | 3.5s | drone geral | O refrão abre no palco: arena, feixes âmbar e azul. |\n| 12 | refrao 1 | 3.0s | close frontal | A emoção do canto sem boca: dos olhos pra cima, lágrima na luz. |\n| 13 | refrao 1 | 3.5s | médio estático | Memória intercalada: aniversário de seis anos, outras mãos acendem as velas. |\n| 14 | refrao 1 | 3.5s | close detalhe | No palco: a mão fechada no pé do microfone, força contida. |\n| 15 | refrao 1 | 3.0s | geral, travelling | Memória: o menino corre com a pipa no fim de tarde — feliz, sem ela. |\n| 16 | refrao 1 | 4.0s | steadicam em arco | O corpo canta: queixo erguido, garganta tensa, contra a luz. |\n| 17 | refrao 1 | 3.5s | médio estático | Memória: o menino adormecido no colo da avó, luz da TV — o colo que ficou pra depois. |\n| 18 | refrao 1 | 4.0s | geral por trás | Ela de costas diante do mar de luzes de celular. |\n| 19 | verso 2 | 6.0s | médio, slow-motion leve | Formatura: o filho adulto vence; ela aplaude algumas fileiras atrás. |\n| 20 | verso 2 | 5.5s | médio estático | Depois da cerimônia: o abraço dele vai primeiro para quem esteve lá; ela observa com amor. |\n| 21 | verso 2 | 6.0s | médio, travelling lento | Almoço de família: ele conta uma história à avó com um brilho nos olhos; ela, na ponta da mesa, escuta e sorri. |\n| 22 | verso 2 | 5.0s | geral, dolly-out | Presente: cobertura à noite, o telefone escuro sobre o mármore. |\n| 23 | verso 2 | 5.5s | close estático | Só as mãos e o telefone: a ligação que ela não recebe e não faz. |\n| 24 | verso 2 | 4.0s | handheld, textura home video | Memória em textura de filmagem caseira: a primeira pedalada, outras mãos seguram o banco. |\n| 25 | refrao 2 | 3.5s | geral por trás da bateria | Segundo refrão: o palco visto de dentro da banda, ela cruza a passarela. |\n| 26 | refrao 2 | 3.0s | close de perfil | Perfil contra o azul: mandíbula firme, uma lágrima pega a luz. |\n| 27 | refrao 2 | 3.5s | médio estático | Memória: a cadeira vazia na apresentação da escola. |\n| 28 | refrao 2 | 3.5s | close detalhe | A mão espalmada sobre o peito, no brilho dos paetês. |\n| 29 | refrao 2 | 3.0s | médio, POV do corredor | Memória: hora de dormir, outra silhueta lê a história pra ele. |\n| 30 | refrao 2 | 4.0s | drone subindo | O pico do refrão: drone sobe, ela pequena sob um único spot branco, braços abertos. |\n| 31 | refrao 2 | 3.5s | médio estático | Memória: o filho adolescente, à noite na varanda, liga pra alguém — e os ombros dele relaxam quando atendem. Não é pra ela. |\n| 32 | refrao 2 | 4.0s | médio, slow-motion | Ela ajoelha na beira do palco, mão estendida às mãos da plateia. |\n| 33 | ponte | 7.0s | travelling lento por trás | A ponte silencia: ela volta à casa antiga ao entardecer. |\n| 34 | ponte | 7.0s | médio estático | O quarto de infância preservado: ela sentada na cama pequena com o bicho de pelúcia. |\n| 35 | ponte | 6.0s | close estático | O dedo percorre as marcas de altura no batente da porta. |\n| 36 | refrao final | 3.0s | geral, corte no beat | Refrão final estoura (168s): palco inteiro em ouro, confete, plateia em onda. |\n| 37 | refrao final | 2.5s | steadicam atrás | NÚCLEO (171s): corredor dos bastidores, o filho adulto caminha para a coxia com flores. |\n| 38 | refrao final | 2.5s | close frontal | NÚCLEO: ela ainda não sabe — olhos fechados com força, mão no coração. |\n| 39 | refrao final | 2.0s | médio, POV da coxia | NÚCLEO: da coxia, ele a observa no palco, emocionado. |\n| 40 | refrao final | 2.5s | close, slow-motion | NÚCLEO — o melhor plano do clipe (178,5s): ela o vê. Slow-motion, a mão sobe ao rosto, os olhos se enchem. |\n| 41 | refrao final | 2.5s | médio, slow-motion | NÚCLEO fecha (183s): o abraço no palco, o spot fecha nos dois. |\n| 42 | refrao final | 3.5s | close detalhe | A mão dela agarrada às costas da jaqueta dele — agora ela fica. |\n| 43 | refrao final | 3.0s | close de perfil, slow-motion | Testa com testa, em silhueta contra o spot: o buquê esmagado entre os dois. |\n| 44 | refrao final | 4.0s | geral, slow-motion | A plateia responde: o mar de luzes balança devagar, mãos ao alto. |\n| 45 | refrao final | 4.5s | grua, pull-back | Grua abre: os dois pequenos na luz, arena de luzes de celular. |\n| 46 | outro | 3.5s | close estático | Epílogo, fecho do plano 2: sobre a mesa do camarim, ao lado da foto antiga, uma foto nova — e nessa ela está. |\n| 47 | outro | 5.5s | geral estático longo | Epílogo: os dois sentados na varanda da casa antiga, de costas, fim de tarde. Agora ela se dá. |\n\n**Prompts (EN):**\n\n1. Slow dolly-in across an empty backstage dressing room at night, warm amber mirror bulbs glowing around a large mirror, a sequined stage jacket draped over a chair, framed gold records on the wall, a bouquet still wrapped, thin haze, cool blue shadows in the corners, cinematic, shallow depth of field, palette of amber #E8A87C and deep blue #2B4FD8\n2. Extreme close-up framed so tightly that only two elegant hands with fine rings and a creased old photograph are visible, the photo showing a small child on a bicycle in soft blur, warm lamp light from the side, deep blue darkness around, gentle trembling of the paper, cinematic macro texture\n3. Wide static shot of a modest Brazilian suburban house at blue dawn, car headlights pulling out of the driveway and leaving frame, one small upstairs window glowing warm amber, mist on the street, melancholic cinematic look, cold blue palette with a single warm light\n4. Dark child's bedroom before dawn, an elegant woman in work clothes leaning over a sleeping six-year-old boy, pressing a gentle kiss on his forehead, warm hallway light spilling through the half-open door, deep blue shadows, tender and quiet, cinematic shallow depth of field\n5. Close-up framed so tightly that only a small child's hand pressed against cold window glass is visible, condensation around the fingers, blurred red car taillights sliding away outside in the blue dawn, cinematic melancholy, shallow focus on the glass\n6. Night hotel room years ago, an elegant young woman in work clothes sitting on the edge of a made bed with a phone pressed to her ear, her free hand rising to cover her mouth as her eyes well up, one warm bedside lamp, cold blue city glow through sheer curtains, stillness and distance, cinematic shallow depth of field\n7. Present day, an elegant 35-year-old Brazilian woman with long dark wavy hair in the back seat of a luxury car at night, gazing out of the window, city lights sliding across her face in amber and blue reflections, tired dignified expression, cinematic shallow depth of field, smooth lateral travelling feel\n8. Static detail shot of a kitchen wall in warm morning light: a paper wall calendar with many days crossed out in pen strokes, beside it a child's crayon drawing of a house and two stick figures pinned to the wall, soft dust in the light, nostalgic film texture, no readable words\n9. Slow lateral travelling across a vast modern luxury living room at dusk, floor-to-ceiling windows, polished marble, an elegant woman with long dark wavy hair standing small and alone in the middle of the huge space, cold blue dusk light outside, one warm lamp inside, cinematic scale and solitude\n10. Overhead close-up of an open family photo album on a wooden table, an elegant hand slowly turning pages of childhood snapshots, warm lamp light, the photos slightly out of focus showing a child's moments, nostalgic film grain, melancholic intimacy\n11. Sweeping aerial drone shot over a large concert arena at night, amber and deep blue light beams cutting through haze, silhouetted crowd, an elegant female performer standing center stage with head bowed and both hands gripping the microphone stand, cinematic concert look, palette #E8A87C and #2B4FD8\n12. Tight close-up framed from the eyes up of an elegant 35-year-old Brazilian woman on stage, eyes shut tight with intensity, brow tense, a tear catching the amber rim light, deep blue backlight in the haze behind her, cinematic concert emotion\n13. Warm kitchen at evening, a birthday cake with six candles on the table, adult hands entering from the edge of frame lighting the candles, a small boy leaning in with glowing face, party garlands blurred behind, nostalgic home-movie warmth, film grain\n14. Extreme close-up framed so tightly that only a hand with fine rings gripping the base of a microphone stand is visible, knuckles whitening, sequins glittering at the edge of frame, amber stage light with deep blue shadows, slow-motion feel, cinematic concert texture\n15. Golden hour field, a small boy running joyfully with a paper kite trailing high behind him, long grass, low warm sun flaring into the lens, handheld home-movie energy, nostalgic amber palette, film grain\n16. Steadicam arcing around an elegant female performer center stage, chin lifted high, throat and neck visibly tense, shoulders rising with a deep breath, hair rim-lit by a powerful white spotlight from behind, haze and deep blue darkness around, sequined jacket sparkling, cinematic concert intensity\n17. Cozy living room at night lit only by the soft flicker of a television, a small boy asleep curled on the lap of an older woman on a worn sofa, her hand resting gently on his hair, warm blanket, faces softly out of focus, tender nostalgic home warmth, film grain\n18. Wide shot from behind an elegant female performer in silhouette facing a sea of thousands of phone lights glowing like stars in the dark arena, amber wash from the stage behind her, deep blue haze, cinematic scale and communion\n19. University graduation ceremony, a young man in a dark gown walking across the stage holding a rolled diploma with a ribbon, warm auditorium light, in soft focus several rows back an elegant 35-year-old woman standing and clapping with proud wet eyes, gentle slow motion, cinematic depth, no readable text\n20. Sunlit university courtyard after a graduation, a young man in a gown warmly embracing an older woman under a tree, while a few steps away an elegant 35-year-old woman with long dark wavy hair watches them smiling with glistening eyes, golden hour backlight, tender bittersweet cinematic mood, no bitterness\n21. Slow travelling along a sunlit family lunch table in a modest Brazilian home, a young man leaning toward an older woman with animated bright eyes and open hands mid-story, plates and a pitcher of juice, at the far end of the table an elegant 35-year-old woman with long dark wavy hair resting her chin on her hand, watching them with a soft wistful smile, warm afternoon light, tender cinematic intimacy\n22. Night penthouse interior, slow dolly-out from a dark silent phone lying on a marble counter, revealing an elegant woman standing far away at the floor-to-ceiling window with an untouched glass of wine, city lights in amber and blue below, vast lonely negative space, cinematic\n23. Close-up framed so tightly that only two elegant hands with fine rings cradling a dark phone against soft silk fabric are visible, thumb resting hesitant over the black screen, cold blue window light on one side and warm lamp glow on the other, cinematic stillness\n24. Grainy handheld home-video style footage in a sunlit driveway, a small boy wobbling forward on a bicycle with training wheels just removed, adult hands entering from the edge of frame steadying the seat then letting go, warm faded colors, dust and lens flare, nostalgic vintage texture\n25. Wide concert shot framed from behind the drummer's silhouette and cymbals, an elegant female performer striding along the stage runway with fierce confident posture, amber and deep blue beams sweeping through haze, crowd hands raised, cinematic live-show energy\n26. Tight profile close-up of an elegant 35-year-old woman on stage framed from the eyes up against a deep blue backlight, jaw set, a single tear sliding and catching a spark of amber light, haze glowing behind, cinematic concert emotion\n27. School auditorium during a children's event, rows of occupied folding chairs with parents softly blurred, one empty folding chair conspicuous in the middle of the row, warm tungsten light from the small stage spilling over, melancholic cinematic composition, faces out of focus\n28. Extreme close-up framed so tightly that only an elegant hand with fine rings pressed flat over sparkling sequined fabric at the chest is visible, fabric rising and falling with deep breaths, amber key light and blue edge light, cinematic macro shimmer\n29. View from a dark hallway through a half-open bedroom door, inside a warm lamp-lit child's room an adult silhouette sits on the bed reading a picture book to a small boy tucked under blankets, cozy amber light, faces unreadable, tender nostalgic cinematic frame\n30. Drone shot rising over a packed arena crowd toward the stage, an elegant female performer tiny under a single white spotlight, head tilted back and arms opening wide, amber and blue beams fanning out through the haze around her, epic cinematic concert scale\n31. Night on the porch of a modest Brazilian house, a teenage boy sitting on the wooden steps with a phone pressed to his ear, shoulders sinking in relief as someone answers, warm light spilling from the open doorway behind him, cool blue night beyond, quiet tender cinematic mood\n32. Slow-motion medium shot of an elegant female performer kneeling at the edge of the stage, reaching one hand down toward dozens of raised hands from the crowd below, amber front light and deep blue haze, confetti drifting, emotional cinematic connection\n33. Slow travelling shot following an elegant 35-year-old woman from behind as she stops at the low gate of a modest old Brazilian house at dusk, hand resting on the weathered gate, one window glowing warm amber inside, cool blue evening air, quiet cinematic nostalgia\n34. A preserved childhood bedroom in warm dusty late-afternoon light, an elegant woman sitting on the small bed holding an old plush bear in her lap, eyes lowered on it, slanted light beams full of dust motes from the window, faded toys on shelves, intimate cinematic melancholy\n35. Extreme close-up framed so tightly that only a fingertip and an old wooden doorframe are visible, the finger slowly tracing small faded pencil height marks climbing the wood, warm side light and film grain, no readable words, quiet cinematic intimacy\n36. Massive wide concert shot as golden light floods the entire stage, confetti bursting into the air, the crowd surging like a wave of raised arms, an elegant female performer center stage with arms spread wide, amber and blue palette at full intensity, epic cinematic climax\n37. Steadicam following close behind a young man in a smart casual jacket walking down a dark backstage corridor carrying a bouquet of white flowers, muffled amber stage glow growing brighter ahead, cables and road cases along the walls, anticipation, cinematic depth\n38. Tight close-up framed from the eyes up of the elegant female performer, eyes squeezed shut, brow trembling with emotion, warm spotlight from above, deep blue haze behind, a hand with fine rings rising into frame to rest over her heart, cinematic emotional peak\n39. View from the dark stage wings, a young man standing half-lit holding a bouquet, warm stage light spilling across his moved expression as he watches the performance out of frame, silhouettes of crew and cables around, deep blue shadows, intimate cinematic moment\n40. Slow-motion close-up of the elegant female performer turning her head toward the stage wings, eyes widening and filling with tears, one hand rising to her face, warm amber key light and blue rim light, confetti drifting between her and the camera, cinematic emotional recognition\n41. Slow-motion medium shot of the elegant woman and the young man embracing tightly center stage, the spotlight narrowing into a single warm cone around them, golden confetti drifting, the crowd a sea of blurred blue lights behind, cathartic cinematic embrace\n42. Extreme close-up framed so tightly that only an elegant hand with fine rings gripping the fabric on the back of a dark jacket is visible, knuckles pressing, warm spotlight glow and drifting confetti, slow motion, cinematic emotional texture\n43. Slow-motion profile close-up of two silhouettes forehead to forehead inside a warm white spotlight on a dark stage, a bouquet of white flowers pressed between them, her hair rim-lit, golden confetti drifting, deep blue haze beyond, faces unreadable, cinematic tenderness\n44. Slow-motion wide shot of a packed arena crowd swaying with thousands of phone lights raised high, waves of amber and blue light washing over the raised arms, golden confetti still falling, no faces distinguishable, cinematic communion and release\n45. Crane shot pulling back and up from two figures embracing in a single warm spotlight on a vast dark stage, revealing an arena filled with thousands of phone lights like a galaxy, blue haze and fading golden confetti, monumental yet intimate cinematic finale\n46. Static close-up of a dressing-room table in warm amber lamp light, the creased old photograph of a child on a bicycle lying beside a fresh new photograph of an elegant woman and a young man side by side on wooden porch steps, both photos softly out of focus, fine jewelry nearby, deep blue shadows around, cinematic still life, no readable text\n47. Long static wide shot at golden hour, the elegant woman and the young man seen from behind sitting side by side on the wooden porch steps of the modest old house, two steaming mugs between them, her head resting on his shoulder, warm amber sun sinking behind trees, fireflies beginning to glow, peaceful cinematic resolution\n\n## Publicação (YouTube)\n\n- **Título:** Menos Eu\n- **Tags:** nostalgico, intimo, crescente, maduro, piano, violao acustico em arpejos, acordeon expressivo\n\n**Descrição:**\n\nUma mulher passou a vida inteira trabalhando para dar ao filho tudo o que ela nunca teve. Conseguiu: ele cresceu, venceu, virou o maior orgulho dela. Mas quando ela abre o álbum da infância dele, percebe que as melhores lembranças aconteceram sem ela — e que o porto seguro dele virou quem estava presente enquanto ela construía o futuro.\n\nÉ uma sofrência madura em Sol maior, 122 BPM sentidos em half-time: piano e violão abrem quase falados, o acordeon responde a voz, e a bateria só entra quando o refrão cresce. A voz feminina é quente, forte e levemente rouca — versos de confissão, refrão grande de cantar junto, com harmonias femininas no final.\n\nNo clipe, o palco e a memória se alternam: os camarins e a arena em âmbar e azul de um lado, a casa antiga, a pipa no fim de tarde e a cadeira vazia da escola do outro. A história não termina na perda — termina num abraço no meio do palco e num fim de tarde na varanda, porque ainda dá tempo de estar.\n\nSem culpados, sem vilões: só o tempo, e o que a gente escolhe fazer com o que resta dele.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** ok",
+   "prompts": {
+    "estilo": "Brazilian contemporary female country heartbreak ballad, sofrencia style, around 122 BPM, key of G major, emotional half-time feel. Intimate piano opening, acoustic guitar arpeggios, expressive accordion phrases answering the voice, melodic electric bass, organic live drums entering on the first chorus, subtle female vocal harmonies on the final chorus. Warm, powerful, slightly raspy Brazilian female lead vocal: almost spoken confessional verses, rising pre-chorus, big open sing-along chorus. Vocal-forward polished acoustic live-studio mix with warm compression. Story of a successful mother who worked her whole life to give her son everything he needed, and realizes too late that she gave him everything except her own presence — while she built his future, others lived his present. He loves her, but his safe harbor became those who were there. Mature, dignified, nostalgic and growing emotion, no self-pity, no blame. Immediate vocal hook in the first seconds. Main hook: 'Eu te dei tudo, menos eu'. Lyrics in pt-BR",
+    "imagem": "album cover, centered dramatic portrait of an elegant 35-year-old Brazilian female country singer, long dark wavy hair, tailored leather jacket over a silk blouse, fine delicate jewelry, sitting at a backstage dressing-room table after a show, eyes lowered gazing at a small worn family photograph held gently in both hands, warm amber mirror bulbs glowing behind her, cool deep blue shadow filling the edges of the room, faint haze, shallow depth of field, sophisticated modern country aesthetic, cinematic photography, space for bold title at the bottom, 1:1",
+    "negativo": "text, letters, typography, watermark, logo, extra limbs, distorted hands, open mouth, microphone, stage crowd, vulgar outfit",
+    "conceito": "Camarim depois do show: a cantora sofisticada, cercada pelo sucesso que construiu (lâmpadas de espelho, jaqueta de palco, discos na parede), mas de olhos baixos sobre uma fotografia antiga do filho — o único troféu que faltou. Olhar escolhido: olhos baixos sobre a foto (nem lente, nem perfil, nem olhos fechados), porque o gesto de olhar a lembrança É a música. Luz quente-fria medida no acervo: âmbar das lâmpadas contra sombra azul.",
+    "tagline": "construiu o futuro, perdeu o agora",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "dolly-in lento",
+      "prompt": "Slow dolly-in across an empty backstage dressing room at night, warm amber mirror bulbs glowing around a large mirror, a sequined stage jacket draped over a chair, framed gold records on the wall, a bouquet still wrapped, thin haze, cool blue shadows in the corners, cinematic, shallow depth of field, palette of amber #E8A87C and deep blue #2B4FD8",
+      "alt": "Slow dolly-in across an empty dressing room at night, warm amber bulbs glowing, an elegant jacket draped over a chair, soft haze and deep blue shadows, no people, cinematic still-life mood"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "close estático",
+      "prompt": "Extreme close-up framed so tightly that only two elegant hands with fine rings and a creased old photograph are visible, the photo showing a small child on a bicycle in soft blur, warm lamp light from the side, deep blue darkness around, gentle trembling of the paper, cinematic macro texture",
+      "alt": "Extreme close-up of a creased old photograph lying face-down on a dressing table beside delicate jewelry, warm lamp light raking across the paper texture, deep blue shadows, cinematic still life"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "geral estático",
+      "prompt": "Wide static shot of a modest Brazilian suburban house at blue dawn, car headlights pulling out of the driveway and leaving frame, one small upstairs window glowing warm amber, mist on the street, melancholic cinematic look, cold blue palette with a single warm light",
+      "alt": "Wide static shot of a quiet suburban street at blue dawn, red taillights fading into mist at the end of the road, one warm window glowing in a modest house, no people visible, melancholic cinematic palette"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "médio estático",
+      "prompt": "Dark child's bedroom before dawn, an elegant woman in work clothes leaning over a sleeping six-year-old boy, pressing a gentle kiss on his forehead, warm hallway light spilling through the half-open door, deep blue shadows, tender and quiet, cinematic shallow depth of field",
+      "alt": "Dark child's bedroom seen from the hallway, a soft adult silhouette leaning over a small bed backlit by warm hallway light, faces unreadable, deep blue shadows, tender quiet cinematic mood"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "close estático",
+      "prompt": "Close-up framed so tightly that only a small child's hand pressed against cold window glass is visible, condensation around the fingers, blurred red car taillights sliding away outside in the blue dawn, cinematic melancholy, shallow focus on the glass",
+      "alt": "Close-up of a cold window pane covered in condensation, blurred red taillights sliding away outside in blue dawn light, a small clear streak wiped across the fogged glass, no people, cinematic melancholy"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "médio estático",
+      "prompt": "Night hotel room years ago, an elegant young woman in work clothes sitting on the edge of a made bed with a phone pressed to her ear, her free hand rising to cover her mouth as her eyes well up, one warm bedside lamp, cold blue city glow through sheer curtains, stillness and distance, cinematic shallow depth of field",
+      "alt": "Night hotel room with a single warm bedside lamp, a phone lying face-up on the neatly made bed glowing softly, cold blue city lights through sheer curtains, a packed suitcase by the door, no people, cinematic loneliness"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "médio, travelling suave",
+      "prompt": "Present day, an elegant 35-year-old Brazilian woman with long dark wavy hair in the back seat of a luxury car at night, gazing out of the window, city lights sliding across her face in amber and blue reflections, tired dignified expression, cinematic shallow depth of field, smooth lateral travelling feel",
+      "alt": "Rain-streaked car window at night from inside, amber and blue city bokeh lights sliding past, an empty leather seat softly reflected in the glass, cinematic melancholic mood, no people visible"
+     },
+     {
+      "n": 8,
+      "secao": "verso 1",
+      "camera": "detalhe estático",
+      "prompt": "Static detail shot of a kitchen wall in warm morning light: a paper wall calendar with many days crossed out in pen strokes, beside it a child's crayon drawing of a house and two stick figures pinned to the wall, soft dust in the light, nostalgic film texture, no readable words",
+      "alt": "Static detail of a child's crayon drawing of a house and two stick figures pinned to a sunlit kitchen wall, edges curling with age, warm nostalgic light, soft film grain, no readable text"
+     },
+     {
+      "n": 9,
+      "secao": "pre-refrao",
+      "camera": "geral, travelling lateral",
+      "prompt": "Slow lateral travelling across a vast modern luxury living room at dusk, floor-to-ceiling windows, polished marble, an elegant woman with long dark wavy hair standing small and alone in the middle of the huge space, cold blue dusk light outside, one warm lamp inside, cinematic scale and solitude",
+      "alt": "Slow lateral travelling across a vast empty modern living room at dusk, floor-to-ceiling windows and polished marble reflecting cold blue light, a single warm lamp glowing far away, a long lone shadow across the floor, no people visible"
+     },
+     {
+      "n": 10,
+      "secao": "pre-refrao",
+      "camera": "plongée close",
+      "prompt": "Overhead close-up of an open family photo album on a wooden table, an elegant hand slowly turning pages of childhood snapshots, warm lamp light, the photos slightly out of focus showing a child's moments, nostalgic film grain, melancholic intimacy",
+      "alt": "Side close-up of an open photo album on a wooden table, pages lifting softly as if by a breeze, images out of focus, warm lamp light and dust motes, nostalgic film grain, no people visible"
+     },
+     {
+      "n": 11,
+      "secao": "refrao 1",
+      "camera": "drone geral",
+      "prompt": "Sweeping aerial drone shot over a large concert arena at night, amber and deep blue light beams cutting through haze, silhouetted crowd, an elegant female performer standing center stage with head bowed and both hands gripping the microphone stand, cinematic concert look, palette #E8A87C and #2B4FD8",
+      "alt": "Sweeping aerial drone shot over a large concert stage at night, amber and deep blue light beams cutting through haze over a silhouetted crowd, a lone microphone stand center stage in a cone of light, cinematic concert atmosphere"
+     },
+     {
+      "n": 12,
+      "secao": "refrao 1",
+      "camera": "close frontal",
+      "prompt": "Tight close-up framed from the eyes up of an elegant 35-year-old Brazilian woman on stage, eyes shut tight with intensity, brow tense, a tear catching the amber rim light, deep blue backlight in the haze behind her, cinematic concert emotion",
+      "alt": "Tight close-up of a microphone stand in silhouette against a blinding amber backlight, haze beams and drifting dust glowing around it, deep blue edges, cinematic concert emotion"
+     },
+     {
+      "n": 13,
+      "secao": "refrao 1",
+      "camera": "médio estático",
+      "prompt": "Warm kitchen at evening, a birthday cake with six candles on the table, adult hands entering from the edge of frame lighting the candles, a small boy leaning in with glowing face, party garlands blurred behind, nostalgic home-movie warmth, film grain",
+      "alt": "Warm dim kitchen at evening, a birthday cake with six lit candles glowing on the table, party garlands softly blurred in the background, empty chairs around, nostalgic home-movie warmth, film grain, no people"
+     },
+     {
+      "n": 14,
+      "secao": "refrao 1",
+      "camera": "close detalhe",
+      "prompt": "Extreme close-up framed so tightly that only a hand with fine rings gripping the base of a microphone stand is visible, knuckles whitening, sequins glittering at the edge of frame, amber stage light with deep blue shadows, slow-motion feel, cinematic concert texture",
+      "alt": "Extreme close-up of golden confetti drifting down through an amber stage light beam against deep blue darkness, slow-motion feel, cinematic concert texture, no people"
+     },
+     {
+      "n": 15,
+      "secao": "refrao 1",
+      "camera": "geral, travelling",
+      "prompt": "Golden hour field, a small boy running joyfully with a paper kite trailing high behind him, long grass, low warm sun flaring into the lens, handheld home-movie energy, nostalgic amber palette, film grain",
+      "alt": "Golden hour field, a paper kite dancing high against the amber sky, its long tail rippling, low warm sun flaring into the lens, long grass swaying below, nostalgic film grain, no people"
+     },
+     {
+      "n": 16,
+      "secao": "refrao 1",
+      "camera": "steadicam em arco",
+      "prompt": "Steadicam arcing around an elegant female performer center stage, chin lifted high, throat and neck visibly tense, shoulders rising with a deep breath, hair rim-lit by a powerful white spotlight from behind, haze and deep blue darkness around, sequined jacket sparkling, cinematic concert intensity",
+      "alt": "Steadicam arcing around an empty cone of white spotlight on a hazy stage, dust and haze swirling inside the beam, deep blue darkness and faint amber lights around, cinematic concert intensity, no people"
+     },
+     {
+      "n": 17,
+      "secao": "refrao 1",
+      "camera": "médio estático",
+      "prompt": "Cozy living room at night lit only by the soft flicker of a television, a small boy asleep curled on the lap of an older woman on a worn sofa, her hand resting gently on his hair, warm blanket, faces softly out of focus, tender nostalgic home warmth, film grain",
+      "alt": "Cozy living room at night lit only by the soft flicker of a television, a worn sofa with a rumpled warm blanket and a small pillow still holding the shape of a sleeping child, tender nostalgic warmth, film grain, no people"
+     },
+     {
+      "n": 18,
+      "secao": "refrao 1",
+      "camera": "geral por trás",
+      "prompt": "Wide shot from behind an elegant female performer in silhouette facing a sea of thousands of phone lights glowing like stars in the dark arena, amber wash from the stage behind her, deep blue haze, cinematic scale and communion",
+      "alt": "Wide shot of thousands of phone lights glowing like a field of stars inside a dark arena, deep blue haze and a soft amber glow rising from the front, no faces distinguishable, cinematic scale"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "médio, slow-motion leve",
+      "prompt": "University graduation ceremony, a young man in a dark gown walking across the stage holding a rolled diploma with a ribbon, warm auditorium light, in soft focus several rows back an elegant 35-year-old woman standing and clapping with proud wet eyes, gentle slow motion, cinematic depth, no readable text",
+      "alt": "A rolled diploma tied with a ribbon resting on an empty wooden chair in a warm-lit auditorium, rows of empty seats blurred behind, gentle slow drifting dust in the light, cinematic melancholic pride, no readable text, no people"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "médio estático",
+      "prompt": "Sunlit university courtyard after a graduation, a young man in a gown warmly embracing an older woman under a tree, while a few steps away an elegant 35-year-old woman with long dark wavy hair watches them smiling with glistening eyes, golden hour backlight, tender bittersweet cinematic mood, no bitterness",
+      "alt": "Sunlit courtyard at golden hour, two backlit silhouettes embracing warmly under a large tree, a third silhouette standing a few steps apart, long shadows on the stone floor, tender bittersweet cinematic mood, faces unreadable"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "médio, travelling lento",
+      "prompt": "Slow travelling along a sunlit family lunch table in a modest Brazilian home, a young man leaning toward an older woman with animated bright eyes and open hands mid-story, plates and a pitcher of juice, at the far end of the table an elegant 35-year-old woman with long dark wavy hair resting her chin on her hand, watching them with a soft wistful smile, warm afternoon light, tender cinematic intimacy",
+      "alt": "Slow travelling along a sunlit family lunch table in a modest home after the meal, plates half-cleared, a pitcher of juice, chairs pushed back at angles, warm afternoon light and dust motes, tender cinematic intimacy, no people"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "geral, dolly-out",
+      "prompt": "Night penthouse interior, slow dolly-out from a dark silent phone lying on a marble counter, revealing an elegant woman standing far away at the floor-to-ceiling window with an untouched glass of wine, city lights in amber and blue below, vast lonely negative space, cinematic",
+      "alt": "Night penthouse interior, slow dolly-out from a dark silent phone lying face-up on a marble counter reflecting amber and blue city lights, an untouched glass of wine beside it, vast empty room in soft shadow, no people, cinematic solitude"
+     },
+     {
+      "n": 23,
+      "secao": "verso 2",
+      "camera": "close estático",
+      "prompt": "Close-up framed so tightly that only two elegant hands with fine rings cradling a dark phone against soft silk fabric are visible, thumb resting hesitant over the black screen, cold blue window light on one side and warm lamp glow on the other, cinematic stillness",
+      "alt": "Close-up of a phone lying face-down on a marble table beside a cold cup of coffee, thin steam long gone, cold blue window light and a warm lamp glow crossing over them, cinematic stillness, no people"
+     },
+     {
+      "n": 24,
+      "secao": "verso 2",
+      "camera": "handheld, textura home video",
+      "prompt": "Grainy handheld home-video style footage in a sunlit driveway, a small boy wobbling forward on a bicycle with training wheels just removed, adult hands entering from the edge of frame steadying the seat then letting go, warm faded colors, dust and lens flare, nostalgic vintage texture",
+      "alt": "Grainy handheld home-video style footage of an empty small bicycle with training wheels leaning on a kickstand in a sunlit driveway at dusk, warm faded colors, long shadows and lens flare, nostalgic vintage texture, no people"
+     },
+     {
+      "n": 25,
+      "secao": "refrao 2",
+      "camera": "geral por trás da bateria",
+      "prompt": "Wide concert shot framed from behind the drummer's silhouette and cymbals, an elegant female performer striding along the stage runway with fierce confident posture, amber and deep blue beams sweeping through haze, crowd hands raised, cinematic live-show energy",
+      "alt": "Wide concert shot framed from behind a drum kit in silhouette, empty stage runway stretching into amber and deep blue beams sweeping through haze, crowd hands raised far below in the dark, cinematic live-show energy, no performer visible"
+     },
+     {
+      "n": 26,
+      "secao": "refrao 2",
+      "camera": "close de perfil",
+      "prompt": "Tight profile close-up of an elegant 35-year-old woman on stage framed from the eyes up against a deep blue backlight, jaw set, a single tear sliding and catching a spark of amber light, haze glowing behind, cinematic concert emotion",
+      "alt": "Golden confetti falling in slow motion through a deep blue backlight on a hazy stage, single pieces catching sparks of amber light, cinematic concert emotion, no people"
+     },
+     {
+      "n": 27,
+      "secao": "refrao 2",
+      "camera": "médio estático",
+      "prompt": "School auditorium during a children's event, rows of occupied folding chairs with parents softly blurred, one empty folding chair conspicuous in the middle of the row, warm tungsten light from the small stage spilling over, melancholic cinematic composition, faces out of focus",
+      "alt": "School auditorium in warm tungsten light, one empty folding chair in the middle of a row of empty chairs, a soft glow spilling from a small stage out of frame, drifting dust in the light, melancholic cinematic composition, no people"
+     },
+     {
+      "n": 28,
+      "secao": "refrao 2",
+      "camera": "close detalhe",
+      "prompt": "Extreme close-up framed so tightly that only an elegant hand with fine rings pressed flat over sparkling sequined fabric at the chest is visible, fabric rising and falling with deep breaths, amber key light and blue edge light, cinematic macro shimmer",
+      "alt": "Extreme macro of sequined fabric shimmering as amber and blue stage lights sweep across it, individual sequins flaring like tiny stars, cinematic texture, no people"
+     },
+     {
+      "n": 29,
+      "secao": "refrao 2",
+      "camera": "médio, POV do corredor",
+      "prompt": "View from a dark hallway through a half-open bedroom door, inside a warm lamp-lit child's room an adult silhouette sits on the bed reading a picture book to a small boy tucked under blankets, cozy amber light, faces unreadable, tender nostalgic cinematic frame",
+      "alt": "View from a dark hallway through a half-open door into a warm lamp-lit child's bedroom, an open picture book resting on the blanket of a small empty bed, cozy amber glow and soft shadows, tender nostalgic cinematic frame, no people"
+     },
+     {
+      "n": 30,
+      "secao": "refrao 2",
+      "camera": "drone subindo",
+      "prompt": "Drone shot rising over a packed arena crowd toward the stage, an elegant female performer tiny under a single white spotlight, head tilted back and arms opening wide, amber and blue beams fanning out through the haze around her, epic cinematic concert scale",
+      "alt": "Drone shot rising over a packed arena of phone lights toward a stage where a single white spotlight cone stands in swirling haze, amber and blue beams fanning outward, epic cinematic concert scale, no performer visible"
+     },
+     {
+      "n": 31,
+      "secao": "refrao 2",
+      "camera": "médio estático",
+      "prompt": "Night on the porch of a modest Brazilian house, a teenage boy sitting on the wooden steps with a phone pressed to his ear, shoulders sinking in relief as someone answers, warm light spilling from the open doorway behind him, cool blue night beyond, quiet tender cinematic mood",
+      "alt": "Night on the porch of a modest house, empty wooden steps lit by warm light spilling from an open doorway, a phone resting face-up on the step glowing faintly, cool blue night and crickets-quiet stillness, no people, cinematic"
+     },
+     {
+      "n": 32,
+      "secao": "refrao 2",
+      "camera": "médio, slow-motion",
+      "prompt": "Slow-motion medium shot of an elegant female performer kneeling at the edge of the stage, reaching one hand down toward dozens of raised hands from the crowd below, amber front light and deep blue haze, confetti drifting, emotional cinematic connection",
+      "alt": "Slow-motion shot of dozens of raised hands reaching up from darkness into an amber light haze at the edge of a stage, confetti drifting between the fingers, deep blue background, emotional cinematic connection, no faces visible"
+     },
+     {
+      "n": 33,
+      "secao": "ponte",
+      "camera": "travelling lento por trás",
+      "prompt": "Slow travelling shot following an elegant 35-year-old woman from behind as she stops at the low gate of a modest old Brazilian house at dusk, hand resting on the weathered gate, one window glowing warm amber inside, cool blue evening air, quiet cinematic nostalgia",
+      "alt": "Slow travelling shot approaching the low weathered gate of a modest old house at dusk, gate slightly ajar, one window glowing warm amber, cool blue evening mist, quiet cinematic nostalgia, no people"
+     },
+     {
+      "n": 34,
+      "secao": "ponte",
+      "camera": "médio estático",
+      "prompt": "A preserved childhood bedroom in warm dusty late-afternoon light, an elegant woman sitting on the small bed holding an old plush bear in her lap, eyes lowered on it, slanted light beams full of dust motes from the window, faded toys on shelves, intimate cinematic melancholy",
+      "alt": "A preserved childhood bedroom in warm dusty late-afternoon light, an old plush bear sitting alone on a small neatly made bed, slanted light beams full of dust motes, faded toys on the shelves, intimate cinematic melancholy, no people"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "close estático",
+      "prompt": "Extreme close-up framed so tightly that only a fingertip and an old wooden doorframe are visible, the finger slowly tracing small faded pencil height marks climbing the wood, warm side light and film grain, no readable words, quiet cinematic intimacy",
+      "alt": "Extreme close-up of an old wooden doorframe with small faded pencil height marks climbing the wood, warm side light raking the grain, dust motes drifting, no readable words, quiet cinematic intimacy, no people"
+     },
+     {
+      "n": 36,
+      "secao": "refrao final",
+      "camera": "geral, corte no beat",
+      "prompt": "Massive wide concert shot as golden light floods the entire stage, confetti bursting into the air, the crowd surging like a wave of raised arms, an elegant female performer center stage with arms spread wide, amber and blue palette at full intensity, epic cinematic climax",
+      "alt": "Massive wide concert shot of golden light flooding an empty stage as confetti bursts into the air over a surging crowd of raised arms in silhouette, amber and blue palette at full intensity, epic cinematic climax"
+     },
+     {
+      "n": 37,
+      "secao": "refrao final",
+      "camera": "steadicam atrás",
+      "prompt": "Steadicam following close behind a young man in a smart casual jacket walking down a dark backstage corridor carrying a bouquet of white flowers, muffled amber stage glow growing brighter ahead, cables and road cases along the walls, anticipation, cinematic depth",
+      "alt": "Steadicam gliding down a dark backstage corridor, a bouquet of white flowers held low at the edge of frame by an unseen carrier, warm amber stage glow growing at the end of the hall, cables and road cases along the walls, cinematic anticipation"
+     },
+     {
+      "n": 38,
+      "secao": "refrao final",
+      "camera": "close frontal",
+      "prompt": "Tight close-up framed from the eyes up of the elegant female performer, eyes squeezed shut, brow trembling with emotion, warm spotlight from above, deep blue haze behind, a hand with fine rings rising into frame to rest over her heart, cinematic emotional peak",
+      "alt": "Tight close-up of a hand with fine rings pressed over sparkling sequined fabric at the chest, warm spotlight from above and deep blue haze behind, slow breathing movement of the fabric, cinematic emotional peak, no face visible"
+     },
+     {
+      "n": 39,
+      "secao": "refrao final",
+      "camera": "médio, POV da coxia",
+      "prompt": "View from the dark stage wings, a young man standing half-lit holding a bouquet, warm stage light spilling across his moved expression as he watches the performance out of frame, silhouettes of crew and cables around, deep blue shadows, intimate cinematic moment",
+      "alt": "View from the dark stage wings, a backlit silhouette holding a bouquet of white flowers stands at the edge of the spill of warm stage light, haze drifting through the beam, crew equipment in shadow, intimate cinematic moment, face unreadable"
+     },
+     {
+      "n": 40,
+      "secao": "refrao final",
+      "camera": "close, slow-motion",
+      "prompt": "Slow-motion close-up of the elegant female performer turning her head toward the stage wings, eyes widening and filling with tears, one hand rising to her face, warm amber key light and blue rim light, confetti drifting between her and the camera, cinematic emotional recognition",
+      "alt": "Slow-motion close-up of confetti drifting through warm amber light as a microphone stand sways gently, deep blue rim light and haze, cinematic suspended emotional beat, no people"
+     },
+     {
+      "n": 41,
+      "secao": "refrao final",
+      "camera": "médio, slow-motion",
+      "prompt": "Slow-motion medium shot of the elegant woman and the young man embracing tightly center stage, the spotlight narrowing into a single warm cone around them, golden confetti drifting, the crowd a sea of blurred blue lights behind, cathartic cinematic embrace",
+      "alt": "Slow-motion shot of two backlit silhouettes embracing inside a narrowing cone of warm light on a dark stage, golden confetti drifting through the beam, blurred blue lights far behind, cathartic cinematic embrace, faces unreadable"
+     },
+     {
+      "n": 42,
+      "secao": "refrao final",
+      "camera": "close detalhe",
+      "prompt": "Extreme close-up framed so tightly that only an elegant hand with fine rings gripping the fabric on the back of a dark jacket is visible, knuckles pressing, warm spotlight glow and drifting confetti, slow motion, cinematic emotional texture",
+      "alt": "Extreme close-up of golden confetti settling slowly onto worn wooden stage boards inside a warm spotlight circle, deep blue darkness beyond the edge of light, slow motion, cinematic emotional texture, no people"
+     },
+     {
+      "n": 43,
+      "secao": "refrao final",
+      "camera": "close de perfil, slow-motion",
+      "prompt": "Slow-motion profile close-up of two silhouettes forehead to forehead inside a warm white spotlight on a dark stage, a bouquet of white flowers pressed between them, her hair rim-lit, golden confetti drifting, deep blue haze beyond, faces unreadable, cinematic tenderness",
+      "alt": "Slow-motion close-up of a bouquet of white flowers resting on worn stage boards inside a warm spotlight, a few petals loose, golden confetti drifting down around it, deep blue darkness beyond, cinematic tenderness, no people"
+     },
+     {
+      "n": 44,
+      "secao": "refrao final",
+      "camera": "geral, slow-motion",
+      "prompt": "Slow-motion wide shot of a packed arena crowd swaying with thousands of phone lights raised high, waves of amber and blue light washing over the raised arms, golden confetti still falling, no faces distinguishable, cinematic communion and release",
+      "alt": "Slow-motion wide shot of thousands of phone lights swaying like a slow tide inside a dark arena, amber and blue washes drifting over them, golden confetti falling, no faces distinguishable, cinematic communion"
+     },
+     {
+      "n": 45,
+      "secao": "refrao final",
+      "camera": "grua, pull-back",
+      "prompt": "Crane shot pulling back and up from two figures embracing in a single warm spotlight on a vast dark stage, revealing an arena filled with thousands of phone lights like a galaxy, blue haze and fading golden confetti, monumental yet intimate cinematic finale",
+      "alt": "Crane shot pulling back and up from a single warm spotlight circle on a vast dark stage, revealing an arena filled with thousands of phone lights like a galaxy, blue haze and fading golden confetti, monumental cinematic finale, no people distinguishable"
+     },
+     {
+      "n": 46,
+      "secao": "outro",
+      "camera": "close estático",
+      "prompt": "Static close-up of a dressing-room table in warm amber lamp light, the creased old photograph of a child on a bicycle lying beside a fresh new photograph of an elegant woman and a young man side by side on wooden porch steps, both photos softly out of focus, fine jewelry nearby, deep blue shadows around, cinematic still life, no readable text",
+      "alt": "Static close-up of a dressing-room table in warm amber lamp light, two photographs lying side by side, one creased and faded, one fresh and bright, both out of focus, fine jewelry nearby, deep blue shadows, cinematic still life, no readable text, no people"
+     },
+     {
+      "n": 47,
+      "secao": "outro",
+      "camera": "geral estático longo",
+      "prompt": "Long static wide shot at golden hour, the elegant woman and the young man seen from behind sitting side by side on the wooden porch steps of the modest old house, two steaming mugs between them, her head resting on his shoulder, warm amber sun sinking behind trees, fireflies beginning to glow, peaceful cinematic resolution",
+      "alt": "Long static wide shot at golden hour of the wooden porch steps of a modest old house, two steaming mugs side by side on the step, warm amber sun sinking behind trees, fireflies beginning to glow in the yard, peaceful cinematic resolution, no people"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "agora-eu-cobro-25",
    "mvd": "MVD#154",
    "titulo": "Construí em Silêncio",
@@ -358,7 +789,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
