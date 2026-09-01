@@ -4,6 +4,412 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "faixa-pronta-mvd-132-1",
+   "mvd": "MVD#158",
+   "titulo": "Segunda Chance",
+   "quando": "2026-09-01T06:03:01-03:00",
+   "atualizado": "2026-09-01T10:13:52-03:00",
+   "origem": "sertanejo-sofrencia-pop-live-stadiumcan",
+   "origem_mvd": "MVD#132",
+   "solicitacao": "--faixa-pronta MVD#132:1",
+   "genero": "sertanejo romântico / agronejo pop / sofrência stadium live",
+   "bpm": 127,
+   "tom": "Mi maior",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "gerando"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.0,
+   "tags": [
+    "emotivo",
+    "maduro",
+    "digno",
+    "crescente",
+    "catártico de arena"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/capa.png",
+     "rotulo": "quadrada 1:1"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-132-1/capa-thumb.jpg",
+     "likes": 0,
+     "capa": null,
+     "clipe": null,
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [],
+   "bytes": 10443789,
+   "doc": "# Segunda Chance\n\n\n\n**slug:** `faixa-pronta-mvd-132-1`  ·  **criado:** 2026-09-01T06:03:01-03:00\n\n**solicitação:** --faixa-pronta MVD#132:1\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico / agronejo pop / sofrência stadium live  ·  **BPM:** 127  ·  **Tom:** Mi maior\n- **Mood:** emotivo, maduro, digno, crescente, catártico de arena\n- **Instrumentação:** piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra elétrica ambiente, pads cinematográficos discretos, backing vocals femininos, coro de público de estádio\n- **Voz:** \"feminina brasileira, quente, poderosa, levemente rouca e muito expressiva; versos íntimos quase conversados, refrão aberto em voz de peito, último refrão catártico com quebras emocionais controladas\"\n- **Params:** `{\"duracao_s\": 204, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR\n\n**Estrutura:** intro (6s) · verso 1 (28s) · pré-refrão 1 (13s) · refrão 1 (29s) · verso 2 (30s) · pré-refrão 2 (15s) · refrão 2 (30s) · ponte (19s) · refrão final (29s) · final (5s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\nSegunda chance não tem terceira vez\n\n[Verso 1]\nEu vi a mensagem e fingi que não vi\nVocê jurou de novo, eu quis acreditar\nGuardei o meu orgulho, abri a porta de casa\nAchei que amor bastava pra te segurar\n\n[Pré-refrão]\nMas o mesmo perfume voltou na tua roupa\nA mesma desculpa, o mesmo olhar no chão\nEu já sei de cor o fim dessa história\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Verso 2]\nNão vou fingir que não dói te deixar\nDói mais ficar e me ver diminuir\nEu não te odeio, eu só aprendi\nQue quem esquece a queda torna a cair\n\n[Pré-refrão]\nO mesmo perfume, a mesma desculpa\nO mesmo \"eu mudo\" que nunca mudou\nDessa vez a porta fecha por dentro\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Ponte]\nNão me peça pra esquecer\nÉ a lembrança que me impede de voltar\nEu perdoo você\nMas não me perdoo se eu ficar\n\n[Refrão final]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Final]\nSegunda chance não tem terceira vez\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0b0d1b, #d4af37, #ffb703, #2b7fff, #f5f0e6\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Olhar escolhido: PERFIL, olhos para fora do quadro — a capa anterior do acervo (MVD#159) era olhar direto na lente e a anterior a ela (MVD#157) era de costas; esta usa a terceira pose. Ela está no corredor escuro que leva ao palco, vista de perfil no centro do quadro, queixo firme, olhando para o clarão dourado da arena fora do quadro à direita: a decisão já foi tomada e ela caminha para a própria vida, não para ele. Elegância madura, lágrima seca, dignidade sem vitimismo. Azul-noite frio no corredor, ouro quente vindo do palco, faixa inferior limpa para o título composto por código.\n\n**Prompt (EN):**\n\n> square 1:1 cinematic photograph, centered dramatic profile portrait of an elegant Brazilian woman in her late twenties with long dark wavy hair, wearing a shimmering midnight-blue stage dress, standing in a dark backstage corridor, her face in calm dignified profile gazing toward a warm golden blaze of stadium light pouring in from off-frame right, cool blue haze behind her, rim of gold light tracing her jaw and hair, shallow depth of field, midnight blue and warm gold palette, clean empty darker space across the bottom for a bold title, photorealistic, sophisticated, emotional\n\n**Negativo:** text, letters, typography, words, lyrics, watermark, logo, microphone in front of face, open mouth, extra limbs, deformed hands, cartoon, illustration\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** 48 shots em 204s ≈ 14,1 cortes/min na média, com distribuição desigual de propósito: refrões picados a ~19-23 cortes/min (planos de 2,5-3,5s, corte seco no beat), ancorados nos 22,3 cortes/min medidos em 2-1m-views-77k-reactions-ravenstrikex-mummy-wake — a mais lenta das três referências medidas e a única compatível com um show ao vivo de arena a 127 BPM (as outras duas, 29,3 e 35,5 cortes/min, são EDM de festival). Versos respiram com planos de 7-8s, intro segura 6s num único dolly-in e a ponte quase silenciosa segura os dois planos mais longos (10s e 9s) antes da explosão. Da montagem medida uso só o que apareceu: corte seco no beat, slow-motion nos planos de multidão e confete (mummy-wake e olympus usam slowmo/speedramp), e a entrada do refrão final em whiteout flash a partir do blackout da ponte, transição medida em 274k-views-12k-reactions-ravenstrikex-olympus-ra-3. Nada de crossfade ou recurso não medido.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 48  ·  **Duração total:** 204.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | plano geral, dolly-in lento | Arena às escuras, um único spot quente sobre o piano de cauda no palco vazio, névoa parada. |\n| 2 | verso 1 | 8s | médio, dolly-in lento | A cantora sentada num banco na beira do spot, cabeça baixa, mãos unidas no colo, vulnerável. |\n| 3 | verso 1 | 7s | plano geral, steadicam | Inserto narrativo: corredor de apartamento à meia-luz, porta de casa entreaberta com luz quente vazando — a porta que ela abriu de novo. |\n| 4 | verso 1 | 7s | close, estático | Inserto: um celular virado para baixo numa mesa de madeira, close tão fechado que só o aparelho e duas mãos apoiadas aparecem. |\n| 5 | verso 1 | 6s | médio, steadicam | Perfil da cantora contra a névoa azul, olhos fechados, queixo baixo, spot atrás dela. |\n| 6 | pré-refrão 1 | 5s | close, dolly-in lento | Inserto: paletó masculino jogado numa cadeira sob luz de abajur, névoa fina subindo como perfume no ar. |\n| 7 | pré-refrão 1 | 4s | médio, travelling | Ela se levanta do banco; atrás, silhuetas da banda acendem uma a uma em contraluz. |\n| 8 | pré-refrão 1 | 4s | plano geral, pan | As luzes da arena varrem e acendem; mar de luzes de celular começa a ondular na plateia. |\n| 9 | refrão 1 | 4s | plano geral, drone | Aéreo sobre a arena explodindo em ouro no primeiro refrão. |\n| 10 | refrão 1 | 3s | médio, gimbal orbital | Órbita na cantora de braços abertos, cabeça jogada para trás, contraluz dourada. |\n| 11 | refrão 1 | 3s | plano geral, estático | Multidão pulando em bloco sob luz dourada, braços para cima. |\n| 12 | refrão 1 | 3s | close, estático | Close tão fechado que só o punho fechado no pé do microfone aparece, luz dourada por trás. |\n| 13 | refrão 1 | 3s | médio, travelling | Travelling ao longo da grade: mãos da primeira fila esticadas para o palco. |\n| 14 | refrão 1 | 3s | médio, contra-plongée estático | Silhueta do sanfoneiro em contraluz, fole esticado, feixes dourados atravessando. |\n| 15 | refrão 1 | 3s | médio, dolly-in | A cantora de olhos apertados, cabeça inclinada para trás, garganta tensionada, spot duro por trás. |\n| 16 | refrão 1 | 3s | plano geral, pan rápido | Palco inteiro: baterista de braços erguidos cravando os pratos, flash de luz no impacto. |\n| 17 | refrão 1 | 4s | plano geral, orbital | Órbita larga: ela no centro do palco diante do mar de luzinhas, fim do primeiro refrão. |\n| 18 | verso 2 | 8s | médio, steadicam | Ela caminha devagar pela passarela, banho de luz azul, arena contida atrás. |\n| 19 | verso 2 | 8s | plano geral, estático | Inserto narrativo: chuva escorrendo numa janela à noite, bokeh da cidade ao fundo. |\n| 20 | verso 2 | 7s | close, estático | Close de perfil tão fechado que só um olho fechado e a maçã do rosto aparecem, trilho de lágrima na luz fria. |\n| 21 | verso 2 | 7s | médio, contra-plongée travelling | Ela no fim da passarela, plano médio de baixo, violonista desfocado ao fundo, luz azul e âmbar. |\n| 22 | pré-refrão 2 | 5s | close, dolly-out lento | Inserto: mala de viagem pronta junto à porta de casa, metade na luz quente do abajur, metade no azul da janela. |\n| 23 | pré-refrão 2 | 5s | médio, dolly-in | Ela para no centro do palco, ombros subindo na respiração funda, luzes escalando atrás. |\n| 24 | pré-refrão 2 | 5s | plano geral, travelling | Travelling pela frente do palco: banda inteira acesa, canhões inclinando para a plateia. |\n| 25 | refrão 2 | 3.5s | plano geral, drone | Drone recuando por cima do estádio no segundo refrão, feixes dourados abrindo em leque. |\n| 26 | refrão 2 | 3s | médio, gimbal | Ela varre o braço estendido sobre a plateia, cabelo voando, ouro por trás. |\n| 27 | refrão 2 | 3s | plano geral, estático | Plateia de braços balançando em uníssono da esquerda para a direita, luzes de celular. |\n| 28 | refrão 2 | 3s | close, estático | Close tão fechado que só o fole da sanfona esticado aparece, luz do palco vazando pelas dobras. |\n| 29 | refrão 2 | 3s | médio, orbital | Órbita rápida nela, vestido girando, contraluz dourada estourada. |\n| 30 | refrão 2 | 3s | plano geral, estático lateral | Da coxia: silhuetas da banda inteira, batida grande, flash branco no impacto do bumbo. |\n| 31 | refrão 2 | 3s | médio, travelling | Primeira fila em slow motion: mãos, luzes de celular, cabelos voando. |\n| 32 | refrão 2 | 2.5s | close, estático | Close tão fechado que só o salto da bota cravando no palco no beat aparece. |\n| 33 | refrão 2 | 3s | médio, dolly-in | Punho no peito, olhos apertados, cabeça para trás — a frase-título cravada no corpo. |\n| 34 | refrão 2 | 3s | plano geral, drone top-down | Zenital do palco: estrela de feixes de luz com ela no centro, fim do refrão 2. |\n| 35 | ponte | 10s | médio, dolly-in muito lento | Arena apagada de golpe; só ela sentada na beira do palco junto ao piano, spot quente único, poeira na luz — voz e piano quase sozinhos. |\n| 36 | ponte | 9s | close, estático | Inserto narrativo: a porta de casa fechando devagar por dentro, a faixa de luz quente estreitando até apagar — 'dessa vez a porta fecha por dentro'. |\n| 37 | refrão final | 3s | plano geral, estático | Do blackout, whiteout flash: a arena inteira explode em ouro no refrão final. |\n| 38 | refrão final | 2.5s | médio, gimbal | Ela de braços abertos, cabeça jogada para trás, engolida pela contraluz dourada. |\n| 39 | refrão final | 2.5s | plano geral, estático | Multidão saltando em slow motion, milhares de luzes, maré humana. |\n| 40 | refrão final | 2.5s | close, estático | Close tão fechado que só as baquetas estourando no prato aparecem, spray de luz. |\n| 41 | refrão final | 2.5s | médio, travelling | Ela corre pela passarela, vestido esvoaçando, feixes cruzando. |\n| 42 | refrão final | 2.5s | plano geral, drone orbital | Drone orbitando a tigela do estádio, feixes varrendo o céu. |\n| 43 | refrão final | 2.5s | close, dolly-in | Inserto de desfecho: um anel fino deixado sobre a tampa do piano, bokeh dourado da festa ao fundo. |\n| 44 | refrão final | 2.5s | médio, estático | Ela de frente para a plateia, punho erguido, primeiros confetes dourados caindo em slow motion. |\n| 45 | refrão final | 3s | plano geral, estático | Nevasca de confete dourado sobre a multidão, feixes atravessando. |\n| 46 | refrão final | 2.5s | médio, orbital lento | Órbita lenta nela sob o confete, olhos fechados, lágrima brilhando, meio sorriso de alívio. |\n| 47 | refrão final | 3s | plano geral, drone recuando | Drone recua revelando o estádio inteiro brilhando sob o confete — clímax visual. |\n| 48 | final | 5s | médio, dolly-out lento | As luzes morrem para um único spot; ela sozinha, queixo erguido, respirando; o spot apaga e fica só a névoa. |\n\n**Prompts (EN):**\n\n1. slow cinematic dolly-in through a dark empty stadium toward a grand piano alone on a wide stage under a single warm spotlight, haze hanging in the beam, thousands of faint phone lights in the black stands, quiet and expectant, photorealistic, 16:9\n2. slow dolly-in on an elegant Brazilian woman in her late twenties with long dark wavy hair in a shimmering midnight-blue stage dress, seated on a stool at the edge of a warm spotlight on a dark stage, head bowed, hands clasped in her lap, intimate and vulnerable, cool blue haze around the pool of light, photorealistic, 16:9\n3. slow steadicam drift down a dim apartment hallway at night toward a front door standing ajar, warm lamplight spilling through the gap onto the wooden floor, coats on a rack, quiet domestic stillness, cinematic low light, photorealistic, 16:9\n4. static close-up framed so tightly that only a phone lying face-down on a wooden table and two resting hands beside it are visible, warm lamplight, a cold blue glow pulsing faintly from under the phone, shallow depth of field, tense stillness, photorealistic, 16:9\n5. medium profile shot of the woman in the midnight-blue dress standing on the dark stage, eyes closed, chin low, backlit by a soft spotlight through blue haze, gold rim light on her hair, restrained emotion, photorealistic, 16:9\n6. slow dolly-in on a man's suit jacket draped over a chair in warm lamplight in a dark room, thin wisps of haze curling above the fabric like lingering perfume, moody domestic night scene, shallow depth of field, photorealistic, 16:9\n7. tracking shot of the woman in the midnight-blue dress rising from the stool on the dark stage, band member silhouettes lighting up one by one behind her in warm backlight, drum kit and accordion silhouettes emerging, energy building, photorealistic, 16:9\n8. wide panning shot of stadium lights sweeping on across a packed arena at night, an ocean of phone lights rippling through the dark crowd, warm gold beams cutting blue haze, anticipation swelling, photorealistic, 16:9\n9. aerial drone shot over a packed stadium bursting into warm gold light, beams fanning from the stage across a sea of raised arms and phone lights, night sky above, massive live show energy, photorealistic, 16:9\n10. orbiting gimbal shot around the woman in the shimmering midnight-blue dress at center stage, arms spread wide, head tilted back, eyes shut, drenched in golden backlight and haze, hair catching the light, cathartic energy, photorealistic, 16:9\n11. static wide shot of a stadium crowd jumping in unison under warm gold wash, thousands of raised arms and phone lights, slow motion, haze and lens flare, euphoric live energy, photorealistic, 16:9\n12. static close-up framed so tightly that only a clenched fist gripping a microphone stand pole is visible, knuckles tight, warm golden stage light flaring behind, haze, determination, shallow depth of field, photorealistic, 16:9\n13. fast lateral tracking shot along the front-row barrier, dozens of outstretched hands reaching toward the bright stage, gold light and haze washing over the crowd, phone lights sparkling, live concert energy, photorealistic, 16:9\n14. low-angle medium shot of an accordion player in full silhouette against blazing golden stage lights, bellows stretched wide, light beams cutting through haze around the instrument, dynamic live show, photorealistic, 16:9\n15. dolly-in on the woman in the midnight-blue dress, head tilted back, eyes squeezed shut, neck taut, one hand pressed to her chest, hard white spotlight from behind carving her outline in the haze, raw emotion, photorealistic, 16:9\n16. fast panning wide shot of the full stage, drummer with both arms raised smashing cymbals, burst of white light on the hit, band silhouettes, gold beams sweeping over the crowd, explosive live energy, photorealistic, 16:9\n17. wide orbiting shot of the woman in the midnight-blue dress standing at center stage before an ocean of phone lights stretching into the dark stadium, gold and blue beams crossing above, slow motion haze, grand and emotional, photorealistic, 16:9\n18. steadicam medium shot following the woman in the midnight-blue dress walking slowly along a catwalk into the crowd, cool blue wash, phone lights drifting like stars around her, subdued and reflective pace, photorealistic, 16:9\n19. static shot of rain streaking down a dark window pane at night, blurred city lights as warm and cold bokeh beyond the glass, drops merging and sliding, melancholic quiet interior mood, photorealistic, 16:9\n20. static close-up in profile framed so tightly that only one closed eye and the cheekbone are visible, a single tear track catching cool blue light, soft golden rim from behind, framed from the eyes up, quiet grief with dignity, shallow depth of field, photorealistic, 16:9\n21. low-angle tracking medium shot of the woman in the midnight-blue dress standing at the end of the catwalk, chin firm, gaze far over the crowd, an acoustic guitar player blurred on the stage behind, blue and amber cross light, composed strength, photorealistic, 16:9\n22. slow dolly-out from a packed leather suitcase standing by an apartment front door at night, half lit by warm lamplight and half by cold blue window light, keys resting on top, decisive stillness, photorealistic, 16:9\n23. dolly-in on the woman in the midnight-blue dress standing still at center stage, shoulders rising with a deep breath, fists loose at her sides, walls of light climbing brighter behind her through haze, storm about to break, photorealistic, 16:9\n24. sweeping tracking shot across the front of the stage, full band ignited in warm light, spotlight cannons tilting out over the roaring crowd, beams raking across thousands of phone lights, surging energy, photorealistic, 16:9\n25. aerial drone pull-back over the packed stadium at full blaze, gold beams fanning from the stage over a jumping crowd, phone lights like a galaxy, night sky above, huge celebratory scale, photorealistic, 16:9\n26. gimbal medium shot of the woman in the midnight-blue dress sweeping an outstretched arm over the crowd below the catwalk, hair flying, golden backlight flaring, commanding and generous energy, photorealistic, 16:9\n27. static wide shot of the stadium crowd swaying thousands of arms in unison from side to side, phone lights tracing arcs through the dark, warm gold wash from the stage, communal wave of motion, photorealistic, 16:9\n28. static close-up framed so tightly that only the stretched bellows of an accordion are visible, golden stage light leaking through the pleats, fingers blurred at the frame edge, haze, rhythmic live texture, photorealistic, 16:9\n29. fast orbiting shot around the woman in the midnight-blue dress spinning with the motion, dress fabric flaring, blown-out golden backlight and haze, joyful cathartic release, photorealistic, 16:9\n30. static wide shot from the stage wing, full band in silhouette against the bright arena, a white strobe flash bursting on the big drum hit, haze and cables in the foreground, raw live power, photorealistic, 16:9\n31. slow-motion tracking shot along the front row, hands reaching and waving, phone lights streaking, hair and confetti-free air full of haze and gold flare, pure fan euphoria, photorealistic, 16:9\n32. static close-up framed so tightly that only a boot heel stamping down on the glossy stage floor is visible, reflection of golden lights on the black surface, dust kicking in the beam, percussive impact, photorealistic, 16:9\n33. dolly-in medium shot of the woman in the midnight-blue dress with a fist pressed hard against her chest, head tilted back, eyes squeezed shut, jaw set, golden spotlights blazing behind her through haze, fierce conviction, photorealistic, 16:9\n34. top-down drone shot directly above the stage, light beams radiating outward like a star with the tiny figure at the center, catwalk cutting into the glowing crowd, geometric grandeur, photorealistic, 16:9\n35. very slow dolly-in on the woman in the midnight-blue dress seated at the edge of the darkened stage beside the grand piano, single warm spotlight, head bowed, hands resting open on her knees, dust motes floating in the beam, the vast arena black and silent around her, fragile intimacy, photorealistic, 16:9\n36. static shot inside a dark apartment of the front door slowly closing from within, the strip of warm hallway light narrowing on the wooden floor until it disappears, a hand resting on the lock at the frame edge, final and calm, photorealistic, 16:9\n37. wide shot as the entire stadium erupts from darkness into full golden blaze, every beam and screen igniting at once over a jumping crowd, shockwave of light through haze, maximum cathartic release, photorealistic, 16:9\n38. gimbal medium shot of the woman in the midnight-blue dress with arms flung wide and head thrown back, swallowed by golden backlight and haze, dress shimmering, total surrender to the moment, photorealistic, 16:9\n39. slow-motion wide shot of the stadium crowd leaping together, thousands of phone lights and raised arms, gold wash and haze rolling over the human tide, peak communal euphoria, photorealistic, 16:9\n40. static close-up framed so tightly that only drumsticks smashing into a crash cymbal are visible, spray of light and sweat droplets frozen in golden backlight, explosive percussion moment, photorealistic, 16:9\n41. tracking medium shot of the woman in the midnight-blue dress running along the catwalk over the crowd, dress streaming behind her, crossing beams and phone lights blurring past, unleashed joy and freedom, photorealistic, 16:9\n42. orbiting drone shot around the glowing stadium bowl at night, searchlight beams sweeping the sky, the stage a blazing gold heart at the center of a galaxy of lights, epic scale, photorealistic, 16:9\n43. slow dolly-in close-up framed so tightly that only a thin gold ring resting on the glossy black lid of the grand piano is visible, warm golden concert bokeh sparkling out of focus beyond, quiet symbol of release amid the celebration, photorealistic, 16:9\n44. slow-motion medium shot of the woman in the midnight-blue dress facing the vast crowd with one fist raised high, the first golden confetti drifting down around her through the beams, triumphant dignity, photorealistic, 16:9\n45. wide shot of a blizzard of golden confetti falling over the entire stadium crowd, beams of warm light cutting through the glittering storm, slow motion, phone lights twinkling beneath, overwhelming celebration, photorealistic, 16:9\n46. slow orbiting medium shot of the woman in the midnight-blue dress standing beneath falling golden confetti, eyes closed, a tear glinting on her cheek, a faint relieved smile, warm light halo through the glitter, bittersweet victory, photorealistic, 16:9\n47. drone pull-back revealing the whole glowing stadium under falling golden confetti, beams sweeping, a galaxy of phone lights around the blazing stage, night skyline beyond, grand final image, photorealistic, 16:9\n48. slow dolly-out as all stadium lights fade to a single warm spotlight on the woman in the midnight-blue dress standing alone, chin held high, shoulders settling with a deep breath, confetti settling around her, then the spotlight dims leaving only drifting haze, serene closure, photorealistic, 16:9\n\n## Publicação (YouTube)\n\n- **Título:** Segunda Chance\n- **Tags:** emotivo, maduro, digno, crescente, piano acustico emocional, violao de aco, baixo eletrico melodico\n\n**Descrição:**\n\nUma mulher deu a segunda chance — perdoou, abriu a porta de casa, quis acreditar. Quando o mesmo perfume voltou na mesma roupa, ela entendeu o que a lembrança já sabia: quem esquece a queda torna a cair. Esta é a história de uma despedida sem ódio, cantada por quem ainda ama e é exatamente por isso que vai embora.\n\nO som é sofrência de estádio: começa só piano e uma voz feminina quente e levemente rouca, quase conversando, e cresce seção a seção — violão de aço, sanfona, bateria ao vivo cada vez maior — até um refrão aberto feito para milhares de vozes cantarem juntas. Na ponte, tudo se recolhe para voz e piano em quase silêncio, antes da explosão final com coro de público, aplausos e catarse de arena.\n\nNo clipe, o palco conta a mesma história: a solidão de um spot único vira um mar dourado de luzes de celular, e entre os planos do show aparecem os rastros da decisão — a porta entreaberta, o celular virado para baixo, a mala pronta, a porta que dessa vez fecha por dentro e um anel deixado sobre o piano. No fim, confete dourado, uma lágrima e um meio sorriso: não é vingança, é alívio.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR",
+    "imagem": "square 1:1 cinematic photograph, centered dramatic profile portrait of an elegant Brazilian woman in her late twenties with long dark wavy hair, wearing a shimmering midnight-blue stage dress, standing in a dark backstage corridor, her face in calm dignified profile gazing toward a warm golden blaze of stadium light pouring in from off-frame right, cool blue haze behind her, rim of gold light tracing her jaw and hair, shallow depth of field, midnight blue and warm gold palette, clean empty darker space across the bottom for a bold title, photorealistic, sophisticated, emotional",
+    "negativo": "text, letters, typography, words, lyrics, watermark, logo, microphone in front of face, open mouth, extra limbs, deformed hands, cartoon, illustration",
+    "conceito": "Olhar escolhido: PERFIL, olhos para fora do quadro — a capa anterior do acervo (MVD#159) era olhar direto na lente e a anterior a ela (MVD#157) era de costas; esta usa a terceira pose. Ela está no corredor escuro que leva ao palco, vista de perfil no centro do quadro, queixo firme, olhando para o clarão dourado da arena fora do quadro à direita: a decisão já foi tomada e ela caminha para a própria vida, não para ele. Elegância madura, lágrima seca, dignidade sem vitimismo. Azul-noite frio no corredor, ouro quente vindo do palco, faixa inferior limpa para o título composto por código.",
+    "tagline": "quem esquece a queda torna a cair",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "plano geral, dolly-in lento",
+      "prompt": "slow cinematic dolly-in through a dark empty stadium toward a grand piano alone on a wide stage under a single warm spotlight, haze hanging in the beam, thousands of faint phone lights in the black stands, quiet and expectant, photorealistic, 16:9",
+      "alt": "slow dolly-in across a dark empty concert stage toward a grand piano under one warm spotlight, haze drifting through the light beam, distant scattered points of light in the darkness, photorealistic, 16:9"
+     },
+     {
+      "n": 2,
+      "secao": "verso 1",
+      "camera": "médio, dolly-in lento",
+      "prompt": "slow dolly-in on an elegant Brazilian woman in her late twenties with long dark wavy hair in a shimmering midnight-blue stage dress, seated on a stool at the edge of a warm spotlight on a dark stage, head bowed, hands clasped in her lap, intimate and vulnerable, cool blue haze around the pool of light, photorealistic, 16:9",
+      "alt": "slow dolly-in on the silhouette of a seated figure on a stool inside a warm pool of stage light surrounded by darkness, head bowed, cool blue haze drifting, intimate and quiet, photorealistic, 16:9"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "plano geral, steadicam",
+      "prompt": "slow steadicam drift down a dim apartment hallway at night toward a front door standing ajar, warm lamplight spilling through the gap onto the wooden floor, coats on a rack, quiet domestic stillness, cinematic low light, photorealistic, 16:9",
+      "alt": "slow drift down a dim empty hallway toward a door standing ajar, warm light spilling through the gap across a wooden floor, quiet and still, cinematic low light, photorealistic, 16:9"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "close, estático",
+      "prompt": "static close-up framed so tightly that only a phone lying face-down on a wooden table and two resting hands beside it are visible, warm lamplight, a cold blue glow pulsing faintly from under the phone, shallow depth of field, tense stillness, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only a phone lying face-down on a wooden table is visible, warm lamplight, a faint cold blue glow pulsing from beneath it, shallow depth of field, photorealistic, 16:9"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "médio, steadicam",
+      "prompt": "medium profile shot of the woman in the midnight-blue dress standing on the dark stage, eyes closed, chin low, backlit by a soft spotlight through blue haze, gold rim light on her hair, restrained emotion, photorealistic, 16:9",
+      "alt": "medium shot of a backlit silhouette standing in blue stage haze, head lowered, a soft rim of gold light tracing the outline against darkness, restrained and quiet, photorealistic, 16:9"
+     },
+     {
+      "n": 6,
+      "secao": "pré-refrão 1",
+      "camera": "close, dolly-in lento",
+      "prompt": "slow dolly-in on a man's suit jacket draped over a chair in warm lamplight in a dark room, thin wisps of haze curling above the fabric like lingering perfume, moody domestic night scene, shallow depth of field, photorealistic, 16:9",
+      "alt": "slow dolly-in on an empty chair with a dark jacket draped over it in warm lamplight, thin haze drifting above it in a dark room, moody and still, photorealistic, 16:9"
+     },
+     {
+      "n": 7,
+      "secao": "pré-refrão 1",
+      "camera": "médio, travelling",
+      "prompt": "tracking shot of the woman in the midnight-blue dress rising from the stool on the dark stage, band member silhouettes lighting up one by one behind her in warm backlight, drum kit and accordion silhouettes emerging, energy building, photorealistic, 16:9",
+      "alt": "tracking shot across a dark stage as instrument silhouettes light up one by one in warm backlight, a standing figure in silhouette at the front, haze and rising light, photorealistic, 16:9"
+     },
+     {
+      "n": 8,
+      "secao": "pré-refrão 1",
+      "camera": "plano geral, pan",
+      "prompt": "wide panning shot of stadium lights sweeping on across a packed arena at night, an ocean of phone lights rippling through the dark crowd, warm gold beams cutting blue haze, anticipation swelling, photorealistic, 16:9",
+      "alt": "wide panning shot of gold light beams sweeping across a dark arena filled with thousands of tiny swaying lights, blue haze, rising anticipation, photorealistic, 16:9"
+     },
+     {
+      "n": 9,
+      "secao": "refrão 1",
+      "camera": "plano geral, drone",
+      "prompt": "aerial drone shot over a packed stadium bursting into warm gold light, beams fanning from the stage across a sea of raised arms and phone lights, night sky above, massive live show energy, photorealistic, 16:9",
+      "alt": "aerial drone shot over a bowl of golden light beams fanning outward across a dark arena speckled with thousands of small lights, night sky above, photorealistic, 16:9"
+     },
+     {
+      "n": 10,
+      "secao": "refrão 1",
+      "camera": "médio, gimbal orbital",
+      "prompt": "orbiting gimbal shot around the woman in the shimmering midnight-blue dress at center stage, arms spread wide, head tilted back, eyes shut, drenched in golden backlight and haze, hair catching the light, cathartic energy, photorealistic, 16:9",
+      "alt": "orbiting shot around a backlit silhouette with arms spread wide against a wall of golden stage light and haze, dress fabric catching rim light, triumphant energy, photorealistic, 16:9"
+     },
+     {
+      "n": 11,
+      "secao": "refrão 1",
+      "camera": "plano geral, estático",
+      "prompt": "static wide shot of a stadium crowd jumping in unison under warm gold wash, thousands of raised arms and phone lights, slow motion, haze and lens flare, euphoric live energy, photorealistic, 16:9",
+      "alt": "static wide shot of thousands of raised arms in silhouette against warm gold stage wash, phone lights sparkling, slow motion, haze, euphoric energy, photorealistic, 16:9"
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "close, estático",
+      "prompt": "static close-up framed so tightly that only a clenched fist gripping a microphone stand pole is visible, knuckles tight, warm golden stage light flaring behind, haze, determination, shallow depth of field, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only a microphone stand pole is visible against flaring golden stage light and haze, shallow depth of field, photorealistic, 16:9"
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "médio, travelling",
+      "prompt": "fast lateral tracking shot along the front-row barrier, dozens of outstretched hands reaching toward the bright stage, gold light and haze washing over the crowd, phone lights sparkling, live concert energy, photorealistic, 16:9",
+      "alt": "fast lateral tracking shot along a barrier of outstretched hands in silhouette against bright golden stage light, sparkling small lights beyond, photorealistic, 16:9"
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "médio, contra-plongée estático",
+      "prompt": "low-angle medium shot of an accordion player in full silhouette against blazing golden stage lights, bellows stretched wide, light beams cutting through haze around the instrument, dynamic live show, photorealistic, 16:9",
+      "alt": "low-angle medium shot of an accordion held open in silhouette against blazing golden stage light, beams cutting through haze, dynamic energy, photorealistic, 16:9"
+     },
+     {
+      "n": 15,
+      "secao": "refrão 1",
+      "camera": "médio, dolly-in",
+      "prompt": "dolly-in on the woman in the midnight-blue dress, head tilted back, eyes squeezed shut, neck taut, one hand pressed to her chest, hard white spotlight from behind carving her outline in the haze, raw emotion, photorealistic, 16:9",
+      "alt": "dolly-in on a backlit silhouette with head tilted back and a hand pressed to the chest, hard white spotlight carving the outline in haze, raw emotion, photorealistic, 16:9"
+     },
+     {
+      "n": 16,
+      "secao": "refrão 1",
+      "camera": "plano geral, pan rápido",
+      "prompt": "fast panning wide shot of the full stage, drummer with both arms raised smashing cymbals, burst of white light on the hit, band silhouettes, gold beams sweeping over the crowd, explosive live energy, photorealistic, 16:9",
+      "alt": "fast panning wide shot of a stage where a burst of white light erupts behind a drum kit in silhouette, gold beams sweeping across haze, explosive energy, photorealistic, 16:9"
+     },
+     {
+      "n": 17,
+      "secao": "refrão 1",
+      "camera": "plano geral, orbital",
+      "prompt": "wide orbiting shot of the woman in the midnight-blue dress standing at center stage before an ocean of phone lights stretching into the dark stadium, gold and blue beams crossing above, slow motion haze, grand and emotional, photorealistic, 16:9",
+      "alt": "wide orbiting shot of a lone figure in silhouette at center stage before an ocean of tiny lights in a dark stadium, gold and blue beams crossing overhead, slow motion haze, photorealistic, 16:9"
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "médio, steadicam",
+      "prompt": "steadicam medium shot following the woman in the midnight-blue dress walking slowly along a catwalk into the crowd, cool blue wash, phone lights drifting like stars around her, subdued and reflective pace, photorealistic, 16:9",
+      "alt": "steadicam shot moving slowly along an elevated catwalk bathed in cool blue light, tiny drifting lights on both sides like stars, a walking figure in distant silhouette, reflective mood, photorealistic, 16:9"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "plano geral, estático",
+      "prompt": "static shot of rain streaking down a dark window pane at night, blurred city lights as warm and cold bokeh beyond the glass, drops merging and sliding, melancholic quiet interior mood, photorealistic, 16:9",
+      "alt": "static shot of rain streaking down dark glass at night, soft blurred city bokeh beyond, drops sliding and merging, melancholic and quiet, photorealistic, 16:9"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "close, estático",
+      "prompt": "static close-up in profile framed so tightly that only one closed eye and the cheekbone are visible, a single tear track catching cool blue light, soft golden rim from behind, framed from the eyes up, quiet grief with dignity, shallow depth of field, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only a single water drop sliding down dark glass is visible, catching cool blue light with a soft golden glow behind, quiet and dignified, shallow depth of field, photorealistic, 16:9"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "médio, contra-plongée travelling",
+      "prompt": "low-angle tracking medium shot of the woman in the midnight-blue dress standing at the end of the catwalk, chin firm, gaze far over the crowd, an acoustic guitar player blurred on the stage behind, blue and amber cross light, composed strength, photorealistic, 16:9",
+      "alt": "low-angle tracking shot of a standing figure in silhouette at the end of a catwalk over a sea of small lights, blue and amber cross light in haze, composed and still, photorealistic, 16:9"
+     },
+     {
+      "n": 22,
+      "secao": "pré-refrão 2",
+      "camera": "close, dolly-out lento",
+      "prompt": "slow dolly-out from a packed leather suitcase standing by an apartment front door at night, half lit by warm lamplight and half by cold blue window light, keys resting on top, decisive stillness, photorealistic, 16:9",
+      "alt": "slow dolly-out from a leather suitcase standing alone by a closed door, split between warm lamplight and cold blue light, quiet decisive mood, photorealistic, 16:9"
+     },
+     {
+      "n": 23,
+      "secao": "pré-refrão 2",
+      "camera": "médio, dolly-in",
+      "prompt": "dolly-in on the woman in the midnight-blue dress standing still at center stage, shoulders rising with a deep breath, fists loose at her sides, walls of light climbing brighter behind her through haze, storm about to break, photorealistic, 16:9",
+      "alt": "dolly-in on a still backlit silhouette at center stage as walls of golden light climb brighter behind it through haze, tension building, photorealistic, 16:9"
+     },
+     {
+      "n": 24,
+      "secao": "pré-refrão 2",
+      "camera": "plano geral, travelling",
+      "prompt": "sweeping tracking shot across the front of the stage, full band ignited in warm light, spotlight cannons tilting out over the roaring crowd, beams raking across thousands of phone lights, surging energy, photorealistic, 16:9",
+      "alt": "sweeping tracking shot across a stage of instrument silhouettes as spotlight cannons tilt outward over a dark arena of sparkling lights, surging energy, photorealistic, 16:9"
+     },
+     {
+      "n": 25,
+      "secao": "refrão 2",
+      "camera": "plano geral, drone",
+      "prompt": "aerial drone pull-back over the packed stadium at full blaze, gold beams fanning from the stage over a jumping crowd, phone lights like a galaxy, night sky above, huge celebratory scale, photorealistic, 16:9",
+      "alt": "aerial drone pull-back over an arena bowl of fanning golden beams and a galaxy of tiny lights below, night sky above, huge scale, photorealistic, 16:9"
+     },
+     {
+      "n": 26,
+      "secao": "refrão 2",
+      "camera": "médio, gimbal",
+      "prompt": "gimbal medium shot of the woman in the midnight-blue dress sweeping an outstretched arm over the crowd below the catwalk, hair flying, golden backlight flaring, commanding and generous energy, photorealistic, 16:9",
+      "alt": "gimbal medium shot of a backlit silhouette sweeping an outstretched arm over a sea of small lights, fabric and hair flying against golden flare, commanding energy, photorealistic, 16:9"
+     },
+     {
+      "n": 27,
+      "secao": "refrão 2",
+      "camera": "plano geral, estático",
+      "prompt": "static wide shot of the stadium crowd swaying thousands of arms in unison from side to side, phone lights tracing arcs through the dark, warm gold wash from the stage, communal wave of motion, photorealistic, 16:9",
+      "alt": "static wide shot of thousands of small lights tracing synchronized arcs through a dark arena under a warm gold wash, communal wave of motion, photorealistic, 16:9"
+     },
+     {
+      "n": 28,
+      "secao": "refrão 2",
+      "camera": "close, estático",
+      "prompt": "static close-up framed so tightly that only the stretched bellows of an accordion are visible, golden stage light leaking through the pleats, fingers blurred at the frame edge, haze, rhythmic live texture, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only accordion bellows pleats are visible with golden light leaking through them, haze drifting, rhythmic texture, photorealistic, 16:9"
+     },
+     {
+      "n": 29,
+      "secao": "refrão 2",
+      "camera": "médio, orbital",
+      "prompt": "fast orbiting shot around the woman in the midnight-blue dress spinning with the motion, dress fabric flaring, blown-out golden backlight and haze, joyful cathartic release, photorealistic, 16:9",
+      "alt": "fast orbiting shot around a spinning silhouette with dress fabric flaring against blown-out golden backlight and haze, cathartic release, photorealistic, 16:9"
+     },
+     {
+      "n": 30,
+      "secao": "refrão 2",
+      "camera": "plano geral, estático lateral",
+      "prompt": "static wide shot from the stage wing, full band in silhouette against the bright arena, a white strobe flash bursting on the big drum hit, haze and cables in the foreground, raw live power, photorealistic, 16:9",
+      "alt": "static wide shot from a dark stage wing of instrument silhouettes against a bright arena, a white flash bursting through haze, raw live power, photorealistic, 16:9"
+     },
+     {
+      "n": 31,
+      "secao": "refrão 2",
+      "camera": "médio, travelling",
+      "prompt": "slow-motion tracking shot along the front row, hands reaching and waving, phone lights streaking, hair and confetti-free air full of haze and gold flare, pure fan euphoria, photorealistic, 16:9",
+      "alt": "slow-motion tracking shot along a row of reaching hands in silhouette under streaking small lights and gold flare, pure euphoria, photorealistic, 16:9"
+     },
+     {
+      "n": 32,
+      "secao": "refrão 2",
+      "camera": "close, estático",
+      "prompt": "static close-up framed so tightly that only a boot heel stamping down on the glossy stage floor is visible, reflection of golden lights on the black surface, dust kicking in the beam, percussive impact, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only golden stage lights reflected on a glossy black stage floor are visible, dust drifting through the beam, percussive energy, photorealistic, 16:9"
+     },
+     {
+      "n": 33,
+      "secao": "refrão 2",
+      "camera": "médio, dolly-in",
+      "prompt": "dolly-in medium shot of the woman in the midnight-blue dress with a fist pressed hard against her chest, head tilted back, eyes squeezed shut, jaw set, golden spotlights blazing behind her through haze, fierce conviction, photorealistic, 16:9",
+      "alt": "dolly-in on a backlit silhouette with a raised fist pressed to the chest and head tilted back against blazing golden light and haze, fierce conviction, photorealistic, 16:9"
+     },
+     {
+      "n": 34,
+      "secao": "refrão 2",
+      "camera": "plano geral, drone top-down",
+      "prompt": "top-down drone shot directly above the stage, light beams radiating outward like a star with the tiny figure at the center, catwalk cutting into the glowing crowd, geometric grandeur, photorealistic, 16:9",
+      "alt": "top-down drone shot of light beams radiating outward like a star from the center of a stage, a catwalk line cutting into a field of glowing dots, geometric grandeur, photorealistic, 16:9"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "médio, dolly-in muito lento",
+      "prompt": "very slow dolly-in on the woman in the midnight-blue dress seated at the edge of the darkened stage beside the grand piano, single warm spotlight, head bowed, hands resting open on her knees, dust motes floating in the beam, the vast arena black and silent around her, fragile intimacy, photorealistic, 16:9",
+      "alt": "very slow dolly-in on a lone seated silhouette at the edge of a dark stage beside a grand piano under one warm spotlight, dust motes floating in the beam, vast darkness all around, fragile intimacy, photorealistic, 16:9"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "close, estático",
+      "prompt": "static shot inside a dark apartment of the front door slowly closing from within, the strip of warm hallway light narrowing on the wooden floor until it disappears, a hand resting on the lock at the frame edge, final and calm, photorealistic, 16:9",
+      "alt": "static shot of a strip of warm light on a dark wooden floor slowly narrowing as a door closes, until only darkness remains, final and calm, photorealistic, 16:9"
+     },
+     {
+      "n": 37,
+      "secao": "refrão final",
+      "camera": "plano geral, estático",
+      "prompt": "wide shot as the entire stadium erupts from darkness into full golden blaze, every beam and screen igniting at once over a jumping crowd, shockwave of light through haze, maximum cathartic release, photorealistic, 16:9",
+      "alt": "wide shot of a dark arena erupting into full golden light, beams igniting at once over a field of small lights, shockwave of brightness through haze, cathartic release, photorealistic, 16:9"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "médio, gimbal",
+      "prompt": "gimbal medium shot of the woman in the midnight-blue dress with arms flung wide and head thrown back, swallowed by golden backlight and haze, dress shimmering, total surrender to the moment, photorealistic, 16:9",
+      "alt": "gimbal medium shot of a silhouette with arms flung wide and head thrown back, engulfed in golden backlight and haze, total release, photorealistic, 16:9"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "plano geral, estático",
+      "prompt": "slow-motion wide shot of the stadium crowd leaping together, thousands of phone lights and raised arms, gold wash and haze rolling over the human tide, peak communal euphoria, photorealistic, 16:9",
+      "alt": "slow-motion wide shot of thousands of small lights and silhouetted arms leaping together under rolling gold light and haze, peak euphoria, photorealistic, 16:9"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "close, estático",
+      "prompt": "static close-up framed so tightly that only drumsticks smashing into a crash cymbal are visible, spray of light and sweat droplets frozen in golden backlight, explosive percussion moment, photorealistic, 16:9",
+      "alt": "static close-up framed so tightly that only a shimmering cymbal vibrating in golden backlight is visible, droplets of light frozen mid-air, explosive energy, photorealistic, 16:9"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "médio, travelling",
+      "prompt": "tracking medium shot of the woman in the midnight-blue dress running along the catwalk over the crowd, dress streaming behind her, crossing beams and phone lights blurring past, unleashed joy and freedom, photorealistic, 16:9",
+      "alt": "tracking shot of a running silhouette on a catwalk with fabric streaming behind, crossing light beams and blurred small lights rushing past, unleashed freedom, photorealistic, 16:9"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "plano geral, drone orbital",
+      "prompt": "orbiting drone shot around the glowing stadium bowl at night, searchlight beams sweeping the sky, the stage a blazing gold heart at the center of a galaxy of lights, epic scale, photorealistic, 16:9",
+      "alt": "orbiting drone shot around a glowing arena bowl at night, beams sweeping the sky above a gold center of light, epic scale, photorealistic, 16:9"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "close, dolly-in",
+      "prompt": "slow dolly-in close-up framed so tightly that only a thin gold ring resting on the glossy black lid of the grand piano is visible, warm golden concert bokeh sparkling out of focus beyond, quiet symbol of release amid the celebration, photorealistic, 16:9",
+      "alt": "slow dolly-in framed so tightly that only a thin gold ring on a glossy black piano lid is visible, warm golden bokeh sparkling beyond, quiet release, photorealistic, 16:9"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "médio, estático",
+      "prompt": "slow-motion medium shot of the woman in the midnight-blue dress facing the vast crowd with one fist raised high, the first golden confetti drifting down around her through the beams, triumphant dignity, photorealistic, 16:9",
+      "alt": "slow-motion medium shot of a silhouette facing a sea of lights with one fist raised, golden confetti beginning to drift down through the beams, triumphant dignity, photorealistic, 16:9"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "plano geral, estático",
+      "prompt": "wide shot of a blizzard of golden confetti falling over the entire stadium crowd, beams of warm light cutting through the glittering storm, slow motion, phone lights twinkling beneath, overwhelming celebration, photorealistic, 16:9",
+      "alt": "wide shot of golden confetti falling in slow motion through beams of warm light over a dark arena of twinkling lights, overwhelming celebration, photorealistic, 16:9"
+     },
+     {
+      "n": 46,
+      "secao": "refrão final",
+      "camera": "médio, orbital lento",
+      "prompt": "slow orbiting medium shot of the woman in the midnight-blue dress standing beneath falling golden confetti, eyes closed, a tear glinting on her cheek, a faint relieved smile, warm light halo through the glitter, bittersweet victory, photorealistic, 16:9",
+      "alt": "slow orbiting shot of golden confetti swirling around a still backlit silhouette, glitter catching a warm halo of light, bittersweet victory, photorealistic, 16:9"
+     },
+     {
+      "n": 47,
+      "secao": "refrão final",
+      "camera": "plano geral, drone recuando",
+      "prompt": "drone pull-back revealing the whole glowing stadium under falling golden confetti, beams sweeping, a galaxy of phone lights around the blazing stage, night skyline beyond, grand final image, photorealistic, 16:9",
+      "alt": "drone pull-back revealing an entire glowing arena under falling golden confetti, beams sweeping over a galaxy of small lights, night skyline beyond, grand finale, photorealistic, 16:9"
+     },
+     {
+      "n": 48,
+      "secao": "final",
+      "camera": "médio, dolly-out lento",
+      "prompt": "slow dolly-out as all stadium lights fade to a single warm spotlight on the woman in the midnight-blue dress standing alone, chin held high, shoulders settling with a deep breath, confetti settling around her, then the spotlight dims leaving only drifting haze, serene closure, photorealistic, 16:9",
+      "alt": "slow dolly-out as arena lights fade to one warm spotlight on a lone standing silhouette, confetti settling through the beam, the light dimming to drifting haze, serene closure, photorealistic, 16:9"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "stay-kling",
    "mvd": "MVD#130",
    "titulo": "Stay",
@@ -219,7 +625,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
