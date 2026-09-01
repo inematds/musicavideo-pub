@@ -1603,7 +1603,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -3829,6 +3829,373 @@
     ]
    },
    "nuvem": "publicado",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
+   "slug": "crea-te-an-epic-cinematic-mongolian-song",
+   "mvd": "MVD#139",
+   "titulo": "Khukh Tenger",
+   "quando": "2026-08-28T05:24:17-03:00",
+   "solicitacao": "Crea te an epic cinematic Mongolian song inspired by the ancient Mongol steppe, nomadic life, horses, tribal unity, vast landscapes, survival, movement and the rise of a civilization that connected distant parts of the world.The song should feel ancient, powerful, spiritual and uplifting — not dark or excessively warlike. The emotional focus is resilience, freedom, unity, exploration and the endless horizon.Use authentic Mongolian musical inspiration blended with modern cinematic production.Star t immediately with a striking traditional Mongolian throat-singing vocal, deep and resonant, over wind ambience and a single morin khuur melody.Inst rumentation:Mori n khuur as the main melodic identityMongol ian throat singing / khoomeiDeep mal e tribal choirLarge fram e drums and cinematic percussionHorse-hoof r hythmic texturesLow dronesSpar se tradition al flutesEpic orchestral st rings and brass entering progressivelySubtle modern electr onic bass and cinematic sound designNatural steppe wind am bienceVocal direction:Deep, ma sculine, weather ed Mongolian lead voice with strong character.Verses should feel intim ate, ancestral and storytelling-driven.Use throat singing as bo th a rhythmic and harmonic layer.The chorus should expand into a massive communal male choir, memorable even for listeners who do not understand the language.Language:Primarily authe ntic Mong olian.Use short, singable phra ses rather than long historical explanations.The lyrics should evoke the steppe, sky, horses, family, endurance, unity, roads and horizons.Avoid modern slang.Avoid literal textbook s torytelling.Do not glorify killing, destruction or conquest.Treat Genghis Khan and M ongol history primarily through the ideas of unity, organization, movement and cultural connection.Structure:Open with the main vocal hook in the first 2 seconds.No long instrumental int roduction.0:00–0:12 — iconic throa t-singing hook, wind, morin khuur0:12–0:40 — intimate fir st verse0:40–1:05 — huge first c horus with male choir and drums1:05–1:35 — second verse , stronger rhythm and horse-hoof pulse1:35–2:00 — second choru s, larger orchestration2:00–2:25 — cinematic in strumental expansion, morin khuur solo and throat singing2:25–2:55 — final massiv e chorus2:55–3:10 — music drops back to wind, voice and morin khuurThe first 12 seconds mus t work as a standalone viral clip.Create one short Mongoli an hook of approximately 3–7 words that feels ancestral, powerful and easy to repeat.Production style:Ancient Mongolia meets p remium 2026 cinematic soundtrack.Huge dynamic range.Wide stereo field.Deep c ontrolled low end. Organic percussion.Power ful but clean vocal s.Massive cinematic climax without becoming generic Hollywood trailer music.The listener should feel as if they are standing alone on the Mongolian steppe at sunrise, seeing thousands of horses approaching on the horizon, not with fear, but with the feeling that history is beginning.Esse prompt direciona a IA para “Mongólia ancestral + épico moderno”, sem cair numa música apenas de guerra. O foco fica em estepe, cavalo, resistência, união e horizonte. musica lingua mongol --",
+   "genero": "épico mongol cinematográfico (khoomei + morin khuur + orquestra e produção moderna)",
+   "bpm": 100,
+   "tom": "Ré menor (melodias pentatônicas, abre em luz no refrão final)",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.08,
+   "tags": [
+    "ancestral",
+    "espiritual",
+    "resiliente",
+    "vasto",
+    "ascendente"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v1.png",
+     "rotulo": "variante · faixa 1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v2.png",
+     "rotulo": "variante · faixa 2"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v1-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v1.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/clipe-1.mp4",
+     "nuvem": "publicado"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/faixa-2.mp3",
+     "nome": "faixa-2.mp3",
+     "n": "2",
+     "aprovada": false,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v2-thumb.jpg",
+     "likes": 0,
+     "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/capa-v2.png",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/clipe-2.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    },
+    {
+     "n": "2",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/clipe-2.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/crea-te-an-epic-cinematic-mongolian-song/faixa-2.mp3",
+     "aprovada": false,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 749277955,
+   "doc": "# Khukh Tenger\n\n**slug:** `crea-te-an-epic-cinematic-mongolian-song`  ·  **solicitação:** Crea te an epic cinematic Mongolian song inspired by the ancient Mongol steppe, nomadic life, horses, tribal unity, vast landscapes, survival, movement and the rise of a civilization that connected distant parts of the world.The song should feel ancient, powerful, spiritual and uplifting — not dark or excessively warlike. The emotional focus is resilience, freedom, unity, exploration and the endless horizon.Use authentic Mongolian musical inspiration blended with modern cinematic production.Star t immediately with a striking traditional Mongolian throat-singing vocal, deep and resonant, over wind ambience and a single morin khuur melody.Inst rumentation:Mori n khuur as the main melodic identityMongol ian throat singing / khoomeiDeep mal e tribal choirLarge fram e drums and cinematic percussionHorse-hoof r hythmic texturesLow dronesSpar se tradition al flutesEpic orchestral st rings and brass entering progressivelySubtle modern electr onic bass and cinematic sound designNatural steppe wind am bienceVocal direction:Deep, ma sculine, weather ed Mongolian lead voice with strong character.Verses should feel intim ate, ancestral and storytelling-driven.Use throat singing as bo th a rhythmic and harmonic layer.The chorus should expand into a massive communal male choir, memorable even for listeners who do not understand the language.Language:Primarily authe ntic Mong olian.Use short, singable phra ses rather than long historical explanations.The lyrics should evoke the steppe, sky, horses, family, endurance, unity, roads and horizons.Avoid modern slang.Avoid literal textbook s torytelling.Do not glorify killing, destruction or conquest.Treat Genghis Khan and M ongol history primarily through the ideas of unity, organization, movement and cultural connection.Structure:Open with the main vocal hook in the first 2 seconds.No long instrumental int roduction.0:00–0:12 — iconic throa t-singing hook, wind, morin khuur0:12–0:40 — intimate fir st verse0:40–1:05 — huge first c horus with male choir and drums1:05–1:35 — second verse , stronger rhythm and horse-hoof pulse1:35–2:00 — second choru s, larger orchestration2:00–2:25 — cinematic in strumental expansion, morin khuur solo and throat singing2:25–2:55 — final massiv e chorus2:55–3:10 — music drops back to wind, voice and morin khuurThe first 12 seconds mus t work as a standalone viral clip.Create one short Mongoli an hook of approximately 3–7 words that feels ancestral, powerful and easy to repeat.Production style:Ancient Mongolia meets p remium 2026 cinematic soundtrack.Huge dynamic range.Wide stereo field.Deep c ontrolled low end. Organic percussion.Power ful but clean vocal s.Massive cinematic climax without becoming generic Hollywood trailer music.The listener should feel as if they are standing alone on the Mongolian steppe at sunrise, seeing thousands of horses approaching on the horizon, not with fear, but with the feeling that history is beginning.Esse prompt direciona a IA para “Mongólia ancestral + épico moderno”, sem cair numa música apenas de guerra. O foco fica em estepe, cavalo, resistência, união e horizonte. musica lingua mongol --\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0800 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0800\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/crea-te-an-epic-cinematic-mongolian-song`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Khukh Tenger\n\n\n\n**slug:** `crea-te-an-epic-cinematic-mongolian-song`  ·  **criado:** 2026-08-28T05:24:17-03:00\n\n**solicitação:** Crea te an epic cinematic Mongolian song inspired by the ancient Mongol steppe, nomadic life, horses, tribal unity, vast landscapes, survival, movement and the rise of a civilization that connected distant parts of the world.The song should feel ancient, powerful, spiritual and uplifting — not dark or excessively warlike. The emotional focus is resilience, freedom, unity, exploration and the endless horizon.Use authentic Mongolian musical inspiration blended with modern cinematic production.Star t immediately with a striking traditional Mongolian throat-singing vocal, deep and resonant, over wind ambience and a single morin khuur melody.Inst rumentation:Mori n khuur as the main melodic identityMongol ian throat singing / khoomeiDeep mal e tribal choirLarge fram e drums and cinematic percussionHorse-hoof r hythmic texturesLow dronesSpar se tradition al flutesEpic orchestral st rings and brass entering progressivelySubtle modern electr onic bass and cinematic sound designNatural steppe wind am bienceVocal direction:Deep, ma sculine, weather ed Mongolian lead voice with strong character.Verses should feel intim ate, ancestral and storytelling-driven.Use throat singing as bo th a rhythmic and harmonic layer.The chorus should expand into a massive communal male choir, memorable even for listeners who do not understand the language.Language:Primarily authe ntic Mong olian.Use short, singable phra ses rather than long historical explanations.The lyrics should evoke the steppe, sky, horses, family, endurance, unity, roads and horizons.Avoid modern slang.Avoid literal textbook s torytelling.Do not glorify killing, destruction or conquest.Treat Genghis Khan and M ongol history primarily through the ideas of unity, organization, movement and cultural connection.Structure:Open with the main vocal hook in the first 2 seconds.No long instrumental int roduction.0:00–0:12 — iconic throa t-singing hook, wind, morin khuur0:12–0:40 — intimate fir st verse0:40–1:05 — huge first c horus with male choir and drums1:05–1:35 — second verse , stronger rhythm and horse-hoof pulse1:35–2:00 — second choru s, larger orchestration2:00–2:25 — cinematic in strumental expansion, morin khuur solo and throat singing2:25–2:55 — final massiv e chorus2:55–3:10 — music drops back to wind, voice and morin khuurThe first 12 seconds mus t work as a standalone viral clip.Create one short Mongoli an hook of approximately 3–7 words that feels ancestral, powerful and easy to repeat.Production style:Ancient Mongolia meets p remium 2026 cinematic soundtrack.Huge dynamic range.Wide stereo field.Deep c ontrolled low end. Organic percussion.Power ful but clean vocal s.Massive cinematic climax without becoming generic Hollywood trailer music.The listener should feel as if they are standing alone on the Mongolian steppe at sunrise, seeing thousands of horses approaching on the horizon, not with fear, but with the feeling that history is beginning.Esse prompt direciona a IA para “Mongólia ancestral + épico moderno”, sem cair numa música apenas de guerra. O foco fica em estepe, cavalo, resistência, união e horizonte. musica lingua mongol --\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** épico mongol cinematográfico (khoomei + morin khuur + orquestra e produção moderna)  ·  **BPM:** 100  ·  **Tom:** Ré menor (melodias pentatônicas, abre em luz no refrão final)\n- **Mood:** ancestral, espiritual, resiliente, vasto, ascendente\n- **Instrumentação:** morin khuur (identidade melódica principal), canto gutural khoomei como camada rítmica e harmônica, coro tribal masculino grave, tambores de moldura grandes e percussão cinematográfica, texturas rítmicas de cascos de cavalo, drones graves, flautas tradicionais esparsas, cordas e metais orquestrais progressivos, sub-bass eletrônico sutil e sound design, ambiência de vento da estepe\n- **Voz:** \"barítono masculino profundo e vivido, narrativo e intimista nos versos; khoomei gutural como textura constante; refrões explodem em coro masculino comunitário enorme, memorável mesmo sem entender a língua\"\n- **Params:** `{\"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Epic cinematic Mongolian folk anthem, around 100 BPM in D minor with pentatonic melodies. Opens instantly with a deep resonant male guttural overtone vocal hook over steppe wind ambience and a single bowed horsehead fiddle melody — no long instrumental intro. Lead vocal: deep, weathered, masculine, strong character, intimate ancestral storytelling verses. Mongolian throat singing used as both a rhythmic and a harmonic layer throughout. Choruses expand into a massive communal male choir. Instrumentation: horsehead fiddle as the main melodic identity, deep male tribal choir, large frame drums and cinematic percussion, galloping horse-hoof rhythmic textures, low drones, sparse traditional flutes, epic orchestral strings and brass entering progressively, subtle modern electronic sub-bass and cinematic sound design, natural steppe wind ambience. Structure: 0:00-0:12 iconic guttural hook with wind and fiddle; 0:12-0:40 intimate first verse; 0:40-1:05 huge first chorus with male choir and drums; 1:05-1:35 second verse with stronger horse-hoof pulse; 1:35-2:00 larger second chorus; 2:00-2:25 cinematic instrumental expansion with fiddle solo and overtone vocals; 2:25-2:55 final massive chorus; 2:55-3:10 drop back to wind, voice and fiddle. Production: ancient organic timbres blended with premium 2026 cinematic production — huge dynamic range, wide stereo field, deep controlled low end, organic percussion, powerful clean vocals. Spiritual and uplifting, never dark or warlike. Sung in Mongolian.\n\n**Estrutura:** hook (12s) · verso 1 (28s) · refrão 1 (25s) · verso 2 (30s) · refrão 2 (25s) · solo instrumental (25s) · refrão final (30s) · outro (15s)\n\n**Letra** (origem: `gerada`, mn):\n\n```\n[Intro — khoomei hook]\nХөх тэнгэр дор бид нэг\nХөх тэнгэр дор бид нэг\n\n[Verse 1]\nСалхи талын дууг дуулна\nӨвөг дээдсийн зам урт\nМорины туурай газар цохино\nЗүрх минь тэнгэр рүү ниснэ\n\n[Chorus]\nХөх тэнгэр дор бид нэг\nТал нутаг минь, зам минь\nТүмэн морьд давхина\nНаран мандах зүг рүү\n\n[Verse 2]\nГэр минь салхинд бат зогсоно\nАх дүүс гал тойрон сууна\nХол газрын зам нээгдэнэ\nБид айхгүй, бид явна\n\n[Chorus]\nХөх тэнгэр дор бид нэг\nТал нутаг минь, зам минь\nТүмэн морьд давхина\nНаран мандах зүг рүү\n\n[Instrumental — morin khuur solo with overtone vocals]\n\n[Final Chorus]\nХөх тэнгэр дор бид нэг\nТүмэн морьд, нэг зүрх\nЗамууд дэлхийг холбоно\nТэнгэрийн хязгаар үгүй\n\n[Outro — wind, voice and fiddle]\nХөх тэнгэр... бид нэг...\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** paisagem-simbolica  ·  **Paleta:** #141A2E, #3D5A80, #C9A227, #E07B39, #F2E8DC\n- **Params:** `{}`\n\n**Conceito:** Capa SEM pessoa em destaque — o olhar aqui é a própria terra. A estepe no exato minuto em que a noite indigo cede ao âmbar do amanhecer: um cavaleiro minúsculo e ilegível numa colina distante, e no horizonte uma maré de cavalos surgindo como luz e poeira — não como ameaça, mas como a sensação de que a história está começando. O céu ocupa dois terços do quadro e recebe o título; o gradiente frio→quente é o mesmo arco da música.\n\n**Prompt (EN):**\n\n> album cover, wide symbolic landscape of the Mongolian steppe at sunrise, endless grassland under an immense sky, a lone distant horseman silhouetted small on a ridge, thousands of horses emerging on the far horizon as a tide of dark shapes in golden backlit dust, cold indigo night retreating on one side and warm amber dawn breaking on the other, low mist over the grass, cinematic volumetric lighting, horizon on the lower third, large negative space in the sky for a title, palette of deep indigo, slate blue, ochre gold, burnt amber and pale bone, painterly epic realism, 1:1\n\n**Negativo:** text, letters, typography, words, watermark, logo, people in foreground, readable faces, modern buildings, power lines, roads, cars, weapons, blood\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** 38 cortes em 165 s ≈ 13.8 cortes/min na média, subindo para ~19–20 cortes/min nos refrões e caindo para ~9–10 nos versos. Âncora medida: ravenstrikex-let-the-water-speak (épico frio, hero shots em contra-plongée, 25.3 cortes/min a 122 bpm); escalando pelo andamento (100/122 bpm) o teto vira ~20 cortes/min, aplicado só nos refrões. NÚCLEO medido na onda: 50–62 s — cai exatamente nos shots 11–14 (refrão 1 vai de 37.5 a 62.5 s), a corrida de hero shots (cavalo empinando em slowmo, travessia do rio, o cantor na rocha, o drone revelando a estepe): é o trecho que vira Short. Intro segura o plano (5.5–6 s), versos respiram (6–7 s), refrão pica (3–3.5 s), outro devolve o fôlego (6–6.5 s). Recursos APENAS os medidos na referência: corte seco cravado no beat dos tambores, match cut (fogo→sol, crina→capim), whip-pan curto na ação, slowmo/speedramp nos hero shots, dissolve sutil entre blocos.\n- **Params:** `{\"resolucao\": \"1080p\"}`\n- **Shots:** 38  ·  **Duração total:** 165.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | hook | 6.0s | drone | Estepe imensa antes do amanhecer; cavaleiro imóvel numa colina distante. |\n| 2 | hook | 5.5s | dolly-in | A figura do cantor sentada de perfil contra a primeira luz; a voz gutural entra — lida no corpo, não na boca. |\n| 3 | verso 1 | 6.5s | steadicam | Dentro do ger: mãos e tigela de leite junto ao fogo — o cotidiano ancestral. |\n| 4 | verso 1 | 7.0s | travelling | Jovem pastor caminha com dois cavalos na névoa dourada. |\n| 5 | verso 1 | 6.5s | estatico | Plano geral do acampamento: gers brancos, fumaça, montanhas ao fundo. |\n| 6 | verso 1 | 6.0s | dolly-in | Macro do morin khuur ao fogo: o instrumento como personagem. |\n| 7 | refrão 1 | 3.0s | drone | Cavaleiros explodem sobre a crista da colina — o refrão abre. |\n| 8 | refrão 1 | 3.0s | travelling | Rasante nos cascos em galope, poeira dourada. |\n| 9 | refrão 1 | 3.5s | orbital | Órbita nos cavaleiros parados com estandartes lisos ao vento. |\n| 10 | refrão 1 | 3.0s | handheld | POV de dentro do galope, crina chicoteando o quadro. |\n| 11 | refrão 1 | 3.0s | estatico | NÚCLEO (50s): contra-plongée heroico — cavalo empinando em slowmo contra o céu. O melhor plano do clipe. |\n| 12 | refrão 1 | 3.5s | drone | NÚCLEO: manada cruzando o rio prateado, água explodindo em contraluz. |\n| 13 | refrão 1 | 3.0s | dolly-in | NÚCLEO: o cantor de pé na rocha — canto lido na garganta tensa e no punho fechado. |\n| 14 | refrão 1 | 3.0s | drone | NÚCLEO: drone sobe atrás da figura e revela a estepe pontilhada de cavalos. |\n| 15 | verso 2 | 6.0s | travelling | A caravana em movimento: carroças, camelos, ritmo de marcha. |\n| 16 | verso 2 | 6.0s | estatico | O pulso de cascos: patas batendo a terra em ritmo, cortadas pelo quadro. |\n| 17 | verso 2 | 6.0s | dolly-out | Das brasas ao círculo de silhuetas ao redor do fogo, no crepúsculo. |\n| 18 | verso 2 | 6.0s | drone | A caravana como linha fina sob a frente de tempestade; um facho de sol varre o campo. |\n| 19 | refrão 2 | 3.0s | drone | Manada gigante galopa direto para a câmera. |\n| 20 | refrão 2 | 3.0s | whip-pan | Relevo de mensageiros: a bolsa de couro passa de mão em mão no galope. |\n| 21 | refrão 2 | 3.5s | orbital | Órbita rápida no cantor firmado na pedra, casaco estalando no vento. |\n| 22 | refrão 2 | 3.0s | travelling | Paralelo com três cavaleiros, sol estroboscópico entre os corpos, speedramp. |\n| 23 | refrão 2 | 3.0s | estatico | Águia dourada decola em slowmo — o espírito do céu. |\n| 24 | refrão 2 | 3.5s | drone | Top-down: a coluna em movimento desenha um rio escuro no capim dourado. |\n| 25 | refrão 2 | 3.0s | dolly-in | Criança na garupa, queixo erguido pro horizonte — o futuro cavalga junto. |\n| 26 | solo instrumental | 6.0s | orbital | O músico sozinho no topo da colina ao pôr do sol, o vale inteiro atrás. |\n| 27 | solo instrumental | 6.0s | dolly-in | Macro das cordas e do arco, pó de breu subindo na lâmina de luz. |\n| 28 | solo instrumental | 6.0s | estatico | Noite: fagulhas sobem da fogueira em direção à Via Láctea sobre os gers. |\n| 29 | refrão final | 3.0s | drone | Amanhecer: milhares de cavalos vêm do horizonte como uma maré de luz. |\n| 30 | refrão final | 3.0s | travelling | Speedramp por dentro da manada, resolvendo num cavalo branco em slowmo. |\n| 31 | refrão final | 3.5s | orbital | Clãs de cores diferentes se encontram: antebraços se apertam entre os cavalos. |\n| 32 | refrão final | 3.0s | whip-pan | Parada de caravana: seda, tijolos de chá, prata — mundos se conectando. |\n| 33 | refrão final | 3.5s | drone | A rota antiga serpenteia das dunas ao desfiladeiro verde — a estrada é a heroína. |\n| 34 | refrão final | 3.0s | handheld | O cantor no meio da celebração, braços abertos, cabeça atrás, lágrima na luz. |\n| 35 | refrão final | 3.5s | travelling | Por trás: cavaleiros e caravana avançam juntos para o sol nascente. |\n| 36 | refrão final | 3.5s | drone | Pull-back final do refrão: o povo em movimento vira um fio escuro costurado na terra imensa. |\n| 37 | outro | 6.0s | dolly-out | A figura sentada de novo como no início, de costas para nós, de frente pro sol. |\n| 38 | outro | 6.5s | drone | Subida final: uma linha de pegadas de casco corre até o horizonte; só céu e luz. |\n\n**Prompts (EN):**\n\n1. Aerial drone shot drifting slowly forward over an endless pre-dawn Mongolian steppe, low mist clinging to the grass, a lone motionless horseman silhouetted on a distant hill against a deep indigo sky, one thin band of amber light on the horizon, vast negative space, cold cinematic haze, wide 24mm lens, palette of indigo, slate and pale amber.\n2. Slow dolly-in on a broad-shouldered figure in a heavy fur-lined deel seated cross-legged in the grass, framed in profile from the eyes up against the first amber light, eyes closed, chest expanding with a deep breath, shoulders rising, long hair moving in the wind, breath steaming in cold air, backlit rim light, shallow depth of field.\n3. Interior of a round felt ger lit by a central fire, framed so tightly that only weathered hands and a wooden bowl of steaming milk are visible, the hands cropped by the frame edges, firelight flickering on skin and wood, warm amber against deep shadow, macro texture, slow steadicam drift.\n4. Travelling shot at walking pace beside a young herder leading two shaggy steppe horses through knee-high grass at dawn, mist swirling around their legs, soft golden backlight, the boy gazing toward the horizon, 35mm, gentle organic camera movement.\n5. Static wide shot of a nomad camp: three white felt gers on the open plain, thin smoke rising vertically, horses grazing nearby, snow-dusted mountains far behind, morning light raking across the grass, deep focus, painterly rule-of-thirds composition.\n6. Slow dolly-in on a horsehead fiddle standing upright by the fire, carved wooden horsehead scroll catching amber light, two horsehair strings glowing, a bow drawing slowly across them, cropped so only the instrument and bow are visible, macro detail, warm chiaroscuro.\n7. Drone shot skimming low over a ridge as a dozen riders burst over the crest toward camera in golden morning light, dust and grass kicked up, long coats flying, wide 18mm lens, crisp high-shutter texture, epic uplifting scale.\n8. Ground-level travelling shot racing alongside galloping hooves, framed so tightly that only the hooves and flying dust are visible, cropped by the frame edges, clumps of earth suspended mid-air, golden backlit dust, subtle speed-ramp energy.\n9. Orbital shot circling a tight group of mounted riders halted on the open plain, plain crimson and sky-blue horsetail banners streaming in the wind, no writing on the banners, coats rippling, mountains rotating in the background, clear midday light.\n10. Handheld shot from horseback inside a full gallop, black mane whipping across the frame, blurred grass streaming below, horizon bouncing, sun flaring through dust, visceral immersive energy.\n11. Static low-angle shot against a deep blue sky: a rider's horse rearing on a crest in slow motion, coat and mane frozen mid-flight, dust drifting like smoke, heroic silhouette rimmed by the sun, monumental and clean.\n12. Drone shot tracking a herd of horses crossing a braided silver river, water exploding in backlit sheets, spray hanging in the air, late-morning sun turning every splash gold, wide aerial scale, joyful momentum.\n13. Dolly-in on the fur-clad figure standing on a rock, head tilted back, eyes shut tight, throat and neck tensed, one fist closed over the chest, hair and coat blasted by wind, backlit by hard sun through dust, low angle, epic rim light.\n14. Drone shot rising vertically from behind a standing coated figure, revealing the steppe unrolling to a horizon dotted with hundreds of grazing horses, cloud shadows sweeping the grass, immense scale, cool blue and gold palette.\n15. Travelling shot alongside a nomad caravan on the move: wooden carts stacked with folded felt, shaggy camels roped in a line, riders flanking, rhythmic plodding pace, overcast pearl light, dust rising from the wheel ruts, 50mm compression.\n16. Static close shot framed so tightly that only a horse's forelegs and hooves are visible striking packed earth in a steady rhythm, cropped by the frame edges, small dust puffs on each impact, hard side light, percussive and hypnotic.\n17. Slow dolly-out at dusk from glowing embers to reveal a wide circle of figures seated around the fire in full silhouette, sparks rising, the last violet light behind the mountains, faces unreadable, quiet fellowship.\n18. High drone shot of a caravan stretched in a thin line across an immense plain under a dramatic storm front, one shaft of sunlight breaking through and sweeping toward the travellers, grass rippling in waves, monumental hopeful scale.\n19. Drone shot flying backward low as a massive herd of horses gallops straight toward camera across open ground, a wall of golden dust building behind them, manes backlit by the sun, thundering uplifting scale, wide lens.\n20. Whip-pan between two riders at full gallop as a leather message satchel passes from gloved hand to gloved hand, framed tight on the satchel and hands cropped by the frame, dust streaking, kinetic motion blur on the transition.\n21. Fast orbital shot around the fur-clad figure standing braced on a boulder, long coat cracking in the wind, both fists clenched at the sides, chin lifted, eyes closed, rivers of dust flowing past the boulder, hard golden backlight, heroic energy.\n22. Travelling shot racing parallel with three riders at full gallop, lens flaring through the dust between camera and horses, coats snapping, low sun strobing behind their silhouettes, speed-ramp from motion blur into crisp slow motion.\n23. Static shot in slow motion: a golden eagle lifting off from a leather-gloved arm, wings hammering the air, feather detail sharp against a deep blue sky, the glove cropped at the frame edge, dust swirling from the wingbeats.\n24. Top-down drone shot of riders and herd flowing across the land in a long curved column, the moving mass drawing a dark river through pale gold grass, cloud shadows crossing it diagonally, abstract graphic geometry.\n25. Dolly-in on a small child riding double behind an adult at a gallop, tiny hands gripping the saddle, hair blown back, chin raised toward the horizon, morning light on the face, hopeful and free.\n26. Slow orbital shot around a lone musician seated on a hilltop at golden hour playing a horsehead fiddle, bow arm moving in long slow arcs, the whole valley glowing behind in layers of amber haze, 85mm shallow focus pulling between player and land.\n27. Macro dolly-in along the two horsehair strings of the fiddle as the bow crosses them, rosin dust lifting into a blade of golden light, wood grain and the carved horsehead soft in the background, intimate and tactile.\n28. Static night wide shot: a camp fire throwing sparks upward toward a colossal star field over the black steppe, seated silhouettes motionless around the flames, the Milky Way arching over distant white gers, long-exposure depth, spiritual stillness.\n29. Drone shot at sunrise facing east: thousands of horses cresting the horizon line and pouring toward camera, backlit by the rising sun so they read as a moving tide of light and dust, monumental and uplifting, the feeling of history beginning, not menace.\n30. Low travelling shot speed-ramping through the middle of the galloping herd, dust glowing gold, bodies parting around the lens, flashes of manes and flanks, snapping into crisp slow motion on a single white horse.\n31. Orbital shot around riders from different clans meeting in a circle, deels of different colors — crimson, indigo, ochre — arms clasping forearm to forearm between the horses, dust settling, warm noon light, unity without ceremony.\n32. Whip-pan across a caravan trading stop: bolts of dyed silk unrolling, hands weighing dried tea bricks, silver ornaments catching the light, camels kneeling beside loaded packs, framed tight on goods and gestures, saturated textiles against pale dust.\n33. Drone shot following an ancient caravan route as it winds from golden dunes into a green mountain pass, a line of camels and riders tiny on the path, the road itself the hero of the frame, layered atmospheric depth, warm-to-cool gradient.\n34. Handheld shot in golden dust among a celebrating crowd: the fur-clad figure at the center with arms spread wide, head tilted back, eyes closed, a single tear track catching the light, bodies and horses moving around, lens flares, pure release.\n35. Travelling shot from behind as riders and a loaded caravan move together toward the rising sun, long shadows reaching back toward camera, dust hanging gold in the air, the column dissolving into light at the horizon.\n36. Drone shot pulling up and back until the moving people, herds and carts become one thin dark thread stitched across an immense sunlit land, towering clouds above, the frame almost entirely sky, awe and peace.\n37. Slow dolly-out from the fur-clad figure seated again in the grass as at the beginning, seen from behind facing the risen sun, breath steaming, grass bowing in waves around the stillness, quiet amber light, full-circle calm.\n38. Drone rising slowly over the empty dawn steppe, a single line of hoofprints running to the horizon where the sun clears the earth, wind combing the grass, the frame opening into pure sky, silence and light.\n\n## Publicação (YouTube)\n\n- **Título:** Khukh Tenger\n- **Tags:** ancestral, espiritual, resiliente, vasto, coro tribal masculino grave\n\n**Descrição:**\n\nUma voz gutural profunda abre a faixa no primeiro segundo, sobre o vento da estepe e um único violino de cabeça de cavalo — e a partir daí a música só cresce: tambores enormes, coro masculino, cordas e metais entrando aos poucos até um refrão que parece cantado por um povo inteiro.\n\nA letra, em mongol, fala do céu azul eterno, dos cavalos, do caminho dos antepassados e da certeza de que nenhum horizonte é o fim. Não é uma canção de guerra: é uma canção de resistência, liberdade e união — a sensação de estar sozinho na estepe ao amanhecer vendo milhares de cavalos surgirem no horizonte, não com medo, mas com a impressão de que a história está começando.\n\nO clipe acompanha esse arco: começa num acampamento nômade na névoa do amanhecer, atravessa a vida em movimento — o galope, a caravana, o fogo, as estrelas — e termina com clãs de cores diferentes se encontrando, rotas se abrindo entre dunas e montanhas, e o mundo sendo costurado por estradas, mensageiros e cavalos, até voltar ao silêncio do vento onde tudo começou.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Epic cinematic Mongolian folk anthem, around 100 BPM in D minor with pentatonic melodies. Opens instantly with a deep resonant male guttural overtone vocal hook over steppe wind ambience and a single bowed horsehead fiddle melody — no long instrumental intro. Lead vocal: deep, weathered, masculine, strong character, intimate ancestral storytelling verses. Mongolian throat singing used as both a rhythmic and a harmonic layer throughout. Choruses expand into a massive communal male choir. Instrumentation: horsehead fiddle as the main melodic identity, deep male tribal choir, large frame drums and cinematic percussion, galloping horse-hoof rhythmic textures, low drones, sparse traditional flutes, epic orchestral strings and brass entering progressively, subtle modern electronic sub-bass and cinematic sound design, natural steppe wind ambience. Structure: 0:00-0:12 iconic guttural hook with wind and fiddle; 0:12-0:40 intimate first verse; 0:40-1:05 huge first chorus with male choir and drums; 1:05-1:35 second verse with stronger horse-hoof pulse; 1:35-2:00 larger second chorus; 2:00-2:25 cinematic instrumental expansion with fiddle solo and overtone vocals; 2:25-2:55 final massive chorus; 2:55-3:10 drop back to wind, voice and fiddle. Production: ancient organic timbres blended with premium 2026 cinematic production — huge dynamic range, wide stereo field, deep controlled low end, organic percussion, powerful clean vocals. Spiritual and uplifting, never dark or warlike. Sung in Mongolian.",
+    "imagem": "album cover, wide symbolic landscape of the Mongolian steppe at sunrise, endless grassland under an immense sky, a lone distant horseman silhouetted small on a ridge, thousands of horses emerging on the far horizon as a tide of dark shapes in golden backlit dust, cold indigo night retreating on one side and warm amber dawn breaking on the other, low mist over the grass, cinematic volumetric lighting, horizon on the lower third, large negative space in the sky for a title, palette of deep indigo, slate blue, ochre gold, burnt amber and pale bone, painterly epic realism, 1:1",
+    "negativo": "text, letters, typography, words, watermark, logo, people in foreground, readable faces, modern buildings, power lines, roads, cars, weapons, blood",
+    "conceito": "Capa SEM pessoa em destaque — o olhar aqui é a própria terra. A estepe no exato minuto em que a noite indigo cede ao âmbar do amanhecer: um cavaleiro minúsculo e ilegível numa colina distante, e no horizonte uma maré de cavalos surgindo como luz e poeira — não como ameaça, mas como a sensação de que a história está começando. O céu ocupa dois terços do quadro e recebe o título; o gradiente frio→quente é o mesmo arco da música.",
+    "tagline": "onde o vento nasce, a história começa",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "hook",
+      "camera": "drone",
+      "prompt": "Aerial drone shot drifting slowly forward over an endless pre-dawn Mongolian steppe, low mist clinging to the grass, a lone motionless horseman silhouetted on a distant hill against a deep indigo sky, one thin band of amber light on the horizon, vast negative space, cold cinematic haze, wide 24mm lens, palette of indigo, slate and pale amber.",
+      "alt": "Aerial drone shot drifting slowly over an endless pre-dawn steppe, low mist on the grass, a weathered stone cairn silhouetted on a distant hill against a deep indigo sky, thin amber band on the horizon, vast negative space, cold cinematic haze, no people."
+     },
+     {
+      "n": 2,
+      "secao": "hook",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on a broad-shouldered figure in a heavy fur-lined deel seated cross-legged in the grass, framed in profile from the eyes up against the first amber light, eyes closed, chest expanding with a deep breath, shoulders rising, long hair moving in the wind, breath steaming in cold air, backlit rim light, shallow depth of field.",
+      "alt": "Slow dolly-in on a fur-lined coated silhouette seen from behind, seated in the grass facing the sunrise, steam of breath rising in the cold air, shoulders slowly lifting, strong backlight dissolving all detail into rim light."
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "steadicam",
+      "prompt": "Interior of a round felt ger lit by a central fire, framed so tightly that only weathered hands and a wooden bowl of steaming milk are visible, the hands cropped by the frame edges, firelight flickering on skin and wood, warm amber against deep shadow, macro texture, slow steadicam drift.",
+      "alt": "Interior of a round felt ger lit by a central fire, a wooden bowl of steaming milk resting beside the flames, firelight flickering on carved wood and felt, warm amber against deep shadow, no people, slow drifting camera."
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "travelling",
+      "prompt": "Travelling shot at walking pace beside a young herder leading two shaggy steppe horses through knee-high grass at dawn, mist swirling around their legs, soft golden backlight, the boy gazing toward the horizon, 35mm, gentle organic camera movement.",
+      "alt": "Travelling shot at walking pace beside two shaggy steppe horses moving through misty knee-high grass at dawn, golden backlight glowing through their manes, no people, gentle organic camera movement."
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "estatico",
+      "prompt": "Static wide shot of a nomad camp: three white felt gers on the open plain, thin smoke rising vertically, horses grazing nearby, snow-dusted mountains far behind, morning light raking across the grass, deep focus, painterly rule-of-thirds composition.",
+      "alt": "Static wide shot of three white round felt tents on an open plain, thin smoke rising vertically, snow-dusted mountains far behind, morning light raking across the grass, no people, deep focus."
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "dolly-in",
+      "prompt": "Slow dolly-in on a horsehead fiddle standing upright by the fire, carved wooden horsehead scroll catching amber light, two horsehair strings glowing, a bow drawing slowly across them, cropped so only the instrument and bow are visible, macro detail, warm chiaroscuro.",
+      "alt": "Slow dolly-in on the carved wooden horsehead scroll of an upright fiddle in flickering firelight, horsehair strings glowing, macro detail, warm chiaroscuro, no bow, no people."
+     },
+     {
+      "n": 7,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "Drone shot skimming low over a ridge as a dozen riders burst over the crest toward camera in golden morning light, dust and grass kicked up, long coats flying, wide 18mm lens, crisp high-shutter texture, epic uplifting scale.",
+      "alt": "Drone shot skimming low over a ridge as a herd of riderless horses bursts over the crest in golden morning light, dust and grass kicked up, wide lens, epic uplifting scale."
+     },
+     {
+      "n": 8,
+      "secao": "refrão 1",
+      "camera": "travelling",
+      "prompt": "Ground-level travelling shot racing alongside galloping hooves, framed so tightly that only the hooves and flying dust are visible, cropped by the frame edges, clumps of earth suspended mid-air, golden backlit dust, subtle speed-ramp energy.",
+      "alt": "Ground-level travelling shot racing through golden backlit dust clouds and flying grass at gallop height, blurred dark shapes passing above, kinetic energy, no people."
+     },
+     {
+      "n": 9,
+      "secao": "refrão 1",
+      "camera": "orbital",
+      "prompt": "Orbital shot circling a tight group of mounted riders halted on the open plain, plain crimson and sky-blue horsetail banners streaming in the wind, no writing on the banners, coats rippling, mountains rotating in the background, clear midday light.",
+      "alt": "Orbital shot circling a cluster of plain crimson and sky-blue banners planted in the grass, fabric streaming hard in the wind, mountains rotating in the background, no people."
+     },
+     {
+      "n": 10,
+      "secao": "refrão 1",
+      "camera": "handheld",
+      "prompt": "Handheld shot from horseback inside a full gallop, black mane whipping across the frame, blurred grass streaming below, horizon bouncing, sun flaring through dust, visceral immersive energy.",
+      "alt": "Handheld shot low over streaming blurred grass at high speed, sun flaring through golden dust, horizon bouncing, visceral kinetic energy, no people visible."
+     },
+     {
+      "n": 11,
+      "secao": "refrão 1",
+      "camera": "estatico",
+      "prompt": "Static low-angle shot against a deep blue sky: a rider's horse rearing on a crest in slow motion, coat and mane frozen mid-flight, dust drifting like smoke, heroic silhouette rimmed by the sun, monumental and clean.",
+      "alt": "Static low-angle shot of a rearing horse in pure silhouette against a deep blue sky, slow motion, mane frozen mid-flight, dust drifting like smoke, sun rim light, no rider."
+     },
+     {
+      "n": 12,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "Drone shot tracking a herd of horses crossing a braided silver river, water exploding in backlit sheets, spray hanging in the air, late-morning sun turning every splash gold, wide aerial scale, joyful momentum.",
+      "alt": "Drone shot over a wide braided silver river at golden hour, wind patterns and glittering ripples on the water, distant horses as small dark shapes on the far bank, wide aerial scale."
+     },
+     {
+      "n": 13,
+      "secao": "refrão 1",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on the fur-clad figure standing on a rock, head tilted back, eyes shut tight, throat and neck tensed, one fist closed over the chest, hair and coat blasted by wind, backlit by hard sun through dust, low angle, epic rim light.",
+      "alt": "Dolly-in on a silhouetted figure standing on a rock against blinding backlight, head tilted back, arms slowly rising, all facial detail lost to rim light and golden dust, low angle."
+     },
+     {
+      "n": 14,
+      "secao": "refrão 1",
+      "camera": "drone",
+      "prompt": "Drone shot rising vertically from behind a standing coated figure, revealing the steppe unrolling to a horizon dotted with hundreds of grazing horses, cloud shadows sweeping the grass, immense scale, cool blue and gold palette.",
+      "alt": "Drone shot rising vertically over open steppe, revealing cloud shadows sweeping toward a horizon dotted with a distant herd as small dark specks, immense scale, cool blue and gold palette, no people."
+     },
+     {
+      "n": 15,
+      "secao": "verso 2",
+      "camera": "travelling",
+      "prompt": "Travelling shot alongside a nomad caravan on the move: wooden carts stacked with folded felt, shaggy camels roped in a line, riders flanking, rhythmic plodding pace, overcast pearl light, dust rising from the wheel ruts, 50mm compression.",
+      "alt": "Travelling shot alongside a line of loaded wooden carts and shaggy roped camels seen from behind, rhythmic plodding pace, overcast pearl light, dust rising from wheel ruts, no faces visible."
+     },
+     {
+      "n": 16,
+      "secao": "verso 2",
+      "camera": "estatico",
+      "prompt": "Static close shot framed so tightly that only a horse's forelegs and hooves are visible striking packed earth in a steady rhythm, cropped by the frame edges, small dust puffs on each impact, hard side light, percussive and hypnotic.",
+      "alt": "Static close shot of two large hide frame drums, the skins visibly vibrating on each rhythmic impact with a blur of mallets, cropped tight on the drums, hard side light, percussive and hypnotic, no people visible."
+     },
+     {
+      "n": 17,
+      "secao": "verso 2",
+      "camera": "dolly-out",
+      "prompt": "Slow dolly-out at dusk from glowing embers to reveal a wide circle of figures seated around the fire in full silhouette, sparks rising, the last violet light behind the mountains, faces unreadable, quiet fellowship.",
+      "alt": "Slow dolly-out at dusk from glowing embers to reveal an empty circle of sitting stones around the fire, sparks rising into violet light behind dark mountains, quiet and warm, no people."
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "drone",
+      "prompt": "High drone shot of a caravan stretched in a thin line across an immense plain under a dramatic storm front, one shaft of sunlight breaking through and sweeping toward the travellers, grass rippling in waves, monumental hopeful scale.",
+      "alt": "High drone shot of a dramatic storm front over an immense plain, one shaft of sunlight breaking through and sweeping across rippling grass, a faint dirt trail crossing the land, monumental scale, no people."
+     },
+     {
+      "n": 19,
+      "secao": "refrão 2",
+      "camera": "drone",
+      "prompt": "Drone shot flying backward low as a massive herd of horses gallops straight toward camera across open ground, a wall of golden dust building behind them, manes backlit by the sun, thundering uplifting scale, wide lens.",
+      "alt": "Drone shot flying backward low over rolling golden dust clouds advancing across the plain, blurred horse shapes half-hidden inside the light, thundering uplifting scale, wide lens."
+     },
+     {
+      "n": 20,
+      "secao": "refrão 2",
+      "camera": "whip-pan",
+      "prompt": "Whip-pan between two riders at full gallop as a leather message satchel passes from gloved hand to gloved hand, framed tight on the satchel and hands cropped by the frame, dust streaking, kinetic motion blur on the transition.",
+      "alt": "Whip-pan following a worn leather satchel strapped to a galloping saddle, straps snapping in the wind, dust streaking past, kinetic motion blur, no hands or faces visible."
+     },
+     {
+      "n": 21,
+      "secao": "refrão 2",
+      "camera": "orbital",
+      "prompt": "Fast orbital shot around the fur-clad figure standing braced on a boulder, long coat cracking in the wind, both fists clenched at the sides, chin lifted, eyes closed, rivers of dust flowing past the boulder, hard golden backlight, heroic energy.",
+      "alt": "Fast orbital shot around a lone boulder wrapped in flowing rivers of golden dust, a coat-draped silhouette standing on top dissolved into hard backlight, heroic energy, no facial detail."
+     },
+     {
+      "n": 22,
+      "secao": "refrão 2",
+      "camera": "travelling",
+      "prompt": "Travelling shot racing parallel with three riders at full gallop, lens flaring through the dust between camera and horses, coats snapping, low sun strobing behind their silhouettes, speed-ramp from motion blur into crisp slow motion.",
+      "alt": "Travelling shot racing parallel with three galloping horses, riders reduced to soft dark silhouettes against a strobing low sun, lens flares through dust, speed-ramp into crisp slow motion."
+     },
+     {
+      "n": 23,
+      "secao": "refrão 2",
+      "camera": "estatico",
+      "prompt": "Static shot in slow motion: a golden eagle lifting off from a leather-gloved arm, wings hammering the air, feather detail sharp against a deep blue sky, the glove cropped at the frame edge, dust swirling from the wingbeats.",
+      "alt": "Slow-motion shot of a golden eagle wheeling alone against a deep blue sky, wings fully spread, feather detail sharp in the sun, no people, no glove."
+     },
+     {
+      "n": 24,
+      "secao": "refrão 2",
+      "camera": "drone",
+      "prompt": "Top-down drone shot of riders and herd flowing across the land in a long curved column, the moving mass drawing a dark river through pale gold grass, cloud shadows crossing it diagonally, abstract graphic geometry.",
+      "alt": "Top-down drone shot of a dark river of horses drawing a long curve through pale gold grass, cloud shadows crossing diagonally, abstract graphic geometry, no distinguishable people."
+     },
+     {
+      "n": 25,
+      "secao": "refrão 2",
+      "camera": "dolly-in",
+      "prompt": "Dolly-in on a small child riding double behind an adult at a gallop, tiny hands gripping the saddle, hair blown back, chin raised toward the horizon, morning light on the face, hopeful and free.",
+      "alt": "Dolly-in framed so tightly that only small hands gripping a worn leather saddle at a gallop are visible, cropped by the frame edges, morning light raking the leather, mane blurring past, hopeful energy."
+     },
+     {
+      "n": 26,
+      "secao": "solo instrumental",
+      "camera": "orbital",
+      "prompt": "Slow orbital shot around a lone musician seated on a hilltop at golden hour playing a horsehead fiddle, bow arm moving in long slow arcs, the whole valley glowing behind in layers of amber haze, 85mm shallow focus pulling between player and land.",
+      "alt": "Slow orbital shot around a horsehead fiddle standing upright on a hilltop rock at golden hour, horsehair strings glowing in the low sun, the whole valley behind in layers of amber haze, no people."
+     },
+     {
+      "n": 27,
+      "secao": "solo instrumental",
+      "camera": "dolly-in",
+      "prompt": "Macro dolly-in along the two horsehair strings of the fiddle as the bow crosses them, rosin dust lifting into a blade of golden light, wood grain and the carved horsehead soft in the background, intimate and tactile.",
+      "alt": "Macro dolly-in on horsehair strings vibrating inside a blade of golden light, rosin dust suspended in the air, carved wood soft in the background, intimate and tactile, no bow, no hands."
+     },
+     {
+      "n": 28,
+      "secao": "solo instrumental",
+      "camera": "estatico",
+      "prompt": "Static night wide shot: a camp fire throwing sparks upward toward a colossal star field over the black steppe, seated silhouettes motionless around the flames, the Milky Way arching over distant white gers, long-exposure depth, spiritual stillness.",
+      "alt": "Static night wide shot of sparks rising from a camp fire toward the Milky Way over the black steppe, an empty circle of stones around the flames, distant white tents under the stars, spiritual stillness, no people."
+     },
+     {
+      "n": 29,
+      "secao": "refrão final",
+      "camera": "drone",
+      "prompt": "Drone shot at sunrise facing east: thousands of horses cresting the horizon line and pouring toward camera, backlit by the rising sun so they read as a moving tide of light and dust, monumental and uplifting, the feeling of history beginning, not menace.",
+      "alt": "Drone shot at sunrise facing east: a moving tide of golden dust rolling forward from the horizon, horse silhouettes half-dissolved inside the light, monumental and uplifting, no people."
+     },
+     {
+      "n": 30,
+      "secao": "refrão final",
+      "camera": "travelling",
+      "prompt": "Low travelling shot speed-ramping through the middle of the galloping herd, dust glowing gold, bodies parting around the lens, flashes of manes and flanks, snapping into crisp slow motion on a single white horse.",
+      "alt": "Low travelling shot through glowing golden dust with blurred horse shapes parting around the lens, resolving into crisp slow motion on a single white horse, no people."
+     },
+     {
+      "n": 31,
+      "secao": "refrão final",
+      "camera": "orbital",
+      "prompt": "Orbital shot around riders from different clans meeting in a circle, deels of different colors — crimson, indigo, ochre — arms clasping forearm to forearm between the horses, dust settling, warm noon light, unity without ceremony.",
+      "alt": "Orbital shot around a circle of horses standing nose to nose, saddle blankets in crimson, indigo and ochre, riders as soft unreadable silhouettes, dust settling, warm noon light, sense of unity."
+     },
+     {
+      "n": 32,
+      "secao": "refrão final",
+      "camera": "whip-pan",
+      "prompt": "Whip-pan across a caravan trading stop: bolts of dyed silk unrolling, hands weighing dried tea bricks, silver ornaments catching the light, camels kneeling beside loaded packs, framed tight on goods and gestures, saturated textiles against pale dust.",
+      "alt": "Whip-pan across bolts of dyed silk and stacked tea bricks arranged on a wooden cart, silver ornaments catching the light, kneeling camels beside loaded packs, saturated textiles against pale dust, no hands or faces."
+     },
+     {
+      "n": 33,
+      "secao": "refrão final",
+      "camera": "drone",
+      "prompt": "Drone shot following an ancient caravan route as it winds from golden dunes into a green mountain pass, a line of camels and riders tiny on the path, the road itself the hero of the frame, layered atmospheric depth, warm-to-cool gradient.",
+      "alt": "Drone shot following an empty ancient path winding from golden dunes into a green mountain pass, layered atmospheric haze, the road itself the hero of the frame, warm-to-cool gradient, no people."
+     },
+     {
+      "n": 34,
+      "secao": "refrão final",
+      "camera": "handheld",
+      "prompt": "Handheld shot in golden dust among a celebrating crowd: the fur-clad figure at the center with arms spread wide, head tilted back, eyes closed, a single tear track catching the light, bodies and horses moving around, lens flares, pure release.",
+      "alt": "Handheld shot moving through golden dust and soft moving silhouettes, one figure with arms spread wide seen from behind against the blinding sun, lens flares, pure release, no faces visible."
+     },
+     {
+      "n": 35,
+      "secao": "refrão final",
+      "camera": "travelling",
+      "prompt": "Travelling shot from behind as riders and a loaded caravan move together toward the rising sun, long shadows reaching back toward camera, dust hanging gold in the air, the column dissolving into light at the horizon.",
+      "alt": "Travelling shot from behind a line of horses and wooden carts moving into the rising sun, long shadows reaching back toward camera, silhouettes dissolving into golden light at the horizon, no faces."
+     },
+     {
+      "n": 36,
+      "secao": "refrão final",
+      "camera": "drone",
+      "prompt": "Drone shot pulling up and back until the moving people, herds and carts become one thin dark thread stitched across an immense sunlit land, towering clouds above, the frame almost entirely sky, awe and peace.",
+      "alt": "Drone shot pulling up and back over an immense sunlit plain until only a faint trail line remains stitched across the land, towering clouds above, the frame almost entirely sky, awe and peace."
+     },
+     {
+      "n": 37,
+      "secao": "outro",
+      "camera": "dolly-out",
+      "prompt": "Slow dolly-out from the fur-clad figure seated again in the grass as at the beginning, seen from behind facing the risen sun, breath steaming, grass bowing in waves around the stillness, quiet amber light, full-circle calm.",
+      "alt": "Slow dolly-out from a horsehead fiddle standing upright in flattened grass facing the risen sun, grass bowing in slow waves around it, quiet amber light, full-circle calm, no people."
+     },
+     {
+      "n": 38,
+      "secao": "outro",
+      "camera": "drone",
+      "prompt": "Drone rising slowly over the empty dawn steppe, a single line of hoofprints running to the horizon where the sun clears the earth, wind combing the grass, the frame opening into pure sky, silence and light.",
+      "alt": "Drone rising slowly over the empty dawn steppe, wind combing long waves through the grass toward the sunlit horizon, the frame opening into pure sky, silence and light, no prints, no people."
+     }
+    ]
+   },
+   "nuvem": "subindo",
    "likes": 0,
    "docs": []
   },
