@@ -4,6 +4,423 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "faixa-pronta-mvd-125-2",
+   "mvd": "MVD#157",
+   "titulo": "Construí em Silêncio",
+   "quando": "2026-09-01T05:44:33-03:00",
+   "atualizado": "2026-09-01T10:18:50-03:00",
+   "origem": "agora-eu-cobro",
+   "origem_mvd": "MVD#125",
+   "solicitacao": "--faixa-pronta MVD#125:2",
+   "genero": "female anthem rock",
+   "bpm": 120,
+   "tom": "E menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.0,
+   "tags": [
+    "determinada",
+    "cobrança",
+    "virada",
+    "vitoriosa"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/publicacao/capa-yt.jpg",
+     "rotulo": "YouTube 16:9"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/capa-thumb.jpg",
+     "likes": 0,
+     "capa": null,
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/clipe-1.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-125-2/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 280634251,
+   "doc": "# Construí em Silêncio\n\n**slug:** `faixa-pronta-mvd-125-2`  ·  **solicitação:** --faixa-pronta MVD#125:2\n\n**música de:** MVD#125 — Construí em Silêncio (agora-eu-cobro), faixa 2\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0000 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0000\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/faixa-pronta-mvd-125-2`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Construí em Silêncio\n\n\n\n**slug:** `faixa-pronta-mvd-125-2`  ·  **criado:** 2026-09-01T05:44:33-03:00\n\n**solicitação:** --faixa-pronta MVD#125:2\n\n**estilo de referência:** female-anthem-rock  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** female anthem rock  ·  **BPM:** 120  ·  **Tom:** E menor\n- **Mood:** determinada, cobrança, virada, vitoriosa\n- **Instrumentação:** driving distorted electric guitars, punchy live drums, deep electric bass, gang vocals no refrão final\n- **Voz:** \"feminina, médio-agudo, belting com grit, quase falada nos versos\"\n- **Params:** `{\"duracao_s\": 199, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Female anthem rock, 120 BPM, E minor. Powerful female lead vocal, low and restrained almost spoken in the verses, exploding into belting with grit on the choruses. Quiet palm-muted guitar and sparse drums in verse one, driving distorted guitars and punchy live drums from the first chorus on, anthemic gang-vocal final chorus, triumphant build from whisper to roar. Lyrics in Brazilian Portuguese\n\n**Estrutura:** intro (10s) · verso 1 (22s) · pré-refrão (8s) · refrão (22s) · verso 2 (22s) · pré-refrão (8s) · refrão (22s) · ponte (16s) · refrão final (38s) · outro (31s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\n(guitarra limpa, quase silêncio)\n\n[Verso 1]\nEu carreguei tijolo enquanto você dormia\nLevantei parede sem pedir plateia\nNinguém me viu suar no escuro da cozinha\nNinguém me viu cair e levantar sozinha\n\n[Pré-refrão]\nMas o silêncio tem validade\nE a minha acabou hoje\n\n[Refrão]\nEu construí em silêncio\nAgora eu cobro em voz alta\nCada pedra tem meu nome\nCada porta tem minha marca\nVocê chamou de sorte\nEu chamo de conta\nE a conta chegou\n\n[Verso 2]\nVocê assinou embaixo do que eu desenhei\nSorriu pra foto em cima do que eu montei\nEu guardei recibo de cada madrugada\nE hoje eu trago tudo na palma da mão aberta\n\n[Pré-refrão]\nO silêncio tinha validade\nE a minha acabou hoje\n\n[Refrão]\nEu construí em silêncio\nAgora eu cobro em voz alta\nCada pedra tem meu nome\nCada porta tem minha marca\nVocê chamou de sorte\nEu chamo de conta\nE a conta chegou\n\n[Ponte]\n(quase sussurrado)\nNão vim pedir licença\nNão vim pedir perdão\nVim buscar o que é meu\nCom a chave na mão\n\n[Refrão final]\n(gang vocals)\nEu construí em silêncio\nAgora eu cobro em voz alta\nCada pedra tem meu nome\nCada porta tem minha marca\nVocê chamou de sorte\nEu chamo de conta\nE a conta chegou\nA conta chegou\n\n[Outro]\nEu construí em silêncio\n(e agora todo mundo ouve)\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #14161a, #d97b1f, #4a6a82, #f0e3cf\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Pose oposta à capa anterior desta música (que era olhar direto na lente): agora ela é vista DE COSTAS, parada na beira do topo do prédio que ergueu, ao amanhecer — capacete riscado pendurado na mão, cidade dourada acordando lá embaixo. O olhar escolhido é 'de costas': a cobrança já foi feita, agora ela olha o que é dela. Faixa limpa no terço de baixo pro título.\n\n**Prompt (EN):**\n\n> square 1:1 cinematic photograph, a woman seen from behind standing at the edge of a raw concrete rooftop at dawn, worn denim jacket over work clothes, a scratched hard hat hanging loosely from one hand at her side, warm amber sunrise flooding the waking city skyline below her, wind lifting loose strands of her tied-back dark hair, cool steel blue shadows cut by burnt amber light, gritty rock poster mood, clean empty negative space across the lower third for a bold title, photorealistic\n\n**Negativo:** text, letters, typography, words, logo, watermark, visible face, frontal pose, extra limbs, cartoon, illustration, blurry\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** narrativo  ·  **Sincronia:** 48 shots em 199s ≈ 14,5 cortes/min na média, com distribuição desigual de propósito: refrões picados a ~22 cortes/min (planos de 2,5-3s), ancorado nos 22,3 cortes/min medidos em 2-1m-views-77k-reactions-ravenstrikex-mummy-wake — a mais lenta das três referências medidas e a única compatível com rock de 120 BPM (as outras, 29,3 e 35,5, são EDM de festival a 128-130). Versos respiram com planos de 4-5s, pré-refrões armam a explosão com 4s, intro e outro seguram planos de 4 a 12s. Montagem só com o que as referências mediram: corte seco no beat (a 120 BPM os cortes caem em múltiplos de 0,5s), speedramp/slowmo reservado aos refrões. A virada narrativa (a chave gira na fechadura) cai na ponte quase sussurrada, e o clímax coletivo ocupa o refrão final com gang vocals.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 48  ·  **Duração total:** 199.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | plano geral, dolly-in lento | Cidade dormindo de madrugada; um prédio inacabado escuro com uma única janela acesa. |\n| 2 | intro | 4s | close, estático | Prancheta de projeto iluminada por um abajur, plantas e caneca de café. |\n| 3 | verso 1 | 5s | close de detalhe, handheld leve | Mãos calejadas desenrolam uma planta sobre a mesa, madrugada. |\n| 4 | verso 1 | 4s | plano médio, travelling lateral | Ela carrega um saco de cimento por um corredor escuro de obra. |\n| 5 | verso 1 | 5s | plano geral alto, estático | Cozinha minúscula de noite; ela sozinha na mesa coberta de contas e plantas dobradas. |\n| 6 | verso 1 | 4s | close de detalhe, contra-plongée leve | Bota de obra sobe degrau de concreto cru na luz fria da madrugada. |\n| 7 | verso 1 | 4s | plano médio, estático | Ela se levanta do chão ao lado do andaime, agarrando o cano de aço. |\n| 8 | pré-refrão | 4s | close, dolly-in lento | Ela para diante da janela sem vidro; a primeira luz laranja do dia atravessa o rosto parado. |\n| 9 | pré-refrão | 4s | close de detalhe, estático | Relógio de pulso sobre a pilha de plantas; a luz do amanhecer alcança o mostrador. |\n| 10 | refrão | 3s | plano geral, drone subindo | O sol estoura no horizonte atrás do prédio; a cidade se acende em dourado. |\n| 11 | refrão | 2.5s | plano médio, steadicam | Ela empurra as portas duplas da obra e entra na luz dourada estourada. |\n| 12 | refrão | 3s | close de detalhe, travelling | Mão desliza pela parede de concreto enquanto ela caminha; luz dourada rasante. |\n| 13 | refrão | 2.5s | macro, estático | Marca de mão prensada no concreto curado — cada pedra tem meu nome. |\n| 14 | refrão | 3s | plano médio, orbital | Ela no centro do vão livre, braços abrindo de leve; feixes dourados pelas janelas. |\n| 15 | refrão | 2.5s | close de detalhe, câmera lenta leve | Molho de chaves de latão girando em volta de um dedo, brilhos duros. |\n| 16 | refrão | 3s | travelling frontal rápido | Corredor de portas novas se abrindo em sequência com a luz invadindo — cada porta tem minha marca. |\n| 17 | refrão | 2.5s | plano geral, contra-plongée | Ela pequena diante da fachada imensa, punho fechando ao lado do corpo. |\n| 18 | verso 2 | 5s | plano médio, estático | Homem de terno posa sorridente para fotos na entrada do prédio pronto — você assinou embaixo. |\n| 19 | verso 2 | 4s | close de detalhe, estático | Caneta-tinteiro assina um contrato sobre mesa de vidro, luz fria de escritório. |\n| 20 | verso 2 | 5s | plano médio, travelling | Ela atravessa o escritório de vidro carregando uma caixa de recibos; cabeças viram atrás das divisórias. |\n| 21 | verso 2 | 4s | plongée, close de detalhe | Recibos gastos e anotações de madrugada espalhados na mesa; dedos prendem um deles. |\n| 22 | verso 2 | 4s | plano médio, estático | Ela estende a palma aberta com recibos dobrados e uma chave de latão — hoje eu trago tudo. |\n| 23 | pré-refrão | 4s | close, dolly-in lento | Elevador de obra subindo; barras de luz varrem o rosto firme dela. |\n| 24 | pré-refrão | 4s | close de detalhe, estático | Nós dos dedos fecham em volta do molho de chaves; a luz esquenta quando a porta começa a abrir. |\n| 25 | refrão | 3s | plano médio, steadicam recuando | As portas abrem e ela sai andando direto contra a câmera num hall dourado. |\n| 26 | refrão | 2.5s | plano geral, estático | Operários param e fazem um aceno de cabeça quando ela cruza o piso da obra. |\n| 27 | refrão | 3s | close de detalhe, câmera lenta leve | Bota aterrissa firme na passarela metálica; poeira cai na contraluz. |\n| 28 | refrão | 2.5s | close de detalhe | Maçaneta de latão gira e a porta pesada abre para dentro, luz expandindo pela fresta. |\n| 29 | refrão | 3s | plano geral, orbital | Ela na beira do rooftop, cidade girando atrás, vento na jaqueta. |\n| 30 | refrão | 2.5s | close de perfil, contraluz | Perfil enquadrado dos olhos pra cima contra o sol nascendo, cabelo chicoteando no vento. |\n| 31 | refrão | 3s | travelling lateral rápido | Fachada com janelas acendendo andar por andar no amanhecer. |\n| 32 | refrão | 2.5s | plano geral, drone | Cidade acordando; a sombra longa do prédio varre os telhados. |\n| 33 | ponte | 6s | plano médio, dolly-in muito lento | Quase silêncio: ela parada diante da porta alta da diretoria, ombros sobem numa respiração funda, chave solta na mão. |\n| 34 | ponte | 5s | macro, estático | A chave de latão entra na fechadura pesada e gira devagar — com a chave na mão. |\n| 35 | ponte | 5s | close, estático | Dos olhos pra cima: olhar fixo enquanto uma lâmina de luz da porta abrindo cruza os olhos. |\n| 36 | refrão final | 4s | plano geral, contra-plongée | As portas duplas escancaram; luz dourada explode na sala escura e ela entra em silhueta, papéis voando da mesa. |\n| 37 | refrão final | 4s | plano médio, travelling | A equipe da obra — mulheres e homens de capacete — entra em bloco atrás dela pelo saguão de mármore. |\n| 38 | refrão final | 4s | close de detalhe, câmera lenta leve | Mão espalmada bate na mesa longa da diretoria — e a conta chegou. |\n| 39 | refrão final | 4s | plano geral, orbital | Ela à cabeceira da mesa, a equipe alinhada atrás, janelas de piso a teto em fogo dourado. |\n| 40 | refrão final | 4s | close de detalhe, speedramp | O capacete riscado é pousado sobre a mesa de vidro entre canetas caras. |\n| 41 | refrão final | 4s | plano médio, estático | Ela ergue um recibo gasto contra a janela em chamas; o papel fica translúcido na luz. |\n| 42 | refrão final | 4s | plano geral, grua | Celebração no rooftop: a equipe ergue capacetes contra o céu da manhã, poeira dourada como confete; ela à frente de punho erguido. |\n| 43 | refrão final | 3s | close, contraluz dourada | Dos olhos pra cima: olhos brilhando marejados de orgulho, vento soltando o cabelo. |\n| 44 | refrão final | 3s | grua vertical rápida | Subida veloz pela fachada pronta, o amanhecer varrendo o vidro até estourar no topo. |\n| 45 | refrão final | 4s | plano geral, drone | A cidade inteira dourada no sol pleno, bandos de pássaros cruzando entre as torres, o prédio brilhando no centro. |\n| 46 | outro | 12s | plano geral, dolly-out lentíssimo | A sala de reunião vazia e quieta depois de todos saírem: o capacete riscado e uma chave sobre a mesa longa, a luz da manhã se esticando pelo chão. |\n| 47 | outro | 10s | plano médio, estático, de costas | Ela de costas na janela de piso a teto, mãos relaxadas, olhando a cidade dourada acordar — e agora todo mundo ouve. |\n| 48 | outro | 9s | plano geral, drone afastando | O prédio ao amanhecer com todas as janelas acesas em luz quente; a imagem amolece na névoa e encerra. |\n\n**Prompts (EN):**\n\n1. slow cinematic dolly-in across a sleeping city skyline before dawn, one unfinished concrete tower standing dark with a single warm lit window near the top, cold blue night haze, distant sodium street lights, quiet and still, photorealistic, 16:9\n2. static close-up of an architect drafting table lit by a single desk lamp, blueprint sheets, pencil and a chipped coffee mug, warm pool of light in a dark room, dust floating in the air, shallow depth of field, photorealistic\n3. a pair of calloused hands unrolling a blueprint on a wooden table, framed so tightly that only the hands and the paper are visible, warm lamp light, graphite smudges on the fingers, gentle handheld sway, shallow focus, photorealistic\n4. lateral tracking shot of a woman in a worn denim jacket carrying a heavy cement bag along a dark unfinished corridor, her breath visible in the cold air, one hanging work light swinging, gritty texture, cinematic, photorealistic\n5. high wide shot of a tiny kitchen at night, a lone woman seated at a small table covered with paper bills and folded blueprints, single hanging ceiling bulb, the rest of the apartment in darkness, quiet solitude, cinematic, photorealistic\n6. a scuffed work boot stepping onto a raw concrete stair, framed so tightly that only the boot and ankle are visible, cement dust puffing at each step, cold blue pre-dawn light, photorealistic\n7. static medium shot of a woman in work clothes rising from her knees beside night scaffolding, gripping a cold steel pipe to pull herself up, hard side light from a work lamp, determined posture, cinematic, photorealistic\n8. slow dolly-in on a woman standing by a bare concrete window opening at dawn, first orange light sliding across her still face, eyes open and steady, jaw set, dust floating in the warm beam, cinematic, photorealistic\n9. static close-up of a wristwatch resting on a stack of blueprints as rising sunlight reaches it, framed so tightly that only the watch and papers are visible, warm amber glow spreading, stillness about to break, photorealistic\n10. drone shot pulling upward as the sun bursts over the horizon behind an unfinished concrete tower, golden light flooding the city, strong lens flare, triumphant scale, cinematic, photorealistic\n11. steadicam shot following a woman in a denim jacket pushing open double site doors into blazing golden morning light, her silhouette breaking into the flare, confident stride, cinematic, photorealistic\n12. a hand sliding along a raw concrete wall while walking, framed so tightly that only the hand and the wall texture are visible, golden side light raking the surface, slight motion blur at the edges, photorealistic\n13. static macro shot of a small handprint pressed into cured concrete, morning light raking across it, dust settled in the grooves, shallow depth of field, photorealistic\n14. orbital shot circling a woman standing in the center of a vast empty concrete floor, arms opening slightly at her sides, golden light shafts through the window openings, glowing dust swirling around her, cinematic, photorealistic\n15. a ring of brass keys spinning around one finger, framed so tightly that only the hand and keys are visible, golden morning light, sharp metallic glints, slight slow motion feel, photorealistic\n16. fast tracking shot down a corridor of new doors, each door swinging open in sequence as golden light floods through, dust blooming in the beams, rhythmic and triumphant, cinematic, photorealistic\n17. low wide shot of a woman standing small before a towering concrete facade, her fist tightening at her side, morning sun crowning the rooftop, strong vertical lines, cinematic, photorealistic\n18. static medium shot of a man in a sharp suit posing for press photos in front of a finished building entrance, practiced pose, camera flashes popping, polished and hollow atmosphere, cinematic, photorealistic\n19. close-up of a fountain pen signing a contract on a glass desk, framed so tightly that only the pen, the hand and the paper are visible, cold office light, shallow focus, photorealistic\n20. tracking shot of a woman in a denim jacket walking through a cold glass office carrying a cardboard box of receipts and folders, heads turning behind glass partitions, her pace steady and unhurried, cinematic, photorealistic\n21. overhead close-up of worn receipts and handwritten night-shift notes spread across a table, coffee ring stains on the paper, fingers pinning one receipt flat, warm desk light, photorealistic\n22. medium shot of a woman holding out an open palm with folded receipts and a brass key resting on it, calm and direct posture, shallow focus on the palm, soft office backlight, cinematic, photorealistic\n23. slow dolly-in on a woman standing inside a rising freight elevator, moving bars of light sweeping over her steady face, jaw set, hands loose at her sides, industrial cage shadows, cinematic, photorealistic\n24. knuckles closing around a ring of brass keys, framed so tightly that only the fist and keys are visible, cold elevator light turning warm as the doors begin to open, photorealistic\n25. steadicam shot retreating in front of a woman striding out of opening elevator doors into a golden-lit concrete hall, jacket moving with her pace, backlit dust rolling forward, unstoppable momentum, cinematic, photorealistic\n26. wide shot of construction workers pausing and nodding as a woman walks across the site floor between them, hard hats catching golden light, respect held in still postures, cinematic, photorealistic\n27. a work boot landing hard on a metal walkway, framed so tightly that only the boot and the grating are visible, loose dust shaken free and falling through golden backlight below, slight slow motion feel, photorealistic\n28. a brass door handle turning and a heavy door swinging inward, framed so tightly that only the handle and the door edge are visible, warm light expanding through the opening gap, photorealistic\n29. orbital shot around a woman standing at the edge of a rooftop, city skyline turning behind her, wind pushing her jacket, golden haze, proud upright posture, cinematic, photorealistic\n30. profile close-up framed from the eyes up against the rising sun, hair whipping in the wind, rim light burning along the brow, fierce and calm, cinematic, photorealistic\n31. fast lateral travelling shot along a building facade as window lights switch on floor by floor in the dawn, golden reflections racing across the glass, rhythmic energy, cinematic, photorealistic\n32. drone wide shot of a city waking at sunrise, the long shadow of a tower sweeping across rooftops, split of warm and cold light, cinematic, photorealistic\n33. very slow dolly-in on a woman standing before a tall dark boardroom door, shoulders rising with one deep breath, corridor lights dimmed, a single brass key held loosely at her side, hushed tension, cinematic, photorealistic\n34. extreme close-up of a brass key sliding into a heavy brass lock and turning slowly, framed so tightly that only the key, the fingers and the lock are visible, dim warm side light, shallow focus, photorealistic\n35. close-up framed from the eyes up, gaze locked forward as a thin blade of light from an opening door slides across the eyes, dark background, quiet resolve, cinematic, photorealistic\n36. low wide shot of double boardroom doors bursting open, golden light exploding into a dark room, a woman walking in silhouetted at the center of the flare, papers lifting off a long table in the gust, cinematic, photorealistic\n37. tracking shot of a line of construction workers, women and men in hard hats, walking together behind their leader through a marble corporate lobby, morning light flooding through the glass walls, collective momentum, cinematic, photorealistic\n38. a hand slapping flat onto a polished boardroom table, framed so tightly that only the hand and the wood grain are visible, dust and light ringing outward from the impact, slight slow motion feel, photorealistic\n39. orbital shot around a woman standing at the head of a long boardroom table, her crew of workers lined up behind her, floor-to-ceiling windows blazing with sunrise, triumphant, cinematic, photorealistic\n40. a scratched work hard hat being set down on a polished glass table among expensive fountain pens, framed tight on the hat, sunrise flare glowing through the glass, speed ramp feel, photorealistic\n41. medium shot of a woman holding a worn receipt up against blazing window light, the paper glowing translucent, her stance square and certain, cinematic, photorealistic\n42. wide celebratory shot on a building rooftop, a crowd of workers raising hard hats against the morning sky, golden dust glowing like confetti in the backlight, a woman at the front with her fist raised, cinematic, photorealistic\n43. close-up framed from the eyes up in golden light, eyes bright and wet with held-back emotion, fine lines creasing with pride, wind lifting loose strands of hair, cinematic, photorealistic\n44. fast vertical crane shot climbing a finished glass facade from street level to rooftop as sunrise sweeps up the building, flare cresting over the parapet at the top, cinematic, photorealistic\n45. wide drone shot of a golden city at full sunrise, flocks of birds crossing between the towers, one finished building shining at the center, anthemic scale, cinematic, photorealistic\n46. extremely slow dolly-out from a quiet empty boardroom, a scratched hard hat and a single brass key resting on the long polished table, morning light stretching across the floor, dust settling, peaceful stillness, cinematic, photorealistic\n47. static medium shot of a woman seen from behind at a floor-to-ceiling window, hands relaxed at her sides, the waking city spread golden below her, long calm hold, cinematic, photorealistic\n48. slow drone pull-back at dawn from a tower with every window now lit warm, the city humming awake around it, the image softening into gentle haze, serene and final, cinematic, photorealistic\n\n## Publicação (YouTube)\n\n- **Título:** Construí em Silêncio\n- **Tags:** female anthem rock, determinada, cobranca, virada, vitoriosa, punchy live drums, deep electric bass\n\n**Descrição:**\n\nUma mulher levantou tudo sozinha, de madrugada, sem plateia — e chegou o dia de apresentar a conta. A letra acompanha essa virada: o trabalho invisível na cozinha escura, o recibo guardado de cada madrugada, e a decisão de cobrar em voz alta o que sempre foi dela.\n\nO som é rock de hino com voz feminina: versos contidos, quase falados, sobre guitarra abafada e bateria seca, que explodem em refrões de arena com distorção, peso e um coro em bloco no final — feito para cantar junto.\n\nNo clipe, a história sai do abajur e da prancheta para o prédio de pé: a madrugada de obra, o amanhecer estourando atrás da torre, as chaves girando na mão, a porta da diretoria se abrindo e a sala cheia de quem construiu de verdade. Termina onde começou — a cidade acordando, agora com todas as janelas acesas.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Female anthem rock, 120 BPM, E minor. Powerful female lead vocal, low and restrained almost spoken in the verses, exploding into belting with grit on the choruses. Quiet palm-muted guitar and sparse drums in verse one, driving distorted guitars and punchy live drums from the first chorus on, anthemic gang-vocal final chorus, triumphant build from whisper to roar. Lyrics in Brazilian Portuguese",
+    "imagem": "square 1:1 cinematic photograph, a woman seen from behind standing at the edge of a raw concrete rooftop at dawn, worn denim jacket over work clothes, a scratched hard hat hanging loosely from one hand at her side, warm amber sunrise flooding the waking city skyline below her, wind lifting loose strands of her tied-back dark hair, cool steel blue shadows cut by burnt amber light, gritty rock poster mood, clean empty negative space across the lower third for a bold title, photorealistic",
+    "negativo": "text, letters, typography, words, logo, watermark, visible face, frontal pose, extra limbs, cartoon, illustration, blurry",
+    "conceito": "Pose oposta à capa anterior desta música (que era olhar direto na lente): agora ela é vista DE COSTAS, parada na beira do topo do prédio que ergueu, ao amanhecer — capacete riscado pendurado na mão, cidade dourada acordando lá embaixo. O olhar escolhido é 'de costas': a cobrança já foi feita, agora ela olha o que é dela. Faixa limpa no terço de baixo pro título.",
+    "tagline": "quem construiu calada agora cobra alto",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "plano geral, dolly-in lento",
+      "prompt": "slow cinematic dolly-in across a sleeping city skyline before dawn, one unfinished concrete tower standing dark with a single warm lit window near the top, cold blue night haze, distant sodium street lights, quiet and still, photorealistic, 16:9",
+      "alt": "slow dolly-in over a dark city skyline at night, one tall unfinished building with a single warm glowing window, cold blue haze over empty streets, quiet and still, photorealistic, 16:9"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "close, estático",
+      "prompt": "static close-up of an architect drafting table lit by a single desk lamp, blueprint sheets, pencil and a chipped coffee mug, warm pool of light in a dark room, dust floating in the air, shallow depth of field, photorealistic",
+      "alt": "static close-up of blueprint sheets and a pencil under a single warm desk lamp in a dark room, dust floating in the light, shallow depth of field, photorealistic"
+     },
+     {
+      "n": 3,
+      "secao": "verso 1",
+      "camera": "close de detalhe, handheld leve",
+      "prompt": "a pair of calloused hands unrolling a blueprint on a wooden table, framed so tightly that only the hands and the paper are visible, warm lamp light, graphite smudges on the fingers, gentle handheld sway, shallow focus, photorealistic",
+      "alt": "a blueprint slowly unrolling across a wooden table under warm lamp light, framed tight on the paper, pencil lines and coffee stains, shallow focus, photorealistic"
+     },
+     {
+      "n": 4,
+      "secao": "verso 1",
+      "camera": "plano médio, travelling lateral",
+      "prompt": "lateral tracking shot of a woman in a worn denim jacket carrying a heavy cement bag along a dark unfinished corridor, her breath visible in the cold air, one hanging work light swinging, gritty texture, cinematic, photorealistic",
+      "alt": "lateral tracking shot along a dark unfinished concrete corridor, a single hanging work light swinging and casting long moving shadows over stacked cement bags, cold air haze, cinematic, photorealistic"
+     },
+     {
+      "n": 5,
+      "secao": "verso 1",
+      "camera": "plano geral alto, estático",
+      "prompt": "high wide shot of a tiny kitchen at night, a lone woman seated at a small table covered with paper bills and folded blueprints, single hanging ceiling bulb, the rest of the apartment in darkness, quiet solitude, cinematic, photorealistic",
+      "alt": "high wide shot of a tiny dark kitchen at night, a small table covered with paper bills and folded blueprints under a single hanging bulb, an empty chair pushed back, cinematic, photorealistic"
+     },
+     {
+      "n": 6,
+      "secao": "verso 1",
+      "camera": "close de detalhe, contra-plongée leve",
+      "prompt": "a scuffed work boot stepping onto a raw concrete stair, framed so tightly that only the boot and ankle are visible, cement dust puffing at each step, cold blue pre-dawn light, photorealistic",
+      "alt": "raw concrete stairs in cold blue pre-dawn light, cement dust drifting through a thin beam of light, framed tight on the steps, photorealistic"
+     },
+     {
+      "n": 7,
+      "secao": "verso 1",
+      "camera": "plano médio, estático",
+      "prompt": "static medium shot of a woman in work clothes rising from her knees beside night scaffolding, gripping a cold steel pipe to pull herself up, hard side light from a work lamp, determined posture, cinematic, photorealistic",
+      "alt": "static medium shot of scaffolding poles at night, a leather work glove gripping a cold steel pipe framed so tightly that only the glove and pipe are visible, hard side light, drifting dust, cinematic, photorealistic"
+     },
+     {
+      "n": 8,
+      "secao": "pré-refrão",
+      "camera": "close, dolly-in lento",
+      "prompt": "slow dolly-in on a woman standing by a bare concrete window opening at dawn, first orange light sliding across her still face, eyes open and steady, jaw set, dust floating in the warm beam, cinematic, photorealistic",
+      "alt": "slow dolly-in on a bare concrete window opening at dawn, first orange light cutting into a dark room, floating dust glowing in the warm beam, cinematic, photorealistic"
+     },
+     {
+      "n": 9,
+      "secao": "pré-refrão",
+      "camera": "close de detalhe, estático",
+      "prompt": "static close-up of a wristwatch resting on a stack of blueprints as rising sunlight reaches it, framed so tightly that only the watch and papers are visible, warm amber glow spreading, stillness about to break, photorealistic",
+      "alt": "static close-up of a wristwatch resting on a stack of blueprints as warm amber sunrise light spreads across the paper, framed tight, stillness about to break, photorealistic"
+     },
+     {
+      "n": 10,
+      "secao": "refrão",
+      "camera": "plano geral, drone subindo",
+      "prompt": "drone shot pulling upward as the sun bursts over the horizon behind an unfinished concrete tower, golden light flooding the city, strong lens flare, triumphant scale, cinematic, photorealistic",
+      "alt": "drone shot pulling upward as the sun bursts over the horizon behind a concrete tower, golden light flooding rooftops, strong lens flare, triumphant scale, cinematic, photorealistic"
+     },
+     {
+      "n": 11,
+      "secao": "refrão",
+      "camera": "plano médio, steadicam",
+      "prompt": "steadicam shot following a woman in a denim jacket pushing open double site doors into blazing golden morning light, her silhouette breaking into the flare, confident stride, cinematic, photorealistic",
+      "alt": "steadicam shot moving through double site doors swinging open into blazing golden morning light, dust igniting in the flare, empty doorway, cinematic, photorealistic"
+     },
+     {
+      "n": 12,
+      "secao": "refrão",
+      "camera": "close de detalhe, travelling",
+      "prompt": "a hand sliding along a raw concrete wall while walking, framed so tightly that only the hand and the wall texture are visible, golden side light raking the surface, slight motion blur at the edges, photorealistic",
+      "alt": "golden side light raking across raw concrete wall texture as the camera glides along the surface, drifting dust sparkling in the light, photorealistic"
+     },
+     {
+      "n": 13,
+      "secao": "refrão",
+      "camera": "macro, estático",
+      "prompt": "static macro shot of a small handprint pressed into cured concrete, morning light raking across it, dust settled in the grooves, shallow depth of field, photorealistic",
+      "alt": "static macro shot of a handprint pressed into cured concrete, warm morning light raking across the grooves, shallow depth of field, photorealistic"
+     },
+     {
+      "n": 14,
+      "secao": "refrão",
+      "camera": "plano médio, orbital",
+      "prompt": "orbital shot circling a woman standing in the center of a vast empty concrete floor, arms opening slightly at her sides, golden light shafts through the window openings, glowing dust swirling around her, cinematic, photorealistic",
+      "alt": "orbital shot circling a vast empty concrete floor, golden light shafts pouring through window openings, glowing dust drifting through the beams, cinematic, photorealistic"
+     },
+     {
+      "n": 15,
+      "secao": "refrão",
+      "camera": "close de detalhe, câmera lenta leve",
+      "prompt": "a ring of brass keys spinning around one finger, framed so tightly that only the hand and keys are visible, golden morning light, sharp metallic glints, slight slow motion feel, photorealistic",
+      "alt": "a ring of brass keys hanging from a nail, swaying and throwing sharp metallic glints in golden morning light, framed tight on the keys, photorealistic"
+     },
+     {
+      "n": 16,
+      "secao": "refrão",
+      "camera": "travelling frontal rápido",
+      "prompt": "fast tracking shot down a corridor of new doors, each door swinging open in sequence as golden light floods through, dust blooming in the beams, rhythmic and triumphant, cinematic, photorealistic",
+      "alt": "fast tracking shot down a corridor of new doors swinging open one after another, golden light flooding through each doorway, dust blooming in the beams, cinematic, photorealistic"
+     },
+     {
+      "n": 17,
+      "secao": "refrão",
+      "camera": "plano geral, contra-plongée",
+      "prompt": "low wide shot of a woman standing small before a towering concrete facade, her fist tightening at her side, morning sun crowning the rooftop, strong vertical lines, cinematic, photorealistic",
+      "alt": "low wide shot of a towering concrete facade crowned by the morning sun, strong vertical lines, birds crossing through the flare, cinematic, photorealistic"
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "plano médio, estático",
+      "prompt": "static medium shot of a man in a sharp suit posing for press photos in front of a finished building entrance, practiced pose, camera flashes popping, polished and hollow atmosphere, cinematic, photorealistic",
+      "alt": "static medium shot of a podium with microphones in front of a finished building entrance, camera flashes popping over the empty stage, polished and hollow atmosphere, cinematic, photorealistic"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "close de detalhe, estático",
+      "prompt": "close-up of a fountain pen signing a contract on a glass desk, framed so tightly that only the pen, the hand and the paper are visible, cold office light, shallow focus, photorealistic",
+      "alt": "close-up of a fountain pen resting on a signed contract on a glass desk, cold office light reflections on the glass, shallow focus, photorealistic"
+     },
+     {
+      "n": 20,
+      "secao": "verso 2",
+      "camera": "plano médio, travelling",
+      "prompt": "tracking shot of a woman in a denim jacket walking through a cold glass office carrying a cardboard box of receipts and folders, heads turning behind glass partitions, her pace steady and unhurried, cinematic, photorealistic",
+      "alt": "tracking shot through a cold glass office corridor, reflections sliding across a cardboard box of receipts and folders standing on a desk, rows of empty chairs, cinematic, photorealistic"
+     },
+     {
+      "n": 21,
+      "secao": "verso 2",
+      "camera": "plongée, close de detalhe",
+      "prompt": "overhead close-up of worn receipts and handwritten night-shift notes spread across a table, coffee ring stains on the paper, fingers pinning one receipt flat, warm desk light, photorealistic",
+      "alt": "overhead close-up of worn receipts and old notes spread across a wooden table, coffee ring stains on the paper, warm desk light, shallow focus, photorealistic"
+     },
+     {
+      "n": 22,
+      "secao": "verso 2",
+      "camera": "plano médio, estático",
+      "prompt": "medium shot of a woman holding out an open palm with folded receipts and a brass key resting on it, calm and direct posture, shallow focus on the palm, soft office backlight, cinematic, photorealistic",
+      "alt": "an open palm holding folded receipts and a brass key, framed so tightly that only the palm is visible, soft warm backlight, shallow focus, photorealistic"
+     },
+     {
+      "n": 23,
+      "secao": "pré-refrão",
+      "camera": "close, dolly-in lento",
+      "prompt": "slow dolly-in on a woman standing inside a rising freight elevator, moving bars of light sweeping over her steady face, jaw set, hands loose at her sides, industrial cage shadows, cinematic, photorealistic",
+      "alt": "slow dolly-in inside a rising freight elevator, moving bars of light sweeping through the steel cage across concrete walls, traveling shadows, cinematic, photorealistic"
+     },
+     {
+      "n": 24,
+      "secao": "pré-refrão",
+      "camera": "close de detalhe, estático",
+      "prompt": "knuckles closing around a ring of brass keys, framed so tightly that only the fist and keys are visible, cold elevator light turning warm as the doors begin to open, photorealistic",
+      "alt": "brass keys swaying from a heavy lock as a metal door begins to open, warm light spilling through the widening gap, framed tight on the keys, photorealistic"
+     },
+     {
+      "n": 25,
+      "secao": "refrão",
+      "camera": "plano médio, steadicam recuando",
+      "prompt": "steadicam shot retreating in front of a woman striding out of opening elevator doors into a golden-lit concrete hall, jacket moving with her pace, backlit dust rolling forward, unstoppable momentum, cinematic, photorealistic",
+      "alt": "steadicam shot retreating down a golden-lit concrete hall as elevator doors slide open and warm light floods out, backlit dust rolling forward, cinematic, photorealistic"
+     },
+     {
+      "n": 26,
+      "secao": "refrão",
+      "camera": "plano geral, estático",
+      "prompt": "wide shot of construction workers pausing and nodding as a woman walks across the site floor between them, hard hats catching golden light, respect held in still postures, cinematic, photorealistic",
+      "alt": "wide shot of a construction site floor in golden light, hard hats and tools lined up on a wooden bench, dust settling in the beams, quiet order, cinematic, photorealistic"
+     },
+     {
+      "n": 27,
+      "secao": "refrão",
+      "camera": "close de detalhe, câmera lenta leve",
+      "prompt": "a work boot landing hard on a metal walkway, framed so tightly that only the boot and the grating are visible, loose dust shaken free and falling through golden backlight below, slight slow motion feel, photorealistic",
+      "alt": "loose dust falling through golden backlight beneath a metal walkway grating, framed tight on the glowing particles, slight slow motion feel, photorealistic"
+     },
+     {
+      "n": 28,
+      "secao": "refrão",
+      "camera": "close de detalhe",
+      "prompt": "a brass door handle turning and a heavy door swinging inward, framed so tightly that only the handle and the door edge are visible, warm light expanding through the opening gap, photorealistic",
+      "alt": "a heavy door swinging slowly inward, warm light expanding through the widening gap across a dark floor, framed tight on the door edge, photorealistic"
+     },
+     {
+      "n": 29,
+      "secao": "refrão",
+      "camera": "plano geral, orbital",
+      "prompt": "orbital shot around a woman standing at the edge of a rooftop, city skyline turning behind her, wind pushing her jacket, golden haze, proud upright posture, cinematic, photorealistic",
+      "alt": "orbital drone shot around the top of a concrete tower, city skyline turning behind it in golden haze, thin clouds streaking in the wind, cinematic, photorealistic"
+     },
+     {
+      "n": 30,
+      "secao": "refrão",
+      "camera": "close de perfil, contraluz",
+      "prompt": "profile close-up framed from the eyes up against the rising sun, hair whipping in the wind, rim light burning along the brow, fierce and calm, cinematic, photorealistic",
+      "alt": "profile silhouette of a head and shoulders against the rising sun, hair whipping in the wind, rim light flare, no facial detail visible, cinematic, photorealistic"
+     },
+     {
+      "n": 31,
+      "secao": "refrão",
+      "camera": "travelling lateral rápido",
+      "prompt": "fast lateral travelling shot along a building facade as window lights switch on floor by floor in the dawn, golden reflections racing across the glass, rhythmic energy, cinematic, photorealistic",
+      "alt": "fast lateral travelling shot along a glass building facade at dawn, warm window lights switching on floor by floor, golden reflections racing across the surface, cinematic, photorealistic"
+     },
+     {
+      "n": 32,
+      "secao": "refrão",
+      "camera": "plano geral, drone",
+      "prompt": "drone wide shot of a city waking at sunrise, the long shadow of a tower sweeping across rooftops, split of warm and cold light, cinematic, photorealistic",
+      "alt": "drone wide shot of rooftops at sunrise, the long shadow of a tower stretching across them, split of warm and cold light, cinematic, photorealistic"
+     },
+     {
+      "n": 33,
+      "secao": "ponte",
+      "camera": "plano médio, dolly-in muito lento",
+      "prompt": "very slow dolly-in on a woman standing before a tall dark boardroom door, shoulders rising with one deep breath, corridor lights dimmed, a single brass key held loosely at her side, hushed tension, cinematic, photorealistic",
+      "alt": "very slow dolly-in on a tall dark boardroom door at the end of a dim corridor, a thin line of warm light glowing under the door, hushed tension, cinematic, photorealistic"
+     },
+     {
+      "n": 34,
+      "secao": "ponte",
+      "camera": "macro, estático",
+      "prompt": "extreme close-up of a brass key sliding into a heavy brass lock and turning slowly, framed so tightly that only the key, the fingers and the lock are visible, dim warm side light, shallow focus, photorealistic",
+      "alt": "extreme close-up of a brass key resting inside a heavy brass lock as it turns slowly, framed tight on the key and lock plate, dim warm side light, shallow focus, photorealistic"
+     },
+     {
+      "n": 35,
+      "secao": "ponte",
+      "camera": "close, estático",
+      "prompt": "close-up framed from the eyes up, gaze locked forward as a thin blade of light from an opening door slides across the eyes, dark background, quiet resolve, cinematic, photorealistic",
+      "alt": "a thin blade of warm light sliding across a dark wall as a heavy door opens by slow degrees, dust glowing in the widening beam, cinematic, photorealistic"
+     },
+     {
+      "n": 36,
+      "secao": "refrão final",
+      "camera": "plano geral, contra-plongée",
+      "prompt": "low wide shot of double boardroom doors bursting open, golden light exploding into a dark room, a woman walking in silhouetted at the center of the flare, papers lifting off a long table in the gust, cinematic, photorealistic",
+      "alt": "low wide shot of double doors bursting open, golden light flooding a dark room, papers lifting off a long empty table in the gust of air, cinematic, photorealistic"
+     },
+     {
+      "n": 37,
+      "secao": "refrão final",
+      "camera": "plano médio, travelling",
+      "prompt": "tracking shot of a line of construction workers, women and men in hard hats, walking together behind their leader through a marble corporate lobby, morning light flooding through the glass walls, collective momentum, cinematic, photorealistic",
+      "alt": "tracking shot down an empty marble corporate lobby flooded with morning light, rows of work boots and hard hats lined along the glass wall, collective presence, cinematic, photorealistic"
+     },
+     {
+      "n": 38,
+      "secao": "refrão final",
+      "camera": "close de detalhe, câmera lenta leve",
+      "prompt": "a hand slapping flat onto a polished boardroom table, framed so tightly that only the hand and the wood grain are visible, dust and light ringing outward from the impact, slight slow motion feel, photorealistic",
+      "alt": "a thick stack of receipts dropping onto a polished boardroom table, framed tight on the papers fanning out across the wood grain, warm light, slight slow motion feel, photorealistic"
+     },
+     {
+      "n": 39,
+      "secao": "refrão final",
+      "camera": "plano geral, orbital",
+      "prompt": "orbital shot around a woman standing at the head of a long boardroom table, her crew of workers lined up behind her, floor-to-ceiling windows blazing with sunrise, triumphant, cinematic, photorealistic",
+      "alt": "orbital shot around a long boardroom table bathed in sunrise from floor-to-ceiling windows, hard hats set down the center of the table, triumphant light, cinematic, photorealistic"
+     },
+     {
+      "n": 40,
+      "secao": "refrão final",
+      "camera": "close de detalhe, speedramp",
+      "prompt": "a scratched work hard hat being set down on a polished glass table among expensive fountain pens, framed tight on the hat, sunrise flare glowing through the glass, speed ramp feel, photorealistic",
+      "alt": "a scratched work hard hat resting on a polished glass table among fountain pens, sunrise flare glowing through the glass edge, framed tight on the hat, photorealistic"
+     },
+     {
+      "n": 41,
+      "secao": "refrão final",
+      "camera": "plano médio, estático",
+      "prompt": "medium shot of a woman holding a worn receipt up against blazing window light, the paper glowing translucent, her stance square and certain, cinematic, photorealistic",
+      "alt": "a worn receipt held up against blazing window light, the paper glowing translucent, framed so tightly that only the hand and paper are visible, photorealistic"
+     },
+     {
+      "n": 42,
+      "secao": "refrão final",
+      "camera": "plano geral, grua",
+      "prompt": "wide celebratory shot on a building rooftop, a crowd of workers raising hard hats against the morning sky, golden dust glowing like confetti in the backlight, a woman at the front with her fist raised, cinematic, photorealistic",
+      "alt": "wide shot of hard hats tossed high against a blazing morning sky, golden dust drifting like confetti in the backlight, rooftop edge below the frame, cinematic, photorealistic"
+     },
+     {
+      "n": 43,
+      "secao": "refrão final",
+      "camera": "close, contraluz dourada",
+      "prompt": "close-up framed from the eyes up in golden light, eyes bright and wet with held-back emotion, fine lines creasing with pride, wind lifting loose strands of hair, cinematic, photorealistic",
+      "alt": "golden lens flare washing over the silhouette of a head and shoulders seen from behind, wind lifting loose strands of hair, no facial detail visible, cinematic, photorealistic"
+     },
+     {
+      "n": 44,
+      "secao": "refrão final",
+      "camera": "grua vertical rápida",
+      "prompt": "fast vertical crane shot climbing a finished glass facade from street level to rooftop as sunrise sweeps up the building, flare cresting over the parapet at the top, cinematic, photorealistic",
+      "alt": "fast vertical crane shot climbing a glass facade from street to rooftop as sunrise sweeps up the building, flare cresting over the empty parapet, cinematic, photorealistic"
+     },
+     {
+      "n": 45,
+      "secao": "refrão final",
+      "camera": "plano geral, drone",
+      "prompt": "wide drone shot of a golden city at full sunrise, flocks of birds crossing between the towers, one finished building shining at the center, anthemic scale, cinematic, photorealistic",
+      "alt": "wide drone shot of a golden city at full sunrise, flocks of birds crossing between towers, one glass building catching the light at the center, anthemic scale, cinematic, photorealistic"
+     },
+     {
+      "n": 46,
+      "secao": "outro",
+      "camera": "plano geral, dolly-out lentíssimo",
+      "prompt": "extremely slow dolly-out from a quiet empty boardroom, a scratched hard hat and a single brass key resting on the long polished table, morning light stretching across the floor, dust settling, peaceful stillness, cinematic, photorealistic",
+      "alt": "extremely slow dolly-out from a quiet empty boardroom, a hard hat and a brass key resting on a long polished table, morning light stretching across the floor, dust settling, cinematic, photorealistic"
+     },
+     {
+      "n": 47,
+      "secao": "outro",
+      "camera": "plano médio, estático, de costas",
+      "prompt": "static medium shot of a woman seen from behind at a floor-to-ceiling window, hands relaxed at her sides, the waking city spread golden below her, long calm hold, cinematic, photorealistic",
+      "alt": "static shot through a floor-to-ceiling window of a waking city spread golden below, faint reflection of an empty room in the glass, long calm hold, cinematic, photorealistic"
+     },
+     {
+      "n": 48,
+      "secao": "outro",
+      "camera": "plano geral, drone afastando",
+      "prompt": "slow drone pull-back at dawn from a tower with every window now lit warm, the city humming awake around it, the image softening into gentle haze, serene and final, cinematic, photorealistic",
+      "alt": "slow drone pull-back at dawn from a tower with every window glowing warm, streets waking below, the image softening into gentle haze, serene and final, cinematic, photorealistic"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "faixa-pronta-mvd-147-1",
    "mvd": "MVD#159",
    "titulo": "Gold on the Water",
@@ -450,7 +867,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
@@ -509,7 +926,7 @@
     }
    ],
    "versoes": [],
-   "bytes": 11267070,
+   "bytes": 12140911,
    "doc": "# Segunda Chance\n\n\n\n**slug:** `faixa-pronta-mvd-132-1`  ·  **criado:** 2026-09-01T06:03:01-03:00\n\n**solicitação:** --faixa-pronta MVD#132:1\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico / agronejo pop / sofrência stadium live  ·  **BPM:** 127  ·  **Tom:** Mi maior\n- **Mood:** emotivo, maduro, digno, crescente, catártico de arena\n- **Instrumentação:** piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra elétrica ambiente, pads cinematográficos discretos, backing vocals femininos, coro de público de estádio\n- **Voz:** \"feminina brasileira, quente, poderosa, levemente rouca e muito expressiva; versos íntimos quase conversados, refrão aberto em voz de peito, último refrão catártico com quebras emocionais controladas\"\n- **Params:** `{\"duracao_s\": 204, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR\n\n**Estrutura:** intro (6s) · verso 1 (28s) · pré-refrão 1 (13s) · refrão 1 (29s) · verso 2 (30s) · pré-refrão 2 (15s) · refrão 2 (30s) · ponte (19s) · refrão final (29s) · final (5s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\nSegunda chance não tem terceira vez\n\n[Verso 1]\nEu vi a mensagem e fingi que não vi\nVocê jurou de novo, eu quis acreditar\nGuardei o meu orgulho, abri a porta de casa\nAchei que amor bastava pra te segurar\n\n[Pré-refrão]\nMas o mesmo perfume voltou na tua roupa\nA mesma desculpa, o mesmo olhar no chão\nEu já sei de cor o fim dessa história\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Verso 2]\nNão vou fingir que não dói te deixar\nDói mais ficar e me ver diminuir\nEu não te odeio, eu só aprendi\nQue quem esquece a queda torna a cair\n\n[Pré-refrão]\nO mesmo perfume, a mesma desculpa\nO mesmo \"eu mudo\" que nunca mudou\nDessa vez a porta fecha por dentro\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Ponte]\nNão me peça pra esquecer\nÉ a lembrança que me impede de voltar\nEu perdoo você\nMas não me perdoo se eu ficar\n\n[Refrão final]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Final]\nSegunda chance não tem terceira vez\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0b0d1b, #d4af37, #ffb703, #2b7fff, #f5f0e6\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Olhar escolhido: PERFIL, olhos para fora do quadro — a capa anterior do acervo (MVD#159) era olhar direto na lente e a anterior a ela (MVD#157) era de costas; esta usa a terceira pose. Ela está no corredor escuro que leva ao palco, vista de perfil no centro do quadro, queixo firme, olhando para o clarão dourado da arena fora do quadro à direita: a decisão já foi tomada e ela caminha para a própria vida, não para ele. Elegância madura, lágrima seca, dignidade sem vitimismo. Azul-noite frio no corredor, ouro quente vindo do palco, faixa inferior limpa para o título composto por código.\n\n**Prompt (EN):**\n\n> square 1:1 cinematic photograph, centered dramatic profile portrait of an elegant Brazilian woman in her late twenties with long dark wavy hair, wearing a shimmering midnight-blue stage dress, standing in a dark backstage corridor, her face in calm dignified profile gazing toward a warm golden blaze of stadium light pouring in from off-frame right, cool blue haze behind her, rim of gold light tracing her jaw and hair, shallow depth of field, midnight blue and warm gold palette, clean empty darker space across the bottom for a bold title, photorealistic, sophisticated, emotional\n\n**Negativo:** text, letters, typography, words, lyrics, watermark, logo, microphone in front of face, open mouth, extra limbs, deformed hands, cartoon, illustration\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** 48 shots em 204s ≈ 14,1 cortes/min na média, com distribuição desigual de propósito: refrões picados a ~19-23 cortes/min (planos de 2,5-3,5s, corte seco no beat), ancorados nos 22,3 cortes/min medidos em 2-1m-views-77k-reactions-ravenstrikex-mummy-wake — a mais lenta das três referências medidas e a única compatível com um show ao vivo de arena a 127 BPM (as outras duas, 29,3 e 35,5 cortes/min, são EDM de festival). Versos respiram com planos de 7-8s, intro segura 6s num único dolly-in e a ponte quase silenciosa segura os dois planos mais longos (10s e 9s) antes da explosão. Da montagem medida uso só o que apareceu: corte seco no beat, slow-motion nos planos de multidão e confete (mummy-wake e olympus usam slowmo/speedramp), e a entrada do refrão final em whiteout flash a partir do blackout da ponte, transição medida em 274k-views-12k-reactions-ravenstrikex-olympus-ra-3. Nada de crossfade ou recurso não medido.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 48  ·  **Duração total:** 204.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | plano geral, dolly-in lento | Arena às escuras, um único spot quente sobre o piano de cauda no palco vazio, névoa parada. |\n| 2 | verso 1 | 8s | médio, dolly-in lento | A cantora sentada num banco na beira do spot, cabeça baixa, mãos unidas no colo, vulnerável. |\n| 3 | verso 1 | 7s | plano geral, steadicam | Inserto narrativo: corredor de apartamento à meia-luz, porta de casa entreaberta com luz quente vazando — a porta que ela abriu de novo. |\n| 4 | verso 1 | 7s | close, estático | Inserto: um celular virado para baixo numa mesa de madeira, close tão fechado que só o aparelho e duas mãos apoiadas aparecem. |\n| 5 | verso 1 | 6s | médio, steadicam | Perfil da cantora contra a névoa azul, olhos fechados, queixo baixo, spot atrás dela. |\n| 6 | pré-refrão 1 | 5s | close, dolly-in lento | Inserto: paletó masculino jogado numa cadeira sob luz de abajur, névoa fina subindo como perfume no ar. |\n| 7 | pré-refrão 1 | 4s | médio, travelling | Ela se levanta do banco; atrás, silhuetas da banda acendem uma a uma em contraluz. |\n| 8 | pré-refrão 1 | 4s | plano geral, pan | As luzes da arena varrem e acendem; mar de luzes de celular começa a ondular na plateia. |\n| 9 | refrão 1 | 4s | plano geral, drone | Aéreo sobre a arena explodindo em ouro no primeiro refrão. |\n| 10 | refrão 1 | 3s | médio, gimbal orbital | Órbita na cantora de braços abertos, cabeça jogada para trás, contraluz dourada. |\n| 11 | refrão 1 | 3s | plano geral, estático | Multidão pulando em bloco sob luz dourada, braços para cima. |\n| 12 | refrão 1 | 3s | close, estático | Close tão fechado que só o punho fechado no pé do microfone aparece, luz dourada por trás. |\n| 13 | refrão 1 | 3s | médio, travelling | Travelling ao longo da grade: mãos da primeira fila esticadas para o palco. |\n| 14 | refrão 1 | 3s | médio, contra-plongée estático | Silhueta do sanfoneiro em contraluz, fole esticado, feixes dourados atravessando. |\n| 15 | refrão 1 | 3s | médio, dolly-in | A cantora de olhos apertados, cabeça inclinada para trás, garganta tensionada, spot duro por trás. |\n| 16 | refrão 1 | 3s | plano geral, pan rápido | Palco inteiro: baterista de braços erguidos cravando os pratos, flash de luz no impacto. |\n| 17 | refrão 1 | 4s | plano geral, orbital | Órbita larga: ela no centro do palco diante do mar de luzinhas, fim do primeiro refrão. |\n| 18 | verso 2 | 8s | médio, steadicam | Ela caminha devagar pela passarela, banho de luz azul, arena contida atrás. |\n| 19 | verso 2 | 8s | plano geral, estático | Inserto narrativo: chuva escorrendo numa janela à noite, bokeh da cidade ao fundo. |\n| 20 | verso 2 | 7s | close, estático | Close de perfil tão fechado que só um olho fechado e a maçã do rosto aparecem, trilho de lágrima na luz fria. |\n| 21 | verso 2 | 7s | médio, contra-plongée travelling | Ela no fim da passarela, plano médio de baixo, violonista desfocado ao fundo, luz azul e âmbar. |\n| 22 | pré-refrão 2 | 5s | close, dolly-out lento | Inserto: mala de viagem pronta junto à porta de casa, metade na luz quente do abajur, metade no azul da janela. |\n| 23 | pré-refrão 2 | 5s | médio, dolly-in | Ela para no centro do palco, ombros subindo na respiração funda, luzes escalando atrás. |\n| 24 | pré-refrão 2 | 5s | plano geral, travelling | Travelling pela frente do palco: banda inteira acesa, canhões inclinando para a plateia. |\n| 25 | refrão 2 | 3.5s | plano geral, drone | Drone recuando por cima do estádio no segundo refrão, feixes dourados abrindo em leque. |\n| 26 | refrão 2 | 3s | médio, gimbal | Ela varre o braço estendido sobre a plateia, cabelo voando, ouro por trás. |\n| 27 | refrão 2 | 3s | plano geral, estático | Plateia de braços balançando em uníssono da esquerda para a direita, luzes de celular. |\n| 28 | refrão 2 | 3s | close, estático | Close tão fechado que só o fole da sanfona esticado aparece, luz do palco vazando pelas dobras. |\n| 29 | refrão 2 | 3s | médio, orbital | Órbita rápida nela, vestido girando, contraluz dourada estourada. |\n| 30 | refrão 2 | 3s | plano geral, estático lateral | Da coxia: silhuetas da banda inteira, batida grande, flash branco no impacto do bumbo. |\n| 31 | refrão 2 | 3s | médio, travelling | Primeira fila em slow motion: mãos, luzes de celular, cabelos voando. |\n| 32 | refrão 2 | 2.5s | close, estático | Close tão fechado que só o salto da bota cravando no palco no beat aparece. |\n| 33 | refrão 2 | 3s | médio, dolly-in | Punho no peito, olhos apertados, cabeça para trás — a frase-título cravada no corpo. |\n| 34 | refrão 2 | 3s | plano geral, drone top-down | Zenital do palco: estrela de feixes de luz com ela no centro, fim do refrão 2. |\n| 35 | ponte | 10s | médio, dolly-in muito lento | Arena apagada de golpe; só ela sentada na beira do palco junto ao piano, spot quente único, poeira na luz — voz e piano quase sozinhos. |\n| 36 | ponte | 9s | close, estático | Inserto narrativo: a porta de casa fechando devagar por dentro, a faixa de luz quente estreitando até apagar — 'dessa vez a porta fecha por dentro'. |\n| 37 | refrão final | 3s | plano geral, estático | Do blackout, whiteout flash: a arena inteira explode em ouro no refrão final. |\n| 38 | refrão final | 2.5s | médio, gimbal | Ela de braços abertos, cabeça jogada para trás, engolida pela contraluz dourada. |\n| 39 | refrão final | 2.5s | plano geral, estático | Multidão saltando em slow motion, milhares de luzes, maré humana. |\n| 40 | refrão final | 2.5s | close, estático | Close tão fechado que só as baquetas estourando no prato aparecem, spray de luz. |\n| 41 | refrão final | 2.5s | médio, travelling | Ela corre pela passarela, vestido esvoaçando, feixes cruzando. |\n| 42 | refrão final | 2.5s | plano geral, drone orbital | Drone orbitando a tigela do estádio, feixes varrendo o céu. |\n| 43 | refrão final | 2.5s | close, dolly-in | Inserto de desfecho: um anel fino deixado sobre a tampa do piano, bokeh dourado da festa ao fundo. |\n| 44 | refrão final | 2.5s | médio, estático | Ela de frente para a plateia, punho erguido, primeiros confetes dourados caindo em slow motion. |\n| 45 | refrão final | 3s | plano geral, estático | Nevasca de confete dourado sobre a multidão, feixes atravessando. |\n| 46 | refrão final | 2.5s | médio, orbital lento | Órbita lenta nela sob o confete, olhos fechados, lágrima brilhando, meio sorriso de alívio. |\n| 47 | refrão final | 3s | plano geral, drone recuando | Drone recua revelando o estádio inteiro brilhando sob o confete — clímax visual. |\n| 48 | final | 5s | médio, dolly-out lento | As luzes morrem para um único spot; ela sozinha, queixo erguido, respirando; o spot apaga e fica só a névoa. |\n\n**Prompts (EN):**\n\n1. slow cinematic dolly-in through a dark empty stadium toward a grand piano alone on a wide stage under a single warm spotlight, haze hanging in the beam, thousands of faint phone lights in the black stands, quiet and expectant, photorealistic, 16:9\n2. slow dolly-in on an elegant Brazilian woman in her late twenties with long dark wavy hair in a shimmering midnight-blue stage dress, seated on a stool at the edge of a warm spotlight on a dark stage, head bowed, hands clasped in her lap, intimate and vulnerable, cool blue haze around the pool of light, photorealistic, 16:9\n3. slow steadicam drift down a dim apartment hallway at night toward a front door standing ajar, warm lamplight spilling through the gap onto the wooden floor, coats on a rack, quiet domestic stillness, cinematic low light, photorealistic, 16:9\n4. static close-up framed so tightly that only a phone lying face-down on a wooden table and two resting hands beside it are visible, warm lamplight, a cold blue glow pulsing faintly from under the phone, shallow depth of field, tense stillness, photorealistic, 16:9\n5. medium profile shot of the woman in the midnight-blue dress standing on the dark stage, eyes closed, chin low, backlit by a soft spotlight through blue haze, gold rim light on her hair, restrained emotion, photorealistic, 16:9\n6. slow dolly-in on a man's suit jacket draped over a chair in warm lamplight in a dark room, thin wisps of haze curling above the fabric like lingering perfume, moody domestic night scene, shallow depth of field, photorealistic, 16:9\n7. tracking shot of the woman in the midnight-blue dress rising from the stool on the dark stage, band member silhouettes lighting up one by one behind her in warm backlight, drum kit and accordion silhouettes emerging, energy building, photorealistic, 16:9\n8. wide panning shot of stadium lights sweeping on across a packed arena at night, an ocean of phone lights rippling through the dark crowd, warm gold beams cutting blue haze, anticipation swelling, photorealistic, 16:9\n9. aerial drone shot over a packed stadium bursting into warm gold light, beams fanning from the stage across a sea of raised arms and phone lights, night sky above, massive live show energy, photorealistic, 16:9\n10. orbiting gimbal shot around the woman in the shimmering midnight-blue dress at center stage, arms spread wide, head tilted back, eyes shut, drenched in golden backlight and haze, hair catching the light, cathartic energy, photorealistic, 16:9\n11. static wide shot of a stadium crowd jumping in unison under warm gold wash, thousands of raised arms and phone lights, slow motion, haze and lens flare, euphoric live energy, photorealistic, 16:9\n12. static close-up framed so tightly that only a clenched fist gripping a microphone stand pole is visible, knuckles tight, warm golden stage light flaring behind, haze, determination, shallow depth of field, photorealistic, 16:9\n13. fast lateral tracking shot along the front-row barrier, dozens of outstretched hands reaching toward the bright stage, gold light and haze washing over the crowd, phone lights sparkling, live concert energy, photorealistic, 16:9\n14. low-angle medium shot of an accordion player in full silhouette against blazing golden stage lights, bellows stretched wide, light beams cutting through haze around the instrument, dynamic live show, photorealistic, 16:9\n15. dolly-in on the woman in the midnight-blue dress, head tilted back, eyes squeezed shut, neck taut, one hand pressed to her chest, hard white spotlight from behind carving her outline in the haze, raw emotion, photorealistic, 16:9\n16. fast panning wide shot of the full stage, drummer with both arms raised smashing cymbals, burst of white light on the hit, band silhouettes, gold beams sweeping over the crowd, explosive live energy, photorealistic, 16:9\n17. wide orbiting shot of the woman in the midnight-blue dress standing at center stage before an ocean of phone lights stretching into the dark stadium, gold and blue beams crossing above, slow motion haze, grand and emotional, photorealistic, 16:9\n18. steadicam medium shot following the woman in the midnight-blue dress walking slowly along a catwalk into the crowd, cool blue wash, phone lights drifting like stars around her, subdued and reflective pace, photorealistic, 16:9\n19. static shot of rain streaking down a dark window pane at night, blurred city lights as warm and cold bokeh beyond the glass, drops merging and sliding, melancholic quiet interior mood, photorealistic, 16:9\n20. static close-up in profile framed so tightly that only one closed eye and the cheekbone are visible, a single tear track catching cool blue light, soft golden rim from behind, framed from the eyes up, quiet grief with dignity, shallow depth of field, photorealistic, 16:9\n21. low-angle tracking medium shot of the woman in the midnight-blue dress standing at the end of the catwalk, chin firm, gaze far over the crowd, an acoustic guitar player blurred on the stage behind, blue and amber cross light, composed strength, photorealistic, 16:9\n22. slow dolly-out from a packed leather suitcase standing by an apartment front door at night, half lit by warm lamplight and half by cold blue window light, keys resting on top, decisive stillness, photorealistic, 16:9\n23. dolly-in on the woman in the midnight-blue dress standing still at center stage, shoulders rising with a deep breath, fists loose at her sides, walls of light climbing brighter behind her through haze, storm about to break, photorealistic, 16:9\n24. sweeping tracking shot across the front of the stage, full band ignited in warm light, spotlight cannons tilting out over the roaring crowd, beams raking across thousands of phone lights, surging energy, photorealistic, 16:9\n25. aerial drone pull-back over the packed stadium at full blaze, gold beams fanning from the stage over a jumping crowd, phone lights like a galaxy, night sky above, huge celebratory scale, photorealistic, 16:9\n26. gimbal medium shot of the woman in the midnight-blue dress sweeping an outstretched arm over the crowd below the catwalk, hair flying, golden backlight flaring, commanding and generous energy, photorealistic, 16:9\n27. static wide shot of the stadium crowd swaying thousands of arms in unison from side to side, phone lights tracing arcs through the dark, warm gold wash from the stage, communal wave of motion, photorealistic, 16:9\n28. static close-up framed so tightly that only the stretched bellows of an accordion are visible, golden stage light leaking through the pleats, fingers blurred at the frame edge, haze, rhythmic live texture, photorealistic, 16:9\n29. fast orbiting shot around the woman in the midnight-blue dress spinning with the motion, dress fabric flaring, blown-out golden backlight and haze, joyful cathartic release, photorealistic, 16:9\n30. static wide shot from the stage wing, full band in silhouette against the bright arena, a white strobe flash bursting on the big drum hit, haze and cables in the foreground, raw live power, photorealistic, 16:9\n31. slow-motion tracking shot along the front row, hands reaching and waving, phone lights streaking, hair and confetti-free air full of haze and gold flare, pure fan euphoria, photorealistic, 16:9\n32. static close-up framed so tightly that only a boot heel stamping down on the glossy stage floor is visible, reflection of golden lights on the black surface, dust kicking in the beam, percussive impact, photorealistic, 16:9\n33. dolly-in medium shot of the woman in the midnight-blue dress with a fist pressed hard against her chest, head tilted back, eyes squeezed shut, jaw set, golden spotlights blazing behind her through haze, fierce conviction, photorealistic, 16:9\n34. top-down drone shot directly above the stage, light beams radiating outward like a star with the tiny figure at the center, catwalk cutting into the glowing crowd, geometric grandeur, photorealistic, 16:9\n35. very slow dolly-in on the woman in the midnight-blue dress seated at the edge of the darkened stage beside the grand piano, single warm spotlight, head bowed, hands resting open on her knees, dust motes floating in the beam, the vast arena black and silent around her, fragile intimacy, photorealistic, 16:9\n36. static shot inside a dark apartment of the front door slowly closing from within, the strip of warm hallway light narrowing on the wooden floor until it disappears, a hand resting on the lock at the frame edge, final and calm, photorealistic, 16:9\n37. wide shot as the entire stadium erupts from darkness into full golden blaze, every beam and screen igniting at once over a jumping crowd, shockwave of light through haze, maximum cathartic release, photorealistic, 16:9\n38. gimbal medium shot of the woman in the midnight-blue dress with arms flung wide and head thrown back, swallowed by golden backlight and haze, dress shimmering, total surrender to the moment, photorealistic, 16:9\n39. slow-motion wide shot of the stadium crowd leaping together, thousands of phone lights and raised arms, gold wash and haze rolling over the human tide, peak communal euphoria, photorealistic, 16:9\n40. static close-up framed so tightly that only drumsticks smashing into a crash cymbal are visible, spray of light and sweat droplets frozen in golden backlight, explosive percussion moment, photorealistic, 16:9\n41. tracking medium shot of the woman in the midnight-blue dress running along the catwalk over the crowd, dress streaming behind her, crossing beams and phone lights blurring past, unleashed joy and freedom, photorealistic, 16:9\n42. orbiting drone shot around the glowing stadium bowl at night, searchlight beams sweeping the sky, the stage a blazing gold heart at the center of a galaxy of lights, epic scale, photorealistic, 16:9\n43. slow dolly-in close-up framed so tightly that only a thin gold ring resting on the glossy black lid of the grand piano is visible, warm golden concert bokeh sparkling out of focus beyond, quiet symbol of release amid the celebration, photorealistic, 16:9\n44. slow-motion medium shot of the woman in the midnight-blue dress facing the vast crowd with one fist raised high, the first golden confetti drifting down around her through the beams, triumphant dignity, photorealistic, 16:9\n45. wide shot of a blizzard of golden confetti falling over the entire stadium crowd, beams of warm light cutting through the glittering storm, slow motion, phone lights twinkling beneath, overwhelming celebration, photorealistic, 16:9\n46. slow orbiting medium shot of the woman in the midnight-blue dress standing beneath falling golden confetti, eyes closed, a tear glinting on her cheek, a faint relieved smile, warm light halo through the glitter, bittersweet victory, photorealistic, 16:9\n47. drone pull-back revealing the whole glowing stadium under falling golden confetti, beams sweeping, a galaxy of phone lights around the blazing stage, night skyline beyond, grand final image, photorealistic, 16:9\n48. slow dolly-out as all stadium lights fade to a single warm spotlight on the woman in the midnight-blue dress standing alone, chin held high, shoulders settling with a deep breath, confetti settling around her, then the spotlight dims leaving only drifting haze, serene closure, photorealistic, 16:9\n\n## Publicação (YouTube)\n\n- **Título:** Segunda Chance\n- **Tags:** emotivo, maduro, digno, crescente, piano acustico emocional, violao de aco, baixo eletrico melodico\n\n**Descrição:**\n\nUma mulher deu a segunda chance — perdoou, abriu a porta de casa, quis acreditar. Quando o mesmo perfume voltou na mesma roupa, ela entendeu o que a lembrança já sabia: quem esquece a queda torna a cair. Esta é a história de uma despedida sem ódio, cantada por quem ainda ama e é exatamente por isso que vai embora.\n\nO som é sofrência de estádio: começa só piano e uma voz feminina quente e levemente rouca, quase conversando, e cresce seção a seção — violão de aço, sanfona, bateria ao vivo cada vez maior — até um refrão aberto feito para milhares de vozes cantarem juntas. Na ponte, tudo se recolhe para voz e piano em quase silêncio, antes da explosão final com coro de público, aplausos e catarse de arena.\n\nNo clipe, o palco conta a mesma história: a solidão de um spot único vira um mar dourado de luzes de celular, e entre os planos do show aparecem os rastros da decisão — a porta entreaberta, o celular virado para baixo, a mala pronta, a porta que dessa vez fecha por dentro e um anel deixado sobre o piano. No fim, confete dourado, uma lágrima e um meio sorriso: não é vingança, é alívio.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
    "prompts": {
     "estilo": "Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR",
