@@ -4,6 +4,458 @@
  "musicavideo": [
   {
    "fonte": "musicavideo",
+   "slug": "faixa-pronta-mvd-147-1",
+   "mvd": "MVD#159",
+   "titulo": "Gold on the Water",
+   "quando": "2026-09-01T05:54:47-03:00",
+   "atualizado": "2026-09-01T10:16:33-03:00",
+   "origem": "mulher-jovem-e-estilosa-danca-animada-em",
+   "origem_mvd": "MVD#147",
+   "solicitacao": "--faixa-pronta MVD#147:1",
+   "genero": "tech house / deep house vocal",
+   "bpm": 126,
+   "tom": "Lá menor",
+   "estados": {
+    "musica": "pronto",
+    "capa": "pronto",
+    "clipe": "pronto"
+   },
+   "motores": {
+    "musica": "kie:suno-v4.5",
+    "capa": "agnes:agnes-image-2.1-flash",
+    "clipe": "agnes:agnes-video-v2.0"
+   },
+   "custo": 0.0,
+   "tags": [
+    "enérgico",
+    "sofisticado",
+    "noturno",
+    "hipnótico"
+   ],
+   "capa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/capa.png",
+   "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/capa-thumb.jpg",
+   "capas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/capa.png",
+     "rotulo": "quadrada 1:1"
+    },
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/publicacao/capa-yt.jpg",
+     "rotulo": "YouTube 16:9"
+    }
+   ],
+   "clipe": null,
+   "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/faixa-1.mp3",
+   "faixas": [
+    {
+     "url": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/faixa-1.mp3",
+     "nome": "faixa-1.mp3",
+     "n": "1",
+     "aprovada": true,
+     "thumb": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/capa-thumb.jpg",
+     "likes": 0,
+     "capa": null,
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/clipe-1.mp4",
+     "nuvem": "publicado"
+    }
+   ],
+   "versoes": [
+    {
+     "n": "1",
+     "clipe": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/clipe-1.mp4",
+     "faixa": "https://huggingface.co/datasets/Inematds/musicavideo-acervo/resolve/main/faixa-pronta-mvd-147-1/faixa-1.mp3",
+     "aprovada": true,
+     "nuvem": "publicado"
+    }
+   ],
+   "bytes": 472024134,
+   "doc": "# Gold on the Water\n\n**slug:** `faixa-pronta-mvd-147-1`  ·  **solicitação:** --faixa-pronta MVD#147:1\n\n| parte | estado | arquivo | motor | custo (US$) |\n|---|---|---|---|---|\n| Faixa | pronto | faixa-1.mp3 | kie:suno-v4.5 | 0.0000 |\n| Capa | pronto | capa.png | agnes:agnes-image-2.1-flash | 0.0000 |\n| Clipe | pronto | clipe.mp4 | agnes:agnes-video-v2.0 | 0.0000 |\n\n**Custo total gasto:** US$ 0.0000\n\n**Pasta:** `/home/nmaldaner/projetos/output/musicavideo/faixa-pronta-mvd-147-1`\n\n✅ Pacote completo.\n\n────────────────────────────────────────────────────────────\n\n# Gold on the Water\n\n\n\n**slug:** `faixa-pronta-mvd-147-1`  ·  **criado:** 2026-09-01T05:54:47-03:00\n\n**solicitação:** --faixa-pronta MVD#147:1\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** tech house / deep house vocal  ·  **BPM:** 126  ·  **Tom:** Lá menor\n- **Mood:** enérgico, sofisticado, noturno, hipnótico\n- **Instrumentação:** sub bass, four-on-the-floor kick, hi-hats, vocal feminino processado, synth plucks, riser synth, downshifter\n- **Voz:** \"feminina processada, hook hipnótico em primeiro plano, frases curtas quase faladas nos versos e melodia aberta no drop\"\n- **Params:** `{\"duracao_s\": 198, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Upbeat modern tech house, 126 BPM, A minor. Deep rolling sub bassline, punchy four-on-the-floor kick, crisp shuffling hi-hats, hypnotic processed female vocal hook up front, bright synth plucks, tension riser building into an explosive clean club drop with a downshifter release. Sophisticated night pool party energy, vibrant VIP atmosphere, mastered loud and clean with the vocal in the foreground. No acoustic instruments, no slow tempo, no lo-fi, no distorted rock, no chaotic noise, no cheesy brass.\n\n**Estrutura:** intro (15s) · build-up 1 (16s) · drop 1 (20s) · verso 2 (28s) · build-up 2 (16s) · drop 2 (32s) · ponte (22s) · build final (9s) · drop final (28s) · outro (11.72s)\n\n**Letra** (origem: `gerada`, en):\n\n```\n[Intro]\nGold on the water, gold on my skin\nNight's wide open — dive in, dive in\n\n[Build-up 1]\nFeel the bass under the tide\nEvery heartbeat amplified\nHold it, hold it, don't let go\nLet the deep end steal the show\n\n[Drop 1 — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Verso 2]\nVelvet air and diamond spray\nWatch the city melt away\nBarefoot queen on marble shore\nEvery wave keeps asking more\n\n[Build-up 2]\nHold your breath — the floor's about to break\nOne more drop is all it takes\n\n[Drop 2 — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Ponte]\nFloating slow, the world goes quiet\nJust the glow... just the light...\n\n[Build final]\nDive in, dive in, dive in\n\n[Drop final — hook]\nPour that gold on the water\nTurn it up, don't kill the light\nPour that gold on the water\nWe own the deep end of the night\n\n[Outro]\nGold on the water... gold on my skin\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0B0D1B, #FFB703, #D4AF37, #00E5FF, #F72585\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Olhar escolhido: DIRETO NA LENTE — a capa anterior do acervo (MVD#157) era de costas, esta inverte. Ela está DENTRO da piscina à noite, submersa até os ombros, no centro do quadro, encarando a câmera com a calma de quem é dona da noite. A água ao redor carrega o dourado derramado das luzes da vila — o 'gold on the water' literal —, com reflexo dourado subindo da água para o rosto e fundo teal profundo desfocado. Base do quadro limpa para o título.\n\n**Prompt (EN):**\n\n> album cover, centered dramatic portrait of a young stylish woman with sleek wet dark hair submerged to her shoulders in a glowing pool at night, looking directly into the lens with calm confident ownership, golden light spilled across the dark teal water surface around her, soft gold reflections dancing on her face from below, deep blurred night background with bokeh villa lights, shallow depth of field, space for bold title at the bottom, cinematic, 1:1\n\n**Negativo:** text, watermark, logo, extra limbs, distorted face, daylight\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** 53 shots em 197,7s ≈ 16 cortes/min na média, desiguais de propósito: drops a 20–24 cortes/min (planos de 2,5–3s), ancorados nos 22,3 cortes/min medidos em 2-1m-views-77k-reactions-ravenstrikex-mummy-wake — clipe musical de 128 bpm, o mais próximo dos nossos 126 bpm entre as três referências medidas (os 29,3 e 35,5 cortes/min das outras duas são ritmo de aftermovie hiper-picado, insustentável por 3min18s). Intro segura o plano (4–6s), verso 2 e ponte respiram (4,5–9s), build final acelera (3,5→2,5s) até o salto. Transições só as medidas nas referências: corte seco no beat, whip pan nos drops, whiteout flash no build final e no clímax, slowmo/speedramp nos splashes.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 53  ·  **Duração total:** 197.72s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | plano geral, drone descendo lento | Vila moderna de luxo à noite; piscina infinita acesa em teal, reflexos dourados tremendo na água. |\n| 2 | intro | 5s | travelling lateral, meia altura | Borda molhada da piscina com taças e luzes cênicas; convidados desfocados dançando ao fundo. |\n| 3 | intro | 4s | plano médio, gimbal por trás | A mulher de vestido de paetês dourados chega à beira da piscina, de costas, luz varrendo a cena. |\n| 4 | build-up 1 | 5s | close detalhe, gimbal baixo | Pés descalços com tornozeleira dourada pisando no ritmo sobre o mármore molhado. |\n| 5 | build-up 1 | 4.5s | plano médio, dolly-in | Ela de perfil contra os refletores; queixo erguido, olhos fechados, a luz crescendo com o riser. |\n| 6 | build-up 1 | 3.5s | close detalhe, estático | Uma mão sobre os knobs iluminados do mixer, LEDs pulsando. |\n| 7 | build-up 1 | 3s | plano geral, estático | A multidão começa a dançar; feixes teal e dourados varrem a área da piscina. |\n| 8 | drop 1 | 3s | plano médio, gimbal | O drop estoura: ela explode dançando sob strobe dourado. |\n| 9 | drop 1 | 3s | orbital rápido | Câmera orbita ao redor dela dançando na borda da piscina. |\n| 10 | drop 1 | 2.5s | close detalhe, slowmo com speedramp | Splash de água explodindo contra a contraluz neon. |\n| 11 | drop 1 | 3s | plano geral, travelling rápido | Multidão pulando em sincronia, lasers teal por cima. |\n| 12 | drop 1 | 2.5s | close detalhe, gimbal | Paetês dourados girando e pegando o strobe, só o tecido no quadro. |\n| 13 | drop 1 | 3s | plano médio, contra-plongê | Ela de braços erguidos contra os refletores, silhueta recortada pela luz. |\n| 14 | drop 1 | 3s | plano geral, drone | Vista aérea da festa inteira pulsando ao redor da piscina. |\n| 15 | verso 2 | 7s | steadicam lento | Ar de veludo: ela atravessa os convidados devagar, tudo derretendo em bokeh. |\n| 16 | verso 2 | 6s | close detalhe, dolly baixo | 'Barefoot queen on marble shore': pés descalços parados na borda de mármore, reflexos dourados na pele. |\n| 17 | verso 2 | 5.5s | plano geral, estático | 'Watch the city melt away': o skyline dissolve em bokeh atrás da vila. |\n| 18 | verso 2 | 5s | plano médio, dolly lateral | Ela sentada na borda com as pernas na água, ondulações douradas se abrindo. |\n| 19 | verso 2 | 4.5s | close detalhe, estático | 'Diamond spray': taça de cristal sem marca refratando as luzes da festa. |\n| 20 | build-up 2 | 4s | plano médio, dolly-in | 'Hold your breath': ela se levanta na borda enquanto as luzes ambiente baixam; um único refletor quente resta. |\n| 21 | build-up 2 | 3.5s | plano geral, travelling lento | Multidão em suspenso, braços subindo devagar, luzes indo para o azul profundo. |\n| 22 | build-up 2 | 3.5s | close, estático, dos olhos para cima | Olhos fechados com força, concentração antes da quebra; luz teal e dourada tremendo na pele. |\n| 23 | build-up 2 | 3s | close detalhe, estático | A superfície da água vibrando em anéis concêntricos com o sub-bass. |\n| 24 | build-up 2 | 2s | close, estático, whiteout | 'The floor's about to break': refletor acende direto na lente e estoura o quadro em dourado. |\n| 25 | drop 2 | 3s | plano médio, whip pan | Segundo drop: whip pan cai nela explodindo em dança, água espirrando nos pés. |\n| 26 | drop 2 | 3s | orbital, gimbal | Grupo de dançarinos em sincronia pela borda, reflexos dobrando cada movimento. |\n| 27 | drop 2 | 3s | close, slowmo com speedramp | Cabelo escuro chicoteando na contraluz dourada, gotas voando dos fios. |\n| 28 | drop 2 | 2.5s | plano geral, estático | Jatos de fonte iluminados subindo em magenta e teal ao redor da piscina. |\n| 29 | drop 2 | 3s | plano médio, dolly-in | DJ de costas na cabine contra um painel de LED de ondas douradas abstratas. |\n| 30 | drop 2 | 3s | travelling rápido | Câmera corre por dentro da multidão dançando, splashes pegando a luz. |\n| 31 | drop 2 | 2.5s | contra-plongê, estático | Dezenas de mãos erguidas em silhueta contra os lasers. |\n| 32 | drop 2 | 3s | plano médio, perfil, estático | Ela dançando na beira com o reflexo espelhado de cabeça para baixo na água. |\n| 33 | drop 2 | 3s | drone orbital | Drone orbita a vila com a piscina teal no coração da festa. |\n| 34 | drop 2 | 2.5s | close detalhe, slowmo | Gotas suspensas no ar sobre a piscina, cada uma refratando neon. |\n| 35 | drop 2 | 3.5s | plano geral, estático, clímax | A festa inteira pulando junto no pico do segundo drop, strobes dourados. |\n| 36 | ponte | 9s | subaquático, câmera lenta | 'Floating slow, the world goes quiet': ela flutua submersa, vestido ondulando sem peso, luz dourada filtrando de cima. |\n| 37 | ponte | 7s | plano zenital, drone | De cima: ela boiando em estrela na superfície calma, anéis concêntricos teal e dourados. |\n| 38 | ponte | 6s | subaquático, contra-plongê | 'Just the glow': de baixo d'água, a silhueta flutuando contra a superfície acesa em dourado. |\n| 39 | build final | 3.5s | plano médio, slowmo, contraluz | Ela emerge pela escada da piscina em contraluz dourada, água escorrendo em lençóis de brilho. |\n| 40 | build final | 3s | close detalhe, estático | 'Dive in, dive in': pés agarrando a borda da plataforma de salto, piscina teal desfocada lá embaixo. |\n| 41 | build final | 2.5s | travelling, speedramp | Speedramp correndo pelo deck em direção à borda, luzes virando linhas. |\n| 42 | drop final | 3s | plano geral, slowmo | Drop final: ela salta da plataforma, corpo arqueado em silhueta contra os feixes dourados. |\n| 43 | drop final | 3s | close, whip pan | O splash da entrada explode em coroa d'água sob strobe dourado. |\n| 44 | drop final | 2.5s | plano geral, gimbal | A multidão explode em euforia ao redor da piscina. |\n| 45 | drop final | 3s | orbital | Ela dança na parte rasa da piscina, arcos de spray a cada movimento. |\n| 46 | drop final | 2.5s | close detalhe, slowmo | Paetês e gotas voando juntos pelo strobe, só tecido e spray no quadro. |\n| 47 | drop final | 3s | plano geral, drone subindo | Drone sobe sobre a vila enquanto lasers cortam o céu da festa. |\n| 48 | drop final | 3s | plano médio, gimbal | Ela e amigos dançando colados, braços entrelaçados erguidos, celebração. |\n| 49 | drop final | 2.5s | close, perfil | Close de perfil: cabelo molhado, cabeça inclinada para trás, gotas brilhando na pele como brasas, olhos fechados de êxtase. |\n| 50 | drop final | 3s | close detalhe, estático | A superfície da piscina estrobando em dourado, cada batida pintando fogo na água. |\n| 51 | drop final | 2.5s | plano geral, estático, whiteout | Última explosão: todos pulando enquanto todas as luzes estouram num whiteout dourado. |\n| 52 | outro | 6s | plano geral, dolly-out lento | A festa se aquieta: últimos convidados ao longe, água assentando, luzes virando brasas quentes. |\n| 53 | outro | 5.72s | close, estático, fade | 'Gold on the water': último brilho dourado tremendo sobre a água azul profunda até a escuridão. |\n\n**Prompts (EN):**\n\n1. slow descending aerial drone shot at night over a modern luxury villa with a glowing infinity pool, teal water shimmering with golden light reflections, warm lanterns along the deck, distant city lights, cinematic night party atmosphere, deep blue and gold palette\n2. smooth lateral tracking shot along the wet edge of a luxury pool at night, sparkling unmarked glasses and candle lights in the foreground, blurred guests dancing in the background bokeh, teal pool glow with warm gold highlights, shallow depth of field, cinematic\n3. gimbal shot following a young stylish woman with sleek dark hair in a gold sequined dress from behind as she walks toward the glowing pool edge at night, sweeping stage lights, teal water ahead, sequins catching golden flares, cinematic slow glide\n4. low gimbal shot skimming a wet marble pool deck at night, bare feet with a delicate gold anklet stepping in rhythm, framed so tightly that only the feet and ankles are visible, cut off by the frame edges, water reflections and neon teal light on the wet stone\n5. slow dolly-in on a young woman in a gold sequined dress standing in profile against bright concert backlights at a night pool party, chin raised, eyes closed, hair moving in a light breeze, rim light tracing her silhouette, gold and magenta flares, rising anticipation\n6. extreme close-up of a hand resting on glowing mixer knobs and faders, framed so tightly that only the hand and the equipment surface are visible, colored LED reflections, shallow focus, night club lighting, no readable text\n7. static wide shot of an elegant crowd starting to dance around a glowing pool at a luxury villa night party, sweeping teal and gold light beams, haze in the air, city skyline bokeh behind, energy rising\n8. dynamic gimbal shot of a young stylish woman in a gold sequined dress dancing explosively at a night pool party, golden strobe flashes freezing her movement, hair whipping, joyful energy, teal pool glowing behind her\n9. fast orbital shot circling a woman dancing at the edge of a glowing pool at night, gold sequins flashing, laser beams sweeping, motion blur on the background crowd, high energy club moment\n10. slow motion speed-ramped splash of pool water bursting upward against neon teal and gold backlights at night, droplets frozen like glitter mid-air, dark background, macro cinematic detail\n11. fast tracking shot through an elegant crowd jumping in sync at a villa pool party at night, teal lasers overhead, gold confetti-like light specks, haze, euphoric energy\n12. extreme close-up of gold sequins spinning and catching strobe light, framed so tightly that only the shimmering fabric fills the frame, sparkling bokeh, fast motion blur at the edges\n13. low angle medium shot of a woman with arms raised high against blinding golden stage lights at a night pool party, silhouette rim-lit, light rays bursting around her, triumphant dance pose, lens flare\n14. aerial drone shot at night of a full luxury pool party pulsing with light, glowing teal pool at the center, crowd dancing around it, gold and magenta beams sweeping, city lights beyond\n15. slow dreamy steadicam shot following a young woman in a gold sequined dress gliding through elegant party guests at night, velvet warm light, floating haze, deep bokeh of candles and pool glow, serene confident walk\n16. cinematic low close-up of bare feet standing on a white marble pool edge at night, framed so tightly that only the feet and ankles are visible, cut off by the frame, golden water reflections dancing on the skin and stone, tiny waves lapping\n17. static wide night shot from a villa terrace, distant city skyline dissolving into soft bokeh lights, glowing pool in the foreground reflecting gold, lone palm silhouettes, tranquil luxurious mood\n18. lateral dolly shot of a young woman in a gold sequined dress sitting on the pool edge at night with her legs in the glowing water, golden ripples spreading from the movement, relaxed regal posture, soft teal underwater light\n19. macro close-up of an unmarked crystal glass with a sparkling drink catching teal and gold party lights at night, condensation drops, blurred pool glow behind, elegant shallow depth of field, no labels, no text\n20. slow dolly-in on a young woman in a gold sequined dress rising to stand at the pool edge as ambient lights dim around her, focused expression, shoulders lifting with a deep breath, single warm spotlight remaining, tension building\n21. slow tracking wide shot of a party crowd going still with arms slowly rising in anticipation, lights dimming to deep blue, faint haze, glowing pool as the only bright element, held-breath tension\n22. tight close-up framed from the eyes upward, framed so tightly that only the closed eyes, lashes and brow are visible, eyes squeezed shut in concentration, teal and gold party light flickering across the skin, shallow focus\n23. macro shot of a pool water surface vibrating in concentric rings with deep bass pulses at night, teal glow from below, gold reflections trembling on top, hypnotic rhythm\n24. a stage spotlight igniting directly into the lens at night, blooming golden whiteout flare consuming the frame, haze rays, abstract burst of light\n25. whip pan onto a young woman in a gold sequined dress bursting into dance as the beat drops at a night pool party, gold strobes, water splashing at her feet, explosive joyful energy, motion blur streaks\n26. orbital shot circling a group of stylish dancers moving in sync along the glowing pool edge at night, teal lasers sweeping, gold flares, reflections doubling every movement in the water\n27. speed-ramped slow motion of dark glossy hair whipping through golden backlight at night, framed so tightly that only the whipping hair fills the frame, sparkling water droplets flying from the strands, dark background, cinematic high-speed capture\n28. wide shot of illuminated fountain jets erupting around a night pool in magenta and teal light, mist drifting, dancing silhouettes behind the water curtains, festival scale energy\n29. dolly-in on a DJ seen from behind at a glowing booth facing an LED wall of abstract golden waves, arms working the decks, crowd bouncing beyond, night pool party, no readable text on screens\n30. high-speed tracking shot weaving through dancing guests at a luxury night pool party, gold and magenta strobes, splashes of pool water catching light, kinetic joyful chaos, motion blur\n31. low angle shot of dozens of raised hands silhouetted against sweeping teal lasers and golden haze at a night party, fingers spread, beams cutting between them, euphoric energy\n32. profile medium shot of a woman dancing right at the pool edge at night, her mirrored reflection dancing upside down in the lit water below, symmetrical composition, gold rim light, teal glow\n33. aerial orbital drone shot circling a modern luxury villa at night, pool blazing teal at its heart, party lights strobing gold and magenta, beams sweeping the sky, city glittering to the horizon\n34. ultra slow motion macro of water droplets suspended mid-air over a night pool, each drop glowing with refracted neon gold and teal, dark background, jewel-like sparkle\n35. wide climax shot of a whole pool party jumping in unison as golden strobes flash, water splashing everywhere, lasers crossing overhead, confetti-like sparkles in the air, peak euphoric energy at night\n36. underwater slow motion shot of a woman floating serenely in a gold sequined dress, fabric billowing weightless, golden light rays filtering down through turquoise water, bubbles drifting up, dreamlike silence\n37. overhead top-down drone shot of a woman floating star-shaped on a calm glowing pool surface at night, concentric ripples spreading in teal and gold, tiny lights around the deck, meditative stillness\n38. underwater low angle shot looking up at a floating silhouette against a shimmering pool surface lit gold from above, bubbles rising past the lens, deep teal depths below, quiet suspended moment\n39. slow motion shot of a woman emerging up pool steps at night, backlit by intense golden light, water streaming off her sequined dress in sparkling sheets, silhouette with glowing rim light, powerful return of energy\n40. tight close-up of bare feet gripping the edge of a diving platform at night, framed so tightly that only the feet and the board edge are visible, cut off by the frame, glowing teal pool blurred far below, toes tensing to jump\n41. speed-ramped tracking shot racing along a pool deck toward the diving edge at night, lights streaking into lines, gold flares, accelerating rush of anticipation\n42. slow motion wide shot of a woman leaping off a diving platform into a glowing night pool, sequined dress trailing sparks of light, body arched in silhouette against golden beams, cheering crowd below\n43. whip pan into a massive splash erupting from a pool in golden strobe light at night, water crown exploding upward, droplets flashing like fireworks, high energy\n44. wide gimbal shot of a crowd erupting in euphoria around a pool at night, arms up, gold and magenta strobes, splashes raining, lasers sweeping, peak party climax\n45. orbital shot circling a woman dancing in the glowing shallow end of a pool at night, water spraying in arcs with every move, sequins and droplets flashing together, joyful abandon\n46. macro slow motion of gold sequins and water droplets flying together through strobe light, framed so tightly that only fabric and spray fill the frame, glittering chaos, dark background\n47. night drone shot pulling up over a villa as lasers cut the sky above a glowing pool party, beams of teal and gold raking through haze, city lights sprawling beyond, epic scale\n48. gimbal medium shot of a group of friends dancing tightly together by a pool at night, arms interlocked and raised, joyful energy, gold strobes and splashes, warm celebratory chaos\n49. close-up profile of a woman with wet glossy hair against intense golden backlight at night, head tilted back, eyes closed in bliss, water droplets on her skin sparkling like tiny embers, teal glow filling the background\n50. close shot of a pool surface strobing with golden flashes at night, every beat painting fire-like ripples across the teal water, hypnotic rhythm of light\n51. final wide burst of an entire pool party jumping as every light flashes into a golden whiteout, silhouettes swallowed by bloom, splashes frozen in the flare, climax of the night\n52. slow dolly-out from a now-quiet pool at night, last guests as distant silhouettes, water settling, golden ripples softening, lights dimming to warm embers, peaceful afterglow\n53. static close shot of a calm pool surface at night, a last shimmer of gold trembling over deep blue water, gentle ripples fading to stillness, slow fade to black\n\n## Publicação (YouTube)\n\n- **Título:** Gold on the Water\n- **Tags:** tech house / deep house vocal, energico, sofisticado, noturno, hipnotico, sub bass, four-on-the-floor kick, hi-hats\n\n**Descrição:**\n\nTem uma festa acontecendo à beira da piscina de uma vila moderna, madrugada adentro — e esta música é o som de quem se sente dona dessa noite. A letra, cantada em inglês, gira em torno de uma imagem só: o dourado das luzes derramado na água, e o convite para mergulhar sem medo no lado fundo.\n\nO som é um tech house de 126 batidas por minuto: grave profundo rolando embaixo, bumbo em quatro no chão, chimbais crocantes e um hook feminino processado em primeiro plano, que vai do quase falado nos versos à melodia aberta nos drops. São dois builds, três drops e uma ponte que suspende tudo para flutuar antes do salto final.\n\nNo clipe, uma mulher de vestido de paetês dourados atravessa essa festa: chega à beira da piscina, explode dançando no primeiro drop, flutua de olhos fechados na ponte — filmada por baixo d'água e de cima, em silêncio dourado — e mergulha de vez quando a música manda. Entre um drop e outro, a câmera orbita, corre com a multidão e congela splashes no ar, sempre no dourado sobre teal que atravessa a peça inteira.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
+   "prompts": {
+    "estilo": "Upbeat modern tech house, 126 BPM, A minor. Deep rolling sub bassline, punchy four-on-the-floor kick, crisp shuffling hi-hats, hypnotic processed female vocal hook up front, bright synth plucks, tension riser building into an explosive clean club drop with a downshifter release. Sophisticated night pool party energy, vibrant VIP atmosphere, mastered loud and clean with the vocal in the foreground. No acoustic instruments, no slow tempo, no lo-fi, no distorted rock, no chaotic noise, no cheesy brass.",
+    "imagem": "album cover, centered dramatic portrait of a young stylish woman with sleek wet dark hair submerged to her shoulders in a glowing pool at night, looking directly into the lens with calm confident ownership, golden light spilled across the dark teal water surface around her, soft gold reflections dancing on her face from below, deep blurred night background with bokeh villa lights, shallow depth of field, space for bold title at the bottom, cinematic, 1:1",
+    "negativo": "text, watermark, logo, extra limbs, distorted face, daylight",
+    "conceito": "Olhar escolhido: DIRETO NA LENTE — a capa anterior do acervo (MVD#157) era de costas, esta inverte. Ela está DENTRO da piscina à noite, submersa até os ombros, no centro do quadro, encarando a câmera com a calma de quem é dona da noite. A água ao redor carrega o dourado derramado das luzes da vila — o 'gold on the water' literal —, com reflexo dourado subindo da água para o rosto e fundo teal profundo desfocado. Base do quadro limpa para o título.",
+    "tagline": "o fundo da noite é nosso",
+    "shots": [
+     {
+      "n": 1,
+      "secao": "intro",
+      "camera": "plano geral, drone descendo lento",
+      "prompt": "slow descending aerial drone shot at night over a modern luxury villa with a glowing infinity pool, teal water shimmering with golden light reflections, warm lanterns along the deck, distant city lights, cinematic night party atmosphere, deep blue and gold palette",
+      "alt": "slow descending aerial view of a modern villa courtyard at night, glowing turquoise pool surface with golden shimmering reflections, warm garden lights, empty deck, cinematic night mood, no people"
+     },
+     {
+      "n": 2,
+      "secao": "intro",
+      "camera": "travelling lateral, meia altura",
+      "prompt": "smooth lateral tracking shot along the wet edge of a luxury pool at night, sparkling unmarked glasses and candle lights in the foreground, blurred guests dancing in the background bokeh, teal pool glow with warm gold highlights, shallow depth of field, cinematic",
+      "alt": "smooth lateral tracking shot along a wet marble pool edge at night, unmarked sparkling glassware and small warm lights in the foreground, soft blurred colorful bokeh behind, teal and gold reflections, shallow depth of field, no people in focus"
+     },
+     {
+      "n": 3,
+      "secao": "intro",
+      "camera": "plano médio, gimbal por trás",
+      "prompt": "gimbal shot following a young stylish woman with sleek dark hair in a gold sequined dress from behind as she walks toward the glowing pool edge at night, sweeping stage lights, teal water ahead, sequins catching golden flares, cinematic slow glide",
+      "alt": "gimbal shot gliding toward a glowing pool edge at night behind a slender silhouette in a shimmering dress, figure seen only from behind in soft focus, sweeping colored stage lights, teal water ahead, golden sparkle reflections"
+     },
+     {
+      "n": 4,
+      "secao": "build-up 1",
+      "camera": "close detalhe, gimbal baixo",
+      "prompt": "low gimbal shot skimming a wet marble pool deck at night, bare feet with a delicate gold anklet stepping in rhythm, framed so tightly that only the feet and ankles are visible, cut off by the frame edges, water reflections and neon teal light on the wet stone",
+      "alt": "low gliding shot over a wet marble pool deck at night, rippling puddle reflections of teal and gold party lights on the stone, small splashes in rhythm, macro cinematic texture, no people"
+     },
+     {
+      "n": 5,
+      "secao": "build-up 1",
+      "camera": "plano médio, dolly-in",
+      "prompt": "slow dolly-in on a young woman in a gold sequined dress standing in profile against bright concert backlights at a night pool party, chin raised, eyes closed, hair moving in a light breeze, rim light tracing her silhouette, gold and magenta flares, rising anticipation",
+      "alt": "slow dolly-in toward a backlit silhouette standing in profile at a night pool party, bright warm spotlights flaring behind, gold and magenta lens flares, glittering dress edge catching light, no facial detail, rising anticipation"
+     },
+     {
+      "n": 6,
+      "secao": "build-up 1",
+      "camera": "close detalhe, estático",
+      "prompt": "extreme close-up of a hand resting on glowing mixer knobs and faders, framed so tightly that only the hand and the equipment surface are visible, colored LED reflections, shallow focus, night club lighting, no readable text",
+      "alt": "extreme close-up of glowing mixer knobs and faders pulsing with colored LED light, shallow focus macro, teal and magenta reflections on brushed metal, no people, no readable text"
+     },
+     {
+      "n": 7,
+      "secao": "build-up 1",
+      "camera": "plano geral, estático",
+      "prompt": "static wide shot of an elegant crowd starting to dance around a glowing pool at a luxury villa night party, sweeping teal and gold light beams, haze in the air, city skyline bokeh behind, energy rising",
+      "alt": "static wide shot of a villa pool courtyard at night filled with dancing silhouettes seen from afar, sweeping teal and gold light beams through haze, glowing water, no recognizable faces"
+     },
+     {
+      "n": 8,
+      "secao": "drop 1",
+      "camera": "plano médio, gimbal",
+      "prompt": "dynamic gimbal shot of a young stylish woman in a gold sequined dress dancing explosively at a night pool party, golden strobe flashes freezing her movement, hair whipping, joyful energy, teal pool glowing behind her",
+      "alt": "dynamic gimbal shot of a sparkling sequined dress in fast motion under golden strobe flashes at night, fabric and light trails blurring, teal pool glow in the background, no facial detail, pure motion energy"
+     },
+     {
+      "n": 9,
+      "secao": "drop 1",
+      "camera": "orbital rápido",
+      "prompt": "fast orbital shot circling a woman dancing at the edge of a glowing pool at night, gold sequins flashing, laser beams sweeping, motion blur on the background crowd, high energy club moment",
+      "alt": "fast orbital shot circling a glittering silhouette dancing by a glowing pool at night, teal lasers sweeping through haze, background lights streaking with motion blur, no facial detail"
+     },
+     {
+      "n": 10,
+      "secao": "drop 1",
+      "camera": "close detalhe, slowmo com speedramp",
+      "prompt": "slow motion speed-ramped splash of pool water bursting upward against neon teal and gold backlights at night, droplets frozen like glitter mid-air, dark background, macro cinematic detail",
+      "alt": "slow motion splash of water bursting upward against neon teal and gold backlight at night, suspended sparkling droplets, dark background, macro cinematic, no people"
+     },
+     {
+      "n": 11,
+      "secao": "drop 1",
+      "camera": "plano geral, travelling rápido",
+      "prompt": "fast tracking shot through an elegant crowd jumping in sync at a villa pool party at night, teal lasers overhead, gold confetti-like light specks, haze, euphoric energy",
+      "alt": "fast tracking shot through jumping silhouettes at a night pool party against bright backlight, teal lasers overhead, sparkling light specks in haze, no recognizable faces"
+     },
+     {
+      "n": 12,
+      "secao": "drop 1",
+      "camera": "close detalhe, gimbal",
+      "prompt": "extreme close-up of gold sequins spinning and catching strobe light, framed so tightly that only the shimmering fabric fills the frame, sparkling bokeh, fast motion blur at the edges",
+      "alt": "extreme close-up of shimmering gold sequin fabric spinning under strobe light, sparkling bokeh, abstract motion blur, no person visible"
+     },
+     {
+      "n": 13,
+      "secao": "drop 1",
+      "camera": "plano médio, contra-plongê",
+      "prompt": "low angle medium shot of a woman with arms raised high against blinding golden stage lights at a night pool party, silhouette rim-lit, light rays bursting around her, triumphant dance pose, lens flare",
+      "alt": "low angle shot of raised arms silhouetted against blinding golden stage lights, light rays bursting through haze, anonymous backlit figure, lens flare, triumphant energy"
+     },
+     {
+      "n": 14,
+      "secao": "drop 1",
+      "camera": "plano geral, drone",
+      "prompt": "aerial drone shot at night of a full luxury pool party pulsing with light, glowing teal pool at the center, crowd dancing around it, gold and magenta beams sweeping, city lights beyond",
+      "alt": "aerial night view of a glowing teal pool surrounded by tiny dancing silhouettes, gold and magenta light beams sweeping across, city lights in the distance, no recognizable faces"
+     },
+     {
+      "n": 15,
+      "secao": "verso 2",
+      "camera": "steadicam lento",
+      "prompt": "slow dreamy steadicam shot following a young woman in a gold sequined dress gliding through elegant party guests at night, velvet warm light, floating haze, deep bokeh of candles and pool glow, serene confident walk",
+      "alt": "slow dreamy steadicam drift through warm candle bokeh and haze at an elegant night party, blurred figures passing on both sides, gold and teal glow, no faces in focus, velvet atmosphere"
+     },
+     {
+      "n": 16,
+      "secao": "verso 2",
+      "camera": "close detalhe, dolly baixo",
+      "prompt": "cinematic low close-up of bare feet standing on a white marble pool edge at night, framed so tightly that only the feet and ankles are visible, cut off by the frame, golden water reflections dancing on the skin and stone, tiny waves lapping",
+      "alt": "cinematic low close-up of golden water reflections rippling over a white marble pool edge at night, tiny waves lapping the stone, teal glow beneath, macro texture, no people"
+     },
+     {
+      "n": 17,
+      "secao": "verso 2",
+      "camera": "plano geral, estático",
+      "prompt": "static wide night shot from a villa terrace, distant city skyline dissolving into soft bokeh lights, glowing pool in the foreground reflecting gold, lone palm silhouettes, tranquil luxurious mood",
+      "alt": "static wide night view of a distant city skyline melted into soft bokeh, glowing golden pool reflections in the foreground, palm silhouettes, tranquil mood, no people"
+     },
+     {
+      "n": 18,
+      "secao": "verso 2",
+      "camera": "plano médio, dolly lateral",
+      "prompt": "lateral dolly shot of a young woman in a gold sequined dress sitting on the pool edge at night with her legs in the glowing water, golden ripples spreading from the movement, relaxed regal posture, soft teal underwater light",
+      "alt": "lateral dolly shot along a glowing pool edge at night, golden ripples spreading across teal water from the edge, a shimmering fabric hem catching light at the corner of the frame, calm luxurious mood, no facial detail"
+     },
+     {
+      "n": 19,
+      "secao": "verso 2",
+      "camera": "close detalhe, estático",
+      "prompt": "macro close-up of an unmarked crystal glass with a sparkling drink catching teal and gold party lights at night, condensation drops, blurred pool glow behind, elegant shallow depth of field, no labels, no text",
+      "alt": "macro close-up of light refracting through unmarked crystal glassware at night, teal and gold sparkles, condensation drops, blurred glow behind, no labels, no text, no people"
+     },
+     {
+      "n": 20,
+      "secao": "build-up 2",
+      "camera": "plano médio, dolly-in",
+      "prompt": "slow dolly-in on a young woman in a gold sequined dress rising to stand at the pool edge as ambient lights dim around her, focused expression, shoulders lifting with a deep breath, single warm spotlight remaining, tension building",
+      "alt": "slow dolly-in toward a lone backlit silhouette standing at a dim pool edge at night as surrounding lights fade, one warm spotlight glow remaining, still water below, quiet rising tension"
+     },
+     {
+      "n": 21,
+      "secao": "build-up 2",
+      "camera": "plano geral, travelling lento",
+      "prompt": "slow tracking wide shot of a party crowd going still with arms slowly rising in anticipation, lights dimming to deep blue, faint haze, glowing pool as the only bright element, held-breath tension",
+      "alt": "slow tracking wide shot of raised-arm silhouettes frozen in anticipation against deep blue dimming light, glowing pool as the only bright element, haze, no recognizable faces"
+     },
+     {
+      "n": 22,
+      "secao": "build-up 2",
+      "camera": "close, estático, dos olhos para cima",
+      "prompt": "tight close-up framed from the eyes upward, framed so tightly that only the closed eyes, lashes and brow are visible, eyes squeezed shut in concentration, teal and gold party light flickering across the skin, shallow focus",
+      "alt": "tight close-up of teal and gold light flickering across a dark rippling water surface at night, abstract shallow-focus shimmer, rising tension, no people"
+     },
+     {
+      "n": 23,
+      "secao": "build-up 2",
+      "camera": "close detalhe, estático",
+      "prompt": "macro shot of a pool water surface vibrating in concentric rings with deep bass pulses at night, teal glow from below, gold reflections trembling on top, hypnotic rhythm",
+      "alt": "macro shot of concentric ripples pulsing across a glowing teal water surface at night, trembling gold reflections, hypnotic rhythm, no people"
+     },
+     {
+      "n": 24,
+      "secao": "build-up 2",
+      "camera": "close, estático, whiteout",
+      "prompt": "a stage spotlight igniting directly into the lens at night, blooming golden whiteout flare consuming the frame, haze rays, abstract burst of light",
+      "alt": "a warm light source blooming into a golden whiteout flare that consumes the dark frame, haze rays, abstract burst of light, no people"
+     },
+     {
+      "n": 25,
+      "secao": "drop 2",
+      "camera": "plano médio, whip pan",
+      "prompt": "whip pan onto a young woman in a gold sequined dress bursting into dance as the beat drops at a night pool party, gold strobes, water splashing at her feet, explosive joyful energy, motion blur streaks",
+      "alt": "whip pan onto a sparkling dress silhouette bursting into motion under gold strobes at night, splashes and light streaks blurring the frame, explosive energy, no facial detail"
+     },
+     {
+      "n": 26,
+      "secao": "drop 2",
+      "camera": "orbital, gimbal",
+      "prompt": "orbital shot circling a group of stylish dancers moving in sync along the glowing pool edge at night, teal lasers sweeping, gold flares, reflections doubling every movement in the water",
+      "alt": "orbital shot circling synchronized dancing silhouettes along a glowing pool edge at night, teal lasers and gold flares, mirrored reflections in the water, no recognizable faces"
+     },
+     {
+      "n": 27,
+      "secao": "drop 2",
+      "camera": "close, slowmo com speedramp",
+      "prompt": "speed-ramped slow motion of dark glossy hair whipping through golden backlight at night, framed so tightly that only the whipping hair fills the frame, sparkling water droplets flying from the strands, dark background, cinematic high-speed capture",
+      "alt": "speed-ramped slow motion of golden sparkling droplets arcing through dark air against backlight, glitter-like trails, dark background, abstract high-speed capture, no people"
+     },
+     {
+      "n": 28,
+      "secao": "drop 2",
+      "camera": "plano geral, estático",
+      "prompt": "wide shot of illuminated fountain jets erupting around a night pool in magenta and teal light, mist drifting, dancing silhouettes behind the water curtains, festival scale energy",
+      "alt": "wide shot of illuminated fountain jets erupting in magenta and teal light over a night pool, drifting mist, distant abstract silhouettes behind water curtains, no faces"
+     },
+     {
+      "n": 29,
+      "secao": "drop 2",
+      "camera": "plano médio, dolly-in",
+      "prompt": "dolly-in on a DJ seen from behind at a glowing booth facing an LED wall of abstract golden waves, arms working the decks, crowd bouncing beyond, night pool party, no readable text on screens",
+      "alt": "dolly-in toward a glowing DJ booth silhouette seen from behind, LED wall of abstract golden waves ahead, bouncing crowd silhouettes beyond, night party, no readable text"
+     },
+     {
+      "n": 30,
+      "secao": "drop 2",
+      "camera": "travelling rápido",
+      "prompt": "high-speed tracking shot weaving through dancing guests at a luxury night pool party, gold and magenta strobes, splashes of pool water catching light, kinetic joyful chaos, motion blur",
+      "alt": "high-speed tracking shot weaving between dancing silhouettes under gold and magenta strobes at night, light streaks and glowing splashes, kinetic motion blur, no recognizable faces"
+     },
+     {
+      "n": 31,
+      "secao": "drop 2",
+      "camera": "contra-plongê, estático",
+      "prompt": "low angle shot of dozens of raised hands silhouetted against sweeping teal lasers and golden haze at a night party, fingers spread, beams cutting between them, euphoric energy",
+      "alt": "low angle shot of raised hands silhouetted against sweeping teal lasers and golden haze at night, beams cutting between spread fingers, anonymous euphoric energy, no faces"
+     },
+     {
+      "n": 32,
+      "secao": "drop 2",
+      "camera": "plano médio, perfil, estático",
+      "prompt": "profile medium shot of a woman dancing right at the pool edge at night, her mirrored reflection dancing upside down in the lit water below, symmetrical composition, gold rim light, teal glow",
+      "alt": "profile silhouette dancing at a glowing pool edge at night with a mirrored upside-down reflection in the water, symmetrical composition, gold rim light and teal glow, no facial detail"
+     },
+     {
+      "n": 33,
+      "secao": "drop 2",
+      "camera": "drone orbital",
+      "prompt": "aerial orbital drone shot circling a modern luxury villa at night, pool blazing teal at its heart, party lights strobing gold and magenta, beams sweeping the sky, city glittering to the horizon",
+      "alt": "aerial orbital view circling a modern villa at night, glowing teal pool at the center, gold and magenta light beams sweeping the sky, distant city glitter, tiny anonymous silhouettes below"
+     },
+     {
+      "n": 34,
+      "secao": "drop 2",
+      "camera": "close detalhe, slowmo",
+      "prompt": "ultra slow motion macro of water droplets suspended mid-air over a night pool, each drop glowing with refracted neon gold and teal, dark background, jewel-like sparkle",
+      "alt": "ultra slow motion macro of suspended water droplets glowing with refracted gold and teal light against darkness, jewel-like sparkle, no people"
+     },
+     {
+      "n": 35,
+      "secao": "drop 2",
+      "camera": "plano geral, estático, clímax",
+      "prompt": "wide climax shot of a whole pool party jumping in unison as golden strobes flash, water splashing everywhere, lasers crossing overhead, confetti-like sparkles in the air, peak euphoric energy at night",
+      "alt": "wide climax shot of jumping silhouettes around a glowing pool under rapid golden strobe flashes, splashes and sparkles filling the air, lasers overhead, peak energy, no recognizable faces"
+     },
+     {
+      "n": 36,
+      "secao": "ponte",
+      "camera": "subaquático, câmera lenta",
+      "prompt": "underwater slow motion shot of a woman floating serenely in a gold sequined dress, fabric billowing weightless, golden light rays filtering down through turquoise water, bubbles drifting up, dreamlike silence",
+      "alt": "underwater slow motion of golden light rays filtering down through turquoise water, a billowing shimmering fabric drifting weightless, rising bubbles, dreamlike calm, no visible face"
+     },
+     {
+      "n": 37,
+      "secao": "ponte",
+      "camera": "plano zenital, drone",
+      "prompt": "overhead top-down drone shot of a woman floating star-shaped on a calm glowing pool surface at night, concentric ripples spreading in teal and gold, tiny lights around the deck, meditative stillness",
+      "alt": "overhead top-down view of concentric golden ripples spreading across a calm glowing teal pool at night, a small star-shaped silhouette adrift at the center, deck lights around, meditative stillness, no facial detail"
+     },
+     {
+      "n": 38,
+      "secao": "ponte",
+      "camera": "subaquático, contra-plongê",
+      "prompt": "underwater low angle shot looking up at a floating silhouette against a shimmering pool surface lit gold from above, bubbles rising past the lens, deep teal depths below, quiet suspended moment",
+      "alt": "underwater low angle view of a shimmering pool surface lit gold from above, a dark soft silhouette adrift against the light, bubbles rising past the lens, deep teal depths, quiet suspension"
+     },
+     {
+      "n": 39,
+      "secao": "build final",
+      "camera": "plano médio, slowmo, contraluz",
+      "prompt": "slow motion shot of a woman emerging up pool steps at night, backlit by intense golden light, water streaming off her sequined dress in sparkling sheets, silhouette with glowing rim light, powerful return of energy",
+      "alt": "slow motion of sparkling water sheets streaming down against intense golden backlight at a night pool, a glittering silhouette outline emerging in the flare, no facial detail, rising energy"
+     },
+     {
+      "n": 40,
+      "secao": "build final",
+      "camera": "close detalhe, estático",
+      "prompt": "tight close-up of bare feet gripping the edge of a diving platform at night, framed so tightly that only the feet and the board edge are visible, cut off by the frame, glowing teal pool blurred far below, toes tensing to jump",
+      "alt": "tight close-up of a diving board edge at night with a glowing teal pool blurred far below, droplets falling from the board, tension of an imminent jump, no people"
+     },
+     {
+      "n": 41,
+      "secao": "build final",
+      "camera": "travelling, speedramp",
+      "prompt": "speed-ramped tracking shot racing along a pool deck toward the diving edge at night, lights streaking into lines, gold flares, accelerating rush of anticipation",
+      "alt": "speed-ramped tracking shot racing low over a wet pool deck at night, gold and teal lights streaking into lines, accelerating rush, no people"
+     },
+     {
+      "n": 42,
+      "secao": "drop final",
+      "camera": "plano geral, slowmo",
+      "prompt": "slow motion wide shot of a woman leaping off a diving platform into a glowing night pool, sequined dress trailing sparks of light, body arched in silhouette against golden beams, cheering crowd below",
+      "alt": "slow motion wide shot of an arched silhouette suspended mid-air above a glowing teal pool at night, golden beams behind, a sparkling trail of light, no facial detail"
+     },
+     {
+      "n": 43,
+      "secao": "drop final",
+      "camera": "close, whip pan",
+      "prompt": "whip pan into a massive splash erupting from a pool in golden strobe light at night, water crown exploding upward, droplets flashing like fireworks, high energy",
+      "alt": "whip pan into a massive water crown erupting in golden strobe light at night, droplets flashing like fireworks against darkness, high energy, no people"
+     },
+     {
+      "n": 44,
+      "secao": "drop final",
+      "camera": "plano geral, gimbal",
+      "prompt": "wide gimbal shot of a crowd erupting in euphoria around a pool at night, arms up, gold and magenta strobes, splashes raining, lasers sweeping, peak party climax",
+      "alt": "wide shot of euphoric silhouettes with arms raised around a glowing pool under gold and magenta strobes at night, splashes and sweeping lasers, no recognizable faces"
+     },
+     {
+      "n": 45,
+      "secao": "drop final",
+      "camera": "orbital",
+      "prompt": "orbital shot circling a woman dancing in the glowing shallow end of a pool at night, water spraying in arcs with every move, sequins and droplets flashing together, joyful abandon",
+      "alt": "orbital shot circling a glittering silhouette dancing in glowing shallow water at night, arcs of spray catching gold light, teal water radiating, no facial detail"
+     },
+     {
+      "n": 46,
+      "secao": "drop final",
+      "camera": "close detalhe, slowmo",
+      "prompt": "macro slow motion of gold sequins and water droplets flying together through strobe light, framed so tightly that only fabric and spray fill the frame, glittering chaos, dark background",
+      "alt": "macro slow motion of golden sparkles and water droplets flying together through strobe light against a dark background, glittering abstract chaos, no person visible"
+     },
+     {
+      "n": 47,
+      "secao": "drop final",
+      "camera": "plano geral, drone subindo",
+      "prompt": "night drone shot pulling up over a villa as lasers cut the sky above a glowing pool party, beams of teal and gold raking through haze, city lights sprawling beyond, epic scale",
+      "alt": "night aerial view pulling up over a villa as teal and gold beams rake the hazy sky above a glowing pool, sprawling city lights beyond, tiny anonymous silhouettes below"
+     },
+     {
+      "n": 48,
+      "secao": "drop final",
+      "camera": "plano médio, gimbal",
+      "prompt": "gimbal medium shot of a group of friends dancing tightly together by a pool at night, arms interlocked and raised, joyful energy, gold strobes and splashes, warm celebratory chaos",
+      "alt": "gimbal shot of a tight cluster of dancing silhouettes with interlocked raised arms by a glowing pool at night, gold strobes and splashes, celebratory energy, no recognizable faces"
+     },
+     {
+      "n": 49,
+      "secao": "drop final",
+      "camera": "close, perfil",
+      "prompt": "close-up profile of a woman with wet glossy hair against intense golden backlight at night, head tilted back, eyes closed in bliss, water droplets on her skin sparkling like tiny embers, teal glow filling the background",
+      "alt": "close-up of backlit water droplets sparkling like embers on a dark glossy surface against golden light at night, teal glow background, intimate glowing texture, no people"
+     },
+     {
+      "n": 50,
+      "secao": "drop final",
+      "camera": "close detalhe, estático",
+      "prompt": "close shot of a pool surface strobing with golden flashes at night, every beat painting fire-like ripples across the teal water, hypnotic rhythm of light",
+      "alt": "close shot of golden light flashes strobing across rippling teal water at night, fire-like reflections pulsing in rhythm, hypnotic abstract texture, no people"
+     },
+     {
+      "n": 51,
+      "secao": "drop final",
+      "camera": "plano geral, estático, whiteout",
+      "prompt": "final wide burst of an entire pool party jumping as every light flashes into a golden whiteout, silhouettes swallowed by bloom, splashes frozen in the flare, climax of the night",
+      "alt": "wide shot of a night pool scene flashing into a golden whiteout bloom, silhouettes dissolving into pure light, splashes frozen in the flare, no recognizable faces"
+     },
+     {
+      "n": 52,
+      "secao": "outro",
+      "camera": "plano geral, dolly-out lento",
+      "prompt": "slow dolly-out from a now-quiet pool at night, last guests as distant silhouettes, water settling, golden ripples softening, lights dimming to warm embers, peaceful afterglow",
+      "alt": "slow dolly-out from a quiet glowing pool at night, water settling into soft golden ripples, dimming warm lights, empty deck, peaceful afterglow, no people nearby"
+     },
+     {
+      "n": 53,
+      "secao": "outro",
+      "camera": "close, estático, fade",
+      "prompt": "static close shot of a calm pool surface at night, a last shimmer of gold trembling over deep blue water, gentle ripples fading to stillness, slow fade to black",
+      "alt": "static close shot of a last golden shimmer trembling over deep blue calm water at night, gentle ripples fading to stillness, slow fade to darkness, no people"
+     }
+    ]
+   },
+   "nuvem": "subindo",
+   "likes": 0,
+   "docs": []
+  },
+  {
+   "fonte": "musicavideo",
    "slug": "faixa-pronta-mvd-132-1",
    "mvd": "MVD#158",
    "titulo": "Segunda Chance",
@@ -57,7 +509,7 @@
     }
    ],
    "versoes": [],
-   "bytes": 10443789,
+   "bytes": 11267070,
    "doc": "# Segunda Chance\n\n\n\n**slug:** `faixa-pronta-mvd-132-1`  ·  **criado:** 2026-09-01T06:03:01-03:00\n\n**solicitação:** --faixa-pronta MVD#132:1\n\n**estilo de referência:** None  ·  **pesquisa:** não\n\n\n\n## Música — `kie:suno-v4.5`\n\n- **Gênero:** sertanejo romântico / agronejo pop / sofrência stadium live  ·  **BPM:** 127  ·  **Tom:** Mi maior\n- **Mood:** emotivo, maduro, digno, crescente, catártico de arena\n- **Instrumentação:** piano acústico emocional, violão de aço, baixo elétrico melódico, bateria ao vivo grande e profunda, sanfona expressiva, guitarra elétrica ambiente, pads cinematográficos discretos, backing vocals femininos, coro de público de estádio\n- **Voz:** \"feminina brasileira, quente, poderosa, levemente rouca e muito expressiva; versos íntimos quase conversados, refrão aberto em voz de peito, último refrão catártico com quebras emocionais controladas\"\n- **Params:** `{\"duracao_s\": 204, \"instrumental\": false}`\n\n**Prompt de estilo (EN, vai pro Suno):**\n\n> Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR\n\n**Estrutura:** intro (6s) · verso 1 (28s) · pré-refrão 1 (13s) · refrão 1 (29s) · verso 2 (30s) · pré-refrão 2 (15s) · refrão 2 (30s) · ponte (19s) · refrão final (29s) · final (5s)\n\n**Letra** (origem: `gerada`, pt-BR):\n\n```\n[Intro]\nSegunda chance não tem terceira vez\n\n[Verso 1]\nEu vi a mensagem e fingi que não vi\nVocê jurou de novo, eu quis acreditar\nGuardei o meu orgulho, abri a porta de casa\nAchei que amor bastava pra te segurar\n\n[Pré-refrão]\nMas o mesmo perfume voltou na tua roupa\nA mesma desculpa, o mesmo olhar no chão\nEu já sei de cor o fim dessa história\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Verso 2]\nNão vou fingir que não dói te deixar\nDói mais ficar e me ver diminuir\nEu não te odeio, eu só aprendi\nQue quem esquece a queda torna a cair\n\n[Pré-refrão]\nO mesmo perfume, a mesma desculpa\nO mesmo \"eu mudo\" que nunca mudou\nDessa vez a porta fecha por dentro\n\n[Refrão]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Ponte]\nNão me peça pra esquecer\nÉ a lembrança que me impede de voltar\nEu perdoo você\nMas não me perdoo se eu ficar\n\n[Refrão final]\nTe dei a volta, te dei a fé\nVocê fez tudo outra vez\nEu ainda te amo, e é por isso que eu sei\nSegunda chance não tem terceira vez\n\n[Final]\nSegunda chance não tem terceira vez\n```\n\n## Capa — `agnes:agnes-image-2.1-flash`\n\n- **Template:** retrato-centralizado  ·  **Paleta:** #0b0d1b, #d4af37, #ffb703, #2b7fff, #f5f0e6\n- **Params:** `{\"tamanho\": \"1024x1024\"}`\n\n**Conceito:** Olhar escolhido: PERFIL, olhos para fora do quadro — a capa anterior do acervo (MVD#159) era olhar direto na lente e a anterior a ela (MVD#157) era de costas; esta usa a terceira pose. Ela está no corredor escuro que leva ao palco, vista de perfil no centro do quadro, queixo firme, olhando para o clarão dourado da arena fora do quadro à direita: a decisão já foi tomada e ela caminha para a própria vida, não para ele. Elegância madura, lágrima seca, dignidade sem vitimismo. Azul-noite frio no corredor, ouro quente vindo do palco, faixa inferior limpa para o título composto por código.\n\n**Prompt (EN):**\n\n> square 1:1 cinematic photograph, centered dramatic profile portrait of an elegant Brazilian woman in her late twenties with long dark wavy hair, wearing a shimmering midnight-blue stage dress, standing in a dark backstage corridor, her face in calm dignified profile gazing toward a warm golden blaze of stadium light pouring in from off-frame right, cool blue haze behind her, rim of gold light tracing her jaw and hair, shallow depth of field, midnight blue and warm gold palette, clean empty darker space across the bottom for a bold title, photorealistic, sophisticated, emotional\n\n**Negativo:** text, letters, typography, words, lyrics, watermark, logo, microphone in front of face, open mouth, extra limbs, deformed hands, cartoon, illustration\n\n## Clipe — `agnes:agnes-video-v2.0`\n\n- **Template:** performance  ·  **Sincronia:** 48 shots em 204s ≈ 14,1 cortes/min na média, com distribuição desigual de propósito: refrões picados a ~19-23 cortes/min (planos de 2,5-3,5s, corte seco no beat), ancorados nos 22,3 cortes/min medidos em 2-1m-views-77k-reactions-ravenstrikex-mummy-wake — a mais lenta das três referências medidas e a única compatível com um show ao vivo de arena a 127 BPM (as outras duas, 29,3 e 35,5 cortes/min, são EDM de festival). Versos respiram com planos de 7-8s, intro segura 6s num único dolly-in e a ponte quase silenciosa segura os dois planos mais longos (10s e 9s) antes da explosão. Da montagem medida uso só o que apareceu: corte seco no beat, slow-motion nos planos de multidão e confete (mummy-wake e olympus usam slowmo/speedramp), e a entrada do refrão final em whiteout flash a partir do blackout da ponte, transição medida em 274k-views-12k-reactions-ravenstrikex-olympus-ra-3. Nada de crossfade ou recurso não medido.\n- **Params:** `{\"resolucao\": \"1312x736\"}`\n- **Shots:** 48  ·  **Duração total:** 204.0s\n\n| # | seção | dur | câmera | descrição |\n|---|---|---|---|---|\n| 1 | intro | 6s | plano geral, dolly-in lento | Arena às escuras, um único spot quente sobre o piano de cauda no palco vazio, névoa parada. |\n| 2 | verso 1 | 8s | médio, dolly-in lento | A cantora sentada num banco na beira do spot, cabeça baixa, mãos unidas no colo, vulnerável. |\n| 3 | verso 1 | 7s | plano geral, steadicam | Inserto narrativo: corredor de apartamento à meia-luz, porta de casa entreaberta com luz quente vazando — a porta que ela abriu de novo. |\n| 4 | verso 1 | 7s | close, estático | Inserto: um celular virado para baixo numa mesa de madeira, close tão fechado que só o aparelho e duas mãos apoiadas aparecem. |\n| 5 | verso 1 | 6s | médio, steadicam | Perfil da cantora contra a névoa azul, olhos fechados, queixo baixo, spot atrás dela. |\n| 6 | pré-refrão 1 | 5s | close, dolly-in lento | Inserto: paletó masculino jogado numa cadeira sob luz de abajur, névoa fina subindo como perfume no ar. |\n| 7 | pré-refrão 1 | 4s | médio, travelling | Ela se levanta do banco; atrás, silhuetas da banda acendem uma a uma em contraluz. |\n| 8 | pré-refrão 1 | 4s | plano geral, pan | As luzes da arena varrem e acendem; mar de luzes de celular começa a ondular na plateia. |\n| 9 | refrão 1 | 4s | plano geral, drone | Aéreo sobre a arena explodindo em ouro no primeiro refrão. |\n| 10 | refrão 1 | 3s | médio, gimbal orbital | Órbita na cantora de braços abertos, cabeça jogada para trás, contraluz dourada. |\n| 11 | refrão 1 | 3s | plano geral, estático | Multidão pulando em bloco sob luz dourada, braços para cima. |\n| 12 | refrão 1 | 3s | close, estático | Close tão fechado que só o punho fechado no pé do microfone aparece, luz dourada por trás. |\n| 13 | refrão 1 | 3s | médio, travelling | Travelling ao longo da grade: mãos da primeira fila esticadas para o palco. |\n| 14 | refrão 1 | 3s | médio, contra-plongée estático | Silhueta do sanfoneiro em contraluz, fole esticado, feixes dourados atravessando. |\n| 15 | refrão 1 | 3s | médio, dolly-in | A cantora de olhos apertados, cabeça inclinada para trás, garganta tensionada, spot duro por trás. |\n| 16 | refrão 1 | 3s | plano geral, pan rápido | Palco inteiro: baterista de braços erguidos cravando os pratos, flash de luz no impacto. |\n| 17 | refrão 1 | 4s | plano geral, orbital | Órbita larga: ela no centro do palco diante do mar de luzinhas, fim do primeiro refrão. |\n| 18 | verso 2 | 8s | médio, steadicam | Ela caminha devagar pela passarela, banho de luz azul, arena contida atrás. |\n| 19 | verso 2 | 8s | plano geral, estático | Inserto narrativo: chuva escorrendo numa janela à noite, bokeh da cidade ao fundo. |\n| 20 | verso 2 | 7s | close, estático | Close de perfil tão fechado que só um olho fechado e a maçã do rosto aparecem, trilho de lágrima na luz fria. |\n| 21 | verso 2 | 7s | médio, contra-plongée travelling | Ela no fim da passarela, plano médio de baixo, violonista desfocado ao fundo, luz azul e âmbar. |\n| 22 | pré-refrão 2 | 5s | close, dolly-out lento | Inserto: mala de viagem pronta junto à porta de casa, metade na luz quente do abajur, metade no azul da janela. |\n| 23 | pré-refrão 2 | 5s | médio, dolly-in | Ela para no centro do palco, ombros subindo na respiração funda, luzes escalando atrás. |\n| 24 | pré-refrão 2 | 5s | plano geral, travelling | Travelling pela frente do palco: banda inteira acesa, canhões inclinando para a plateia. |\n| 25 | refrão 2 | 3.5s | plano geral, drone | Drone recuando por cima do estádio no segundo refrão, feixes dourados abrindo em leque. |\n| 26 | refrão 2 | 3s | médio, gimbal | Ela varre o braço estendido sobre a plateia, cabelo voando, ouro por trás. |\n| 27 | refrão 2 | 3s | plano geral, estático | Plateia de braços balançando em uníssono da esquerda para a direita, luzes de celular. |\n| 28 | refrão 2 | 3s | close, estático | Close tão fechado que só o fole da sanfona esticado aparece, luz do palco vazando pelas dobras. |\n| 29 | refrão 2 | 3s | médio, orbital | Órbita rápida nela, vestido girando, contraluz dourada estourada. |\n| 30 | refrão 2 | 3s | plano geral, estático lateral | Da coxia: silhuetas da banda inteira, batida grande, flash branco no impacto do bumbo. |\n| 31 | refrão 2 | 3s | médio, travelling | Primeira fila em slow motion: mãos, luzes de celular, cabelos voando. |\n| 32 | refrão 2 | 2.5s | close, estático | Close tão fechado que só o salto da bota cravando no palco no beat aparece. |\n| 33 | refrão 2 | 3s | médio, dolly-in | Punho no peito, olhos apertados, cabeça para trás — a frase-título cravada no corpo. |\n| 34 | refrão 2 | 3s | plano geral, drone top-down | Zenital do palco: estrela de feixes de luz com ela no centro, fim do refrão 2. |\n| 35 | ponte | 10s | médio, dolly-in muito lento | Arena apagada de golpe; só ela sentada na beira do palco junto ao piano, spot quente único, poeira na luz — voz e piano quase sozinhos. |\n| 36 | ponte | 9s | close, estático | Inserto narrativo: a porta de casa fechando devagar por dentro, a faixa de luz quente estreitando até apagar — 'dessa vez a porta fecha por dentro'. |\n| 37 | refrão final | 3s | plano geral, estático | Do blackout, whiteout flash: a arena inteira explode em ouro no refrão final. |\n| 38 | refrão final | 2.5s | médio, gimbal | Ela de braços abertos, cabeça jogada para trás, engolida pela contraluz dourada. |\n| 39 | refrão final | 2.5s | plano geral, estático | Multidão saltando em slow motion, milhares de luzes, maré humana. |\n| 40 | refrão final | 2.5s | close, estático | Close tão fechado que só as baquetas estourando no prato aparecem, spray de luz. |\n| 41 | refrão final | 2.5s | médio, travelling | Ela corre pela passarela, vestido esvoaçando, feixes cruzando. |\n| 42 | refrão final | 2.5s | plano geral, drone orbital | Drone orbitando a tigela do estádio, feixes varrendo o céu. |\n| 43 | refrão final | 2.5s | close, dolly-in | Inserto de desfecho: um anel fino deixado sobre a tampa do piano, bokeh dourado da festa ao fundo. |\n| 44 | refrão final | 2.5s | médio, estático | Ela de frente para a plateia, punho erguido, primeiros confetes dourados caindo em slow motion. |\n| 45 | refrão final | 3s | plano geral, estático | Nevasca de confete dourado sobre a multidão, feixes atravessando. |\n| 46 | refrão final | 2.5s | médio, orbital lento | Órbita lenta nela sob o confete, olhos fechados, lágrima brilhando, meio sorriso de alívio. |\n| 47 | refrão final | 3s | plano geral, drone recuando | Drone recua revelando o estádio inteiro brilhando sob o confete — clímax visual. |\n| 48 | final | 5s | médio, dolly-out lento | As luzes morrem para um único spot; ela sozinha, queixo erguido, respirando; o spot apaga e fica só a névoa. |\n\n**Prompts (EN):**\n\n1. slow cinematic dolly-in through a dark empty stadium toward a grand piano alone on a wide stage under a single warm spotlight, haze hanging in the beam, thousands of faint phone lights in the black stands, quiet and expectant, photorealistic, 16:9\n2. slow dolly-in on an elegant Brazilian woman in her late twenties with long dark wavy hair in a shimmering midnight-blue stage dress, seated on a stool at the edge of a warm spotlight on a dark stage, head bowed, hands clasped in her lap, intimate and vulnerable, cool blue haze around the pool of light, photorealistic, 16:9\n3. slow steadicam drift down a dim apartment hallway at night toward a front door standing ajar, warm lamplight spilling through the gap onto the wooden floor, coats on a rack, quiet domestic stillness, cinematic low light, photorealistic, 16:9\n4. static close-up framed so tightly that only a phone lying face-down on a wooden table and two resting hands beside it are visible, warm lamplight, a cold blue glow pulsing faintly from under the phone, shallow depth of field, tense stillness, photorealistic, 16:9\n5. medium profile shot of the woman in the midnight-blue dress standing on the dark stage, eyes closed, chin low, backlit by a soft spotlight through blue haze, gold rim light on her hair, restrained emotion, photorealistic, 16:9\n6. slow dolly-in on a man's suit jacket draped over a chair in warm lamplight in a dark room, thin wisps of haze curling above the fabric like lingering perfume, moody domestic night scene, shallow depth of field, photorealistic, 16:9\n7. tracking shot of the woman in the midnight-blue dress rising from the stool on the dark stage, band member silhouettes lighting up one by one behind her in warm backlight, drum kit and accordion silhouettes emerging, energy building, photorealistic, 16:9\n8. wide panning shot of stadium lights sweeping on across a packed arena at night, an ocean of phone lights rippling through the dark crowd, warm gold beams cutting blue haze, anticipation swelling, photorealistic, 16:9\n9. aerial drone shot over a packed stadium bursting into warm gold light, beams fanning from the stage across a sea of raised arms and phone lights, night sky above, massive live show energy, photorealistic, 16:9\n10. orbiting gimbal shot around the woman in the shimmering midnight-blue dress at center stage, arms spread wide, head tilted back, eyes shut, drenched in golden backlight and haze, hair catching the light, cathartic energy, photorealistic, 16:9\n11. static wide shot of a stadium crowd jumping in unison under warm gold wash, thousands of raised arms and phone lights, slow motion, haze and lens flare, euphoric live energy, photorealistic, 16:9\n12. static close-up framed so tightly that only a clenched fist gripping a microphone stand pole is visible, knuckles tight, warm golden stage light flaring behind, haze, determination, shallow depth of field, photorealistic, 16:9\n13. fast lateral tracking shot along the front-row barrier, dozens of outstretched hands reaching toward the bright stage, gold light and haze washing over the crowd, phone lights sparkling, live concert energy, photorealistic, 16:9\n14. low-angle medium shot of an accordion player in full silhouette against blazing golden stage lights, bellows stretched wide, light beams cutting through haze around the instrument, dynamic live show, photorealistic, 16:9\n15. dolly-in on the woman in the midnight-blue dress, head tilted back, eyes squeezed shut, neck taut, one hand pressed to her chest, hard white spotlight from behind carving her outline in the haze, raw emotion, photorealistic, 16:9\n16. fast panning wide shot of the full stage, drummer with both arms raised smashing cymbals, burst of white light on the hit, band silhouettes, gold beams sweeping over the crowd, explosive live energy, photorealistic, 16:9\n17. wide orbiting shot of the woman in the midnight-blue dress standing at center stage before an ocean of phone lights stretching into the dark stadium, gold and blue beams crossing above, slow motion haze, grand and emotional, photorealistic, 16:9\n18. steadicam medium shot following the woman in the midnight-blue dress walking slowly along a catwalk into the crowd, cool blue wash, phone lights drifting like stars around her, subdued and reflective pace, photorealistic, 16:9\n19. static shot of rain streaking down a dark window pane at night, blurred city lights as warm and cold bokeh beyond the glass, drops merging and sliding, melancholic quiet interior mood, photorealistic, 16:9\n20. static close-up in profile framed so tightly that only one closed eye and the cheekbone are visible, a single tear track catching cool blue light, soft golden rim from behind, framed from the eyes up, quiet grief with dignity, shallow depth of field, photorealistic, 16:9\n21. low-angle tracking medium shot of the woman in the midnight-blue dress standing at the end of the catwalk, chin firm, gaze far over the crowd, an acoustic guitar player blurred on the stage behind, blue and amber cross light, composed strength, photorealistic, 16:9\n22. slow dolly-out from a packed leather suitcase standing by an apartment front door at night, half lit by warm lamplight and half by cold blue window light, keys resting on top, decisive stillness, photorealistic, 16:9\n23. dolly-in on the woman in the midnight-blue dress standing still at center stage, shoulders rising with a deep breath, fists loose at her sides, walls of light climbing brighter behind her through haze, storm about to break, photorealistic, 16:9\n24. sweeping tracking shot across the front of the stage, full band ignited in warm light, spotlight cannons tilting out over the roaring crowd, beams raking across thousands of phone lights, surging energy, photorealistic, 16:9\n25. aerial drone pull-back over the packed stadium at full blaze, gold beams fanning from the stage over a jumping crowd, phone lights like a galaxy, night sky above, huge celebratory scale, photorealistic, 16:9\n26. gimbal medium shot of the woman in the midnight-blue dress sweeping an outstretched arm over the crowd below the catwalk, hair flying, golden backlight flaring, commanding and generous energy, photorealistic, 16:9\n27. static wide shot of the stadium crowd swaying thousands of arms in unison from side to side, phone lights tracing arcs through the dark, warm gold wash from the stage, communal wave of motion, photorealistic, 16:9\n28. static close-up framed so tightly that only the stretched bellows of an accordion are visible, golden stage light leaking through the pleats, fingers blurred at the frame edge, haze, rhythmic live texture, photorealistic, 16:9\n29. fast orbiting shot around the woman in the midnight-blue dress spinning with the motion, dress fabric flaring, blown-out golden backlight and haze, joyful cathartic release, photorealistic, 16:9\n30. static wide shot from the stage wing, full band in silhouette against the bright arena, a white strobe flash bursting on the big drum hit, haze and cables in the foreground, raw live power, photorealistic, 16:9\n31. slow-motion tracking shot along the front row, hands reaching and waving, phone lights streaking, hair and confetti-free air full of haze and gold flare, pure fan euphoria, photorealistic, 16:9\n32. static close-up framed so tightly that only a boot heel stamping down on the glossy stage floor is visible, reflection of golden lights on the black surface, dust kicking in the beam, percussive impact, photorealistic, 16:9\n33. dolly-in medium shot of the woman in the midnight-blue dress with a fist pressed hard against her chest, head tilted back, eyes squeezed shut, jaw set, golden spotlights blazing behind her through haze, fierce conviction, photorealistic, 16:9\n34. top-down drone shot directly above the stage, light beams radiating outward like a star with the tiny figure at the center, catwalk cutting into the glowing crowd, geometric grandeur, photorealistic, 16:9\n35. very slow dolly-in on the woman in the midnight-blue dress seated at the edge of the darkened stage beside the grand piano, single warm spotlight, head bowed, hands resting open on her knees, dust motes floating in the beam, the vast arena black and silent around her, fragile intimacy, photorealistic, 16:9\n36. static shot inside a dark apartment of the front door slowly closing from within, the strip of warm hallway light narrowing on the wooden floor until it disappears, a hand resting on the lock at the frame edge, final and calm, photorealistic, 16:9\n37. wide shot as the entire stadium erupts from darkness into full golden blaze, every beam and screen igniting at once over a jumping crowd, shockwave of light through haze, maximum cathartic release, photorealistic, 16:9\n38. gimbal medium shot of the woman in the midnight-blue dress with arms flung wide and head thrown back, swallowed by golden backlight and haze, dress shimmering, total surrender to the moment, photorealistic, 16:9\n39. slow-motion wide shot of the stadium crowd leaping together, thousands of phone lights and raised arms, gold wash and haze rolling over the human tide, peak communal euphoria, photorealistic, 16:9\n40. static close-up framed so tightly that only drumsticks smashing into a crash cymbal are visible, spray of light and sweat droplets frozen in golden backlight, explosive percussion moment, photorealistic, 16:9\n41. tracking medium shot of the woman in the midnight-blue dress running along the catwalk over the crowd, dress streaming behind her, crossing beams and phone lights blurring past, unleashed joy and freedom, photorealistic, 16:9\n42. orbiting drone shot around the glowing stadium bowl at night, searchlight beams sweeping the sky, the stage a blazing gold heart at the center of a galaxy of lights, epic scale, photorealistic, 16:9\n43. slow dolly-in close-up framed so tightly that only a thin gold ring resting on the glossy black lid of the grand piano is visible, warm golden concert bokeh sparkling out of focus beyond, quiet symbol of release amid the celebration, photorealistic, 16:9\n44. slow-motion medium shot of the woman in the midnight-blue dress facing the vast crowd with one fist raised high, the first golden confetti drifting down around her through the beams, triumphant dignity, photorealistic, 16:9\n45. wide shot of a blizzard of golden confetti falling over the entire stadium crowd, beams of warm light cutting through the glittering storm, slow motion, phone lights twinkling beneath, overwhelming celebration, photorealistic, 16:9\n46. slow orbiting medium shot of the woman in the midnight-blue dress standing beneath falling golden confetti, eyes closed, a tear glinting on her cheek, a faint relieved smile, warm light halo through the glitter, bittersweet victory, photorealistic, 16:9\n47. drone pull-back revealing the whole glowing stadium under falling golden confetti, beams sweeping, a galaxy of phone lights around the blazing stage, night skyline beyond, grand final image, photorealistic, 16:9\n48. slow dolly-out as all stadium lights fade to a single warm spotlight on the woman in the midnight-blue dress standing alone, chin held high, shoulders settling with a deep breath, confetti settling around her, then the spotlight dims leaving only drifting haze, serene closure, photorealistic, 16:9\n\n## Publicação (YouTube)\n\n- **Título:** Segunda Chance\n- **Tags:** emotivo, maduro, digno, crescente, piano acustico emocional, violao de aco, baixo eletrico melodico\n\n**Descrição:**\n\nUma mulher deu a segunda chance — perdoou, abriu a porta de casa, quis acreditar. Quando o mesmo perfume voltou na mesma roupa, ela entendeu o que a lembrança já sabia: quem esquece a queda torna a cair. Esta é a história de uma despedida sem ódio, cantada por quem ainda ama e é exatamente por isso que vai embora.\n\nO som é sofrência de estádio: começa só piano e uma voz feminina quente e levemente rouca, quase conversando, e cresce seção a seção — violão de aço, sanfona, bateria ao vivo cada vez maior — até um refrão aberto feito para milhares de vozes cantarem juntas. Na ponte, tudo se recolhe para voz e piano em quase silêncio, antes da explosão final com coro de público, aplausos e catarse de arena.\n\nNo clipe, o palco conta a mesma história: a solidão de um spot único vira um mar dourado de luzes de celular, e entre os planos do show aparecem os rastros da decisão — a porta entreaberta, o celular virado para baixo, a mala pronta, a porta que dessa vez fecha por dentro e um anel deixado sobre o piano. No fim, confete dourado, uma lágrima e um meio sorriso: não é vingança, é alívio.\n\n## Disponibilidade dos provedores\n\n- **agnes:** ok\n- **fal:** ok\n- **inemaimg:** ok\n- **kie:** ok\n- **kling:** kling: indisponível — CLI oficial não instalado (`npm i -g @klingai/cli-global`)",
    "prompts": {
     "estilo": "Emotional contemporary Brazilian female country-pop / stadium live heartbreak anthem, 127 BPM, E major. Opens immediately with intimate acoustic piano and a vulnerable slightly raspy female vocal delivering a memorable emotional hook line in the first five seconds. Steel-string acoustic guitar, melodic electric bass, expressive accordion fills, atmospheric clean electric guitar, very subtle cinematic synth pads, live drums that grow bigger every section. Conversational intimate verses, rising pre-choruses, huge open chest-voice sing-along choruses with female harmonies and controlled emotional vocal cracks. Bridge strips down to voice and piano in near silence, then explodes into a massive final stadium chorus with thousands of people chanting the central hook, applause, crowd roar and cathartic live concert energy. Production starts close and intimate and progressively opens the stereo field: bright centered lead vocal, crystalline piano, warm low end, stadium-scale drums in the final chorus. Modern polished 2026 live production, sophisticated, grand, emotional. No EDM drop, no trap beat, no heavy autotune, no revenge tone. Lyrics in pt-BR",
@@ -404,7 +856,7 @@
      }
     ]
    },
-   "nuvem": "subindo",
+   "nuvem": "publicado",
    "likes": 0,
    "docs": []
   },
